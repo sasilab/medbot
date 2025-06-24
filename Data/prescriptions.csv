@@ -1,0 +1,3503 @@
+PatientID,Prescription,Instructions,Date
+GME0000,Atorvastatin,One tab at supper,07/2020
+GME0000,ASA,One tab at breakfast,06/2022
+GME0000,Glyburide,Two tabs twice daily,09/2020
+GME0001,Metformin,One tab at supper,08/2021
+GME0001,ASA,One tab at breakfast,06/2023
+GME0001,Ramipril,One tab at supper,12/2021
+GME0002,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0002,Glyburide,Two tabs twice daily,03/2022
+GME0002,ASA,One tab at breakfast,04/2021
+GME0002,Amoxicillin,Discontinued,05/2021
+GME0003,Metformin,One tab at supper,12/2024
+GME0003,Amoxicillin,Discontinued,10/2023
+GME0003,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0003,Atorvastatin,One tab at supper,12/2021
+GME0003,Ramipril,One tab at supper,03/2021
+GME0004,Atorvastatin,One tab at supper,10/2021
+GME0004,ASA,One tab at breakfast,07/2024
+GME0004,Metformin,One tab at supper,10/2023
+GME0004,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0005,Amoxicillin,Discontinued,12/2024
+GME0005,Atorvastatin,One tab at supper,05/2025
+GME0005,Metformin,One tab at supper,04/2023
+GME0005,ASA,One tab at breakfast,06/2022
+GME0006,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0006,Glyburide,Two tabs twice daily,08/2020
+GME0006,Metformin,One tab at supper,01/2025
+GME0007,Ramipril,One tab at supper,03/2024
+GME0007,ASA,One tab at breakfast,04/2024
+GME0008,Amoxicillin,Discontinued,04/2025
+GME0008,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0009,ASA,One tab at breakfast,08/2021
+GME0009,Atorvastatin,One tab at supper,08/2022
+GME0009,Glyburide,Two tabs twice daily,09/2021
+GME0009,Hydrochlorothiazide,One tab at breakfast,05/2024
+GME0009,Ramipril,One tab at supper,04/2025
+GME0010,ASA,One tab at breakfast,11/2022
+GME0010,Glyburide,Two tabs twice daily,02/2022
+GME0010,Metformin,One tab at supper,04/2022
+GME0010,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0011,Amoxicillin,Discontinued,09/2020
+GME0011,Metformin,One tab at supper,09/2022
+GME0012,Atorvastatin,One tab at supper,04/2025
+GME0012,Metformin,One tab at supper,03/2023
+GME0012,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0013,Metformin,One tab at supper,08/2022
+GME0013,Atorvastatin,One tab at supper,10/2020
+GME0013,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0013,Amoxicillin,Discontinued,12/2024
+GME0014,Glyburide,Two tabs twice daily,07/2023
+GME0014,Hydrochlorothiazide,One tab at breakfast,03/2024
+GME0014,Amoxicillin,Discontinued,07/2020
+GME0014,ASA,One tab at breakfast,02/2021
+GME0015,ASA,One tab at breakfast,05/2023
+GME0015,Glyburide,Two tabs twice daily,10/2024
+GME0015,Atorvastatin,One tab at supper,01/2023
+GME0015,Amoxicillin,Discontinued,09/2020
+GME0016,Glyburide,Two tabs twice daily,08/2021
+GME0016,Atorvastatin,One tab at supper,05/2024
+GME0017,Amoxicillin,Discontinued,10/2024
+GME0017,Metformin,One tab at supper,03/2023
+GME0017,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0017,ASA,One tab at breakfast,01/2023
+GME0017,Ramipril,One tab at supper,06/2024
+GME0018,Amoxicillin,Discontinued,10/2021
+GME0018,Glyburide,Two tabs twice daily,04/2021
+GME0018,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0018,Metformin,One tab at supper,10/2023
+GME0019,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0019,Metformin,One tab at supper,04/2024
+GME0020,Atorvastatin,One tab at supper,03/2022
+GME0020,Amoxicillin,Discontinued,09/2020
+GME0020,ASA,One tab at breakfast,09/2024
+GME0021,Ramipril,One tab at supper,03/2025
+GME0021,ASA,One tab at breakfast,02/2025
+GME0022,ASA,One tab at breakfast,01/2025
+GME0022,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0022,Amoxicillin,Discontinued,05/2021
+GME0022,Glyburide,Two tabs twice daily,12/2024
+GME0022,Atorvastatin,One tab at supper,05/2022
+GME0023,Metformin,One tab at supper,08/2020
+GME0023,Amoxicillin,Discontinued,04/2021
+GME0024,Glyburide,Two tabs twice daily,08/2024
+GME0024,ASA,One tab at breakfast,04/2021
+GME0024,Ramipril,One tab at supper,06/2021
+GME0025,Atorvastatin,One tab at supper,07/2023
+GME0025,Glyburide,Two tabs twice daily,07/2020
+GME0025,Ramipril,One tab at supper,07/2020
+GME0025,Metformin,One tab at supper,05/2024
+GME0026,Atorvastatin,One tab at supper,06/2022
+GME0026,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0026,Metformin,One tab at supper,01/2022
+GME0026,Amoxicillin,Discontinued,07/2020
+GME0026,Glyburide,Two tabs twice daily,05/2022
+GME0027,Metformin,One tab at supper,10/2022
+GME0027,Amoxicillin,Discontinued,07/2024
+GME0027,Glyburide,Two tabs twice daily,01/2025
+GME0027,ASA,One tab at breakfast,12/2024
+GME0027,Atorvastatin,One tab at supper,05/2021
+GME0028,ASA,One tab at breakfast,04/2025
+GME0028,Metformin,One tab at supper,03/2021
+GME0028,Ramipril,One tab at supper,07/2022
+GME0028,Amoxicillin,Discontinued,09/2024
+GME0029,Metformin,One tab at supper,08/2024
+GME0029,Amoxicillin,Discontinued,12/2024
+GME0029,ASA,One tab at breakfast,06/2024
+GME0029,Ramipril,One tab at supper,01/2023
+GME0029,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0030,Metformin,One tab at supper,09/2023
+GME0030,ASA,One tab at breakfast,08/2023
+GME0030,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0031,Amoxicillin,Discontinued,06/2020
+GME0031,Ramipril,One tab at supper,09/2021
+GME0032,Metformin,One tab at supper,04/2023
+GME0032,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0032,Glyburide,Two tabs twice daily,02/2023
+GME0032,Ramipril,One tab at supper,02/2022
+GME0032,Atorvastatin,One tab at supper,03/2024
+GME0033,Glyburide,Two tabs twice daily,02/2021
+GME0033,Metformin,One tab at supper,11/2020
+GME0034,Ramipril,One tab at supper,03/2025
+GME0034,Glyburide,Two tabs twice daily,03/2021
+GME0034,ASA,One tab at breakfast,01/2023
+GME0034,Amoxicillin,Discontinued,08/2021
+GME0035,Glyburide,Two tabs twice daily,01/2023
+GME0035,Amoxicillin,Discontinued,11/2020
+GME0036,Amoxicillin,Discontinued,06/2023
+GME0036,Metformin,One tab at supper,01/2021
+GME0037,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0037,Glyburide,Two tabs twice daily,02/2023
+GME0037,Amoxicillin,Discontinued,11/2020
+GME0037,Metformin,One tab at supper,04/2024
+GME0038,Atorvastatin,One tab at supper,09/2023
+GME0038,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0038,ASA,One tab at breakfast,10/2023
+GME0038,Glyburide,Two tabs twice daily,08/2020
+GME0039,ASA,One tab at breakfast,06/2025
+GME0039,Ramipril,One tab at supper,04/2021
+GME0039,Glyburide,Two tabs twice daily,12/2020
+GME0039,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0039,Amoxicillin,Discontinued,02/2021
+GME0040,Metformin,One tab at supper,03/2021
+GME0040,ASA,One tab at breakfast,10/2024
+GME0040,Ramipril,One tab at supper,09/2023
+GME0040,Atorvastatin,One tab at supper,04/2021
+GME0041,ASA,One tab at breakfast,11/2024
+GME0041,Amoxicillin,Discontinued,09/2020
+GME0041,Atorvastatin,One tab at supper,08/2022
+GME0041,Glyburide,Two tabs twice daily,09/2022
+GME0041,Ramipril,One tab at supper,05/2023
+GME0042,Atorvastatin,One tab at supper,11/2023
+GME0042,Amoxicillin,Discontinued,03/2025
+GME0042,Ramipril,One tab at supper,06/2023
+GME0043,Ramipril,One tab at supper,05/2023
+GME0043,Atorvastatin,One tab at supper,10/2020
+GME0043,Glyburide,Two tabs twice daily,08/2021
+GME0043,Hydrochlorothiazide,One tab at breakfast,06/2020
+GME0044,Metformin,One tab at supper,04/2022
+GME0044,ASA,One tab at breakfast,08/2022
+GME0044,Glyburide,Two tabs twice daily,12/2021
+GME0045,Metformin,One tab at supper,08/2023
+GME0045,Glyburide,Two tabs twice daily,07/2021
+GME0045,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0045,Ramipril,One tab at supper,01/2021
+GME0046,Ramipril,One tab at supper,04/2024
+GME0046,ASA,One tab at breakfast,06/2025
+GME0046,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0047,Glyburide,Two tabs twice daily,09/2020
+GME0047,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0047,Amoxicillin,Discontinued,02/2021
+GME0048,ASA,One tab at breakfast,06/2022
+GME0048,Glyburide,Two tabs twice daily,04/2022
+GME0048,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0049,ASA,One tab at breakfast,03/2024
+GME0049,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0049,Ramipril,One tab at supper,11/2021
+GME0049,Atorvastatin,One tab at supper,04/2022
+GME0050,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0050,ASA,One tab at breakfast,05/2022
+GME0051,Atorvastatin,One tab at supper,02/2021
+GME0051,Metformin,One tab at supper,10/2020
+GME0051,Amoxicillin,Discontinued,11/2020
+GME0052,Glyburide,Two tabs twice daily,10/2021
+GME0052,Ramipril,One tab at supper,04/2023
+GME0052,ASA,One tab at breakfast,12/2023
+GME0053,Metformin,One tab at supper,05/2022
+GME0053,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0053,ASA,One tab at breakfast,08/2020
+GME0053,Glyburide,Two tabs twice daily,07/2022
+GME0053,Atorvastatin,One tab at supper,07/2023
+GME0054,ASA,One tab at breakfast,04/2023
+GME0054,Ramipril,One tab at supper,08/2023
+GME0054,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0054,Atorvastatin,One tab at supper,03/2021
+GME0054,Amoxicillin,Discontinued,07/2020
+GME0055,Metformin,One tab at supper,12/2021
+GME0055,Atorvastatin,One tab at supper,08/2023
+GME0055,Ramipril,One tab at supper,09/2022
+GME0056,Metformin,One tab at supper,04/2022
+GME0056,Ramipril,One tab at supper,04/2024
+GME0056,Amoxicillin,Discontinued,05/2024
+GME0056,ASA,One tab at breakfast,06/2022
+GME0057,Glyburide,Two tabs twice daily,08/2021
+GME0057,Atorvastatin,One tab at supper,11/2022
+GME0057,Amoxicillin,Discontinued,05/2022
+GME0057,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0057,ASA,One tab at breakfast,08/2021
+GME0058,ASA,One tab at breakfast,10/2021
+GME0058,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0058,Amoxicillin,Discontinued,07/2021
+GME0059,Atorvastatin,One tab at supper,11/2020
+GME0059,Ramipril,One tab at supper,02/2023
+GME0059,ASA,One tab at breakfast,09/2020
+GME0059,Glyburide,Two tabs twice daily,07/2023
+GME0059,Metformin,One tab at supper,10/2020
+GME0060,Atorvastatin,One tab at supper,07/2020
+GME0060,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0061,Ramipril,One tab at supper,04/2025
+GME0061,Atorvastatin,One tab at supper,10/2021
+GME0061,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0062,Glyburide,Two tabs twice daily,11/2022
+GME0062,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0062,Atorvastatin,One tab at supper,07/2024
+GME0062,Amoxicillin,Discontinued,04/2022
+GME0062,Ramipril,One tab at supper,06/2025
+GME0063,Amoxicillin,Discontinued,06/2020
+GME0063,Ramipril,One tab at supper,10/2022
+GME0063,Glyburide,Two tabs twice daily,12/2020
+GME0063,ASA,One tab at breakfast,02/2022
+GME0063,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0064,Glyburide,Two tabs twice daily,12/2021
+GME0064,Amoxicillin,Discontinued,12/2020
+GME0064,Ramipril,One tab at supper,05/2025
+GME0064,ASA,One tab at breakfast,02/2025
+GME0065,Glyburide,Two tabs twice daily,04/2022
+GME0065,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0065,Atorvastatin,One tab at supper,04/2023
+GME0065,Metformin,One tab at supper,05/2021
+GME0065,ASA,One tab at breakfast,09/2024
+GME0066,Ramipril,One tab at supper,12/2020
+GME0066,Metformin,One tab at supper,06/2025
+GME0067,ASA,One tab at breakfast,10/2021
+GME0067,Amoxicillin,Discontinued,09/2023
+GME0067,Glyburide,Two tabs twice daily,10/2022
+GME0068,Glyburide,Two tabs twice daily,10/2021
+GME0068,Metformin,One tab at supper,02/2023
+GME0068,Ramipril,One tab at supper,06/2022
+GME0069,Amoxicillin,Discontinued,11/2021
+GME0069,ASA,One tab at breakfast,04/2021
+GME0069,Ramipril,One tab at supper,12/2024
+GME0070,Metformin,One tab at supper,09/2023
+GME0070,ASA,One tab at breakfast,10/2024
+GME0070,Amoxicillin,Discontinued,09/2021
+GME0071,Atorvastatin,One tab at supper,05/2021
+GME0071,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0071,Amoxicillin,Discontinued,07/2024
+GME0071,ASA,One tab at breakfast,07/2024
+GME0072,Glyburide,Two tabs twice daily,07/2020
+GME0072,Amoxicillin,Discontinued,01/2025
+GME0072,Atorvastatin,One tab at supper,11/2022
+GME0072,Metformin,One tab at supper,05/2024
+GME0072,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0073,ASA,One tab at breakfast,12/2022
+GME0073,Metformin,One tab at supper,06/2023
+GME0074,Amoxicillin,Discontinued,03/2022
+GME0074,Metformin,One tab at supper,02/2023
+GME0074,ASA,One tab at breakfast,09/2024
+GME0074,Atorvastatin,One tab at supper,12/2023
+GME0075,Glyburide,Two tabs twice daily,12/2021
+GME0075,Atorvastatin,One tab at supper,04/2025
+GME0076,Hydrochlorothiazide,One tab at breakfast,05/2024
+GME0076,Glyburide,Two tabs twice daily,06/2023
+GME0076,ASA,One tab at breakfast,11/2020
+GME0076,Ramipril,One tab at supper,01/2025
+GME0076,Atorvastatin,One tab at supper,06/2022
+GME0077,Glyburide,Two tabs twice daily,02/2021
+GME0077,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0078,Glyburide,Two tabs twice daily,12/2023
+GME0078,Ramipril,One tab at supper,03/2023
+GME0078,ASA,One tab at breakfast,01/2025
+GME0078,Atorvastatin,One tab at supper,07/2020
+GME0079,Ramipril,One tab at supper,02/2025
+GME0079,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0079,Glyburide,Two tabs twice daily,05/2021
+GME0079,Atorvastatin,One tab at supper,02/2025
+GME0079,Metformin,One tab at supper,03/2022
+GME0080,Glyburide,Two tabs twice daily,07/2021
+GME0080,ASA,One tab at breakfast,04/2021
+GME0080,Ramipril,One tab at supper,07/2023
+GME0080,Amoxicillin,Discontinued,04/2025
+GME0081,Glyburide,Two tabs twice daily,07/2024
+GME0081,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0081,Ramipril,One tab at supper,12/2020
+GME0082,Amoxicillin,Discontinued,01/2023
+GME0082,Metformin,One tab at supper,11/2020
+GME0082,Atorvastatin,One tab at supper,07/2021
+GME0083,ASA,One tab at breakfast,12/2023
+GME0083,Glyburide,Two tabs twice daily,01/2025
+GME0084,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0084,Amoxicillin,Discontinued,04/2022
+GME0084,Metformin,One tab at supper,09/2020
+GME0085,ASA,One tab at breakfast,02/2025
+GME0085,Ramipril,One tab at supper,01/2021
+GME0085,Atorvastatin,One tab at supper,05/2022
+GME0085,Amoxicillin,Discontinued,09/2020
+GME0085,Glyburide,Two tabs twice daily,07/2023
+GME0086,Ramipril,One tab at supper,12/2022
+GME0086,Amoxicillin,Discontinued,02/2021
+GME0086,Metformin,One tab at supper,06/2021
+GME0087,Glyburide,Two tabs twice daily,06/2020
+GME0087,Amoxicillin,Discontinued,04/2024
+GME0087,ASA,One tab at breakfast,10/2024
+GME0087,Atorvastatin,One tab at supper,06/2022
+GME0088,Amoxicillin,Discontinued,01/2021
+GME0088,Hydrochlorothiazide,One tab at breakfast,04/2023
+GME0089,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0089,Metformin,One tab at supper,08/2024
+GME0089,Ramipril,One tab at supper,01/2024
+GME0090,Atorvastatin,One tab at supper,05/2022
+GME0090,Ramipril,One tab at supper,07/2020
+GME0090,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0091,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0091,Atorvastatin,One tab at supper,01/2024
+GME0091,Amoxicillin,Discontinued,08/2021
+GME0091,Metformin,One tab at supper,04/2025
+GME0092,Glyburide,Two tabs twice daily,06/2022
+GME0092,Ramipril,One tab at supper,06/2025
+GME0092,ASA,One tab at breakfast,12/2020
+GME0093,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0093,Glyburide,Two tabs twice daily,09/2024
+GME0094,Amoxicillin,Discontinued,02/2023
+GME0094,Ramipril,One tab at supper,06/2024
+GME0094,ASA,One tab at breakfast,01/2021
+GME0095,Ramipril,One tab at supper,08/2024
+GME0095,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0095,Amoxicillin,Discontinued,11/2022
+GME0095,Metformin,One tab at supper,02/2021
+GME0096,Atorvastatin,One tab at supper,05/2024
+GME0096,Metformin,One tab at supper,04/2021
+GME0096,ASA,One tab at breakfast,06/2025
+GME0097,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0097,ASA,One tab at breakfast,11/2021
+GME0097,Glyburide,Two tabs twice daily,07/2022
+GME0098,ASA,One tab at breakfast,07/2020
+GME0098,Atorvastatin,One tab at supper,10/2023
+GME0099,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0099,Glyburide,Two tabs twice daily,11/2021
+GME0099,ASA,One tab at breakfast,08/2024
+GME0099,Atorvastatin,One tab at supper,05/2023
+GME0099,Amoxicillin,Discontinued,11/2024
+GME0100,Glyburide,Two tabs twice daily,07/2021
+GME0100,Atorvastatin,One tab at supper,02/2024
+GME0101,Ramipril,One tab at supper,12/2022
+GME0101,Glyburide,Two tabs twice daily,08/2024
+GME0102,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0102,Glyburide,Two tabs twice daily,11/2021
+GME0102,Ramipril,One tab at supper,01/2023
+GME0103,Amoxicillin,Discontinued,06/2024
+GME0103,Ramipril,One tab at supper,10/2020
+GME0104,Atorvastatin,One tab at supper,02/2025
+GME0104,Amoxicillin,Discontinued,05/2021
+GME0104,Glyburide,Two tabs twice daily,01/2024
+GME0104,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0104,Ramipril,One tab at supper,12/2021
+GME0105,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0105,Amoxicillin,Discontinued,05/2022
+GME0106,Atorvastatin,One tab at supper,04/2025
+GME0106,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0106,Glyburide,Two tabs twice daily,01/2023
+GME0106,ASA,One tab at breakfast,10/2024
+GME0106,Ramipril,One tab at supper,09/2020
+GME0107,ASA,One tab at breakfast,10/2024
+GME0107,Ramipril,One tab at supper,04/2022
+GME0108,Atorvastatin,One tab at supper,08/2021
+GME0108,Glyburide,Two tabs twice daily,07/2022
+GME0109,Ramipril,One tab at supper,05/2025
+GME0109,Amoxicillin,Discontinued,02/2022
+GME0109,ASA,One tab at breakfast,07/2022
+GME0109,Atorvastatin,One tab at supper,10/2023
+GME0110,Glyburide,Two tabs twice daily,02/2021
+GME0110,ASA,One tab at breakfast,09/2023
+GME0110,Amoxicillin,Discontinued,06/2023
+GME0111,Metformin,One tab at supper,04/2022
+GME0111,ASA,One tab at breakfast,07/2022
+GME0112,Atorvastatin,One tab at supper,07/2023
+GME0112,Amoxicillin,Discontinued,03/2023
+GME0112,Metformin,One tab at supper,08/2022
+GME0113,ASA,One tab at breakfast,03/2023
+GME0113,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0113,Glyburide,Two tabs twice daily,12/2021
+GME0114,Ramipril,One tab at supper,03/2025
+GME0114,Amoxicillin,Discontinued,07/2021
+GME0114,Metformin,One tab at supper,05/2022
+GME0114,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0114,Atorvastatin,One tab at supper,06/2024
+GME0115,Glyburide,Two tabs twice daily,07/2020
+GME0115,Hydrochlorothiazide,One tab at breakfast,12/2023
+GME0115,Ramipril,One tab at supper,01/2021
+GME0115,Metformin,One tab at supper,05/2023
+GME0116,Amoxicillin,Discontinued,02/2022
+GME0116,ASA,One tab at breakfast,09/2022
+GME0117,Ramipril,One tab at supper,08/2021
+GME0117,ASA,One tab at breakfast,02/2023
+GME0117,Glyburide,Two tabs twice daily,11/2020
+GME0117,Metformin,One tab at supper,04/2022
+GME0117,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0118,Glyburide,Two tabs twice daily,11/2020
+GME0118,Amoxicillin,Discontinued,10/2020
+GME0118,ASA,One tab at breakfast,05/2024
+GME0118,Metformin,One tab at supper,12/2023
+GME0119,Glyburide,Two tabs twice daily,07/2021
+GME0119,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0119,ASA,One tab at breakfast,02/2023
+GME0119,Amoxicillin,Discontinued,01/2022
+GME0119,Metformin,One tab at supper,03/2022
+GME0120,Metformin,One tab at supper,07/2023
+GME0120,Ramipril,One tab at supper,05/2021
+GME0120,Atorvastatin,One tab at supper,07/2022
+GME0120,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0121,Amoxicillin,Discontinued,08/2020
+GME0121,Glyburide,Two tabs twice daily,06/2022
+GME0122,Glyburide,Two tabs twice daily,08/2021
+GME0122,Ramipril,One tab at supper,01/2024
+GME0122,ASA,One tab at breakfast,07/2022
+GME0122,Atorvastatin,One tab at supper,12/2023
+GME0123,Amoxicillin,Discontinued,08/2023
+GME0123,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0124,Atorvastatin,One tab at supper,07/2020
+GME0124,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0124,Glyburide,Two tabs twice daily,10/2020
+GME0125,Glyburide,Two tabs twice daily,08/2021
+GME0125,Atorvastatin,One tab at supper,01/2023
+GME0125,Metformin,One tab at supper,09/2023
+GME0125,ASA,One tab at breakfast,05/2023
+GME0126,Atorvastatin,One tab at supper,12/2020
+GME0126,Metformin,One tab at supper,05/2022
+GME0126,Glyburide,Two tabs twice daily,02/2022
+GME0126,ASA,One tab at breakfast,01/2024
+GME0127,Metformin,One tab at supper,04/2024
+GME0127,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0128,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0128,Glyburide,Two tabs twice daily,03/2021
+GME0128,Atorvastatin,One tab at supper,06/2024
+GME0129,Atorvastatin,One tab at supper,05/2022
+GME0129,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0130,ASA,One tab at breakfast,12/2021
+GME0130,Glyburide,Two tabs twice daily,03/2021
+GME0130,Atorvastatin,One tab at supper,06/2024
+GME0130,Ramipril,One tab at supper,05/2024
+GME0131,Metformin,One tab at supper,03/2024
+GME0131,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0131,Glyburide,Two tabs twice daily,02/2023
+GME0131,Ramipril,One tab at supper,10/2021
+GME0131,ASA,One tab at breakfast,02/2021
+GME0132,Atorvastatin,One tab at supper,02/2024
+GME0132,Amoxicillin,Discontinued,06/2023
+GME0133,Atorvastatin,One tab at supper,06/2025
+GME0133,Glyburide,Two tabs twice daily,09/2020
+GME0134,Glyburide,Two tabs twice daily,09/2021
+GME0134,Metformin,One tab at supper,04/2021
+GME0134,ASA,One tab at breakfast,07/2023
+GME0135,Metformin,One tab at supper,02/2024
+GME0135,Amoxicillin,Discontinued,02/2024
+GME0136,Amoxicillin,Discontinued,05/2022
+GME0136,Glyburide,Two tabs twice daily,07/2021
+GME0136,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0136,Ramipril,One tab at supper,08/2022
+GME0137,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0137,Glyburide,Two tabs twice daily,11/2022
+GME0137,Amoxicillin,Discontinued,04/2021
+GME0137,ASA,One tab at breakfast,02/2024
+GME0138,ASA,One tab at breakfast,07/2022
+GME0138,Metformin,One tab at supper,05/2022
+GME0139,Atorvastatin,One tab at supper,11/2024
+GME0139,ASA,One tab at breakfast,03/2023
+GME0139,Amoxicillin,Discontinued,10/2022
+GME0139,Metformin,One tab at supper,05/2022
+GME0139,Glyburide,Two tabs twice daily,06/2023
+GME0140,ASA,One tab at breakfast,12/2023
+GME0140,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0140,Metformin,One tab at supper,02/2021
+GME0140,Atorvastatin,One tab at supper,01/2024
+GME0141,Metformin,One tab at supper,04/2024
+GME0141,Amoxicillin,Discontinued,10/2020
+GME0141,Atorvastatin,One tab at supper,10/2024
+GME0141,Glyburide,Two tabs twice daily,12/2022
+GME0142,Metformin,One tab at supper,01/2021
+GME0142,Atorvastatin,One tab at supper,06/2024
+GME0142,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0143,Amoxicillin,Discontinued,03/2024
+GME0143,Metformin,One tab at supper,07/2024
+GME0143,Atorvastatin,One tab at supper,06/2024
+GME0144,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0144,Amoxicillin,Discontinued,06/2023
+GME0144,Ramipril,One tab at supper,02/2022
+GME0144,ASA,One tab at breakfast,12/2021
+GME0144,Atorvastatin,One tab at supper,01/2025
+GME0145,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0145,Glyburide,Two tabs twice daily,05/2022
+GME0146,Amoxicillin,Discontinued,04/2024
+GME0146,Ramipril,One tab at supper,07/2021
+GME0147,ASA,One tab at breakfast,04/2023
+GME0147,Glyburide,Two tabs twice daily,04/2023
+GME0147,Hydrochlorothiazide,One tab at breakfast,06/2023
+GME0147,Atorvastatin,One tab at supper,11/2023
+GME0147,Ramipril,One tab at supper,06/2021
+GME0148,Amoxicillin,Discontinued,02/2022
+GME0148,Hydrochlorothiazide,One tab at breakfast,05/2024
+GME0148,Atorvastatin,One tab at supper,06/2024
+GME0148,Glyburide,Two tabs twice daily,08/2023
+GME0149,ASA,One tab at breakfast,02/2021
+GME0149,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0149,Amoxicillin,Discontinued,06/2021
+GME0149,Ramipril,One tab at supper,01/2022
+GME0149,Metformin,One tab at supper,03/2025
+GME0150,Amoxicillin,Discontinued,06/2022
+GME0150,Ramipril,One tab at supper,03/2024
+GME0151,Atorvastatin,One tab at supper,01/2025
+GME0151,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0151,Glyburide,Two tabs twice daily,09/2023
+GME0151,Ramipril,One tab at supper,12/2020
+GME0152,Metformin,One tab at supper,05/2024
+GME0152,Ramipril,One tab at supper,08/2023
+GME0153,Atorvastatin,One tab at supper,01/2022
+GME0153,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0154,ASA,One tab at breakfast,08/2020
+GME0154,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0154,Atorvastatin,One tab at supper,08/2021
+GME0155,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0155,Glyburide,Two tabs twice daily,03/2021
+GME0155,Amoxicillin,Discontinued,07/2022
+GME0155,Atorvastatin,One tab at supper,03/2023
+GME0155,Metformin,One tab at supper,05/2024
+GME0156,Metformin,One tab at supper,01/2025
+GME0156,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0156,Ramipril,One tab at supper,10/2021
+GME0157,Metformin,One tab at supper,04/2021
+GME0157,ASA,One tab at breakfast,05/2022
+GME0157,Amoxicillin,Discontinued,01/2021
+GME0157,Atorvastatin,One tab at supper,08/2024
+GME0158,Glyburide,Two tabs twice daily,11/2022
+GME0158,Atorvastatin,One tab at supper,02/2021
+GME0158,Amoxicillin,Discontinued,12/2021
+GME0158,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0159,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0159,Amoxicillin,Discontinued,01/2022
+GME0159,ASA,One tab at breakfast,08/2023
+GME0160,Glyburide,Two tabs twice daily,08/2021
+GME0160,Metformin,One tab at supper,07/2024
+GME0160,ASA,One tab at breakfast,09/2023
+GME0160,Ramipril,One tab at supper,05/2022
+GME0160,Amoxicillin,Discontinued,05/2022
+GME0161,Ramipril,One tab at supper,12/2020
+GME0161,Atorvastatin,One tab at supper,03/2025
+GME0161,ASA,One tab at breakfast,02/2022
+GME0161,Metformin,One tab at supper,06/2021
+GME0161,Glyburide,Two tabs twice daily,03/2024
+GME0162,Glyburide,Two tabs twice daily,03/2025
+GME0162,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0163,Metformin,One tab at supper,05/2024
+GME0163,Glyburide,Two tabs twice daily,04/2021
+GME0164,ASA,One tab at breakfast,06/2023
+GME0164,Atorvastatin,One tab at supper,11/2021
+GME0164,Glyburide,Two tabs twice daily,01/2025
+GME0165,Metformin,One tab at supper,05/2023
+GME0165,Atorvastatin,One tab at supper,07/2023
+GME0165,Ramipril,One tab at supper,03/2022
+GME0165,ASA,One tab at breakfast,07/2022
+GME0165,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0166,Metformin,One tab at supper,10/2021
+GME0166,ASA,One tab at breakfast,08/2020
+GME0167,ASA,One tab at breakfast,11/2021
+GME0167,Glyburide,Two tabs twice daily,10/2023
+GME0168,Ramipril,One tab at supper,12/2023
+GME0168,Atorvastatin,One tab at supper,05/2025
+GME0168,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0169,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0169,Metformin,One tab at supper,06/2025
+GME0170,Atorvastatin,One tab at supper,09/2024
+GME0170,Amoxicillin,Discontinued,10/2023
+GME0170,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0170,Metformin,One tab at supper,12/2020
+GME0170,Glyburide,Two tabs twice daily,12/2024
+GME0171,Amoxicillin,Discontinued,03/2023
+GME0171,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0172,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0172,Atorvastatin,One tab at supper,07/2022
+GME0173,Ramipril,One tab at supper,10/2020
+GME0173,Atorvastatin,One tab at supper,11/2021
+GME0173,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0173,Metformin,One tab at supper,11/2023
+GME0173,ASA,One tab at breakfast,10/2020
+GME0174,Ramipril,One tab at supper,02/2022
+GME0174,Amoxicillin,Discontinued,05/2025
+GME0175,ASA,One tab at breakfast,11/2024
+GME0175,Glyburide,Two tabs twice daily,04/2022
+GME0175,Amoxicillin,Discontinued,10/2023
+GME0175,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0176,ASA,One tab at breakfast,01/2025
+GME0176,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0176,Metformin,One tab at supper,06/2024
+GME0176,Glyburide,Two tabs twice daily,08/2021
+GME0177,Metformin,One tab at supper,06/2022
+GME0177,Glyburide,Two tabs twice daily,04/2025
+GME0178,Metformin,One tab at supper,10/2024
+GME0178,ASA,One tab at breakfast,09/2022
+GME0179,Amoxicillin,Discontinued,05/2025
+GME0179,ASA,One tab at breakfast,05/2024
+GME0180,Ramipril,One tab at supper,01/2022
+GME0180,ASA,One tab at breakfast,05/2023
+GME0180,Atorvastatin,One tab at supper,02/2022
+GME0180,Amoxicillin,Discontinued,12/2024
+GME0181,Ramipril,One tab at supper,01/2025
+GME0181,Glyburide,Two tabs twice daily,07/2020
+GME0181,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0181,Amoxicillin,Discontinued,06/2023
+GME0181,Atorvastatin,One tab at supper,02/2023
+GME0182,Ramipril,One tab at supper,03/2024
+GME0182,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0182,Atorvastatin,One tab at supper,01/2022
+GME0182,ASA,One tab at breakfast,10/2023
+GME0182,Metformin,One tab at supper,11/2021
+GME0183,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0183,Atorvastatin,One tab at supper,05/2022
+GME0183,Ramipril,One tab at supper,06/2024
+GME0183,Amoxicillin,Discontinued,07/2024
+GME0184,Glyburide,Two tabs twice daily,01/2022
+GME0184,Atorvastatin,One tab at supper,09/2022
+GME0184,Metformin,One tab at supper,11/2023
+GME0185,Atorvastatin,One tab at supper,06/2022
+GME0185,Amoxicillin,Discontinued,01/2023
+GME0186,Glyburide,Two tabs twice daily,05/2021
+GME0186,Amoxicillin,Discontinued,10/2021
+GME0186,Ramipril,One tab at supper,01/2021
+GME0186,Metformin,One tab at supper,10/2024
+GME0187,Glyburide,Two tabs twice daily,10/2024
+GME0187,Amoxicillin,Discontinued,02/2025
+GME0187,ASA,One tab at breakfast,06/2021
+GME0187,Metformin,One tab at supper,09/2024
+GME0187,Atorvastatin,One tab at supper,12/2020
+GME0188,ASA,One tab at breakfast,07/2024
+GME0188,Atorvastatin,One tab at supper,12/2021
+GME0189,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0189,Ramipril,One tab at supper,01/2021
+GME0190,Glyburide,Two tabs twice daily,05/2024
+GME0190,Atorvastatin,One tab at supper,08/2022
+GME0190,Amoxicillin,Discontinued,11/2020
+GME0190,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0191,Atorvastatin,One tab at supper,12/2021
+GME0191,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0191,ASA,One tab at breakfast,07/2024
+GME0192,Amoxicillin,Discontinued,03/2024
+GME0192,ASA,One tab at breakfast,06/2021
+GME0192,Glyburide,Two tabs twice daily,10/2022
+GME0192,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0192,Atorvastatin,One tab at supper,08/2024
+GME0193,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0193,Glyburide,Two tabs twice daily,07/2023
+GME0193,Amoxicillin,Discontinued,12/2022
+GME0193,Metformin,One tab at supper,05/2024
+GME0193,ASA,One tab at breakfast,04/2021
+GME0194,Glyburide,Two tabs twice daily,11/2021
+GME0194,Metformin,One tab at supper,11/2021
+GME0195,Glyburide,Two tabs twice daily,11/2022
+GME0195,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0195,Ramipril,One tab at supper,02/2021
+GME0195,Atorvastatin,One tab at supper,10/2022
+GME0195,ASA,One tab at breakfast,11/2024
+GME0196,Ramipril,One tab at supper,02/2023
+GME0196,ASA,One tab at breakfast,08/2024
+GME0196,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0196,Amoxicillin,Discontinued,01/2025
+GME0197,Metformin,One tab at supper,06/2022
+GME0197,Amoxicillin,Discontinued,07/2023
+GME0197,ASA,One tab at breakfast,06/2024
+GME0197,Glyburide,Two tabs twice daily,06/2025
+GME0197,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0198,Atorvastatin,One tab at supper,07/2020
+GME0198,Metformin,One tab at supper,12/2021
+GME0199,ASA,One tab at breakfast,01/2021
+GME0199,Atorvastatin,One tab at supper,04/2025
+GME0199,Amoxicillin,Discontinued,04/2022
+GME0200,Atorvastatin,One tab at supper,01/2024
+GME0200,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0200,ASA,One tab at breakfast,11/2021
+GME0200,Glyburide,Two tabs twice daily,01/2023
+GME0201,Amoxicillin,Discontinued,07/2020
+GME0201,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0202,ASA,One tab at breakfast,05/2025
+GME0202,Hydrochlorothiazide,One tab at breakfast,02/2022
+GME0202,Atorvastatin,One tab at supper,07/2021
+GME0202,Amoxicillin,Discontinued,09/2024
+GME0203,Atorvastatin,One tab at supper,04/2025
+GME0203,Ramipril,One tab at supper,02/2025
+GME0203,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0203,Glyburide,Two tabs twice daily,07/2023
+GME0204,Atorvastatin,One tab at supper,02/2023
+GME0204,ASA,One tab at breakfast,06/2023
+GME0204,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0205,ASA,One tab at breakfast,07/2021
+GME0205,Atorvastatin,One tab at supper,02/2022
+GME0205,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0205,Amoxicillin,Discontinued,05/2022
+GME0206,ASA,One tab at breakfast,03/2021
+GME0206,Atorvastatin,One tab at supper,12/2024
+GME0206,Amoxicillin,Discontinued,10/2021
+GME0207,Amoxicillin,Discontinued,05/2023
+GME0207,Glyburide,Two tabs twice daily,01/2024
+GME0207,ASA,One tab at breakfast,01/2023
+GME0207,Atorvastatin,One tab at supper,01/2021
+GME0208,Atorvastatin,One tab at supper,05/2021
+GME0208,Ramipril,One tab at supper,08/2021
+GME0208,Amoxicillin,Discontinued,05/2024
+GME0209,Ramipril,One tab at supper,06/2022
+GME0209,Amoxicillin,Discontinued,02/2021
+GME0209,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0209,Metformin,One tab at supper,04/2023
+GME0209,ASA,One tab at breakfast,07/2022
+GME0210,Glyburide,Two tabs twice daily,04/2022
+GME0210,Ramipril,One tab at supper,11/2022
+GME0210,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0210,Metformin,One tab at supper,08/2022
+GME0211,Amoxicillin,Discontinued,04/2023
+GME0211,ASA,One tab at breakfast,05/2025
+GME0212,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0212,Metformin,One tab at supper,01/2025
+GME0212,Atorvastatin,One tab at supper,04/2025
+GME0212,Amoxicillin,Discontinued,02/2022
+GME0212,Glyburide,Two tabs twice daily,09/2021
+GME0213,Glyburide,Two tabs twice daily,08/2023
+GME0213,Atorvastatin,One tab at supper,12/2020
+GME0213,Metformin,One tab at supper,03/2022
+GME0214,Metformin,One tab at supper,03/2024
+GME0214,Ramipril,One tab at supper,06/2022
+GME0214,Atorvastatin,One tab at supper,01/2022
+GME0215,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0215,Atorvastatin,One tab at supper,01/2023
+GME0215,ASA,One tab at breakfast,04/2025
+GME0215,Ramipril,One tab at supper,03/2025
+GME0216,Metformin,One tab at supper,07/2022
+GME0216,Ramipril,One tab at supper,12/2024
+GME0216,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0217,Ramipril,One tab at supper,09/2021
+GME0217,Amoxicillin,Discontinued,07/2020
+GME0217,Metformin,One tab at supper,05/2024
+GME0217,Atorvastatin,One tab at supper,11/2021
+GME0217,Glyburide,Two tabs twice daily,01/2025
+GME0218,Ramipril,One tab at supper,04/2022
+GME0218,Metformin,One tab at supper,03/2022
+GME0218,ASA,One tab at breakfast,12/2024
+GME0219,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0219,Metformin,One tab at supper,10/2022
+GME0219,Atorvastatin,One tab at supper,04/2021
+GME0219,Ramipril,One tab at supper,09/2021
+GME0219,Amoxicillin,Discontinued,12/2022
+GME0220,Atorvastatin,One tab at supper,12/2022
+GME0220,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0221,ASA,One tab at breakfast,02/2021
+GME0221,Metformin,One tab at supper,05/2024
+GME0221,Hydrochlorothiazide,One tab at breakfast,11/2020
+GME0222,Glyburide,Two tabs twice daily,07/2024
+GME0222,Amoxicillin,Discontinued,04/2025
+GME0222,Metformin,One tab at supper,06/2020
+GME0222,Ramipril,One tab at supper,07/2024
+GME0222,ASA,One tab at breakfast,08/2024
+GME0223,Metformin,One tab at supper,10/2022
+GME0223,ASA,One tab at breakfast,06/2021
+GME0223,Ramipril,One tab at supper,01/2021
+GME0223,Glyburide,Two tabs twice daily,02/2021
+GME0223,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0224,Metformin,One tab at supper,02/2023
+GME0224,ASA,One tab at breakfast,04/2022
+GME0224,Atorvastatin,One tab at supper,04/2022
+GME0225,ASA,One tab at breakfast,12/2023
+GME0225,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0225,Atorvastatin,One tab at supper,12/2024
+GME0226,Metformin,One tab at supper,08/2024
+GME0226,Atorvastatin,One tab at supper,07/2023
+GME0226,Ramipril,One tab at supper,04/2025
+GME0227,Amoxicillin,Discontinued,07/2022
+GME0227,ASA,One tab at breakfast,12/2023
+GME0227,Atorvastatin,One tab at supper,10/2020
+GME0228,Atorvastatin,One tab at supper,11/2023
+GME0228,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0229,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0229,Metformin,One tab at supper,07/2020
+GME0230,Glyburide,Two tabs twice daily,11/2020
+GME0230,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0231,Metformin,One tab at supper,11/2024
+GME0231,Ramipril,One tab at supper,03/2022
+GME0231,ASA,One tab at breakfast,12/2021
+GME0232,Amoxicillin,Discontinued,05/2025
+GME0232,Glyburide,Two tabs twice daily,10/2022
+GME0232,Atorvastatin,One tab at supper,03/2025
+GME0233,Glyburide,Two tabs twice daily,02/2022
+GME0233,Amoxicillin,Discontinued,04/2021
+GME0234,Ramipril,One tab at supper,10/2023
+GME0234,Atorvastatin,One tab at supper,05/2022
+GME0234,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0234,Metformin,One tab at supper,11/2021
+GME0234,ASA,One tab at breakfast,09/2020
+GME0235,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0235,Metformin,One tab at supper,03/2024
+GME0235,Ramipril,One tab at supper,07/2020
+GME0236,Atorvastatin,One tab at supper,08/2020
+GME0236,Metformin,One tab at supper,02/2021
+GME0237,Glyburide,Two tabs twice daily,07/2024
+GME0237,Metformin,One tab at supper,10/2021
+GME0238,Amoxicillin,Discontinued,10/2022
+GME0238,Metformin,One tab at supper,02/2023
+GME0238,Atorvastatin,One tab at supper,08/2021
+GME0238,Glyburide,Two tabs twice daily,07/2022
+GME0239,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0239,ASA,One tab at breakfast,12/2023
+GME0239,Amoxicillin,Discontinued,12/2024
+GME0239,Atorvastatin,One tab at supper,01/2023
+GME0240,Ramipril,One tab at supper,06/2022
+GME0240,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0240,Glyburide,Two tabs twice daily,04/2022
+GME0240,Metformin,One tab at supper,04/2021
+GME0241,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0241,ASA,One tab at breakfast,06/2020
+GME0241,Atorvastatin,One tab at supper,03/2025
+GME0241,Ramipril,One tab at supper,08/2020
+GME0242,Atorvastatin,One tab at supper,04/2023
+GME0242,Ramipril,One tab at supper,11/2021
+GME0243,Ramipril,One tab at supper,04/2022
+GME0243,Hydrochlorothiazide,One tab at breakfast,12/2023
+GME0243,ASA,One tab at breakfast,08/2022
+GME0243,Glyburide,Two tabs twice daily,06/2024
+GME0243,Metformin,One tab at supper,02/2021
+GME0244,ASA,One tab at breakfast,08/2023
+GME0244,Amoxicillin,Discontinued,09/2023
+GME0244,Ramipril,One tab at supper,09/2022
+GME0244,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0245,Amoxicillin,Discontinued,03/2021
+GME0245,Atorvastatin,One tab at supper,02/2021
+GME0246,Amoxicillin,Discontinued,07/2023
+GME0246,ASA,One tab at breakfast,06/2022
+GME0246,Glyburide,Two tabs twice daily,04/2025
+GME0246,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0246,Ramipril,One tab at supper,08/2020
+GME0247,Atorvastatin,One tab at supper,09/2020
+GME0247,Metformin,One tab at supper,12/2024
+GME0248,ASA,One tab at breakfast,06/2024
+GME0248,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0248,Glyburide,Two tabs twice daily,09/2021
+GME0248,Metformin,One tab at supper,08/2022
+GME0248,Atorvastatin,One tab at supper,08/2020
+GME0249,Atorvastatin,One tab at supper,08/2023
+GME0249,Ramipril,One tab at supper,08/2021
+GME0249,Amoxicillin,Discontinued,01/2025
+GME0250,ASA,One tab at breakfast,02/2024
+GME0250,Atorvastatin,One tab at supper,04/2024
+GME0250,Amoxicillin,Discontinued,10/2020
+GME0250,Glyburide,Two tabs twice daily,11/2022
+GME0251,Ramipril,One tab at supper,08/2023
+GME0251,ASA,One tab at breakfast,07/2020
+GME0251,Amoxicillin,Discontinued,06/2024
+GME0251,Atorvastatin,One tab at supper,07/2023
+GME0251,Glyburide,Two tabs twice daily,04/2021
+GME0252,ASA,One tab at breakfast,06/2022
+GME0252,Metformin,One tab at supper,06/2023
+GME0252,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0252,Ramipril,One tab at supper,02/2024
+GME0252,Glyburide,Two tabs twice daily,07/2024
+GME0253,Metformin,One tab at supper,07/2023
+GME0253,Ramipril,One tab at supper,12/2022
+GME0253,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0253,ASA,One tab at breakfast,04/2023
+GME0254,ASA,One tab at breakfast,06/2024
+GME0254,Glyburide,Two tabs twice daily,05/2024
+GME0255,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0255,Ramipril,One tab at supper,05/2021
+GME0255,Atorvastatin,One tab at supper,03/2024
+GME0256,Glyburide,Two tabs twice daily,10/2022
+GME0256,Ramipril,One tab at supper,01/2023
+GME0256,Atorvastatin,One tab at supper,01/2023
+GME0256,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0257,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0257,Amoxicillin,Discontinued,07/2021
+GME0257,Atorvastatin,One tab at supper,05/2023
+GME0257,Ramipril,One tab at supper,08/2020
+GME0258,Ramipril,One tab at supper,09/2024
+GME0258,Amoxicillin,Discontinued,09/2021
+GME0258,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0258,Glyburide,Two tabs twice daily,01/2022
+GME0258,Metformin,One tab at supper,06/2021
+GME0259,Glyburide,Two tabs twice daily,11/2021
+GME0259,Atorvastatin,One tab at supper,01/2022
+GME0259,Metformin,One tab at supper,07/2021
+GME0259,Amoxicillin,Discontinued,10/2023
+GME0259,Ramipril,One tab at supper,10/2020
+GME0260,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0260,ASA,One tab at breakfast,03/2024
+GME0260,Ramipril,One tab at supper,08/2024
+GME0261,Metformin,One tab at supper,08/2020
+GME0261,Amoxicillin,Discontinued,02/2021
+GME0261,ASA,One tab at breakfast,01/2024
+GME0261,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0262,Atorvastatin,One tab at supper,01/2025
+GME0262,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0262,Ramipril,One tab at supper,04/2023
+GME0262,ASA,One tab at breakfast,03/2025
+GME0262,Metformin,One tab at supper,03/2023
+GME0263,Amoxicillin,Discontinued,04/2023
+GME0263,Glyburide,Two tabs twice daily,02/2025
+GME0263,Metformin,One tab at supper,07/2023
+GME0263,ASA,One tab at breakfast,08/2022
+GME0264,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0264,Metformin,One tab at supper,02/2021
+GME0264,Atorvastatin,One tab at supper,12/2024
+GME0265,Ramipril,One tab at supper,09/2022
+GME0265,Metformin,One tab at supper,09/2020
+GME0265,ASA,One tab at breakfast,07/2020
+GME0265,Atorvastatin,One tab at supper,10/2024
+GME0265,Glyburide,Two tabs twice daily,01/2022
+GME0266,Atorvastatin,One tab at supper,02/2022
+GME0266,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0266,Metformin,One tab at supper,11/2023
+GME0266,Amoxicillin,Discontinued,04/2024
+GME0266,Glyburide,Two tabs twice daily,05/2023
+GME0267,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0267,Metformin,One tab at supper,11/2023
+GME0267,Ramipril,One tab at supper,05/2024
+GME0268,Amoxicillin,Discontinued,11/2020
+GME0268,Metformin,One tab at supper,07/2021
+GME0268,Atorvastatin,One tab at supper,11/2023
+GME0268,ASA,One tab at breakfast,04/2025
+GME0268,Glyburide,Two tabs twice daily,08/2023
+GME0269,ASA,One tab at breakfast,12/2021
+GME0269,Atorvastatin,One tab at supper,03/2021
+GME0270,Amoxicillin,Discontinued,10/2023
+GME0270,Metformin,One tab at supper,07/2022
+GME0270,Glyburide,Two tabs twice daily,05/2025
+GME0270,ASA,One tab at breakfast,06/2023
+GME0271,Atorvastatin,One tab at supper,04/2021
+GME0271,Glyburide,Two tabs twice daily,01/2023
+GME0272,Amoxicillin,Discontinued,11/2024
+GME0272,Metformin,One tab at supper,09/2022
+GME0272,Ramipril,One tab at supper,01/2023
+GME0273,Atorvastatin,One tab at supper,02/2023
+GME0273,Glyburide,Two tabs twice daily,03/2023
+GME0273,Ramipril,One tab at supper,02/2024
+GME0273,Amoxicillin,Discontinued,10/2024
+GME0273,ASA,One tab at breakfast,09/2022
+GME0274,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0274,Amoxicillin,Discontinued,09/2021
+GME0274,Atorvastatin,One tab at supper,12/2023
+GME0274,Metformin,One tab at supper,10/2021
+GME0275,Glyburide,Two tabs twice daily,06/2025
+GME0275,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0275,Ramipril,One tab at supper,07/2024
+GME0275,Atorvastatin,One tab at supper,08/2021
+GME0276,Amoxicillin,Discontinued,12/2023
+GME0276,Glyburide,Two tabs twice daily,02/2022
+GME0276,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0277,Glyburide,Two tabs twice daily,02/2024
+GME0277,Metformin,One tab at supper,01/2021
+GME0277,Amoxicillin,Discontinued,11/2024
+GME0278,Atorvastatin,One tab at supper,03/2021
+GME0278,Amoxicillin,Discontinued,10/2022
+GME0278,Ramipril,One tab at supper,10/2021
+GME0278,Metformin,One tab at supper,04/2025
+GME0278,Glyburide,Two tabs twice daily,03/2021
+GME0279,Amoxicillin,Discontinued,02/2024
+GME0279,Metformin,One tab at supper,11/2024
+GME0279,ASA,One tab at breakfast,12/2020
+GME0280,Atorvastatin,One tab at supper,11/2020
+GME0280,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0281,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0281,Glyburide,Two tabs twice daily,04/2021
+GME0282,Ramipril,One tab at supper,12/2022
+GME0282,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0282,Amoxicillin,Discontinued,10/2020
+GME0282,Metformin,One tab at supper,12/2023
+GME0283,ASA,One tab at breakfast,10/2022
+GME0283,Amoxicillin,Discontinued,11/2022
+GME0283,Atorvastatin,One tab at supper,11/2022
+GME0283,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0284,Amoxicillin,Discontinued,06/2023
+GME0284,ASA,One tab at breakfast,06/2020
+GME0285,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0285,Atorvastatin,One tab at supper,10/2021
+GME0286,Atorvastatin,One tab at supper,05/2023
+GME0286,Ramipril,One tab at supper,06/2023
+GME0286,Amoxicillin,Discontinued,04/2025
+GME0286,Glyburide,Two tabs twice daily,04/2023
+GME0286,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0287,Glyburide,Two tabs twice daily,11/2024
+GME0287,ASA,One tab at breakfast,06/2025
+GME0288,Atorvastatin,One tab at supper,05/2022
+GME0288,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0288,Metformin,One tab at supper,03/2023
+GME0288,Amoxicillin,Discontinued,01/2021
+GME0289,Ramipril,One tab at supper,03/2022
+GME0289,Atorvastatin,One tab at supper,12/2022
+GME0289,Metformin,One tab at supper,07/2021
+GME0290,Ramipril,One tab at supper,05/2021
+GME0290,Atorvastatin,One tab at supper,07/2022
+GME0290,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0291,Ramipril,One tab at supper,09/2020
+GME0291,Hydrochlorothiazide,One tab at breakfast,02/2022
+GME0291,Glyburide,Two tabs twice daily,10/2023
+GME0292,Glyburide,Two tabs twice daily,11/2020
+GME0292,ASA,One tab at breakfast,03/2024
+GME0293,Glyburide,Two tabs twice daily,07/2022
+GME0293,Ramipril,One tab at supper,10/2023
+GME0293,Atorvastatin,One tab at supper,11/2021
+GME0293,Metformin,One tab at supper,05/2025
+GME0294,Atorvastatin,One tab at supper,08/2021
+GME0294,Metformin,One tab at supper,12/2024
+GME0294,ASA,One tab at breakfast,07/2023
+GME0295,Amoxicillin,Discontinued,05/2021
+GME0295,ASA,One tab at breakfast,01/2021
+GME0295,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0295,Atorvastatin,One tab at supper,05/2024
+GME0295,Metformin,One tab at supper,02/2023
+GME0296,Amoxicillin,Discontinued,02/2022
+GME0296,Ramipril,One tab at supper,10/2020
+GME0296,Glyburide,Two tabs twice daily,01/2025
+GME0296,Metformin,One tab at supper,11/2023
+GME0297,ASA,One tab at breakfast,12/2022
+GME0297,Glyburide,Two tabs twice daily,02/2025
+GME0297,Metformin,One tab at supper,09/2022
+GME0297,Ramipril,One tab at supper,09/2024
+GME0298,Ramipril,One tab at supper,02/2023
+GME0298,ASA,One tab at breakfast,06/2021
+GME0299,ASA,One tab at breakfast,05/2021
+GME0299,Metformin,One tab at supper,09/2021
+GME0299,Ramipril,One tab at supper,11/2020
+GME0300,Amoxicillin,Discontinued,09/2024
+GME0300,Metformin,One tab at supper,10/2020
+GME0300,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0300,ASA,One tab at breakfast,11/2020
+GME0301,Metformin,One tab at supper,07/2020
+GME0301,Amoxicillin,Discontinued,12/2024
+GME0301,Ramipril,One tab at supper,12/2024
+GME0301,ASA,One tab at breakfast,01/2022
+GME0301,Atorvastatin,One tab at supper,12/2022
+GME0302,Metformin,One tab at supper,10/2023
+GME0302,Ramipril,One tab at supper,05/2024
+GME0302,Glyburide,Two tabs twice daily,01/2024
+GME0302,ASA,One tab at breakfast,03/2024
+GME0302,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0303,Glyburide,Two tabs twice daily,01/2024
+GME0303,Amoxicillin,Discontinued,02/2022
+GME0304,Ramipril,One tab at supper,07/2023
+GME0304,Atorvastatin,One tab at supper,09/2023
+GME0304,Metformin,One tab at supper,05/2024
+GME0305,Ramipril,One tab at supper,03/2022
+GME0305,ASA,One tab at breakfast,11/2023
+GME0305,Hydrochlorothiazide,One tab at breakfast,06/2023
+GME0305,Atorvastatin,One tab at supper,07/2022
+GME0305,Glyburide,Two tabs twice daily,02/2024
+GME0306,Amoxicillin,Discontinued,12/2023
+GME0306,Glyburide,Two tabs twice daily,02/2025
+GME0306,Ramipril,One tab at supper,05/2022
+GME0306,Metformin,One tab at supper,06/2021
+GME0306,Atorvastatin,One tab at supper,03/2021
+GME0307,Atorvastatin,One tab at supper,10/2024
+GME0307,Glyburide,Two tabs twice daily,04/2021
+GME0307,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0308,Amoxicillin,Discontinued,12/2022
+GME0308,ASA,One tab at breakfast,11/2020
+GME0308,Ramipril,One tab at supper,07/2021
+GME0309,Ramipril,One tab at supper,02/2022
+GME0309,Glyburide,Two tabs twice daily,06/2023
+GME0309,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0309,Atorvastatin,One tab at supper,04/2024
+GME0309,Amoxicillin,Discontinued,12/2020
+GME0310,Ramipril,One tab at supper,07/2021
+GME0310,ASA,One tab at breakfast,03/2025
+GME0311,Amoxicillin,Discontinued,05/2025
+GME0311,Hydrochlorothiazide,One tab at breakfast,12/2023
+GME0312,Glyburide,Two tabs twice daily,10/2021
+GME0312,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0312,Metformin,One tab at supper,09/2023
+GME0312,ASA,One tab at breakfast,06/2023
+GME0312,Atorvastatin,One tab at supper,06/2023
+GME0313,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0313,Atorvastatin,One tab at supper,05/2024
+GME0313,ASA,One tab at breakfast,10/2024
+GME0314,Metformin,One tab at supper,04/2025
+GME0314,Ramipril,One tab at supper,11/2020
+GME0314,ASA,One tab at breakfast,07/2022
+GME0315,Metformin,One tab at supper,06/2020
+GME0315,ASA,One tab at breakfast,10/2020
+GME0315,Glyburide,Two tabs twice daily,10/2023
+GME0316,Amoxicillin,Discontinued,05/2022
+GME0316,Glyburide,Two tabs twice daily,02/2025
+GME0316,Metformin,One tab at supper,06/2024
+GME0316,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0317,Amoxicillin,Discontinued,11/2022
+GME0317,Ramipril,One tab at supper,09/2022
+GME0318,ASA,One tab at breakfast,10/2023
+GME0318,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0319,Atorvastatin,One tab at supper,08/2021
+GME0319,Amoxicillin,Discontinued,02/2021
+GME0319,ASA,One tab at breakfast,11/2023
+GME0319,Metformin,One tab at supper,01/2024
+GME0319,Ramipril,One tab at supper,05/2021
+GME0320,Amoxicillin,Discontinued,06/2023
+GME0320,Atorvastatin,One tab at supper,07/2022
+GME0321,Glyburide,Two tabs twice daily,11/2022
+GME0321,Metformin,One tab at supper,07/2023
+GME0321,Ramipril,One tab at supper,12/2023
+GME0321,ASA,One tab at breakfast,09/2023
+GME0322,Metformin,One tab at supper,05/2024
+GME0322,Amoxicillin,Discontinued,12/2020
+GME0322,Atorvastatin,One tab at supper,08/2022
+GME0322,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0323,Amoxicillin,Discontinued,04/2023
+GME0323,ASA,One tab at breakfast,02/2022
+GME0323,Metformin,One tab at supper,09/2022
+GME0324,Atorvastatin,One tab at supper,08/2023
+GME0324,ASA,One tab at breakfast,03/2022
+GME0325,Atorvastatin,One tab at supper,10/2022
+GME0325,Ramipril,One tab at supper,02/2025
+GME0325,ASA,One tab at breakfast,11/2024
+GME0326,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0326,Ramipril,One tab at supper,11/2022
+GME0327,Glyburide,Two tabs twice daily,01/2025
+GME0327,Ramipril,One tab at supper,04/2022
+GME0327,ASA,One tab at breakfast,02/2023
+GME0327,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0328,ASA,One tab at breakfast,01/2021
+GME0328,Atorvastatin,One tab at supper,09/2022
+GME0328,Amoxicillin,Discontinued,07/2023
+GME0329,Amoxicillin,Discontinued,09/2023
+GME0329,ASA,One tab at breakfast,05/2024
+GME0329,Atorvastatin,One tab at supper,12/2021
+GME0329,Ramipril,One tab at supper,02/2022
+GME0330,Amoxicillin,Discontinued,02/2024
+GME0330,Ramipril,One tab at supper,02/2022
+GME0330,ASA,One tab at breakfast,09/2022
+GME0331,Metformin,One tab at supper,11/2021
+GME0331,Amoxicillin,Discontinued,04/2022
+GME0332,ASA,One tab at breakfast,07/2022
+GME0332,Ramipril,One tab at supper,09/2023
+GME0332,Glyburide,Two tabs twice daily,05/2021
+GME0332,Atorvastatin,One tab at supper,12/2021
+GME0332,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0333,Amoxicillin,Discontinued,10/2020
+GME0333,Atorvastatin,One tab at supper,04/2024
+GME0333,Glyburide,Two tabs twice daily,06/2023
+GME0333,Metformin,One tab at supper,09/2021
+GME0334,Glyburide,Two tabs twice daily,11/2020
+GME0334,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0334,Ramipril,One tab at supper,11/2021
+GME0334,Atorvastatin,One tab at supper,04/2024
+GME0334,Metformin,One tab at supper,05/2024
+GME0335,Glyburide,Two tabs twice daily,11/2022
+GME0335,Metformin,One tab at supper,12/2023
+GME0335,Amoxicillin,Discontinued,03/2025
+GME0335,ASA,One tab at breakfast,03/2021
+GME0336,ASA,One tab at breakfast,05/2022
+GME0336,Atorvastatin,One tab at supper,04/2023
+GME0336,Glyburide,Two tabs twice daily,11/2024
+GME0337,Glyburide,Two tabs twice daily,01/2022
+GME0337,ASA,One tab at breakfast,04/2023
+GME0337,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0338,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0338,Ramipril,One tab at supper,10/2021
+GME0338,ASA,One tab at breakfast,03/2022
+GME0339,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0339,Atorvastatin,One tab at supper,11/2022
+GME0339,Glyburide,Two tabs twice daily,05/2021
+GME0339,ASA,One tab at breakfast,11/2020
+GME0339,Amoxicillin,Discontinued,11/2022
+GME0340,Ramipril,One tab at supper,06/2025
+GME0340,ASA,One tab at breakfast,03/2025
+GME0341,Glyburide,Two tabs twice daily,06/2023
+GME0341,Amoxicillin,Discontinued,10/2024
+GME0341,Hydrochlorothiazide,One tab at breakfast,11/2023
+GME0342,Amoxicillin,Discontinued,09/2020
+GME0342,Hydrochlorothiazide,One tab at breakfast,06/2023
+GME0343,Glyburide,Two tabs twice daily,09/2021
+GME0343,Amoxicillin,Discontinued,01/2023
+GME0344,Hydrochlorothiazide,One tab at breakfast,11/2020
+GME0344,Amoxicillin,Discontinued,08/2023
+GME0344,Ramipril,One tab at supper,11/2023
+GME0345,Atorvastatin,One tab at supper,09/2021
+GME0345,Amoxicillin,Discontinued,11/2023
+GME0345,Ramipril,One tab at supper,04/2025
+GME0345,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0345,ASA,One tab at breakfast,02/2024
+GME0346,ASA,One tab at breakfast,08/2021
+GME0346,Ramipril,One tab at supper,09/2024
+GME0347,Ramipril,One tab at supper,06/2021
+GME0347,Atorvastatin,One tab at supper,02/2024
+GME0347,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0347,ASA,One tab at breakfast,02/2025
+GME0347,Metformin,One tab at supper,03/2023
+GME0348,Amoxicillin,Discontinued,09/2022
+GME0348,Metformin,One tab at supper,08/2022
+GME0349,Metformin,One tab at supper,12/2022
+GME0349,Atorvastatin,One tab at supper,11/2021
+GME0349,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0350,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0350,Ramipril,One tab at supper,10/2023
+GME0350,Glyburide,Two tabs twice daily,01/2022
+GME0350,Metformin,One tab at supper,09/2020
+GME0351,Ramipril,One tab at supper,11/2020
+GME0351,Glyburide,Two tabs twice daily,10/2021
+GME0351,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0351,ASA,One tab at breakfast,05/2021
+GME0352,Metformin,One tab at supper,10/2023
+GME0352,Atorvastatin,One tab at supper,09/2021
+GME0352,ASA,One tab at breakfast,04/2025
+GME0352,Glyburide,Two tabs twice daily,01/2025
+GME0352,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0353,Metformin,One tab at supper,05/2022
+GME0353,Atorvastatin,One tab at supper,11/2024
+GME0353,ASA,One tab at breakfast,11/2024
+GME0353,Amoxicillin,Discontinued,06/2024
+GME0354,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0354,Amoxicillin,Discontinued,02/2022
+GME0355,Ramipril,One tab at supper,07/2021
+GME0355,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0355,Atorvastatin,One tab at supper,06/2024
+GME0356,Glyburide,Two tabs twice daily,04/2025
+GME0356,Hydrochlorothiazide,One tab at breakfast,01/2025
+GME0356,Metformin,One tab at supper,10/2024
+GME0356,ASA,One tab at breakfast,12/2023
+GME0356,Amoxicillin,Discontinued,09/2022
+GME0357,Atorvastatin,One tab at supper,10/2021
+GME0357,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0357,Metformin,One tab at supper,09/2020
+GME0357,Ramipril,One tab at supper,02/2022
+GME0357,ASA,One tab at breakfast,07/2023
+GME0358,Atorvastatin,One tab at supper,10/2022
+GME0358,Amoxicillin,Discontinued,08/2023
+GME0359,Atorvastatin,One tab at supper,06/2024
+GME0359,Metformin,One tab at supper,07/2023
+GME0359,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0359,ASA,One tab at breakfast,07/2023
+GME0359,Amoxicillin,Discontinued,09/2021
+GME0360,Metformin,One tab at supper,11/2020
+GME0360,Amoxicillin,Discontinued,10/2020
+GME0360,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0360,ASA,One tab at breakfast,01/2021
+GME0360,Ramipril,One tab at supper,05/2023
+GME0361,Metformin,One tab at supper,03/2024
+GME0361,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0361,Atorvastatin,One tab at supper,04/2025
+GME0362,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0362,Atorvastatin,One tab at supper,07/2024
+GME0362,ASA,One tab at breakfast,07/2022
+GME0362,Metformin,One tab at supper,08/2024
+GME0363,Hydrochlorothiazide,One tab at breakfast,05/2024
+GME0363,ASA,One tab at breakfast,05/2025
+GME0363,Ramipril,One tab at supper,01/2022
+GME0363,Amoxicillin,Discontinued,10/2024
+GME0363,Glyburide,Two tabs twice daily,04/2025
+GME0364,Atorvastatin,One tab at supper,01/2021
+GME0364,Amoxicillin,Discontinued,08/2020
+GME0364,ASA,One tab at breakfast,10/2023
+GME0365,Metformin,One tab at supper,05/2024
+GME0365,ASA,One tab at breakfast,04/2021
+GME0365,Glyburide,Two tabs twice daily,05/2022
+GME0366,ASA,One tab at breakfast,09/2023
+GME0366,Ramipril,One tab at supper,04/2023
+GME0366,Amoxicillin,Discontinued,11/2020
+GME0366,Atorvastatin,One tab at supper,11/2021
+GME0366,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0367,ASA,One tab at breakfast,12/2020
+GME0367,Atorvastatin,One tab at supper,06/2021
+GME0367,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0367,Glyburide,Two tabs twice daily,12/2021
+GME0367,Metformin,One tab at supper,08/2023
+GME0368,ASA,One tab at breakfast,11/2021
+GME0368,Amoxicillin,Discontinued,05/2024
+GME0368,Ramipril,One tab at supper,11/2022
+GME0368,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0368,Glyburide,Two tabs twice daily,04/2021
+GME0369,Amoxicillin,Discontinued,12/2020
+GME0369,ASA,One tab at breakfast,07/2023
+GME0369,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0369,Metformin,One tab at supper,04/2022
+GME0369,Ramipril,One tab at supper,11/2020
+GME0370,Amoxicillin,Discontinued,07/2022
+GME0370,ASA,One tab at breakfast,02/2025
+GME0370,Atorvastatin,One tab at supper,12/2024
+GME0370,Glyburide,Two tabs twice daily,01/2025
+GME0371,Atorvastatin,One tab at supper,08/2024
+GME0371,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0371,ASA,One tab at breakfast,02/2023
+GME0371,Amoxicillin,Discontinued,06/2025
+GME0372,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0372,Ramipril,One tab at supper,01/2024
+GME0372,ASA,One tab at breakfast,01/2021
+GME0372,Glyburide,Two tabs twice daily,05/2021
+GME0372,Amoxicillin,Discontinued,02/2021
+GME0373,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0373,Glyburide,Two tabs twice daily,11/2021
+GME0374,Ramipril,One tab at supper,07/2021
+GME0374,Metformin,One tab at supper,10/2020
+GME0374,Atorvastatin,One tab at supper,08/2024
+GME0374,Glyburide,Two tabs twice daily,01/2025
+GME0374,ASA,One tab at breakfast,08/2024
+GME0375,Metformin,One tab at supper,07/2023
+GME0375,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0376,Amoxicillin,Discontinued,12/2020
+GME0376,ASA,One tab at breakfast,07/2022
+GME0377,Glyburide,Two tabs twice daily,02/2023
+GME0377,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0377,Atorvastatin,One tab at supper,12/2021
+GME0377,Metformin,One tab at supper,02/2025
+GME0378,ASA,One tab at breakfast,03/2021
+GME0378,Metformin,One tab at supper,06/2025
+GME0378,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0378,Atorvastatin,One tab at supper,03/2023
+GME0379,Atorvastatin,One tab at supper,04/2023
+GME0379,Metformin,One tab at supper,12/2021
+GME0379,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0379,Glyburide,Two tabs twice daily,02/2022
+GME0379,Amoxicillin,Discontinued,07/2022
+GME0380,Atorvastatin,One tab at supper,12/2022
+GME0380,ASA,One tab at breakfast,03/2022
+GME0380,Glyburide,Two tabs twice daily,09/2022
+GME0380,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0381,ASA,One tab at breakfast,10/2023
+GME0381,Ramipril,One tab at supper,01/2021
+GME0382,Metformin,One tab at supper,08/2024
+GME0382,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0382,ASA,One tab at breakfast,05/2024
+GME0383,Glyburide,Two tabs twice daily,03/2021
+GME0383,Atorvastatin,One tab at supper,03/2024
+GME0383,Metformin,One tab at supper,05/2023
+GME0383,Amoxicillin,Discontinued,04/2024
+GME0383,Hydrochlorothiazide,One tab at breakfast,11/2023
+GME0384,ASA,One tab at breakfast,07/2024
+GME0384,Atorvastatin,One tab at supper,10/2023
+GME0384,Metformin,One tab at supper,10/2024
+GME0385,Atorvastatin,One tab at supper,02/2022
+GME0385,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0386,Ramipril,One tab at supper,08/2021
+GME0386,Amoxicillin,Discontinued,11/2024
+GME0386,Metformin,One tab at supper,05/2025
+GME0386,ASA,One tab at breakfast,11/2023
+GME0387,Hydrochlorothiazide,One tab at breakfast,11/2024
+GME0387,ASA,One tab at breakfast,05/2024
+GME0387,Metformin,One tab at supper,06/2023
+GME0388,Metformin,One tab at supper,01/2023
+GME0388,Atorvastatin,One tab at supper,10/2020
+GME0388,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0388,Amoxicillin,Discontinued,09/2023
+GME0389,Amoxicillin,Discontinued,01/2022
+GME0389,ASA,One tab at breakfast,01/2024
+GME0389,Glyburide,Two tabs twice daily,04/2024
+GME0389,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0389,Metformin,One tab at supper,06/2025
+GME0390,Glyburide,Two tabs twice daily,05/2025
+GME0390,Metformin,One tab at supper,09/2022
+GME0390,Atorvastatin,One tab at supper,03/2024
+GME0391,Ramipril,One tab at supper,05/2022
+GME0391,ASA,One tab at breakfast,06/2024
+GME0392,Ramipril,One tab at supper,08/2024
+GME0392,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0393,Ramipril,One tab at supper,01/2022
+GME0393,Atorvastatin,One tab at supper,06/2024
+GME0394,Ramipril,One tab at supper,07/2020
+GME0394,Metformin,One tab at supper,02/2023
+GME0394,Atorvastatin,One tab at supper,06/2021
+GME0395,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0395,Atorvastatin,One tab at supper,12/2022
+GME0395,Glyburide,Two tabs twice daily,04/2025
+GME0395,ASA,One tab at breakfast,09/2020
+GME0396,Metformin,One tab at supper,09/2021
+GME0396,Atorvastatin,One tab at supper,01/2025
+GME0396,Glyburide,Two tabs twice daily,10/2022
+GME0397,ASA,One tab at breakfast,06/2022
+GME0397,Amoxicillin,Discontinued,02/2022
+GME0397,Metformin,One tab at supper,11/2020
+GME0398,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0398,Amoxicillin,Discontinued,08/2021
+GME0398,Ramipril,One tab at supper,07/2020
+GME0398,Atorvastatin,One tab at supper,08/2024
+GME0399,Glyburide,Two tabs twice daily,04/2021
+GME0399,Ramipril,One tab at supper,04/2023
+GME0399,Metformin,One tab at supper,06/2020
+GME0400,Glyburide,Two tabs twice daily,06/2022
+GME0400,Hydrochlorothiazide,One tab at breakfast,08/2024
+GME0400,Amoxicillin,Discontinued,04/2024
+GME0400,Atorvastatin,One tab at supper,05/2024
+GME0400,Ramipril,One tab at supper,08/2024
+GME0401,ASA,One tab at breakfast,11/2023
+GME0401,Metformin,One tab at supper,09/2024
+GME0401,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0401,Atorvastatin,One tab at supper,08/2021
+GME0401,Amoxicillin,Discontinued,01/2022
+GME0402,Amoxicillin,Discontinued,08/2021
+GME0402,Metformin,One tab at supper,10/2021
+GME0403,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0403,Amoxicillin,Discontinued,01/2023
+GME0404,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0404,ASA,One tab at breakfast,01/2022
+GME0404,Glyburide,Two tabs twice daily,11/2020
+GME0404,Atorvastatin,One tab at supper,01/2025
+GME0405,Amoxicillin,Discontinued,03/2021
+GME0405,Ramipril,One tab at supper,08/2022
+GME0406,Metformin,One tab at supper,11/2022
+GME0406,Glyburide,Two tabs twice daily,04/2025
+GME0407,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0407,Ramipril,One tab at supper,05/2023
+GME0407,Amoxicillin,Discontinued,07/2020
+GME0407,Metformin,One tab at supper,10/2023
+GME0407,ASA,One tab at breakfast,09/2023
+GME0408,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0408,ASA,One tab at breakfast,07/2020
+GME0408,Glyburide,Two tabs twice daily,09/2021
+GME0408,Ramipril,One tab at supper,01/2021
+GME0408,Amoxicillin,Discontinued,01/2022
+GME0409,Atorvastatin,One tab at supper,07/2020
+GME0409,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0410,ASA,One tab at breakfast,11/2022
+GME0410,Metformin,One tab at supper,03/2022
+GME0410,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0410,Amoxicillin,Discontinued,05/2025
+GME0410,Glyburide,Two tabs twice daily,09/2022
+GME0411,Ramipril,One tab at supper,02/2025
+GME0411,Amoxicillin,Discontinued,05/2022
+GME0411,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0411,Metformin,One tab at supper,03/2024
+GME0412,Ramipril,One tab at supper,12/2024
+GME0412,Metformin,One tab at supper,08/2020
+GME0412,Glyburide,Two tabs twice daily,08/2021
+GME0412,ASA,One tab at breakfast,03/2021
+GME0413,Atorvastatin,One tab at supper,01/2024
+GME0413,ASA,One tab at breakfast,06/2024
+GME0413,Ramipril,One tab at supper,03/2025
+GME0413,Glyburide,Two tabs twice daily,06/2023
+GME0413,Amoxicillin,Discontinued,09/2022
+GME0414,Glyburide,Two tabs twice daily,02/2021
+GME0414,ASA,One tab at breakfast,07/2021
+GME0414,Metformin,One tab at supper,01/2021
+GME0414,Ramipril,One tab at supper,03/2023
+GME0415,Amoxicillin,Discontinued,05/2021
+GME0415,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0415,Atorvastatin,One tab at supper,04/2024
+GME0415,Ramipril,One tab at supper,04/2025
+GME0415,Metformin,One tab at supper,03/2023
+GME0416,Atorvastatin,One tab at supper,12/2021
+GME0416,Glyburide,Two tabs twice daily,08/2023
+GME0416,Metformin,One tab at supper,04/2024
+GME0417,Glyburide,Two tabs twice daily,03/2023
+GME0417,Ramipril,One tab at supper,03/2022
+GME0418,Hydrochlorothiazide,One tab at breakfast,04/2023
+GME0418,Metformin,One tab at supper,01/2021
+GME0419,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0419,Glyburide,Two tabs twice daily,01/2025
+GME0419,Metformin,One tab at supper,04/2023
+GME0419,Atorvastatin,One tab at supper,12/2022
+GME0420,Ramipril,One tab at supper,09/2024
+GME0420,Glyburide,Two tabs twice daily,09/2022
+GME0420,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0421,Metformin,One tab at supper,01/2022
+GME0421,Glyburide,Two tabs twice daily,04/2023
+GME0421,Amoxicillin,Discontinued,08/2023
+GME0421,Atorvastatin,One tab at supper,11/2023
+GME0421,Ramipril,One tab at supper,09/2021
+GME0422,Metformin,One tab at supper,06/2024
+GME0422,Glyburide,Two tabs twice daily,10/2023
+GME0422,Atorvastatin,One tab at supper,12/2022
+GME0423,Atorvastatin,One tab at supper,06/2023
+GME0423,Metformin,One tab at supper,07/2021
+GME0424,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0424,Ramipril,One tab at supper,05/2021
+GME0424,Atorvastatin,One tab at supper,07/2021
+GME0424,ASA,One tab at breakfast,03/2025
+GME0424,Amoxicillin,Discontinued,02/2023
+GME0425,Ramipril,One tab at supper,01/2025
+GME0425,Metformin,One tab at supper,03/2022
+GME0425,Amoxicillin,Discontinued,03/2024
+GME0426,ASA,One tab at breakfast,10/2023
+GME0426,Metformin,One tab at supper,01/2021
+GME0426,Glyburide,Two tabs twice daily,02/2021
+GME0427,Amoxicillin,Discontinued,04/2023
+GME0427,Glyburide,Two tabs twice daily,01/2023
+GME0427,Atorvastatin,One tab at supper,05/2025
+GME0427,Metformin,One tab at supper,10/2021
+GME0428,Glyburide,Two tabs twice daily,03/2021
+GME0428,ASA,One tab at breakfast,02/2024
+GME0428,Hydrochlorothiazide,One tab at breakfast,06/2023
+GME0428,Metformin,One tab at supper,12/2022
+GME0428,Amoxicillin,Discontinued,01/2024
+GME0429,Atorvastatin,One tab at supper,08/2021
+GME0429,Amoxicillin,Discontinued,03/2023
+GME0430,Ramipril,One tab at supper,09/2020
+GME0430,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0430,Atorvastatin,One tab at supper,03/2022
+GME0430,Metformin,One tab at supper,06/2021
+GME0431,ASA,One tab at breakfast,04/2023
+GME0431,Metformin,One tab at supper,11/2023
+GME0431,Ramipril,One tab at supper,05/2022
+GME0431,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0431,Glyburide,Two tabs twice daily,03/2022
+GME0432,Glyburide,Two tabs twice daily,02/2023
+GME0432,Amoxicillin,Discontinued,09/2024
+GME0432,ASA,One tab at breakfast,01/2025
+GME0432,Ramipril,One tab at supper,11/2022
+GME0432,Metformin,One tab at supper,06/2023
+GME0433,ASA,One tab at breakfast,07/2022
+GME0433,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0434,Amoxicillin,Discontinued,01/2022
+GME0434,Metformin,One tab at supper,05/2025
+GME0434,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0434,ASA,One tab at breakfast,02/2021
+GME0435,Ramipril,One tab at supper,10/2020
+GME0435,Amoxicillin,Discontinued,07/2024
+GME0435,Metformin,One tab at supper,08/2022
+GME0435,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0435,ASA,One tab at breakfast,01/2024
+GME0436,Glyburide,Two tabs twice daily,01/2022
+GME0436,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0437,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0437,Atorvastatin,One tab at supper,02/2025
+GME0438,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0438,ASA,One tab at breakfast,02/2025
+GME0438,Amoxicillin,Discontinued,06/2023
+GME0438,Glyburide,Two tabs twice daily,07/2022
+GME0438,Atorvastatin,One tab at supper,05/2021
+GME0439,Ramipril,One tab at supper,06/2024
+GME0439,Atorvastatin,One tab at supper,08/2022
+GME0439,Amoxicillin,Discontinued,06/2024
+GME0439,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0440,Glyburide,Two tabs twice daily,09/2022
+GME0440,Ramipril,One tab at supper,12/2021
+GME0440,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0441,Ramipril,One tab at supper,11/2021
+GME0441,ASA,One tab at breakfast,11/2024
+GME0441,Metformin,One tab at supper,11/2022
+GME0441,Glyburide,Two tabs twice daily,03/2023
+GME0441,Atorvastatin,One tab at supper,10/2023
+GME0442,Ramipril,One tab at supper,03/2025
+GME0442,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0442,Glyburide,Two tabs twice daily,08/2021
+GME0442,Amoxicillin,Discontinued,08/2022
+GME0443,Ramipril,One tab at supper,12/2022
+GME0443,Glyburide,Two tabs twice daily,05/2024
+GME0444,Atorvastatin,One tab at supper,03/2025
+GME0444,Metformin,One tab at supper,04/2024
+GME0444,ASA,One tab at breakfast,01/2021
+GME0445,Amoxicillin,Discontinued,02/2024
+GME0445,Hydrochlorothiazide,One tab at breakfast,06/2020
+GME0445,Ramipril,One tab at supper,08/2024
+GME0445,Glyburide,Two tabs twice daily,08/2021
+GME0446,Amoxicillin,Discontinued,07/2021
+GME0446,Ramipril,One tab at supper,12/2024
+GME0446,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0446,ASA,One tab at breakfast,02/2025
+GME0446,Glyburide,Two tabs twice daily,09/2020
+GME0447,Metformin,One tab at supper,01/2025
+GME0447,Glyburide,Two tabs twice daily,03/2022
+GME0448,Metformin,One tab at supper,07/2023
+GME0448,Ramipril,One tab at supper,10/2022
+GME0448,ASA,One tab at breakfast,01/2022
+GME0449,Atorvastatin,One tab at supper,05/2024
+GME0449,Ramipril,One tab at supper,12/2024
+GME0449,ASA,One tab at breakfast,11/2024
+GME0449,Metformin,One tab at supper,06/2021
+GME0450,Atorvastatin,One tab at supper,08/2024
+GME0450,Metformin,One tab at supper,09/2023
+GME0451,Amoxicillin,Discontinued,02/2023
+GME0451,Atorvastatin,One tab at supper,08/2024
+GME0452,Amoxicillin,Discontinued,08/2024
+GME0452,Atorvastatin,One tab at supper,11/2020
+GME0453,Amoxicillin,Discontinued,05/2024
+GME0453,Glyburide,Two tabs twice daily,06/2023
+GME0453,Atorvastatin,One tab at supper,07/2022
+GME0454,Metformin,One tab at supper,05/2025
+GME0454,Ramipril,One tab at supper,08/2024
+GME0455,Ramipril,One tab at supper,02/2024
+GME0455,Hydrochlorothiazide,One tab at breakfast,11/2023
+GME0455,Glyburide,Two tabs twice daily,05/2021
+GME0455,Amoxicillin,Discontinued,02/2021
+GME0456,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0456,Atorvastatin,One tab at supper,02/2023
+GME0457,Ramipril,One tab at supper,12/2021
+GME0457,ASA,One tab at breakfast,07/2023
+GME0457,Glyburide,Two tabs twice daily,10/2020
+GME0457,Metformin,One tab at supper,02/2025
+GME0458,Glyburide,Two tabs twice daily,06/2025
+GME0458,Ramipril,One tab at supper,08/2020
+GME0459,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0459,Metformin,One tab at supper,12/2024
+GME0460,Glyburide,Two tabs twice daily,03/2021
+GME0460,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0460,Amoxicillin,Discontinued,06/2025
+GME0460,Atorvastatin,One tab at supper,07/2023
+GME0461,ASA,One tab at breakfast,12/2021
+GME0461,Amoxicillin,Discontinued,09/2024
+GME0462,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0462,Amoxicillin,Discontinued,12/2021
+GME0462,ASA,One tab at breakfast,02/2025
+GME0462,Metformin,One tab at supper,01/2022
+GME0463,Glyburide,Two tabs twice daily,02/2024
+GME0463,Ramipril,One tab at supper,05/2023
+GME0464,ASA,One tab at breakfast,11/2023
+GME0464,Amoxicillin,Discontinued,05/2021
+GME0464,Glyburide,Two tabs twice daily,11/2022
+GME0464,Metformin,One tab at supper,12/2020
+GME0465,Amoxicillin,Discontinued,04/2025
+GME0465,Glyburide,Two tabs twice daily,06/2024
+GME0465,Metformin,One tab at supper,04/2024
+GME0465,ASA,One tab at breakfast,10/2024
+GME0466,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0466,Metformin,One tab at supper,07/2024
+GME0466,Atorvastatin,One tab at supper,11/2022
+GME0467,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0467,Amoxicillin,Discontinued,10/2024
+GME0468,Atorvastatin,One tab at supper,01/2022
+GME0468,ASA,One tab at breakfast,12/2023
+GME0468,Ramipril,One tab at supper,06/2023
+GME0468,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0468,Metformin,One tab at supper,07/2020
+GME0469,Atorvastatin,One tab at supper,03/2022
+GME0469,ASA,One tab at breakfast,08/2020
+GME0470,Amoxicillin,Discontinued,06/2021
+GME0470,ASA,One tab at breakfast,03/2025
+GME0470,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0470,Ramipril,One tab at supper,10/2021
+GME0470,Metformin,One tab at supper,03/2023
+GME0471,Ramipril,One tab at supper,10/2022
+GME0471,Atorvastatin,One tab at supper,10/2022
+GME0471,Amoxicillin,Discontinued,12/2022
+GME0471,Metformin,One tab at supper,01/2023
+GME0471,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0472,Atorvastatin,One tab at supper,10/2023
+GME0472,ASA,One tab at breakfast,05/2022
+GME0472,Metformin,One tab at supper,11/2021
+GME0473,Ramipril,One tab at supper,07/2023
+GME0473,Glyburide,Two tabs twice daily,09/2024
+GME0473,Amoxicillin,Discontinued,06/2025
+GME0474,Metformin,One tab at supper,04/2025
+GME0474,ASA,One tab at breakfast,08/2020
+GME0474,Amoxicillin,Discontinued,09/2020
+GME0474,Glyburide,Two tabs twice daily,01/2023
+GME0475,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0475,Atorvastatin,One tab at supper,10/2020
+GME0476,Atorvastatin,One tab at supper,03/2021
+GME0476,Amoxicillin,Discontinued,09/2023
+GME0476,Glyburide,Two tabs twice daily,11/2022
+GME0476,Metformin,One tab at supper,07/2023
+GME0476,ASA,One tab at breakfast,09/2021
+GME0477,Glyburide,Two tabs twice daily,09/2023
+GME0477,Amoxicillin,Discontinued,10/2021
+GME0478,Amoxicillin,Discontinued,07/2024
+GME0478,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0478,Ramipril,One tab at supper,11/2022
+GME0478,Atorvastatin,One tab at supper,12/2022
+GME0479,Atorvastatin,One tab at supper,06/2021
+GME0479,Metformin,One tab at supper,10/2020
+GME0479,Ramipril,One tab at supper,04/2022
+GME0480,Atorvastatin,One tab at supper,10/2022
+GME0480,Glyburide,Two tabs twice daily,12/2020
+GME0480,Metformin,One tab at supper,08/2021
+GME0481,Atorvastatin,One tab at supper,09/2022
+GME0481,ASA,One tab at breakfast,10/2024
+GME0482,Glyburide,Two tabs twice daily,02/2021
+GME0482,ASA,One tab at breakfast,01/2024
+GME0482,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0482,Amoxicillin,Discontinued,03/2023
+GME0483,Glyburide,Two tabs twice daily,11/2023
+GME0483,Amoxicillin,Discontinued,05/2023
+GME0483,Metformin,One tab at supper,09/2021
+GME0484,Amoxicillin,Discontinued,09/2023
+GME0484,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0484,Ramipril,One tab at supper,06/2025
+GME0484,ASA,One tab at breakfast,10/2021
+GME0485,ASA,One tab at breakfast,04/2025
+GME0485,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0486,Amoxicillin,Discontinued,09/2024
+GME0486,Ramipril,One tab at supper,09/2024
+GME0486,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0486,Metformin,One tab at supper,03/2025
+GME0486,ASA,One tab at breakfast,05/2023
+GME0487,Ramipril,One tab at supper,08/2024
+GME0487,ASA,One tab at breakfast,06/2023
+GME0488,ASA,One tab at breakfast,01/2021
+GME0488,Metformin,One tab at supper,02/2024
+GME0488,Glyburide,Two tabs twice daily,05/2022
+GME0488,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0488,Atorvastatin,One tab at supper,08/2021
+GME0489,Hydrochlorothiazide,One tab at breakfast,11/2024
+GME0489,Atorvastatin,One tab at supper,01/2021
+GME0490,Atorvastatin,One tab at supper,05/2024
+GME0490,Glyburide,Two tabs twice daily,10/2024
+GME0490,Ramipril,One tab at supper,07/2023
+GME0490,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0490,ASA,One tab at breakfast,06/2023
+GME0491,Atorvastatin,One tab at supper,06/2023
+GME0491,Metformin,One tab at supper,12/2022
+GME0491,ASA,One tab at breakfast,05/2023
+GME0491,Amoxicillin,Discontinued,04/2024
+GME0492,Amoxicillin,Discontinued,07/2020
+GME0492,ASA,One tab at breakfast,07/2020
+GME0492,Glyburide,Two tabs twice daily,04/2023
+GME0492,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0493,ASA,One tab at breakfast,09/2023
+GME0493,Ramipril,One tab at supper,06/2022
+GME0493,Amoxicillin,Discontinued,07/2020
+GME0494,Metformin,One tab at supper,12/2024
+GME0494,Glyburide,Two tabs twice daily,01/2022
+GME0494,Atorvastatin,One tab at supper,02/2025
+GME0494,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0494,ASA,One tab at breakfast,08/2023
+GME0495,Atorvastatin,One tab at supper,01/2021
+GME0495,Ramipril,One tab at supper,03/2024
+GME0495,Glyburide,Two tabs twice daily,02/2023
+GME0496,Ramipril,One tab at supper,11/2022
+GME0496,Glyburide,Two tabs twice daily,11/2020
+GME0497,Metformin,One tab at supper,02/2025
+GME0497,Amoxicillin,Discontinued,11/2021
+GME0497,ASA,One tab at breakfast,04/2023
+GME0497,Glyburide,Two tabs twice daily,07/2022
+GME0497,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0498,Atorvastatin,One tab at supper,02/2025
+GME0498,Amoxicillin,Discontinued,01/2024
+GME0498,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0498,Glyburide,Two tabs twice daily,02/2025
+GME0499,Atorvastatin,One tab at supper,03/2022
+GME0499,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0500,Amoxicillin,Discontinued,10/2021
+GME0500,Metformin,One tab at supper,01/2021
+GME0501,Glyburide,Two tabs twice daily,12/2021
+GME0501,Ramipril,One tab at supper,03/2023
+GME0501,ASA,One tab at breakfast,10/2020
+GME0502,Glyburide,Two tabs twice daily,12/2022
+GME0502,Amoxicillin,Discontinued,05/2024
+GME0503,Ramipril,One tab at supper,03/2025
+GME0503,Glyburide,Two tabs twice daily,11/2022
+GME0503,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0503,Amoxicillin,Discontinued,08/2021
+GME0503,ASA,One tab at breakfast,04/2025
+GME0504,ASA,One tab at breakfast,03/2021
+GME0504,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0504,Amoxicillin,Discontinued,03/2021
+GME0504,Atorvastatin,One tab at supper,02/2023
+GME0505,Ramipril,One tab at supper,11/2020
+GME0505,Metformin,One tab at supper,05/2022
+GME0506,Atorvastatin,One tab at supper,10/2020
+GME0506,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0507,ASA,One tab at breakfast,07/2024
+GME0507,Atorvastatin,One tab at supper,08/2021
+GME0508,ASA,One tab at breakfast,07/2021
+GME0508,Metformin,One tab at supper,09/2021
+GME0508,Ramipril,One tab at supper,02/2025
+GME0509,Ramipril,One tab at supper,06/2021
+GME0509,ASA,One tab at breakfast,12/2023
+GME0510,ASA,One tab at breakfast,09/2023
+GME0510,Ramipril,One tab at supper,04/2025
+GME0510,Atorvastatin,One tab at supper,07/2021
+GME0510,Amoxicillin,Discontinued,10/2024
+GME0511,Ramipril,One tab at supper,06/2024
+GME0511,Amoxicillin,Discontinued,08/2020
+GME0511,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0512,ASA,One tab at breakfast,03/2024
+GME0512,Amoxicillin,Discontinued,11/2021
+GME0512,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0512,Ramipril,One tab at supper,01/2022
+GME0512,Glyburide,Two tabs twice daily,05/2021
+GME0513,Atorvastatin,One tab at supper,01/2024
+GME0513,ASA,One tab at breakfast,06/2021
+GME0513,Ramipril,One tab at supper,01/2025
+GME0514,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0514,ASA,One tab at breakfast,08/2024
+GME0514,Atorvastatin,One tab at supper,04/2022
+GME0515,ASA,One tab at breakfast,10/2023
+GME0515,Amoxicillin,Discontinued,10/2022
+GME0515,Atorvastatin,One tab at supper,11/2021
+GME0516,Amoxicillin,Discontinued,07/2020
+GME0516,ASA,One tab at breakfast,10/2020
+GME0516,Metformin,One tab at supper,04/2024
+GME0517,Metformin,One tab at supper,03/2023
+GME0517,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0517,Ramipril,One tab at supper,03/2022
+GME0517,Glyburide,Two tabs twice daily,08/2020
+GME0518,Ramipril,One tab at supper,07/2021
+GME0518,Atorvastatin,One tab at supper,11/2020
+GME0518,Glyburide,Two tabs twice daily,05/2023
+GME0519,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0519,Glyburide,Two tabs twice daily,10/2022
+GME0520,ASA,One tab at breakfast,03/2024
+GME0520,Metformin,One tab at supper,09/2024
+GME0520,Amoxicillin,Discontinued,05/2022
+GME0521,Ramipril,One tab at supper,12/2021
+GME0521,Glyburide,Two tabs twice daily,07/2024
+GME0521,Amoxicillin,Discontinued,05/2022
+GME0522,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0522,Metformin,One tab at supper,08/2024
+GME0522,Amoxicillin,Discontinued,06/2022
+GME0523,Metformin,One tab at supper,04/2021
+GME0523,Atorvastatin,One tab at supper,06/2021
+GME0523,Amoxicillin,Discontinued,04/2022
+GME0523,Glyburide,Two tabs twice daily,12/2024
+GME0524,Ramipril,One tab at supper,06/2024
+GME0524,ASA,One tab at breakfast,03/2024
+GME0524,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0525,Atorvastatin,One tab at supper,07/2023
+GME0525,Metformin,One tab at supper,05/2025
+GME0526,Ramipril,One tab at supper,04/2021
+GME0526,Hydrochlorothiazide,One tab at breakfast,12/2023
+GME0526,Glyburide,Two tabs twice daily,02/2025
+GME0527,Glyburide,Two tabs twice daily,04/2025
+GME0527,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0528,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0528,Metformin,One tab at supper,08/2022
+GME0528,Glyburide,Two tabs twice daily,04/2021
+GME0529,Amoxicillin,Discontinued,02/2022
+GME0529,Glyburide,Two tabs twice daily,01/2025
+GME0529,Ramipril,One tab at supper,04/2024
+GME0530,Atorvastatin,One tab at supper,09/2020
+GME0530,Metformin,One tab at supper,11/2023
+GME0530,Glyburide,Two tabs twice daily,07/2022
+GME0530,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0530,Amoxicillin,Discontinued,02/2021
+GME0531,Ramipril,One tab at supper,02/2022
+GME0531,Glyburide,Two tabs twice daily,02/2021
+GME0531,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0531,Amoxicillin,Discontinued,02/2025
+GME0532,Atorvastatin,One tab at supper,05/2022
+GME0532,Metformin,One tab at supper,11/2024
+GME0533,Atorvastatin,One tab at supper,11/2021
+GME0533,Metformin,One tab at supper,01/2021
+GME0534,Glyburide,Two tabs twice daily,02/2024
+GME0534,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0534,Ramipril,One tab at supper,11/2024
+GME0534,Metformin,One tab at supper,01/2025
+GME0534,Atorvastatin,One tab at supper,05/2023
+GME0535,Amoxicillin,Discontinued,07/2022
+GME0535,Atorvastatin,One tab at supper,09/2024
+GME0535,Ramipril,One tab at supper,11/2022
+GME0536,Metformin,One tab at supper,06/2024
+GME0536,Atorvastatin,One tab at supper,04/2024
+GME0536,ASA,One tab at breakfast,09/2021
+GME0536,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0536,Amoxicillin,Discontinued,07/2022
+GME0537,Glyburide,Two tabs twice daily,01/2022
+GME0537,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0537,Ramipril,One tab at supper,06/2020
+GME0538,ASA,One tab at breakfast,01/2022
+GME0538,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0538,Atorvastatin,One tab at supper,10/2022
+GME0539,Atorvastatin,One tab at supper,09/2021
+GME0539,Metformin,One tab at supper,08/2023
+GME0540,Amoxicillin,Discontinued,05/2023
+GME0540,ASA,One tab at breakfast,02/2023
+GME0540,Hydrochlorothiazide,One tab at breakfast,06/2025
+GME0540,Glyburide,Two tabs twice daily,10/2020
+GME0540,Metformin,One tab at supper,09/2024
+GME0541,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0541,Amoxicillin,Discontinued,02/2022
+GME0541,Metformin,One tab at supper,07/2023
+GME0542,Amoxicillin,Discontinued,07/2023
+GME0542,Ramipril,One tab at supper,12/2021
+GME0542,ASA,One tab at breakfast,07/2021
+GME0543,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0543,ASA,One tab at breakfast,05/2021
+GME0543,Atorvastatin,One tab at supper,04/2022
+GME0543,Ramipril,One tab at supper,08/2020
+GME0544,Glyburide,Two tabs twice daily,03/2024
+GME0544,ASA,One tab at breakfast,12/2021
+GME0544,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0545,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0545,Atorvastatin,One tab at supper,12/2020
+GME0545,Ramipril,One tab at supper,12/2020
+GME0546,ASA,One tab at breakfast,04/2025
+GME0546,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0547,Atorvastatin,One tab at supper,09/2023
+GME0547,ASA,One tab at breakfast,08/2021
+GME0547,Metformin,One tab at supper,07/2021
+GME0547,Amoxicillin,Discontinued,08/2023
+GME0548,Atorvastatin,One tab at supper,12/2020
+GME0548,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0548,Amoxicillin,Discontinued,07/2021
+GME0548,Glyburide,Two tabs twice daily,05/2021
+GME0548,Metformin,One tab at supper,08/2021
+GME0549,Glyburide,Two tabs twice daily,12/2023
+GME0549,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0549,ASA,One tab at breakfast,08/2024
+GME0549,Atorvastatin,One tab at supper,03/2023
+GME0549,Amoxicillin,Discontinued,07/2023
+GME0550,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0550,Metformin,One tab at supper,12/2020
+GME0550,ASA,One tab at breakfast,01/2025
+GME0550,Ramipril,One tab at supper,10/2024
+GME0551,Metformin,One tab at supper,12/2020
+GME0551,Ramipril,One tab at supper,05/2021
+GME0551,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0551,Atorvastatin,One tab at supper,06/2023
+GME0552,Atorvastatin,One tab at supper,09/2024
+GME0552,Glyburide,Two tabs twice daily,09/2023
+GME0552,Metformin,One tab at supper,10/2023
+GME0552,Ramipril,One tab at supper,11/2023
+GME0552,ASA,One tab at breakfast,11/2024
+GME0553,ASA,One tab at breakfast,07/2021
+GME0553,Atorvastatin,One tab at supper,01/2021
+GME0553,Metformin,One tab at supper,02/2021
+GME0554,Metformin,One tab at supper,09/2023
+GME0554,Ramipril,One tab at supper,05/2021
+GME0555,Glyburide,Two tabs twice daily,06/2022
+GME0555,Atorvastatin,One tab at supper,12/2024
+GME0555,Amoxicillin,Discontinued,04/2021
+GME0555,ASA,One tab at breakfast,11/2024
+GME0555,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0556,Glyburide,Two tabs twice daily,01/2024
+GME0556,Atorvastatin,One tab at supper,11/2023
+GME0556,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0556,ASA,One tab at breakfast,06/2022
+GME0556,Amoxicillin,Discontinued,08/2020
+GME0557,Metformin,One tab at supper,11/2021
+GME0557,Glyburide,Two tabs twice daily,05/2022
+GME0557,Atorvastatin,One tab at supper,01/2022
+GME0558,Amoxicillin,Discontinued,02/2025
+GME0558,Ramipril,One tab at supper,11/2024
+GME0558,Metformin,One tab at supper,11/2024
+GME0559,Metformin,One tab at supper,08/2023
+GME0559,Ramipril,One tab at supper,04/2025
+GME0559,Glyburide,Two tabs twice daily,05/2023
+GME0559,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0560,ASA,One tab at breakfast,01/2022
+GME0560,Ramipril,One tab at supper,07/2022
+GME0561,ASA,One tab at breakfast,04/2021
+GME0561,Ramipril,One tab at supper,12/2021
+GME0561,Amoxicillin,Discontinued,04/2024
+GME0561,Hydrochlorothiazide,One tab at breakfast,11/2023
+GME0561,Metformin,One tab at supper,03/2023
+GME0562,Glyburide,Two tabs twice daily,09/2021
+GME0562,Ramipril,One tab at supper,12/2021
+GME0562,Amoxicillin,Discontinued,09/2022
+GME0562,Metformin,One tab at supper,09/2024
+GME0562,Atorvastatin,One tab at supper,09/2024
+GME0563,Ramipril,One tab at supper,09/2022
+GME0563,ASA,One tab at breakfast,11/2023
+GME0564,Metformin,One tab at supper,08/2023
+GME0564,Glyburide,Two tabs twice daily,05/2024
+GME0564,Ramipril,One tab at supper,01/2022
+GME0564,Amoxicillin,Discontinued,11/2024
+GME0564,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0565,Ramipril,One tab at supper,10/2022
+GME0565,Metformin,One tab at supper,10/2024
+GME0565,Atorvastatin,One tab at supper,04/2025
+GME0566,Metformin,One tab at supper,03/2022
+GME0566,Ramipril,One tab at supper,11/2022
+GME0566,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0567,ASA,One tab at breakfast,02/2024
+GME0567,Glyburide,Two tabs twice daily,02/2023
+GME0567,Ramipril,One tab at supper,10/2020
+GME0567,Amoxicillin,Discontinued,06/2023
+GME0568,Glyburide,Two tabs twice daily,09/2020
+GME0568,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0568,Amoxicillin,Discontinued,11/2020
+GME0568,Ramipril,One tab at supper,06/2021
+GME0569,Ramipril,One tab at supper,01/2025
+GME0569,Metformin,One tab at supper,09/2023
+GME0570,Atorvastatin,One tab at supper,01/2021
+GME0570,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0570,Metformin,One tab at supper,12/2022
+GME0570,ASA,One tab at breakfast,06/2024
+GME0570,Glyburide,Two tabs twice daily,10/2023
+GME0571,Amoxicillin,Discontinued,05/2021
+GME0571,Ramipril,One tab at supper,02/2025
+GME0571,Atorvastatin,One tab at supper,05/2024
+GME0571,Metformin,One tab at supper,01/2024
+GME0571,Glyburide,Two tabs twice daily,04/2022
+GME0572,Amoxicillin,Discontinued,01/2025
+GME0572,Atorvastatin,One tab at supper,07/2024
+GME0572,Ramipril,One tab at supper,02/2022
+GME0572,Metformin,One tab at supper,03/2023
+GME0573,Glyburide,Two tabs twice daily,02/2025
+GME0573,Metformin,One tab at supper,02/2025
+GME0573,Amoxicillin,Discontinued,09/2021
+GME0573,Atorvastatin,One tab at supper,05/2023
+GME0574,ASA,One tab at breakfast,05/2021
+GME0574,Atorvastatin,One tab at supper,02/2024
+GME0574,Metformin,One tab at supper,11/2020
+GME0574,Ramipril,One tab at supper,01/2021
+GME0575,Ramipril,One tab at supper,11/2023
+GME0575,ASA,One tab at breakfast,06/2024
+GME0575,Amoxicillin,Discontinued,08/2020
+GME0575,Atorvastatin,One tab at supper,08/2020
+GME0575,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0576,Glyburide,Two tabs twice daily,12/2023
+GME0576,Metformin,One tab at supper,01/2024
+GME0576,Amoxicillin,Discontinued,06/2020
+GME0576,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0576,Atorvastatin,One tab at supper,01/2024
+GME0577,Metformin,One tab at supper,04/2023
+GME0577,Amoxicillin,Discontinued,04/2022
+GME0577,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0577,ASA,One tab at breakfast,07/2020
+GME0578,Amoxicillin,Discontinued,04/2025
+GME0578,ASA,One tab at breakfast,05/2022
+GME0578,Metformin,One tab at supper,03/2024
+GME0578,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0579,Glyburide,Two tabs twice daily,07/2022
+GME0579,Atorvastatin,One tab at supper,04/2023
+GME0579,ASA,One tab at breakfast,09/2024
+GME0579,Amoxicillin,Discontinued,11/2023
+GME0580,Amoxicillin,Discontinued,08/2020
+GME0580,Metformin,One tab at supper,11/2022
+GME0580,ASA,One tab at breakfast,01/2021
+GME0580,Atorvastatin,One tab at supper,08/2023
+GME0581,Metformin,One tab at supper,11/2020
+GME0581,Atorvastatin,One tab at supper,07/2020
+GME0581,Glyburide,Two tabs twice daily,06/2024
+GME0581,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0581,Ramipril,One tab at supper,07/2020
+GME0582,Atorvastatin,One tab at supper,04/2024
+GME0582,Metformin,One tab at supper,04/2023
+GME0583,Glyburide,Two tabs twice daily,12/2024
+GME0583,Metformin,One tab at supper,08/2022
+GME0583,ASA,One tab at breakfast,04/2021
+GME0584,Metformin,One tab at supper,04/2024
+GME0584,Glyburide,Two tabs twice daily,07/2020
+GME0585,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0585,Metformin,One tab at supper,11/2021
+GME0585,Amoxicillin,Discontinued,12/2023
+GME0585,Ramipril,One tab at supper,03/2023
+GME0585,Atorvastatin,One tab at supper,09/2021
+GME0586,Glyburide,Two tabs twice daily,08/2022
+GME0586,Amoxicillin,Discontinued,12/2022
+GME0586,Atorvastatin,One tab at supper,02/2023
+GME0587,Metformin,One tab at supper,11/2023
+GME0587,Amoxicillin,Discontinued,03/2023
+GME0588,Glyburide,Two tabs twice daily,09/2021
+GME0588,Ramipril,One tab at supper,08/2023
+GME0588,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0588,Atorvastatin,One tab at supper,05/2024
+GME0589,Glyburide,Two tabs twice daily,07/2023
+GME0589,Ramipril,One tab at supper,11/2022
+GME0589,Atorvastatin,One tab at supper,06/2024
+GME0589,Amoxicillin,Discontinued,12/2023
+GME0589,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0590,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0590,ASA,One tab at breakfast,10/2024
+GME0591,Atorvastatin,One tab at supper,11/2022
+GME0591,ASA,One tab at breakfast,03/2025
+GME0592,Glyburide,Two tabs twice daily,02/2022
+GME0592,Amoxicillin,Discontinued,09/2022
+GME0592,Hydrochlorothiazide,One tab at breakfast,06/2023
+GME0592,ASA,One tab at breakfast,12/2021
+GME0593,Ramipril,One tab at supper,09/2021
+GME0593,ASA,One tab at breakfast,10/2024
+GME0593,Atorvastatin,One tab at supper,02/2022
+GME0593,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0594,Metformin,One tab at supper,03/2022
+GME0594,Glyburide,Two tabs twice daily,02/2024
+GME0594,Ramipril,One tab at supper,06/2023
+GME0594,Amoxicillin,Discontinued,02/2021
+GME0595,Ramipril,One tab at supper,01/2023
+GME0595,Glyburide,Two tabs twice daily,06/2022
+GME0595,Atorvastatin,One tab at supper,01/2022
+GME0595,ASA,One tab at breakfast,01/2024
+GME0596,Metformin,One tab at supper,08/2021
+GME0596,Ramipril,One tab at supper,10/2024
+GME0596,Atorvastatin,One tab at supper,05/2022
+GME0596,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0597,Atorvastatin,One tab at supper,10/2020
+GME0597,Glyburide,Two tabs twice daily,05/2021
+GME0598,Amoxicillin,Discontinued,07/2021
+GME0598,Ramipril,One tab at supper,05/2024
+GME0598,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0599,Amoxicillin,Discontinued,05/2023
+GME0599,Metformin,One tab at supper,01/2022
+GME0599,Glyburide,Two tabs twice daily,10/2023
+GME0599,ASA,One tab at breakfast,08/2022
+GME0599,Atorvastatin,One tab at supper,05/2024
+GME0600,Atorvastatin,One tab at supper,07/2020
+GME0600,Glyburide,Two tabs twice daily,12/2020
+GME0600,ASA,One tab at breakfast,01/2025
+GME0600,Amoxicillin,Discontinued,07/2021
+GME0600,Ramipril,One tab at supper,02/2022
+GME0601,Atorvastatin,One tab at supper,12/2024
+GME0601,Glyburide,Two tabs twice daily,09/2020
+GME0601,Ramipril,One tab at supper,12/2020
+GME0601,Amoxicillin,Discontinued,08/2022
+GME0602,Hydrochlorothiazide,One tab at breakfast,06/2025
+GME0602,Metformin,One tab at supper,12/2023
+GME0603,Ramipril,One tab at supper,11/2024
+GME0603,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0604,Amoxicillin,Discontinued,09/2024
+GME0604,Glyburide,Two tabs twice daily,05/2023
+GME0604,Atorvastatin,One tab at supper,09/2024
+GME0604,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0605,Metformin,One tab at supper,01/2023
+GME0605,Amoxicillin,Discontinued,07/2020
+GME0606,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0606,Amoxicillin,Discontinued,09/2020
+GME0607,Atorvastatin,One tab at supper,10/2024
+GME0607,Ramipril,One tab at supper,03/2023
+GME0607,Glyburide,Two tabs twice daily,10/2021
+GME0608,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0608,Metformin,One tab at supper,11/2023
+GME0608,Glyburide,Two tabs twice daily,12/2023
+GME0609,Atorvastatin,One tab at supper,11/2023
+GME0609,Ramipril,One tab at supper,01/2024
+GME0609,Glyburide,Two tabs twice daily,07/2022
+GME0609,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0610,Hydrochlorothiazide,One tab at breakfast,07/2020
+GME0610,ASA,One tab at breakfast,04/2024
+GME0610,Metformin,One tab at supper,08/2021
+GME0610,Glyburide,Two tabs twice daily,08/2024
+GME0610,Ramipril,One tab at supper,03/2024
+GME0611,Amoxicillin,Discontinued,03/2023
+GME0611,Glyburide,Two tabs twice daily,10/2022
+GME0612,ASA,One tab at breakfast,01/2025
+GME0612,Ramipril,One tab at supper,08/2021
+GME0612,Hydrochlorothiazide,One tab at breakfast,03/2024
+GME0612,Atorvastatin,One tab at supper,11/2020
+GME0612,Amoxicillin,Discontinued,10/2024
+GME0613,Glyburide,Two tabs twice daily,10/2020
+GME0613,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0614,Atorvastatin,One tab at supper,01/2021
+GME0614,ASA,One tab at breakfast,11/2023
+GME0614,Metformin,One tab at supper,08/2022
+GME0615,Ramipril,One tab at supper,03/2021
+GME0615,Glyburide,Two tabs twice daily,06/2021
+GME0615,ASA,One tab at breakfast,05/2025
+GME0615,Atorvastatin,One tab at supper,01/2021
+GME0616,Ramipril,One tab at supper,05/2024
+GME0616,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0616,ASA,One tab at breakfast,02/2023
+GME0617,ASA,One tab at breakfast,03/2021
+GME0617,Ramipril,One tab at supper,10/2023
+GME0617,Atorvastatin,One tab at supper,04/2021
+GME0618,Metformin,One tab at supper,03/2023
+GME0618,Glyburide,Two tabs twice daily,04/2021
+GME0618,Amoxicillin,Discontinued,01/2024
+GME0619,Amoxicillin,Discontinued,12/2022
+GME0619,Ramipril,One tab at supper,09/2020
+GME0619,Glyburide,Two tabs twice daily,07/2023
+GME0619,ASA,One tab at breakfast,09/2022
+GME0620,Glyburide,Two tabs twice daily,09/2022
+GME0620,Amoxicillin,Discontinued,09/2024
+GME0620,Atorvastatin,One tab at supper,09/2023
+GME0621,Ramipril,One tab at supper,10/2022
+GME0621,ASA,One tab at breakfast,01/2021
+GME0621,Glyburide,Two tabs twice daily,07/2024
+GME0622,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0622,Metformin,One tab at supper,08/2023
+GME0622,Ramipril,One tab at supper,06/2025
+GME0623,Ramipril,One tab at supper,04/2022
+GME0623,Amoxicillin,Discontinued,12/2021
+GME0623,Glyburide,Two tabs twice daily,04/2021
+GME0623,Metformin,One tab at supper,09/2020
+GME0623,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0624,Glyburide,Two tabs twice daily,09/2023
+GME0624,Atorvastatin,One tab at supper,03/2024
+GME0624,Ramipril,One tab at supper,09/2022
+GME0625,ASA,One tab at breakfast,04/2025
+GME0625,Metformin,One tab at supper,05/2025
+GME0626,Atorvastatin,One tab at supper,10/2022
+GME0626,Amoxicillin,Discontinued,02/2022
+GME0627,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0627,ASA,One tab at breakfast,11/2024
+GME0628,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0628,ASA,One tab at breakfast,06/2024
+GME0628,Glyburide,Two tabs twice daily,11/2021
+GME0628,Atorvastatin,One tab at supper,06/2020
+GME0628,Metformin,One tab at supper,06/2023
+GME0629,Amoxicillin,Discontinued,07/2024
+GME0629,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0629,ASA,One tab at breakfast,08/2023
+GME0629,Glyburide,Two tabs twice daily,05/2023
+GME0629,Ramipril,One tab at supper,01/2022
+GME0630,Hydrochlorothiazide,One tab at breakfast,05/2025
+GME0630,Amoxicillin,Discontinued,01/2024
+GME0630,Ramipril,One tab at supper,04/2023
+GME0630,Atorvastatin,One tab at supper,05/2021
+GME0630,ASA,One tab at breakfast,07/2022
+GME0631,Atorvastatin,One tab at supper,10/2024
+GME0631,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0631,Metformin,One tab at supper,02/2021
+GME0632,ASA,One tab at breakfast,12/2020
+GME0632,Ramipril,One tab at supper,12/2022
+GME0632,Amoxicillin,Discontinued,03/2022
+GME0633,Ramipril,One tab at supper,12/2020
+GME0633,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0633,Atorvastatin,One tab at supper,11/2022
+GME0634,Ramipril,One tab at supper,10/2021
+GME0634,Metformin,One tab at supper,10/2024
+GME0634,ASA,One tab at breakfast,07/2020
+GME0634,Amoxicillin,Discontinued,12/2023
+GME0634,Glyburide,Two tabs twice daily,08/2021
+GME0635,Glyburide,Two tabs twice daily,09/2020
+GME0635,Metformin,One tab at supper,12/2023
+GME0635,Atorvastatin,One tab at supper,08/2022
+GME0635,Ramipril,One tab at supper,01/2021
+GME0635,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0636,Glyburide,Two tabs twice daily,02/2023
+GME0636,Amoxicillin,Discontinued,04/2024
+GME0636,Ramipril,One tab at supper,02/2025
+GME0637,Glyburide,Two tabs twice daily,07/2023
+GME0637,Ramipril,One tab at supper,03/2024
+GME0637,ASA,One tab at breakfast,04/2024
+GME0638,Ramipril,One tab at supper,07/2023
+GME0638,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0639,Metformin,One tab at supper,08/2023
+GME0639,Glyburide,Two tabs twice daily,10/2024
+GME0639,Amoxicillin,Discontinued,12/2022
+GME0639,Ramipril,One tab at supper,10/2024
+GME0640,Glyburide,Two tabs twice daily,06/2023
+GME0640,Ramipril,One tab at supper,09/2020
+GME0640,Metformin,One tab at supper,02/2025
+GME0641,Hydrochlorothiazide,One tab at breakfast,02/2021
+GME0641,Atorvastatin,One tab at supper,08/2023
+GME0641,Glyburide,Two tabs twice daily,05/2021
+GME0641,Metformin,One tab at supper,02/2023
+GME0641,Amoxicillin,Discontinued,12/2022
+GME0642,Ramipril,One tab at supper,09/2021
+GME0642,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0642,Atorvastatin,One tab at supper,06/2025
+GME0642,Glyburide,Two tabs twice daily,03/2024
+GME0643,Amoxicillin,Discontinued,04/2021
+GME0643,Glyburide,Two tabs twice daily,10/2020
+GME0643,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0643,ASA,One tab at breakfast,06/2024
+GME0643,Metformin,One tab at supper,05/2021
+GME0644,Metformin,One tab at supper,02/2025
+GME0644,Atorvastatin,One tab at supper,12/2023
+GME0645,Metformin,One tab at supper,11/2023
+GME0645,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0645,Glyburide,Two tabs twice daily,08/2022
+GME0645,Ramipril,One tab at supper,08/2023
+GME0645,ASA,One tab at breakfast,10/2024
+GME0646,Glyburide,Two tabs twice daily,01/2024
+GME0646,ASA,One tab at breakfast,04/2024
+GME0646,Metformin,One tab at supper,04/2025
+GME0646,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0647,Glyburide,Two tabs twice daily,07/2022
+GME0647,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0647,Ramipril,One tab at supper,03/2025
+GME0647,Amoxicillin,Discontinued,12/2024
+GME0648,Glyburide,Two tabs twice daily,04/2025
+GME0648,Atorvastatin,One tab at supper,11/2020
+GME0648,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0648,Metformin,One tab at supper,12/2020
+GME0648,Ramipril,One tab at supper,04/2025
+GME0649,Glyburide,Two tabs twice daily,08/2022
+GME0649,ASA,One tab at breakfast,06/2023
+GME0649,Atorvastatin,One tab at supper,12/2020
+GME0649,Metformin,One tab at supper,03/2024
+GME0649,Amoxicillin,Discontinued,08/2021
+GME0650,Metformin,One tab at supper,12/2021
+GME0650,Ramipril,One tab at supper,02/2024
+GME0651,Amoxicillin,Discontinued,05/2022
+GME0651,Atorvastatin,One tab at supper,02/2022
+GME0651,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0651,Metformin,One tab at supper,08/2022
+GME0652,Metformin,One tab at supper,09/2020
+GME0652,ASA,One tab at breakfast,10/2021
+GME0652,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0652,Glyburide,Two tabs twice daily,02/2024
+GME0653,Metformin,One tab at supper,10/2021
+GME0653,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0654,Ramipril,One tab at supper,05/2021
+GME0654,Metformin,One tab at supper,05/2021
+GME0654,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0654,ASA,One tab at breakfast,06/2023
+GME0654,Amoxicillin,Discontinued,03/2023
+GME0655,Metformin,One tab at supper,12/2020
+GME0655,Atorvastatin,One tab at supper,12/2023
+GME0655,Amoxicillin,Discontinued,05/2024
+GME0655,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0656,ASA,One tab at breakfast,03/2023
+GME0656,Ramipril,One tab at supper,09/2022
+GME0657,ASA,One tab at breakfast,11/2024
+GME0657,Glyburide,Two tabs twice daily,01/2021
+GME0657,Amoxicillin,Discontinued,01/2021
+GME0657,Metformin,One tab at supper,04/2023
+GME0657,Ramipril,One tab at supper,09/2023
+GME0658,Metformin,One tab at supper,06/2023
+GME0658,Glyburide,Two tabs twice daily,04/2024
+GME0658,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0658,Atorvastatin,One tab at supper,06/2022
+GME0658,ASA,One tab at breakfast,01/2024
+GME0659,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0659,Metformin,One tab at supper,10/2020
+GME0659,Glyburide,Two tabs twice daily,08/2022
+GME0660,Glyburide,Two tabs twice daily,04/2022
+GME0660,Ramipril,One tab at supper,06/2024
+GME0660,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0660,ASA,One tab at breakfast,04/2021
+GME0660,Metformin,One tab at supper,03/2025
+GME0661,Hydrochlorothiazide,One tab at breakfast,11/2023
+GME0661,Glyburide,Two tabs twice daily,09/2021
+GME0661,Amoxicillin,Discontinued,12/2023
+GME0661,Ramipril,One tab at supper,03/2023
+GME0661,Atorvastatin,One tab at supper,02/2023
+GME0662,Glyburide,Two tabs twice daily,02/2021
+GME0662,ASA,One tab at breakfast,04/2021
+GME0663,Amoxicillin,Discontinued,12/2020
+GME0663,Ramipril,One tab at supper,04/2023
+GME0663,Atorvastatin,One tab at supper,05/2023
+GME0664,Atorvastatin,One tab at supper,03/2025
+GME0664,ASA,One tab at breakfast,12/2021
+GME0664,Ramipril,One tab at supper,12/2023
+GME0664,Amoxicillin,Discontinued,05/2021
+GME0664,Glyburide,Two tabs twice daily,03/2021
+GME0665,ASA,One tab at breakfast,11/2021
+GME0665,Amoxicillin,Discontinued,12/2024
+GME0666,Glyburide,Two tabs twice daily,07/2023
+GME0666,Hydrochlorothiazide,One tab at breakfast,03/2024
+GME0666,Amoxicillin,Discontinued,06/2022
+GME0666,Atorvastatin,One tab at supper,05/2023
+GME0666,ASA,One tab at breakfast,04/2022
+GME0667,Glyburide,Two tabs twice daily,09/2021
+GME0667,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0667,ASA,One tab at breakfast,07/2024
+GME0667,Amoxicillin,Discontinued,07/2021
+GME0667,Ramipril,One tab at supper,11/2024
+GME0668,Ramipril,One tab at supper,01/2022
+GME0668,Atorvastatin,One tab at supper,08/2023
+GME0668,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0668,Amoxicillin,Discontinued,06/2023
+GME0668,Glyburide,Two tabs twice daily,11/2022
+GME0669,Ramipril,One tab at supper,08/2022
+GME0669,ASA,One tab at breakfast,06/2023
+GME0669,Atorvastatin,One tab at supper,08/2023
+GME0669,Metformin,One tab at supper,10/2023
+GME0669,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0670,Ramipril,One tab at supper,03/2023
+GME0670,Amoxicillin,Discontinued,07/2020
+GME0670,ASA,One tab at breakfast,02/2021
+GME0671,Glyburide,Two tabs twice daily,06/2025
+GME0671,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0671,ASA,One tab at breakfast,09/2021
+GME0671,Ramipril,One tab at supper,09/2023
+GME0672,Metformin,One tab at supper,12/2020
+GME0672,Amoxicillin,Discontinued,12/2023
+GME0672,Glyburide,Two tabs twice daily,09/2023
+GME0672,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0672,Ramipril,One tab at supper,06/2024
+GME0673,Glyburide,Two tabs twice daily,11/2022
+GME0673,Amoxicillin,Discontinued,07/2020
+GME0673,Hydrochlorothiazide,One tab at breakfast,11/2020
+GME0673,Ramipril,One tab at supper,01/2022
+GME0674,Glyburide,Two tabs twice daily,11/2021
+GME0674,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0675,Metformin,One tab at supper,01/2023
+GME0675,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0676,Atorvastatin,One tab at supper,10/2022
+GME0676,Amoxicillin,Discontinued,08/2024
+GME0676,Metformin,One tab at supper,09/2024
+GME0676,ASA,One tab at breakfast,08/2022
+GME0677,Amoxicillin,Discontinued,12/2024
+GME0677,Metformin,One tab at supper,09/2022
+GME0677,Atorvastatin,One tab at supper,03/2025
+GME0677,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0677,Ramipril,One tab at supper,05/2023
+GME0678,Hydrochlorothiazide,One tab at breakfast,01/2025
+GME0678,Glyburide,Two tabs twice daily,03/2025
+GME0679,ASA,One tab at breakfast,02/2025
+GME0679,Atorvastatin,One tab at supper,10/2021
+GME0679,Ramipril,One tab at supper,07/2023
+GME0679,Metformin,One tab at supper,10/2020
+GME0679,Glyburide,Two tabs twice daily,11/2021
+GME0680,Atorvastatin,One tab at supper,09/2022
+GME0680,Amoxicillin,Discontinued,11/2023
+GME0680,Metformin,One tab at supper,10/2020
+GME0680,Ramipril,One tab at supper,09/2024
+GME0680,ASA,One tab at breakfast,09/2023
+GME0681,Metformin,One tab at supper,11/2023
+GME0681,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0681,Atorvastatin,One tab at supper,03/2024
+GME0681,Glyburide,Two tabs twice daily,12/2023
+GME0681,ASA,One tab at breakfast,07/2022
+GME0682,Atorvastatin,One tab at supper,08/2024
+GME0682,Ramipril,One tab at supper,07/2021
+GME0682,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0682,Metformin,One tab at supper,01/2025
+GME0683,Hydrochlorothiazide,One tab at breakfast,11/2024
+GME0683,Amoxicillin,Discontinued,10/2022
+GME0683,Atorvastatin,One tab at supper,01/2024
+GME0683,Glyburide,Two tabs twice daily,11/2020
+GME0684,Metformin,One tab at supper,02/2023
+GME0684,Ramipril,One tab at supper,07/2020
+GME0684,Glyburide,Two tabs twice daily,10/2020
+GME0684,Atorvastatin,One tab at supper,02/2025
+GME0685,Hydrochlorothiazide,One tab at breakfast,10/2023
+GME0685,ASA,One tab at breakfast,06/2024
+GME0685,Atorvastatin,One tab at supper,12/2024
+GME0686,ASA,One tab at breakfast,05/2021
+GME0686,Atorvastatin,One tab at supper,01/2023
+GME0686,Amoxicillin,Discontinued,01/2021
+GME0686,Glyburide,Two tabs twice daily,01/2024
+GME0687,Atorvastatin,One tab at supper,12/2020
+GME0687,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0687,Ramipril,One tab at supper,12/2022
+GME0687,Metformin,One tab at supper,09/2023
+GME0687,ASA,One tab at breakfast,04/2024
+GME0688,Glyburide,Two tabs twice daily,02/2024
+GME0688,Metformin,One tab at supper,04/2021
+GME0688,Amoxicillin,Discontinued,01/2023
+GME0688,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0688,Ramipril,One tab at supper,08/2020
+GME0689,ASA,One tab at breakfast,05/2021
+GME0689,Atorvastatin,One tab at supper,05/2024
+GME0689,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0689,Glyburide,Two tabs twice daily,06/2020
+GME0690,Metformin,One tab at supper,02/2022
+GME0690,Hydrochlorothiazide,One tab at breakfast,05/2025
+GME0690,Glyburide,Two tabs twice daily,03/2023
+GME0690,ASA,One tab at breakfast,08/2022
+GME0691,Atorvastatin,One tab at supper,05/2025
+GME0691,Ramipril,One tab at supper,10/2020
+GME0691,Glyburide,Two tabs twice daily,09/2022
+GME0691,Amoxicillin,Discontinued,08/2023
+GME0691,ASA,One tab at breakfast,06/2023
+GME0692,Hydrochlorothiazide,One tab at breakfast,04/2025
+GME0692,Metformin,One tab at supper,07/2022
+GME0692,ASA,One tab at breakfast,05/2023
+GME0693,ASA,One tab at breakfast,05/2025
+GME0693,Amoxicillin,Discontinued,02/2025
+GME0693,Ramipril,One tab at supper,07/2023
+GME0693,Metformin,One tab at supper,10/2021
+GME0694,Metformin,One tab at supper,06/2025
+GME0694,Amoxicillin,Discontinued,08/2020
+GME0694,Atorvastatin,One tab at supper,11/2023
+GME0694,ASA,One tab at breakfast,08/2022
+GME0694,Hydrochlorothiazide,One tab at breakfast,11/2020
+GME0695,Metformin,One tab at supper,06/2021
+GME0695,Amoxicillin,Discontinued,02/2024
+GME0695,Ramipril,One tab at supper,08/2023
+GME0695,Glyburide,Two tabs twice daily,06/2024
+GME0696,Ramipril,One tab at supper,11/2024
+GME0696,Metformin,One tab at supper,11/2021
+GME0696,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0696,Amoxicillin,Discontinued,12/2023
+GME0697,Atorvastatin,One tab at supper,10/2024
+GME0697,ASA,One tab at breakfast,04/2024
+GME0698,Amoxicillin,Discontinued,12/2022
+GME0698,ASA,One tab at breakfast,06/2020
+GME0698,Glyburide,Two tabs twice daily,09/2023
+GME0699,Metformin,One tab at supper,10/2022
+GME0699,ASA,One tab at breakfast,01/2022
+GME0699,Atorvastatin,One tab at supper,05/2023
+GME0699,Amoxicillin,Discontinued,11/2024
+GME0700,ASA,One tab at breakfast,06/2024
+GME0700,Metformin,One tab at supper,03/2024
+GME0700,Atorvastatin,One tab at supper,02/2022
+GME0701,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0701,ASA,One tab at breakfast,12/2024
+GME0701,Ramipril,One tab at supper,01/2025
+GME0701,Glyburide,Two tabs twice daily,08/2021
+GME0702,Glyburide,Two tabs twice daily,03/2024
+GME0702,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0702,ASA,One tab at breakfast,02/2024
+GME0703,ASA,One tab at breakfast,02/2025
+GME0703,Atorvastatin,One tab at supper,01/2021
+GME0703,Glyburide,Two tabs twice daily,10/2022
+GME0703,Ramipril,One tab at supper,03/2022
+GME0704,ASA,One tab at breakfast,01/2025
+GME0704,Ramipril,One tab at supper,07/2021
+GME0704,Amoxicillin,Discontinued,10/2024
+GME0705,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0705,Glyburide,Two tabs twice daily,07/2023
+GME0705,Ramipril,One tab at supper,10/2023
+GME0705,Amoxicillin,Discontinued,09/2024
+GME0706,Amoxicillin,Discontinued,05/2023
+GME0706,ASA,One tab at breakfast,06/2023
+GME0707,Glyburide,Two tabs twice daily,10/2021
+GME0707,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0707,Amoxicillin,Discontinued,05/2023
+GME0707,Ramipril,One tab at supper,12/2020
+GME0707,ASA,One tab at breakfast,06/2024
+GME0708,Atorvastatin,One tab at supper,08/2020
+GME0708,Metformin,One tab at supper,05/2023
+GME0709,Amoxicillin,Discontinued,06/2022
+GME0709,ASA,One tab at breakfast,03/2022
+GME0709,Metformin,One tab at supper,03/2024
+GME0709,Glyburide,Two tabs twice daily,02/2025
+GME0710,Ramipril,One tab at supper,06/2025
+GME0710,Amoxicillin,Discontinued,09/2021
+GME0710,Atorvastatin,One tab at supper,09/2020
+GME0710,Metformin,One tab at supper,12/2022
+GME0711,Atorvastatin,One tab at supper,05/2023
+GME0711,ASA,One tab at breakfast,09/2023
+GME0711,Glyburide,Two tabs twice daily,09/2021
+GME0711,Ramipril,One tab at supper,08/2024
+GME0712,Glyburide,Two tabs twice daily,09/2022
+GME0712,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0713,Metformin,One tab at supper,11/2020
+GME0713,Amoxicillin,Discontinued,07/2020
+GME0714,Amoxicillin,Discontinued,02/2023
+GME0714,Metformin,One tab at supper,09/2020
+GME0714,Atorvastatin,One tab at supper,02/2024
+GME0714,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0714,ASA,One tab at breakfast,09/2023
+GME0715,ASA,One tab at breakfast,08/2021
+GME0715,Hydrochlorothiazide,One tab at breakfast,04/2023
+GME0715,Ramipril,One tab at supper,11/2023
+GME0716,Ramipril,One tab at supper,01/2022
+GME0716,Metformin,One tab at supper,11/2020
+GME0716,Hydrochlorothiazide,One tab at breakfast,11/2020
+GME0717,Amoxicillin,Discontinued,02/2025
+GME0717,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0717,Glyburide,Two tabs twice daily,11/2022
+GME0718,Metformin,One tab at supper,03/2025
+GME0718,Atorvastatin,One tab at supper,10/2022
+GME0718,Amoxicillin,Discontinued,06/2021
+GME0718,Ramipril,One tab at supper,04/2021
+GME0718,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0719,ASA,One tab at breakfast,07/2021
+GME0719,Metformin,One tab at supper,10/2024
+GME0719,Atorvastatin,One tab at supper,06/2023
+GME0719,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0720,Amoxicillin,Discontinued,01/2023
+GME0720,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0720,ASA,One tab at breakfast,09/2021
+GME0720,Glyburide,Two tabs twice daily,01/2021
+GME0720,Ramipril,One tab at supper,07/2020
+GME0721,Ramipril,One tab at supper,06/2024
+GME0721,Metformin,One tab at supper,06/2023
+GME0721,ASA,One tab at breakfast,02/2023
+GME0721,Amoxicillin,Discontinued,04/2024
+GME0722,Metformin,One tab at supper,01/2024
+GME0722,Ramipril,One tab at supper,12/2021
+GME0722,Amoxicillin,Discontinued,01/2025
+GME0723,Atorvastatin,One tab at supper,08/2020
+GME0723,Glyburide,Two tabs twice daily,06/2021
+GME0723,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0723,ASA,One tab at breakfast,06/2023
+GME0723,Amoxicillin,Discontinued,02/2022
+GME0724,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0724,Glyburide,Two tabs twice daily,09/2022
+GME0724,Metformin,One tab at supper,04/2023
+GME0724,Ramipril,One tab at supper,11/2023
+GME0725,Amoxicillin,Discontinued,07/2024
+GME0725,Atorvastatin,One tab at supper,03/2024
+GME0725,Glyburide,Two tabs twice daily,10/2020
+GME0726,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0726,Glyburide,Two tabs twice daily,09/2020
+GME0726,Ramipril,One tab at supper,03/2023
+GME0727,Atorvastatin,One tab at supper,03/2024
+GME0727,Metformin,One tab at supper,03/2023
+GME0727,Glyburide,Two tabs twice daily,03/2025
+GME0727,Ramipril,One tab at supper,07/2022
+GME0728,Glyburide,Two tabs twice daily,04/2021
+GME0728,Ramipril,One tab at supper,07/2023
+GME0728,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0728,ASA,One tab at breakfast,12/2021
+GME0728,Amoxicillin,Discontinued,04/2023
+GME0729,Ramipril,One tab at supper,05/2021
+GME0729,Atorvastatin,One tab at supper,08/2023
+GME0729,ASA,One tab at breakfast,05/2022
+GME0730,ASA,One tab at breakfast,08/2020
+GME0730,Ramipril,One tab at supper,12/2024
+GME0730,Atorvastatin,One tab at supper,05/2022
+GME0730,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0730,Amoxicillin,Discontinued,05/2023
+GME0731,Ramipril,One tab at supper,08/2024
+GME0731,Amoxicillin,Discontinued,07/2023
+GME0731,Glyburide,Two tabs twice daily,09/2024
+GME0731,Metformin,One tab at supper,07/2021
+GME0732,Amoxicillin,Discontinued,10/2021
+GME0732,ASA,One tab at breakfast,11/2020
+GME0732,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0732,Glyburide,Two tabs twice daily,07/2022
+GME0732,Metformin,One tab at supper,11/2020
+GME0733,Ramipril,One tab at supper,08/2021
+GME0733,Amoxicillin,Discontinued,09/2023
+GME0734,Atorvastatin,One tab at supper,01/2025
+GME0734,Metformin,One tab at supper,07/2021
+GME0734,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0734,Amoxicillin,Discontinued,03/2021
+GME0734,Glyburide,Two tabs twice daily,08/2024
+GME0735,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0735,Metformin,One tab at supper,11/2021
+GME0735,Glyburide,Two tabs twice daily,09/2024
+GME0736,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0736,Glyburide,Two tabs twice daily,05/2024
+GME0736,Ramipril,One tab at supper,06/2023
+GME0736,Metformin,One tab at supper,12/2023
+GME0737,Glyburide,Two tabs twice daily,11/2022
+GME0737,Amoxicillin,Discontinued,04/2024
+GME0738,Atorvastatin,One tab at supper,01/2021
+GME0738,Amoxicillin,Discontinued,07/2022
+GME0738,Metformin,One tab at supper,06/2022
+GME0738,Glyburide,Two tabs twice daily,05/2022
+GME0739,Amoxicillin,Discontinued,09/2020
+GME0739,Metformin,One tab at supper,05/2021
+GME0739,Glyburide,Two tabs twice daily,05/2025
+GME0739,ASA,One tab at breakfast,11/2022
+GME0739,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0740,ASA,One tab at breakfast,11/2021
+GME0740,Glyburide,Two tabs twice daily,07/2020
+GME0740,Amoxicillin,Discontinued,08/2023
+GME0741,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0741,Glyburide,Two tabs twice daily,08/2024
+GME0741,Amoxicillin,Discontinued,12/2024
+GME0742,Metformin,One tab at supper,02/2023
+GME0742,Atorvastatin,One tab at supper,09/2020
+GME0742,ASA,One tab at breakfast,06/2025
+GME0743,Glyburide,Two tabs twice daily,02/2023
+GME0743,Amoxicillin,Discontinued,12/2021
+GME0744,Glyburide,Two tabs twice daily,10/2020
+GME0744,Hydrochlorothiazide,One tab at breakfast,12/2023
+GME0745,Glyburide,Two tabs twice daily,03/2024
+GME0745,Metformin,One tab at supper,08/2020
+GME0745,Atorvastatin,One tab at supper,04/2022
+GME0746,Atorvastatin,One tab at supper,01/2023
+GME0746,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0746,Ramipril,One tab at supper,03/2021
+GME0746,Amoxicillin,Discontinued,03/2024
+GME0746,Glyburide,Two tabs twice daily,07/2020
+GME0747,Amoxicillin,Discontinued,04/2021
+GME0747,Hydrochlorothiazide,One tab at breakfast,04/2023
+GME0747,Atorvastatin,One tab at supper,05/2024
+GME0747,ASA,One tab at breakfast,03/2021
+GME0748,Amoxicillin,Discontinued,10/2023
+GME0748,Atorvastatin,One tab at supper,01/2025
+GME0748,ASA,One tab at breakfast,09/2021
+GME0749,Amoxicillin,Discontinued,04/2023
+GME0749,Metformin,One tab at supper,06/2023
+GME0749,Glyburide,Two tabs twice daily,01/2025
+GME0749,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0750,Metformin,One tab at supper,12/2020
+GME0750,Ramipril,One tab at supper,06/2020
+GME0750,Amoxicillin,Discontinued,11/2024
+GME0751,Hydrochlorothiazide,One tab at breakfast,04/2021
+GME0751,Amoxicillin,Discontinued,11/2021
+GME0751,Glyburide,Two tabs twice daily,07/2021
+GME0752,Ramipril,One tab at supper,01/2021
+GME0752,ASA,One tab at breakfast,08/2022
+GME0752,Amoxicillin,Discontinued,04/2024
+GME0753,Amoxicillin,Discontinued,10/2021
+GME0753,Atorvastatin,One tab at supper,09/2022
+GME0753,Glyburide,Two tabs twice daily,08/2020
+GME0753,ASA,One tab at breakfast,10/2024
+GME0754,Glyburide,Two tabs twice daily,06/2023
+GME0754,Metformin,One tab at supper,12/2022
+GME0755,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0755,Glyburide,Two tabs twice daily,03/2023
+GME0755,ASA,One tab at breakfast,10/2023
+GME0756,Atorvastatin,One tab at supper,09/2024
+GME0756,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0756,ASA,One tab at breakfast,04/2022
+GME0756,Ramipril,One tab at supper,10/2023
+GME0757,Atorvastatin,One tab at supper,08/2022
+GME0757,Ramipril,One tab at supper,11/2024
+GME0758,Glyburide,Two tabs twice daily,11/2022
+GME0758,Ramipril,One tab at supper,11/2021
+GME0758,Amoxicillin,Discontinued,11/2021
+GME0759,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0759,Metformin,One tab at supper,04/2023
+GME0759,Amoxicillin,Discontinued,06/2024
+GME0759,Atorvastatin,One tab at supper,04/2024
+GME0760,Amoxicillin,Discontinued,04/2023
+GME0760,Metformin,One tab at supper,08/2022
+GME0760,ASA,One tab at breakfast,11/2022
+GME0760,Atorvastatin,One tab at supper,07/2023
+GME0760,Ramipril,One tab at supper,11/2023
+GME0761,Amoxicillin,Discontinued,09/2021
+GME0761,Atorvastatin,One tab at supper,01/2023
+GME0762,Metformin,One tab at supper,09/2023
+GME0762,Amoxicillin,Discontinued,06/2025
+GME0762,Atorvastatin,One tab at supper,08/2023
+GME0762,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0762,Ramipril,One tab at supper,07/2023
+GME0763,Metformin,One tab at supper,06/2024
+GME0763,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0763,Atorvastatin,One tab at supper,08/2024
+GME0764,Ramipril,One tab at supper,07/2021
+GME0764,ASA,One tab at breakfast,10/2020
+GME0764,Glyburide,Two tabs twice daily,05/2025
+GME0764,Atorvastatin,One tab at supper,02/2024
+GME0765,Amoxicillin,Discontinued,02/2024
+GME0765,Ramipril,One tab at supper,12/2023
+GME0765,Atorvastatin,One tab at supper,06/2020
+GME0766,Metformin,One tab at supper,08/2024
+GME0766,ASA,One tab at breakfast,06/2023
+GME0766,Hydrochlorothiazide,One tab at breakfast,06/2025
+GME0767,Glyburide,Two tabs twice daily,11/2023
+GME0767,Metformin,One tab at supper,05/2024
+GME0767,ASA,One tab at breakfast,04/2023
+GME0768,Amoxicillin,Discontinued,10/2024
+GME0768,ASA,One tab at breakfast,02/2023
+GME0769,Atorvastatin,One tab at supper,10/2024
+GME0769,Amoxicillin,Discontinued,07/2021
+GME0769,ASA,One tab at breakfast,10/2024
+GME0769,Metformin,One tab at supper,09/2024
+GME0770,ASA,One tab at breakfast,09/2023
+GME0770,Ramipril,One tab at supper,10/2022
+GME0770,Glyburide,Two tabs twice daily,03/2022
+GME0770,Amoxicillin,Discontinued,10/2021
+GME0771,Glyburide,Two tabs twice daily,11/2023
+GME0771,Ramipril,One tab at supper,06/2023
+GME0771,Amoxicillin,Discontinued,11/2022
+GME0771,Atorvastatin,One tab at supper,06/2022
+GME0771,Metformin,One tab at supper,11/2021
+GME0772,Amoxicillin,Discontinued,06/2024
+GME0772,Glyburide,Two tabs twice daily,09/2024
+GME0773,Glyburide,Two tabs twice daily,07/2022
+GME0773,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0774,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0774,Amoxicillin,Discontinued,01/2021
+GME0775,ASA,One tab at breakfast,05/2023
+GME0775,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0775,Glyburide,Two tabs twice daily,08/2022
+GME0775,Metformin,One tab at supper,04/2021
+GME0775,Atorvastatin,One tab at supper,07/2024
+GME0776,Amoxicillin,Discontinued,10/2024
+GME0776,Ramipril,One tab at supper,11/2023
+GME0776,ASA,One tab at breakfast,12/2020
+GME0776,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0776,Metformin,One tab at supper,03/2023
+GME0777,Atorvastatin,One tab at supper,10/2021
+GME0777,Hydrochlorothiazide,One tab at breakfast,02/2023
+GME0778,Metformin,One tab at supper,09/2023
+GME0778,Ramipril,One tab at supper,12/2020
+GME0778,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0778,Glyburide,Two tabs twice daily,10/2020
+GME0778,Amoxicillin,Discontinued,10/2021
+GME0779,Metformin,One tab at supper,08/2021
+GME0779,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0779,ASA,One tab at breakfast,02/2021
+GME0780,Ramipril,One tab at supper,06/2023
+GME0780,Metformin,One tab at supper,04/2022
+GME0780,Glyburide,Two tabs twice daily,08/2021
+GME0780,Amoxicillin,Discontinued,09/2020
+GME0781,Atorvastatin,One tab at supper,07/2024
+GME0781,Hydrochlorothiazide,One tab at breakfast,12/2022
+GME0782,Glyburide,Two tabs twice daily,05/2024
+GME0782,Amoxicillin,Discontinued,11/2024
+GME0782,Atorvastatin,One tab at supper,07/2021
+GME0783,Ramipril,One tab at supper,02/2024
+GME0783,Metformin,One tab at supper,10/2022
+GME0783,Glyburide,Two tabs twice daily,07/2020
+GME0783,ASA,One tab at breakfast,10/2023
+GME0783,Amoxicillin,Discontinued,09/2020
+GME0784,Glyburide,Two tabs twice daily,04/2024
+GME0784,Amoxicillin,Discontinued,06/2024
+GME0784,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0784,Metformin,One tab at supper,04/2021
+GME0784,Ramipril,One tab at supper,02/2025
+GME0785,Glyburide,Two tabs twice daily,05/2022
+GME0785,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0785,Atorvastatin,One tab at supper,03/2024
+GME0786,Atorvastatin,One tab at supper,05/2022
+GME0786,Ramipril,One tab at supper,05/2024
+GME0786,Metformin,One tab at supper,09/2020
+GME0787,ASA,One tab at breakfast,05/2022
+GME0787,Ramipril,One tab at supper,04/2021
+GME0787,Atorvastatin,One tab at supper,08/2021
+GME0787,Glyburide,Two tabs twice daily,12/2021
+GME0788,Ramipril,One tab at supper,09/2021
+GME0788,Amoxicillin,Discontinued,01/2023
+GME0788,Hydrochlorothiazide,One tab at breakfast,08/2021
+GME0789,Glyburide,Two tabs twice daily,05/2024
+GME0789,Metformin,One tab at supper,10/2023
+GME0789,Ramipril,One tab at supper,07/2024
+GME0790,Atorvastatin,One tab at supper,08/2023
+GME0790,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0790,Metformin,One tab at supper,06/2021
+GME0790,Amoxicillin,Discontinued,02/2022
+GME0791,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0791,Metformin,One tab at supper,03/2024
+GME0791,Atorvastatin,One tab at supper,10/2023
+GME0791,Amoxicillin,Discontinued,12/2024
+GME0792,Hydrochlorothiazide,One tab at breakfast,06/2020
+GME0792,Metformin,One tab at supper,09/2020
+GME0792,ASA,One tab at breakfast,06/2023
+GME0793,Amoxicillin,Discontinued,10/2021
+GME0793,ASA,One tab at breakfast,04/2022
+GME0793,Metformin,One tab at supper,07/2023
+GME0793,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0793,Ramipril,One tab at supper,12/2023
+GME0794,Glyburide,Two tabs twice daily,10/2021
+GME0794,Ramipril,One tab at supper,03/2022
+GME0794,Atorvastatin,One tab at supper,03/2024
+GME0794,ASA,One tab at breakfast,03/2023
+GME0795,ASA,One tab at breakfast,03/2024
+GME0795,Ramipril,One tab at supper,07/2021
+GME0795,Glyburide,Two tabs twice daily,05/2021
+GME0795,Atorvastatin,One tab at supper,11/2022
+GME0796,Ramipril,One tab at supper,10/2020
+GME0796,Amoxicillin,Discontinued,02/2023
+GME0796,Glyburide,Two tabs twice daily,10/2022
+GME0796,ASA,One tab at breakfast,02/2025
+GME0796,Metformin,One tab at supper,04/2021
+GME0797,Atorvastatin,One tab at supper,11/2022
+GME0797,Glyburide,Two tabs twice daily,10/2020
+GME0797,Metformin,One tab at supper,02/2024
+GME0797,Ramipril,One tab at supper,06/2023
+GME0798,Atorvastatin,One tab at supper,06/2025
+GME0798,Amoxicillin,Discontinued,10/2022
+GME0798,Metformin,One tab at supper,01/2021
+GME0798,Glyburide,Two tabs twice daily,07/2020
+GME0798,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0799,ASA,One tab at breakfast,01/2025
+GME0799,Glyburide,Two tabs twice daily,02/2025
+GME0799,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0799,Atorvastatin,One tab at supper,09/2024
+GME0800,Atorvastatin,One tab at supper,04/2025
+GME0800,Metformin,One tab at supper,02/2021
+GME0801,Glyburide,Two tabs twice daily,07/2024
+GME0801,ASA,One tab at breakfast,02/2023
+GME0802,Hydrochlorothiazide,One tab at breakfast,01/2021
+GME0802,Ramipril,One tab at supper,11/2023
+GME0802,Metformin,One tab at supper,04/2024
+GME0803,Glyburide,Two tabs twice daily,01/2021
+GME0803,ASA,One tab at breakfast,06/2024
+GME0803,Metformin,One tab at supper,06/2024
+GME0804,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0804,Metformin,One tab at supper,01/2022
+GME0805,Glyburide,Two tabs twice daily,03/2021
+GME0805,Hydrochlorothiazide,One tab at breakfast,06/2025
+GME0805,Amoxicillin,Discontinued,04/2022
+GME0805,Metformin,One tab at supper,06/2023
+GME0805,ASA,One tab at breakfast,04/2023
+GME0806,Glyburide,Two tabs twice daily,10/2021
+GME0806,Atorvastatin,One tab at supper,05/2024
+GME0806,Amoxicillin,Discontinued,01/2024
+GME0806,Ramipril,One tab at supper,02/2022
+GME0806,Metformin,One tab at supper,08/2021
+GME0807,Ramipril,One tab at supper,08/2024
+GME0807,Atorvastatin,One tab at supper,04/2025
+GME0807,Glyburide,Two tabs twice daily,03/2022
+GME0808,Ramipril,One tab at supper,03/2021
+GME0808,Glyburide,Two tabs twice daily,06/2025
+GME0808,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0808,Atorvastatin,One tab at supper,08/2020
+GME0809,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0809,Metformin,One tab at supper,06/2020
+GME0809,Ramipril,One tab at supper,03/2025
+GME0809,Amoxicillin,Discontinued,10/2020
+GME0809,ASA,One tab at breakfast,09/2023
+GME0810,Hydrochlorothiazide,One tab at breakfast,09/2022
+GME0810,Glyburide,Two tabs twice daily,08/2021
+GME0810,Ramipril,One tab at supper,03/2025
+GME0810,Amoxicillin,Discontinued,08/2022
+GME0811,Ramipril,One tab at supper,03/2025
+GME0811,ASA,One tab at breakfast,08/2024
+GME0811,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0812,Metformin,One tab at supper,01/2022
+GME0812,ASA,One tab at breakfast,06/2024
+GME0813,Ramipril,One tab at supper,02/2021
+GME0813,Glyburide,Two tabs twice daily,04/2024
+GME0813,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0814,Glyburide,Two tabs twice daily,02/2024
+GME0814,Amoxicillin,Discontinued,08/2024
+GME0815,Amoxicillin,Discontinued,11/2021
+GME0815,Glyburide,Two tabs twice daily,03/2022
+GME0816,Metformin,One tab at supper,03/2021
+GME0816,Ramipril,One tab at supper,10/2022
+GME0817,ASA,One tab at breakfast,05/2021
+GME0817,Ramipril,One tab at supper,11/2020
+GME0817,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0817,Metformin,One tab at supper,11/2023
+GME0818,Amoxicillin,Discontinued,02/2025
+GME0818,Atorvastatin,One tab at supper,02/2022
+GME0818,ASA,One tab at breakfast,06/2021
+GME0819,ASA,One tab at breakfast,12/2021
+GME0819,Atorvastatin,One tab at supper,01/2023
+GME0819,Ramipril,One tab at supper,02/2024
+GME0819,Metformin,One tab at supper,09/2024
+GME0819,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0820,Amoxicillin,Discontinued,07/2024
+GME0820,ASA,One tab at breakfast,11/2021
+GME0821,ASA,One tab at breakfast,02/2023
+GME0821,Metformin,One tab at supper,09/2024
+GME0822,ASA,One tab at breakfast,05/2021
+GME0822,Amoxicillin,Discontinued,01/2022
+GME0822,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0822,Atorvastatin,One tab at supper,03/2024
+GME0823,Metformin,One tab at supper,03/2023
+GME0823,Glyburide,Two tabs twice daily,05/2025
+GME0823,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0823,ASA,One tab at breakfast,08/2020
+GME0824,Glyburide,Two tabs twice daily,12/2024
+GME0824,ASA,One tab at breakfast,08/2021
+GME0824,Ramipril,One tab at supper,03/2024
+GME0824,Atorvastatin,One tab at supper,02/2021
+GME0824,Amoxicillin,Discontinued,05/2021
+GME0825,Glyburide,Two tabs twice daily,08/2022
+GME0825,Metformin,One tab at supper,08/2022
+GME0825,ASA,One tab at breakfast,03/2024
+GME0825,Ramipril,One tab at supper,03/2025
+GME0825,Atorvastatin,One tab at supper,11/2022
+GME0826,Ramipril,One tab at supper,01/2023
+GME0826,Atorvastatin,One tab at supper,06/2021
+GME0826,Metformin,One tab at supper,11/2022
+GME0826,Amoxicillin,Discontinued,12/2021
+GME0826,ASA,One tab at breakfast,10/2021
+GME0827,Amoxicillin,Discontinued,10/2022
+GME0827,Ramipril,One tab at supper,04/2024
+GME0827,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0827,Atorvastatin,One tab at supper,11/2021
+GME0828,Glyburide,Two tabs twice daily,08/2021
+GME0828,Metformin,One tab at supper,02/2024
+GME0828,Amoxicillin,Discontinued,09/2022
+GME0829,ASA,One tab at breakfast,08/2024
+GME0829,Glyburide,Two tabs twice daily,11/2023
+GME0830,Amoxicillin,Discontinued,12/2023
+GME0830,Glyburide,Two tabs twice daily,01/2024
+GME0830,Ramipril,One tab at supper,02/2025
+GME0830,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0830,Atorvastatin,One tab at supper,02/2022
+GME0831,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0831,Metformin,One tab at supper,11/2021
+GME0831,Amoxicillin,Discontinued,04/2025
+GME0832,Metformin,One tab at supper,04/2023
+GME0832,Glyburide,Two tabs twice daily,11/2020
+GME0833,ASA,One tab at breakfast,03/2023
+GME0833,Glyburide,Two tabs twice daily,02/2024
+GME0833,Hydrochlorothiazide,One tab at breakfast,03/2022
+GME0833,Metformin,One tab at supper,01/2024
+GME0834,ASA,One tab at breakfast,12/2023
+GME0834,Amoxicillin,Discontinued,06/2021
+GME0834,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0834,Ramipril,One tab at supper,01/2022
+GME0834,Glyburide,Two tabs twice daily,04/2022
+GME0835,Glyburide,Two tabs twice daily,05/2023
+GME0835,Atorvastatin,One tab at supper,12/2020
+GME0835,ASA,One tab at breakfast,06/2024
+GME0835,Metformin,One tab at supper,02/2021
+GME0835,Ramipril,One tab at supper,07/2021
+GME0836,Ramipril,One tab at supper,04/2024
+GME0836,Glyburide,Two tabs twice daily,06/2023
+GME0837,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0837,Ramipril,One tab at supper,01/2021
+GME0837,ASA,One tab at breakfast,02/2022
+GME0838,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0838,Glyburide,Two tabs twice daily,02/2022
+GME0839,Atorvastatin,One tab at supper,04/2024
+GME0839,Amoxicillin,Discontinued,12/2024
+GME0839,Hydrochlorothiazide,One tab at breakfast,09/2021
+GME0839,Glyburide,Two tabs twice daily,06/2025
+GME0839,Metformin,One tab at supper,09/2024
+GME0840,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0840,Amoxicillin,Discontinued,03/2022
+GME0841,Glyburide,Two tabs twice daily,08/2022
+GME0841,Ramipril,One tab at supper,11/2021
+GME0841,Amoxicillin,Discontinued,06/2021
+GME0841,Metformin,One tab at supper,01/2025
+GME0842,ASA,One tab at breakfast,04/2024
+GME0842,Atorvastatin,One tab at supper,11/2023
+GME0842,Glyburide,Two tabs twice daily,06/2025
+GME0843,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0843,Metformin,One tab at supper,03/2023
+GME0844,Metformin,One tab at supper,10/2021
+GME0844,Glyburide,Two tabs twice daily,05/2025
+GME0845,Glyburide,Two tabs twice daily,04/2023
+GME0845,ASA,One tab at breakfast,06/2023
+GME0845,Amoxicillin,Discontinued,06/2022
+GME0845,Hydrochlorothiazide,One tab at breakfast,08/2024
+GME0846,ASA,One tab at breakfast,11/2024
+GME0846,Ramipril,One tab at supper,09/2022
+GME0846,Glyburide,Two tabs twice daily,06/2021
+GME0846,Atorvastatin,One tab at supper,06/2021
+GME0847,Ramipril,One tab at supper,10/2022
+GME0847,ASA,One tab at breakfast,05/2022
+GME0847,Amoxicillin,Discontinued,10/2021
+GME0848,Hydrochlorothiazide,One tab at breakfast,07/2024
+GME0848,Atorvastatin,One tab at supper,06/2024
+GME0849,ASA,One tab at breakfast,10/2024
+GME0849,Ramipril,One tab at supper,09/2024
+GME0849,Atorvastatin,One tab at supper,07/2024
+GME0849,Glyburide,Two tabs twice daily,09/2024
+GME0849,Amoxicillin,Discontinued,02/2022
+GME0850,Glyburide,Two tabs twice daily,04/2023
+GME0850,Amoxicillin,Discontinued,06/2023
+GME0850,Ramipril,One tab at supper,04/2025
+GME0850,ASA,One tab at breakfast,02/2021
+GME0850,Metformin,One tab at supper,11/2024
+GME0851,Ramipril,One tab at supper,08/2023
+GME0851,Glyburide,Two tabs twice daily,05/2023
+GME0851,Amoxicillin,Discontinued,04/2023
+GME0851,Atorvastatin,One tab at supper,07/2024
+GME0851,ASA,One tab at breakfast,02/2025
+GME0852,ASA,One tab at breakfast,06/2022
+GME0852,Metformin,One tab at supper,02/2025
+GME0853,Ramipril,One tab at supper,11/2022
+GME0853,ASA,One tab at breakfast,07/2020
+GME0854,Glyburide,Two tabs twice daily,10/2021
+GME0854,Atorvastatin,One tab at supper,03/2023
+GME0854,Ramipril,One tab at supper,03/2021
+GME0854,Hydrochlorothiazide,One tab at breakfast,12/2021
+GME0854,ASA,One tab at breakfast,05/2025
+GME0855,ASA,One tab at breakfast,01/2025
+GME0855,Metformin,One tab at supper,11/2021
+GME0855,Hydrochlorothiazide,One tab at breakfast,11/2024
+GME0855,Amoxicillin,Discontinued,10/2021
+GME0855,Atorvastatin,One tab at supper,12/2024
+GME0856,Glyburide,Two tabs twice daily,10/2020
+GME0856,Ramipril,One tab at supper,06/2020
+GME0856,ASA,One tab at breakfast,05/2022
+GME0857,Glyburide,Two tabs twice daily,04/2021
+GME0857,Amoxicillin,Discontinued,08/2023
+GME0857,ASA,One tab at breakfast,01/2022
+GME0858,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0858,Ramipril,One tab at supper,06/2022
+GME0858,ASA,One tab at breakfast,09/2020
+GME0859,Metformin,One tab at supper,09/2022
+GME0859,Glyburide,Two tabs twice daily,12/2022
+GME0859,Atorvastatin,One tab at supper,05/2021
+GME0860,ASA,One tab at breakfast,09/2023
+GME0860,Atorvastatin,One tab at supper,12/2024
+GME0861,Ramipril,One tab at supper,10/2023
+GME0861,Amoxicillin,Discontinued,08/2020
+GME0861,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0861,Atorvastatin,One tab at supper,02/2021
+GME0862,Atorvastatin,One tab at supper,09/2024
+GME0862,Amoxicillin,Discontinued,02/2021
+GME0862,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0862,ASA,One tab at breakfast,03/2022
+GME0862,Glyburide,Two tabs twice daily,02/2025
+GME0863,Amoxicillin,Discontinued,04/2025
+GME0863,ASA,One tab at breakfast,01/2023
+GME0863,Glyburide,Two tabs twice daily,12/2024
+GME0863,Hydrochlorothiazide,One tab at breakfast,10/2024
+GME0864,Amoxicillin,Discontinued,12/2023
+GME0864,Ramipril,One tab at supper,03/2025
+GME0865,Glyburide,Two tabs twice daily,07/2022
+GME0865,Hydrochlorothiazide,One tab at breakfast,10/2021
+GME0865,ASA,One tab at breakfast,02/2025
+GME0865,Amoxicillin,Discontinued,05/2021
+GME0866,ASA,One tab at breakfast,07/2021
+GME0866,Atorvastatin,One tab at supper,05/2024
+GME0866,Ramipril,One tab at supper,12/2023
+GME0866,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0866,Glyburide,Two tabs twice daily,06/2023
+GME0867,Metformin,One tab at supper,12/2023
+GME0867,ASA,One tab at breakfast,07/2023
+GME0868,ASA,One tab at breakfast,03/2025
+GME0868,Amoxicillin,Discontinued,07/2021
+GME0868,Glyburide,Two tabs twice daily,02/2022
+GME0868,Metformin,One tab at supper,12/2024
+GME0868,Ramipril,One tab at supper,08/2024
+GME0869,Glyburide,Two tabs twice daily,08/2024
+GME0869,Ramipril,One tab at supper,01/2021
+GME0869,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0869,Amoxicillin,Discontinued,05/2024
+GME0869,Metformin,One tab at supper,12/2020
+GME0870,Atorvastatin,One tab at supper,08/2022
+GME0870,Metformin,One tab at supper,12/2021
+GME0870,Amoxicillin,Discontinued,05/2025
+GME0870,ASA,One tab at breakfast,06/2022
+GME0870,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0871,ASA,One tab at breakfast,04/2024
+GME0871,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0871,Glyburide,Two tabs twice daily,03/2023
+GME0871,Metformin,One tab at supper,12/2021
+GME0872,Glyburide,Two tabs twice daily,06/2023
+GME0872,Metformin,One tab at supper,01/2021
+GME0872,ASA,One tab at breakfast,09/2020
+GME0872,Amoxicillin,Discontinued,05/2025
+GME0872,Atorvastatin,One tab at supper,01/2022
+GME0873,Glyburide,Two tabs twice daily,09/2023
+GME0873,ASA,One tab at breakfast,06/2024
+GME0873,Metformin,One tab at supper,10/2022
+GME0873,Atorvastatin,One tab at supper,01/2025
+GME0874,Amoxicillin,Discontinued,10/2020
+GME0874,Atorvastatin,One tab at supper,05/2023
+GME0875,Glyburide,Two tabs twice daily,09/2024
+GME0875,ASA,One tab at breakfast,11/2020
+GME0875,Ramipril,One tab at supper,10/2020
+GME0875,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0876,Metformin,One tab at supper,01/2025
+GME0876,Ramipril,One tab at supper,10/2024
+GME0876,Atorvastatin,One tab at supper,02/2023
+GME0876,Glyburide,Two tabs twice daily,12/2023
+GME0876,Amoxicillin,Discontinued,08/2022
+GME0877,Atorvastatin,One tab at supper,12/2020
+GME0877,ASA,One tab at breakfast,08/2022
+GME0877,Metformin,One tab at supper,06/2021
+GME0877,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0877,Glyburide,Two tabs twice daily,10/2020
+GME0878,Atorvastatin,One tab at supper,12/2022
+GME0878,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0878,ASA,One tab at breakfast,10/2024
+GME0878,Ramipril,One tab at supper,08/2023
+GME0878,Metformin,One tab at supper,04/2025
+GME0879,Metformin,One tab at supper,11/2020
+GME0879,Ramipril,One tab at supper,06/2022
+GME0879,Atorvastatin,One tab at supper,01/2023
+GME0879,Amoxicillin,Discontinued,11/2023
+GME0879,ASA,One tab at breakfast,11/2024
+GME0880,Ramipril,One tab at supper,08/2021
+GME0880,ASA,One tab at breakfast,04/2022
+GME0880,Amoxicillin,Discontinued,12/2024
+GME0880,Metformin,One tab at supper,01/2025
+GME0881,Metformin,One tab at supper,02/2023
+GME0881,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0881,ASA,One tab at breakfast,07/2022
+GME0881,Glyburide,Two tabs twice daily,10/2023
+GME0881,Amoxicillin,Discontinued,03/2024
+GME0882,Hydrochlorothiazide,One tab at breakfast,05/2025
+GME0882,Atorvastatin,One tab at supper,02/2023
+GME0882,Ramipril,One tab at supper,09/2022
+GME0882,Glyburide,Two tabs twice daily,02/2024
+GME0883,Amoxicillin,Discontinued,04/2021
+GME0883,Atorvastatin,One tab at supper,07/2021
+GME0883,ASA,One tab at breakfast,11/2021
+GME0883,Metformin,One tab at supper,01/2024
+GME0884,Atorvastatin,One tab at supper,09/2024
+GME0884,Ramipril,One tab at supper,07/2020
+GME0884,ASA,One tab at breakfast,05/2025
+GME0885,Atorvastatin,One tab at supper,01/2022
+GME0885,Metformin,One tab at supper,11/2022
+GME0886,Metformin,One tab at supper,05/2025
+GME0886,Amoxicillin,Discontinued,04/2024
+GME0887,Hydrochlorothiazide,One tab at breakfast,08/2023
+GME0887,ASA,One tab at breakfast,09/2022
+GME0887,Glyburide,Two tabs twice daily,09/2021
+GME0887,Atorvastatin,One tab at supper,03/2021
+GME0888,Metformin,One tab at supper,09/2024
+GME0888,Glyburide,Two tabs twice daily,02/2021
+GME0889,Amoxicillin,Discontinued,09/2022
+GME0889,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0890,Atorvastatin,One tab at supper,09/2020
+GME0890,Glyburide,Two tabs twice daily,06/2023
+GME0890,Amoxicillin,Discontinued,10/2022
+GME0891,Atorvastatin,One tab at supper,02/2023
+GME0891,Amoxicillin,Discontinued,03/2023
+GME0892,ASA,One tab at breakfast,10/2024
+GME0892,Amoxicillin,Discontinued,06/2022
+GME0892,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0892,Ramipril,One tab at supper,02/2021
+GME0893,Metformin,One tab at supper,02/2025
+GME0893,ASA,One tab at breakfast,08/2024
+GME0893,Amoxicillin,Discontinued,01/2022
+GME0894,ASA,One tab at breakfast,11/2024
+GME0894,Hydrochlorothiazide,One tab at breakfast,03/2024
+GME0894,Glyburide,Two tabs twice daily,07/2020
+GME0894,Ramipril,One tab at supper,08/2024
+GME0895,Amoxicillin,Discontinued,10/2024
+GME0895,Ramipril,One tab at supper,08/2023
+GME0895,Hydrochlorothiazide,One tab at breakfast,02/2024
+GME0896,Atorvastatin,One tab at supper,07/2023
+GME0896,Metformin,One tab at supper,03/2022
+GME0896,ASA,One tab at breakfast,09/2022
+GME0896,Glyburide,Two tabs twice daily,03/2022
+GME0897,Metformin,One tab at supper,05/2021
+GME0897,Ramipril,One tab at supper,06/2024
+GME0897,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0897,Amoxicillin,Discontinued,04/2023
+GME0897,Glyburide,Two tabs twice daily,03/2025
+GME0898,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0898,Glyburide,Two tabs twice daily,06/2023
+GME0898,Atorvastatin,One tab at supper,09/2022
+GME0899,Hydrochlorothiazide,One tab at breakfast,07/2021
+GME0899,Amoxicillin,Discontinued,02/2022
+GME0899,Ramipril,One tab at supper,04/2021
+GME0899,Glyburide,Two tabs twice daily,09/2020
+GME0900,Ramipril,One tab at supper,04/2024
+GME0900,Metformin,One tab at supper,04/2021
+GME0901,Amoxicillin,Discontinued,11/2022
+GME0901,Ramipril,One tab at supper,10/2021
+GME0901,Atorvastatin,One tab at supper,11/2022
+GME0901,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0901,Metformin,One tab at supper,06/2024
+GME0902,Ramipril,One tab at supper,09/2020
+GME0902,Glyburide,Two tabs twice daily,11/2022
+GME0902,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0902,Metformin,One tab at supper,07/2022
+GME0903,Metformin,One tab at supper,05/2021
+GME0903,Hydrochlorothiazide,One tab at breakfast,04/2024
+GME0903,ASA,One tab at breakfast,03/2022
+GME0903,Amoxicillin,Discontinued,03/2025
+GME0903,Atorvastatin,One tab at supper,10/2021
+GME0904,Amoxicillin,Discontinued,10/2020
+GME0904,Atorvastatin,One tab at supper,12/2022
+GME0904,ASA,One tab at breakfast,09/2021
+GME0905,Atorvastatin,One tab at supper,06/2023
+GME0905,Amoxicillin,Discontinued,01/2025
+GME0905,ASA,One tab at breakfast,07/2021
+GME0905,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0906,Ramipril,One tab at supper,02/2023
+GME0906,Hydrochlorothiazide,One tab at breakfast,08/2024
+GME0906,Amoxicillin,Discontinued,04/2023
+GME0906,Atorvastatin,One tab at supper,08/2021
+GME0906,ASA,One tab at breakfast,08/2023
+GME0907,Ramipril,One tab at supper,02/2022
+GME0907,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0907,Amoxicillin,Discontinued,12/2024
+GME0907,ASA,One tab at breakfast,01/2021
+GME0907,Metformin,One tab at supper,01/2021
+GME0908,Atorvastatin,One tab at supper,05/2022
+GME0908,Metformin,One tab at supper,07/2020
+GME0908,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0909,Glyburide,Two tabs twice daily,11/2022
+GME0909,Metformin,One tab at supper,10/2024
+GME0910,Metformin,One tab at supper,04/2025
+GME0910,Amoxicillin,Discontinued,04/2025
+GME0910,Glyburide,Two tabs twice daily,12/2021
+GME0910,Hydrochlorothiazide,One tab at breakfast,04/2023
+GME0911,Atorvastatin,One tab at supper,09/2022
+GME0911,Metformin,One tab at supper,10/2024
+GME0911,Ramipril,One tab at supper,11/2023
+GME0911,Amoxicillin,Discontinued,12/2021
+GME0911,ASA,One tab at breakfast,07/2023
+GME0912,Amoxicillin,Discontinued,01/2022
+GME0912,Metformin,One tab at supper,05/2021
+GME0912,Glyburide,Two tabs twice daily,09/2020
+GME0912,Ramipril,One tab at supper,03/2024
+GME0912,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0913,Glyburide,Two tabs twice daily,01/2021
+GME0913,Amoxicillin,Discontinued,08/2020
+GME0913,Hydrochlorothiazide,One tab at breakfast,01/2023
+GME0913,Metformin,One tab at supper,06/2025
+GME0913,Ramipril,One tab at supper,06/2025
+GME0914,Amoxicillin,Discontinued,09/2024
+GME0914,Atorvastatin,One tab at supper,05/2022
+GME0914,Glyburide,Two tabs twice daily,02/2025
+GME0914,Metformin,One tab at supper,12/2022
+GME0914,ASA,One tab at breakfast,03/2023
+GME0915,Glyburide,Two tabs twice daily,07/2023
+GME0915,Amoxicillin,Discontinued,12/2022
+GME0915,Hydrochlorothiazide,One tab at breakfast,08/2024
+GME0916,Metformin,One tab at supper,03/2024
+GME0916,Glyburide,Two tabs twice daily,09/2023
+GME0917,Ramipril,One tab at supper,10/2024
+GME0917,Amoxicillin,Discontinued,04/2023
+GME0917,Metformin,One tab at supper,02/2023
+GME0918,Amoxicillin,Discontinued,04/2023
+GME0918,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0918,Metformin,One tab at supper,06/2025
+GME0918,Atorvastatin,One tab at supper,04/2022
+GME0918,Glyburide,Two tabs twice daily,06/2022
+GME0919,Atorvastatin,One tab at supper,07/2021
+GME0919,Metformin,One tab at supper,06/2023
+GME0919,ASA,One tab at breakfast,07/2024
+GME0919,Ramipril,One tab at supper,03/2021
+GME0919,Amoxicillin,Discontinued,03/2023
+GME0920,Metformin,One tab at supper,07/2020
+GME0920,ASA,One tab at breakfast,12/2023
+GME0920,Glyburide,Two tabs twice daily,09/2023
+GME0920,Atorvastatin,One tab at supper,11/2024
+GME0921,Glyburide,Two tabs twice daily,05/2023
+GME0921,Hydrochlorothiazide,One tab at breakfast,02/2022
+GME0921,Amoxicillin,Discontinued,01/2025
+GME0921,ASA,One tab at breakfast,09/2022
+GME0922,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0922,Atorvastatin,One tab at supper,06/2023
+GME0922,Amoxicillin,Discontinued,11/2023
+GME0922,Glyburide,Two tabs twice daily,09/2020
+GME0923,Metformin,One tab at supper,02/2023
+GME0923,Ramipril,One tab at supper,02/2022
+GME0923,Amoxicillin,Discontinued,08/2024
+GME0923,Glyburide,Two tabs twice daily,12/2020
+GME0924,Glyburide,Two tabs twice daily,09/2023
+GME0924,Ramipril,One tab at supper,11/2020
+GME0925,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0925,Ramipril,One tab at supper,04/2023
+GME0926,Atorvastatin,One tab at supper,05/2022
+GME0926,Glyburide,Two tabs twice daily,04/2023
+GME0926,Ramipril,One tab at supper,03/2023
+GME0927,Amoxicillin,Discontinued,07/2020
+GME0927,Hydrochlorothiazide,One tab at breakfast,06/2024
+GME0928,Glyburide,Two tabs twice daily,01/2025
+GME0928,Ramipril,One tab at supper,09/2022
+GME0928,Amoxicillin,Discontinued,12/2023
+GME0928,Atorvastatin,One tab at supper,05/2021
+GME0928,ASA,One tab at breakfast,03/2023
+GME0929,Atorvastatin,One tab at supper,08/2023
+GME0929,Metformin,One tab at supper,05/2023
+GME0929,ASA,One tab at breakfast,10/2020
+GME0930,ASA,One tab at breakfast,11/2021
+GME0930,Metformin,One tab at supper,01/2021
+GME0930,Amoxicillin,Discontinued,11/2023
+GME0931,Ramipril,One tab at supper,01/2024
+GME0931,Amoxicillin,Discontinued,10/2023
+GME0931,Metformin,One tab at supper,03/2023
+GME0931,ASA,One tab at breakfast,12/2020
+GME0932,Glyburide,Two tabs twice daily,11/2022
+GME0932,ASA,One tab at breakfast,03/2022
+GME0932,Metformin,One tab at supper,07/2024
+GME0933,Ramipril,One tab at supper,01/2025
+GME0933,Metformin,One tab at supper,04/2021
+GME0933,Glyburide,Two tabs twice daily,09/2020
+GME0934,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0934,Atorvastatin,One tab at supper,11/2020
+GME0934,Amoxicillin,Discontinued,09/2020
+GME0934,Metformin,One tab at supper,11/2024
+GME0935,Metformin,One tab at supper,08/2020
+GME0935,ASA,One tab at breakfast,05/2025
+GME0935,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0935,Atorvastatin,One tab at supper,05/2024
+GME0935,Ramipril,One tab at supper,09/2024
+GME0936,Metformin,One tab at supper,07/2020
+GME0936,Hydrochlorothiazide,One tab at breakfast,01/2022
+GME0937,Metformin,One tab at supper,12/2024
+GME0937,Amoxicillin,Discontinued,11/2021
+GME0938,Metformin,One tab at supper,03/2023
+GME0938,Atorvastatin,One tab at supper,09/2021
+GME0939,Metformin,One tab at supper,06/2022
+GME0939,Amoxicillin,Discontinued,07/2022
+GME0939,Atorvastatin,One tab at supper,12/2023
+GME0939,Glyburide,Two tabs twice daily,12/2024
+GME0939,ASA,One tab at breakfast,12/2020
+GME0940,Metformin,One tab at supper,03/2024
+GME0940,Glyburide,Two tabs twice daily,07/2024
+GME0940,Amoxicillin,Discontinued,12/2021
+GME0941,Amoxicillin,Discontinued,06/2024
+GME0941,ASA,One tab at breakfast,07/2023
+GME0941,Metformin,One tab at supper,03/2025
+GME0941,Hydrochlorothiazide,One tab at breakfast,12/2024
+GME0941,Glyburide,Two tabs twice daily,06/2024
+GME0942,Metformin,One tab at supper,09/2020
+GME0942,ASA,One tab at breakfast,10/2021
+GME0943,Ramipril,One tab at supper,09/2020
+GME0943,ASA,One tab at breakfast,04/2024
+GME0943,Atorvastatin,One tab at supper,11/2020
+GME0943,Glyburide,Two tabs twice daily,09/2023
+GME0944,Metformin,One tab at supper,11/2024
+GME0944,ASA,One tab at breakfast,07/2021
+GME0944,Glyburide,Two tabs twice daily,07/2024
+GME0944,Hydrochlorothiazide,One tab at breakfast,05/2022
+GME0945,Glyburide,Two tabs twice daily,11/2022
+GME0945,Atorvastatin,One tab at supper,05/2025
+GME0945,ASA,One tab at breakfast,12/2022
+GME0945,Hydrochlorothiazide,One tab at breakfast,05/2025
+GME0946,Glyburide,Two tabs twice daily,09/2023
+GME0946,Hydrochlorothiazide,One tab at breakfast,03/2025
+GME0946,ASA,One tab at breakfast,07/2022
+GME0947,Atorvastatin,One tab at supper,01/2023
+GME0947,Hydrochlorothiazide,One tab at breakfast,09/2024
+GME0947,Ramipril,One tab at supper,04/2021
+GME0948,Glyburide,Two tabs twice daily,03/2024
+GME0948,Ramipril,One tab at supper,01/2024
+GME0948,ASA,One tab at breakfast,05/2023
+GME0949,Atorvastatin,One tab at supper,12/2022
+GME0949,Hydrochlorothiazide,One tab at breakfast,08/2020
+GME0949,ASA,One tab at breakfast,11/2020
+GME0950,ASA,One tab at breakfast,03/2023
+GME0950,Amoxicillin,Discontinued,02/2023
+GME0950,Glyburide,Two tabs twice daily,01/2024
+GME0950,Hydrochlorothiazide,One tab at breakfast,11/2022
+GME0950,Ramipril,One tab at supper,07/2023
+GME0951,Atorvastatin,One tab at supper,12/2023
+GME0951,ASA,One tab at breakfast,08/2022
+GME0951,Amoxicillin,Discontinued,09/2022
+GME0952,Hydrochlorothiazide,One tab at breakfast,01/2024
+GME0952,Metformin,One tab at supper,08/2024
+GME0952,ASA,One tab at breakfast,07/2020
+GME0953,Glyburide,Two tabs twice daily,06/2021
+GME0953,Metformin,One tab at supper,04/2024
+GME0953,Hydrochlorothiazide,One tab at breakfast,09/2020
+GME0953,Ramipril,One tab at supper,09/2024
+GME0953,ASA,One tab at breakfast,07/2021
+GME0954,Atorvastatin,One tab at supper,02/2024
+GME0954,Ramipril,One tab at supper,07/2022
+GME0955,Atorvastatin,One tab at supper,01/2024
+GME0955,Metformin,One tab at supper,03/2023
+GME0955,Glyburide,Two tabs twice daily,08/2024
+GME0955,Ramipril,One tab at supper,10/2022
+GME0956,Atorvastatin,One tab at supper,01/2025
+GME0956,ASA,One tab at breakfast,06/2023
+GME0956,Hydrochlorothiazide,One tab at breakfast,10/2022
+GME0957,ASA,One tab at breakfast,09/2024
+GME0957,Amoxicillin,Discontinued,05/2024
+GME0958,Metformin,One tab at supper,12/2021
+GME0958,Atorvastatin,One tab at supper,01/2024
+GME0959,Glyburide,Two tabs twice daily,10/2021
+GME0959,Metformin,One tab at supper,08/2024
+GME0959,Ramipril,One tab at supper,07/2021
+GME0959,Atorvastatin,One tab at supper,12/2023
+GME0959,Amoxicillin,Discontinued,02/2024
+GME0960,Ramipril,One tab at supper,05/2022
+GME0960,Atorvastatin,One tab at supper,07/2021
+GME0961,Ramipril,One tab at supper,12/2020
+GME0961,Atorvastatin,One tab at supper,03/2025
+GME0961,Glyburide,Two tabs twice daily,04/2021
+GME0961,Amoxicillin,Discontinued,06/2025
+GME0961,Metformin,One tab at supper,01/2024
+GME0962,Metformin,One tab at supper,09/2024
+GME0962,Glyburide,Two tabs twice daily,03/2022
+GME0963,Amoxicillin,Discontinued,12/2021
+GME0963,Atorvastatin,One tab at supper,04/2021
+GME0963,Glyburide,Two tabs twice daily,04/2021
+GME0964,Atorvastatin,One tab at supper,09/2024
+GME0964,Ramipril,One tab at supper,05/2024
+GME0964,Amoxicillin,Discontinued,05/2025
+GME0964,Metformin,One tab at supper,12/2021
+GME0965,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0965,ASA,One tab at breakfast,05/2021
+GME0965,Ramipril,One tab at supper,02/2021
+GME0965,Amoxicillin,Discontinued,05/2025
+GME0966,Hydrochlorothiazide,One tab at breakfast,10/2020
+GME0966,Amoxicillin,Discontinued,08/2022
+GME0967,Atorvastatin,One tab at supper,04/2025
+GME0967,Glyburide,Two tabs twice daily,03/2022
+GME0967,ASA,One tab at breakfast,01/2024
+GME0967,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0968,Amoxicillin,Discontinued,03/2025
+GME0968,Ramipril,One tab at supper,07/2021
+GME0968,Metformin,One tab at supper,07/2023
+GME0969,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0969,Ramipril,One tab at supper,08/2020
+GME0969,Amoxicillin,Discontinued,06/2021
+GME0970,Ramipril,One tab at supper,10/2021
+GME0970,ASA,One tab at breakfast,07/2023
+GME0970,Metformin,One tab at supper,05/2024
+GME0970,Amoxicillin,Discontinued,08/2020
+GME0970,Hydrochlorothiazide,One tab at breakfast,05/2021
+GME0971,Atorvastatin,One tab at supper,10/2024
+GME0971,Metformin,One tab at supper,04/2024
+GME0971,ASA,One tab at breakfast,05/2024
+GME0971,Ramipril,One tab at supper,09/2021
+GME0972,ASA,One tab at breakfast,06/2023
+GME0972,Metformin,One tab at supper,10/2020
+GME0972,Atorvastatin,One tab at supper,08/2022
+GME0972,Glyburide,Two tabs twice daily,10/2023
+GME0972,Ramipril,One tab at supper,09/2021
+GME0973,Amoxicillin,Discontinued,07/2023
+GME0973,Atorvastatin,One tab at supper,02/2022
+GME0973,Metformin,One tab at supper,10/2023
+GME0973,ASA,One tab at breakfast,11/2020
+GME0974,ASA,One tab at breakfast,01/2025
+GME0974,Ramipril,One tab at supper,07/2021
+GME0974,Hydrochlorothiazide,One tab at breakfast,08/2022
+GME0975,Glyburide,Two tabs twice daily,04/2022
+GME0975,Amoxicillin,Discontinued,09/2024
+GME0976,Atorvastatin,One tab at supper,09/2023
+GME0976,Ramipril,One tab at supper,11/2024
+GME0977,Ramipril,One tab at supper,06/2025
+GME0977,ASA,One tab at breakfast,11/2022
+GME0977,Amoxicillin,Discontinued,02/2021
+GME0977,Hydrochlorothiazide,One tab at breakfast,03/2023
+GME0977,Atorvastatin,One tab at supper,10/2023
+GME0978,ASA,One tab at breakfast,10/2021
+GME0978,Amoxicillin,Discontinued,06/2025
+GME0978,Glyburide,Two tabs twice daily,10/2024
+GME0978,Atorvastatin,One tab at supper,10/2022
+GME0979,Atorvastatin,One tab at supper,03/2023
+GME0979,Hydrochlorothiazide,One tab at breakfast,01/2025
+GME0980,Amoxicillin,Discontinued,09/2024
+GME0980,ASA,One tab at breakfast,08/2023
+GME0980,Ramipril,One tab at supper,02/2022
+GME0980,Metformin,One tab at supper,02/2023
+GME0981,Metformin,One tab at supper,12/2023
+GME0981,Hydrochlorothiazide,One tab at breakfast,06/2021
+GME0981,Amoxicillin,Discontinued,12/2020
+GME0981,Glyburide,Two tabs twice daily,07/2022
+GME0982,Atorvastatin,One tab at supper,01/2022
+GME0982,Glyburide,Two tabs twice daily,07/2023
+GME0982,ASA,One tab at breakfast,04/2021
+GME0982,Amoxicillin,Discontinued,07/2022
+GME0982,Metformin,One tab at supper,08/2021
+GME0983,Hydrochlorothiazide,One tab at breakfast,12/2020
+GME0983,Glyburide,Two tabs twice daily,05/2023
+GME0984,Ramipril,One tab at supper,05/2022
+GME0984,Hydrochlorothiazide,One tab at breakfast,11/2021
+GME0984,Glyburide,Two tabs twice daily,09/2022
+GME0985,Amoxicillin,Discontinued,01/2022
+GME0985,Atorvastatin,One tab at supper,05/2022
+GME0985,ASA,One tab at breakfast,03/2025
+GME0985,Hydrochlorothiazide,One tab at breakfast,07/2023
+GME0986,ASA,One tab at breakfast,05/2024
+GME0986,Glyburide,Two tabs twice daily,12/2021
+GME0987,Amoxicillin,Discontinued,01/2023
+GME0987,ASA,One tab at breakfast,08/2021
+GME0987,Hydrochlorothiazide,One tab at breakfast,03/2021
+GME0987,Metformin,One tab at supper,03/2024
+GME0987,Glyburide,Two tabs twice daily,06/2025
+GME0988,Amoxicillin,Discontinued,03/2025
+GME0988,Hydrochlorothiazide,One tab at breakfast,05/2023
+GME0989,Amoxicillin,Discontinued,01/2023
+GME0989,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0989,Atorvastatin,One tab at supper,10/2022
+GME0990,ASA,One tab at breakfast,02/2021
+GME0990,Hydrochlorothiazide,One tab at breakfast,06/2022
+GME0990,Metformin,One tab at supper,05/2023
+GME0990,Amoxicillin,Discontinued,11/2024
+GME0990,Ramipril,One tab at supper,09/2022
+GME0991,Atorvastatin,One tab at supper,07/2023
+GME0991,ASA,One tab at breakfast,05/2022
+GME0991,Glyburide,Two tabs twice daily,08/2023
+GME0991,Ramipril,One tab at supper,10/2021
+GME0991,Amoxicillin,Discontinued,04/2021
+GME0992,Ramipril,One tab at supper,08/2020
+GME0992,Amoxicillin,Discontinued,04/2023
+GME0993,Ramipril,One tab at supper,03/2025
+GME0993,ASA,One tab at breakfast,10/2024
+GME0993,Amoxicillin,Discontinued,11/2024
+GME0993,Hydrochlorothiazide,One tab at breakfast,04/2022
+GME0994,Ramipril,One tab at supper,06/2021
+GME0994,Hydrochlorothiazide,One tab at breakfast,07/2022
+GME0994,Metformin,One tab at supper,08/2021
+GME0994,Glyburide,Two tabs twice daily,04/2025
+GME0994,Amoxicillin,Discontinued,03/2021
+GME0995,Hydrochlorothiazide,One tab at breakfast,02/2025
+GME0995,Ramipril,One tab at supper,10/2024
+GME0995,Amoxicillin,Discontinued,01/2025
+GME0995,ASA,One tab at breakfast,04/2021
+GME0995,Metformin,One tab at supper,10/2020
+GME0996,Amoxicillin,Discontinued,01/2022
+GME0996,ASA,One tab at breakfast,05/2025
+GME0996,Hydrochlorothiazide,One tab at breakfast,09/2023
+GME0997,Glyburide,Two tabs twice daily,03/2021
+GME0997,ASA,One tab at breakfast,03/2021
+GME0998,Amoxicillin,Discontinued,12/2024
+GME0998,ASA,One tab at breakfast,05/2023
+GME0998,Atorvastatin,One tab at supper,01/2025
+GME0999,Glyburide,Two tabs twice daily,03/2024
+GME0999,Ramipril,One tab at supper,04/2021
+GME0999,Metformin,One tab at supper,08/2023
+GME0999,ASA,One tab at breakfast,06/2025

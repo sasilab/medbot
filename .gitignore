@@ -1,0 +1,8 @@
+.venv
+.env
+
+#specif folder
+research/
+
+# Python
+__pycache__/

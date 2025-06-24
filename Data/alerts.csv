@@ -1,0 +1,2522 @@
+PatientID,Alert
+GME0000,No known drug allergies
+GME0000,Td due
+GME0000,Allergies – Sulfa Drugs
+GME0001,Pap smear due
+GME0001,No known drug allergies
+GME0001,ATC above target
+GME0002,Td due
+GME0002,Allergies – Sulfa Drugs
+GME0002,No known drug allergies
+GME0003,ATC above target
+GME0003,No known drug allergies
+GME0004,Td due
+GME0005,No known drug allergies
+GME0005,Td due
+GME0005,ATC above target
+GME0005,Pap smear due
+GME0006,Pap smear due
+GME0006,Td due
+GME0006,No known drug allergies
+GME0006,Allergies – Sulfa Drugs
+GME0007,Pap smear due
+GME0007,No known drug allergies
+GME0007,ATC above target
+GME0007,Allergies – Sulfa Drugs
+GME0008,Allergies – Sulfa Drugs
+GME0008,ATC above target
+GME0008,Pap smear due
+GME0008,No known drug allergies
+GME0009,Pap smear due
+GME0009,Td due
+GME0009,Allergies – Sulfa Drugs
+GME0009,No known drug allergies
+GME0010,ATC above target
+GME0011,Allergies – Sulfa Drugs
+GME0011,Pap smear due
+GME0011,No known drug allergies
+GME0012,ATC above target
+GME0012,Allergies – Sulfa Drugs
+GME0012,No known drug allergies
+GME0013,No known drug allergies
+GME0013,Pap smear due
+GME0014,Pap smear due
+GME0014,Td due
+GME0014,No known drug allergies
+GME0014,Allergies – Sulfa Drugs
+GME0015,Pap smear due
+GME0015,Allergies – Sulfa Drugs
+GME0016,Pap smear due
+GME0016,No known drug allergies
+GME0016,ATC above target
+GME0016,Allergies – Sulfa Drugs
+GME0017,Td due
+GME0017,ATC above target
+GME0017,Pap smear due
+GME0018,Td due
+GME0018,No known drug allergies
+GME0018,Pap smear due
+GME0019,ATC above target
+GME0019,Allergies – Sulfa Drugs
+GME0019,Td due
+GME0019,Pap smear due
+GME0020,Pap smear due
+GME0020,Td due
+GME0020,No known drug allergies
+GME0021,Allergies – Sulfa Drugs
+GME0021,Pap smear due
+GME0021,Td due
+GME0021,No known drug allergies
+GME0022,Td due
+GME0023,Td due
+GME0023,Pap smear due
+GME0023,Allergies – Sulfa Drugs
+GME0023,ATC above target
+GME0024,ATC above target
+GME0024,Pap smear due
+GME0025,No known drug allergies
+GME0025,Td due
+GME0025,Pap smear due
+GME0025,ATC above target
+GME0026,ATC above target
+GME0026,Pap smear due
+GME0026,Td due
+GME0026,No known drug allergies
+GME0027,Pap smear due
+GME0027,ATC above target
+GME0028,No known drug allergies
+GME0028,Allergies – Sulfa Drugs
+GME0029,Allergies – Sulfa Drugs
+GME0030,Allergies – Sulfa Drugs
+GME0031,Pap smear due
+GME0031,No known drug allergies
+GME0031,Allergies – Sulfa Drugs
+GME0031,Td due
+GME0032,Pap smear due
+GME0033,Td due
+GME0033,Allergies – Sulfa Drugs
+GME0033,No known drug allergies
+GME0033,Pap smear due
+GME0034,Allergies – Sulfa Drugs
+GME0034,No known drug allergies
+GME0034,Td due
+GME0034,Pap smear due
+GME0035,Allergies – Sulfa Drugs
+GME0036,No known drug allergies
+GME0036,Td due
+GME0036,Allergies – Sulfa Drugs
+GME0037,Pap smear due
+GME0037,Allergies – Sulfa Drugs
+GME0037,ATC above target
+GME0037,Td due
+GME0038,Pap smear due
+GME0038,Td due
+GME0039,Td due
+GME0039,ATC above target
+GME0039,Allergies – Sulfa Drugs
+GME0040,ATC above target
+GME0040,No known drug allergies
+GME0040,Td due
+GME0041,Pap smear due
+GME0041,Td due
+GME0042,Allergies – Sulfa Drugs
+GME0043,ATC above target
+GME0044,ATC above target
+GME0044,No known drug allergies
+GME0044,Allergies – Sulfa Drugs
+GME0044,Td due
+GME0045,Allergies – Sulfa Drugs
+GME0045,ATC above target
+GME0046,Td due
+GME0046,Allergies – Sulfa Drugs
+GME0046,No known drug allergies
+GME0046,ATC above target
+GME0047,Pap smear due
+GME0047,ATC above target
+GME0048,Allergies – Sulfa Drugs
+GME0048,No known drug allergies
+GME0048,Td due
+GME0049,No known drug allergies
+GME0049,Allergies – Sulfa Drugs
+GME0049,ATC above target
+GME0050,Allergies – Sulfa Drugs
+GME0050,Pap smear due
+GME0050,Td due
+GME0051,ATC above target
+GME0051,Allergies – Sulfa Drugs
+GME0052,Pap smear due
+GME0052,No known drug allergies
+GME0052,Td due
+GME0053,No known drug allergies
+GME0053,Td due
+GME0053,Pap smear due
+GME0053,Allergies – Sulfa Drugs
+GME0054,No known drug allergies
+GME0055,Allergies – Sulfa Drugs
+GME0055,No known drug allergies
+GME0055,Pap smear due
+GME0056,Allergies – Sulfa Drugs
+GME0056,Td due
+GME0057,Td due
+GME0057,Allergies – Sulfa Drugs
+GME0057,No known drug allergies
+GME0057,Pap smear due
+GME0058,ATC above target
+GME0058,Pap smear due
+GME0058,No known drug allergies
+GME0058,Td due
+GME0059,Pap smear due
+GME0059,ATC above target
+GME0059,Allergies – Sulfa Drugs
+GME0059,No known drug allergies
+GME0060,Allergies – Sulfa Drugs
+GME0060,No known drug allergies
+GME0061,Pap smear due
+GME0061,ATC above target
+GME0061,Td due
+GME0062,ATC above target
+GME0062,Td due
+GME0063,Allergies – Sulfa Drugs
+GME0063,No known drug allergies
+GME0063,ATC above target
+GME0064,ATC above target
+GME0064,Td due
+GME0064,Pap smear due
+GME0065,Pap smear due
+GME0066,Pap smear due
+GME0067,ATC above target
+GME0067,No known drug allergies
+GME0067,Allergies – Sulfa Drugs
+GME0067,Td due
+GME0068,Td due
+GME0069,No known drug allergies
+GME0070,ATC above target
+GME0070,Allergies – Sulfa Drugs
+GME0070,Pap smear due
+GME0071,ATC above target
+GME0071,Allergies – Sulfa Drugs
+GME0071,Td due
+GME0071,No known drug allergies
+GME0072,ATC above target
+GME0072,Pap smear due
+GME0073,Td due
+GME0073,No known drug allergies
+GME0074,ATC above target
+GME0074,Pap smear due
+GME0074,Allergies – Sulfa Drugs
+GME0075,ATC above target
+GME0075,Td due
+GME0076,Td due
+GME0076,ATC above target
+GME0076,Allergies – Sulfa Drugs
+GME0076,Pap smear due
+GME0077,Pap smear due
+GME0077,ATC above target
+GME0077,Td due
+GME0078,ATC above target
+GME0078,Allergies – Sulfa Drugs
+GME0079,Td due
+GME0079,Allergies – Sulfa Drugs
+GME0080,Td due
+GME0080,ATC above target
+GME0080,Pap smear due
+GME0080,No known drug allergies
+GME0081,ATC above target
+GME0081,Pap smear due
+GME0081,No known drug allergies
+GME0082,No known drug allergies
+GME0082,Pap smear due
+GME0082,ATC above target
+GME0083,Pap smear due
+GME0083,ATC above target
+GME0083,No known drug allergies
+GME0084,ATC above target
+GME0084,Pap smear due
+GME0084,No known drug allergies
+GME0085,Td due
+GME0085,ATC above target
+GME0085,Pap smear due
+GME0085,Allergies – Sulfa Drugs
+GME0086,No known drug allergies
+GME0086,Pap smear due
+GME0087,ATC above target
+GME0088,ATC above target
+GME0088,Td due
+GME0089,ATC above target
+GME0090,Pap smear due
+GME0090,Td due
+GME0090,Allergies – Sulfa Drugs
+GME0090,No known drug allergies
+GME0091,ATC above target
+GME0091,No known drug allergies
+GME0092,ATC above target
+GME0093,No known drug allergies
+GME0093,ATC above target
+GME0093,Td due
+GME0093,Pap smear due
+GME0094,Td due
+GME0095,Allergies – Sulfa Drugs
+GME0096,Td due
+GME0096,Pap smear due
+GME0097,No known drug allergies
+GME0098,Td due
+GME0098,ATC above target
+GME0098,Allergies – Sulfa Drugs
+GME0098,No known drug allergies
+GME0099,Td due
+GME0100,No known drug allergies
+GME0100,Pap smear due
+GME0101,Td due
+GME0101,ATC above target
+GME0101,Pap smear due
+GME0101,Allergies – Sulfa Drugs
+GME0102,Allergies – Sulfa Drugs
+GME0102,ATC above target
+GME0102,No known drug allergies
+GME0103,ATC above target
+GME0103,Allergies – Sulfa Drugs
+GME0103,No known drug allergies
+GME0104,Td due
+GME0104,No known drug allergies
+GME0105,ATC above target
+GME0105,Pap smear due
+GME0105,Td due
+GME0106,Td due
+GME0106,ATC above target
+GME0106,Allergies – Sulfa Drugs
+GME0106,Pap smear due
+GME0107,Td due
+GME0107,Allergies – Sulfa Drugs
+GME0107,Pap smear due
+GME0107,ATC above target
+GME0108,Allergies – Sulfa Drugs
+GME0109,Allergies – Sulfa Drugs
+GME0109,Pap smear due
+GME0109,Td due
+GME0110,No known drug allergies
+GME0110,Pap smear due
+GME0111,Td due
+GME0111,ATC above target
+GME0112,Pap smear due
+GME0112,ATC above target
+GME0112,Td due
+GME0112,Allergies – Sulfa Drugs
+GME0113,ATC above target
+GME0113,No known drug allergies
+GME0114,No known drug allergies
+GME0115,ATC above target
+GME0115,No known drug allergies
+GME0116,Allergies – Sulfa Drugs
+GME0116,Pap smear due
+GME0116,No known drug allergies
+GME0116,ATC above target
+GME0117,No known drug allergies
+GME0118,No known drug allergies
+GME0119,Td due
+GME0119,No known drug allergies
+GME0120,ATC above target
+GME0120,Allergies – Sulfa Drugs
+GME0121,ATC above target
+GME0121,Td due
+GME0121,No known drug allergies
+GME0122,No known drug allergies
+GME0122,ATC above target
+GME0122,Td due
+GME0122,Allergies – Sulfa Drugs
+GME0123,Td due
+GME0123,ATC above target
+GME0123,No known drug allergies
+GME0124,Td due
+GME0124,Allergies – Sulfa Drugs
+GME0125,Td due
+GME0125,Allergies – Sulfa Drugs
+GME0126,Td due
+GME0126,Allergies – Sulfa Drugs
+GME0127,Td due
+GME0127,Pap smear due
+GME0128,ATC above target
+GME0128,Pap smear due
+GME0128,Td due
+GME0128,No known drug allergies
+GME0129,Pap smear due
+GME0129,ATC above target
+GME0129,Td due
+GME0129,Allergies – Sulfa Drugs
+GME0130,ATC above target
+GME0130,Td due
+GME0131,Pap smear due
+GME0131,Td due
+GME0132,No known drug allergies
+GME0132,Allergies – Sulfa Drugs
+GME0132,Pap smear due
+GME0132,ATC above target
+GME0133,Pap smear due
+GME0133,No known drug allergies
+GME0133,ATC above target
+GME0133,Td due
+GME0134,ATC above target
+GME0134,No known drug allergies
+GME0134,Td due
+GME0134,Pap smear due
+GME0135,Pap smear due
+GME0135,Allergies – Sulfa Drugs
+GME0135,Td due
+GME0135,ATC above target
+GME0136,Td due
+GME0136,Allergies – Sulfa Drugs
+GME0137,Pap smear due
+GME0137,Td due
+GME0137,Allergies – Sulfa Drugs
+GME0138,No known drug allergies
+GME0138,ATC above target
+GME0138,Td due
+GME0138,Allergies – Sulfa Drugs
+GME0139,Td due
+GME0140,No known drug allergies
+GME0140,Allergies – Sulfa Drugs
+GME0140,Td due
+GME0141,No known drug allergies
+GME0141,Pap smear due
+GME0141,ATC above target
+GME0141,Allergies – Sulfa Drugs
+GME0142,Td due
+GME0142,Allergies – Sulfa Drugs
+GME0143,Td due
+GME0143,No known drug allergies
+GME0143,Allergies – Sulfa Drugs
+GME0143,Pap smear due
+GME0144,Pap smear due
+GME0145,No known drug allergies
+GME0145,Td due
+GME0146,Pap smear due
+GME0146,No known drug allergies
+GME0146,Allergies – Sulfa Drugs
+GME0146,Td due
+GME0147,No known drug allergies
+GME0148,No known drug allergies
+GME0148,Td due
+GME0148,ATC above target
+GME0149,Td due
+GME0149,No known drug allergies
+GME0150,No known drug allergies
+GME0150,Td due
+GME0150,ATC above target
+GME0151,Pap smear due
+GME0152,Allergies – Sulfa Drugs
+GME0152,Td due
+GME0152,ATC above target
+GME0152,No known drug allergies
+GME0153,Pap smear due
+GME0153,No known drug allergies
+GME0154,Pap smear due
+GME0154,ATC above target
+GME0154,No known drug allergies
+GME0155,No known drug allergies
+GME0155,Td due
+GME0156,ATC above target
+GME0156,No known drug allergies
+GME0156,Allergies – Sulfa Drugs
+GME0156,Td due
+GME0157,No known drug allergies
+GME0157,Td due
+GME0157,ATC above target
+GME0157,Pap smear due
+GME0158,ATC above target
+GME0158,Td due
+GME0158,No known drug allergies
+GME0158,Allergies – Sulfa Drugs
+GME0159,ATC above target
+GME0160,Allergies – Sulfa Drugs
+GME0160,ATC above target
+GME0160,No known drug allergies
+GME0161,Pap smear due
+GME0161,ATC above target
+GME0161,No known drug allergies
+GME0161,Td due
+GME0162,Td due
+GME0162,Pap smear due
+GME0162,No known drug allergies
+GME0163,Td due
+GME0163,Allergies – Sulfa Drugs
+GME0163,ATC above target
+GME0163,No known drug allergies
+GME0164,Allergies – Sulfa Drugs
+GME0164,No known drug allergies
+GME0164,ATC above target
+GME0164,Pap smear due
+GME0165,Allergies – Sulfa Drugs
+GME0165,ATC above target
+GME0165,No known drug allergies
+GME0165,Td due
+GME0166,Pap smear due
+GME0166,Td due
+GME0166,Allergies – Sulfa Drugs
+GME0167,Td due
+GME0167,Allergies – Sulfa Drugs
+GME0167,Pap smear due
+GME0168,Allergies – Sulfa Drugs
+GME0168,ATC above target
+GME0169,Pap smear due
+GME0169,ATC above target
+GME0169,Td due
+GME0170,Allergies – Sulfa Drugs
+GME0171,Pap smear due
+GME0172,Allergies – Sulfa Drugs
+GME0172,Pap smear due
+GME0172,Td due
+GME0172,No known drug allergies
+GME0173,Allergies – Sulfa Drugs
+GME0173,No known drug allergies
+GME0173,Td due
+GME0173,Pap smear due
+GME0174,ATC above target
+GME0175,ATC above target
+GME0175,Allergies – Sulfa Drugs
+GME0176,ATC above target
+GME0176,Allergies – Sulfa Drugs
+GME0177,Allergies – Sulfa Drugs
+GME0178,Td due
+GME0178,No known drug allergies
+GME0178,Allergies – Sulfa Drugs
+GME0179,Pap smear due
+GME0179,No known drug allergies
+GME0179,Allergies – Sulfa Drugs
+GME0179,Td due
+GME0180,ATC above target
+GME0180,Td due
+GME0181,Pap smear due
+GME0181,ATC above target
+GME0182,Pap smear due
+GME0182,Allergies – Sulfa Drugs
+GME0182,ATC above target
+GME0182,Td due
+GME0183,No known drug allergies
+GME0184,Td due
+GME0184,ATC above target
+GME0184,Pap smear due
+GME0184,Allergies – Sulfa Drugs
+GME0185,Td due
+GME0185,Allergies – Sulfa Drugs
+GME0186,No known drug allergies
+GME0186,Td due
+GME0187,Td due
+GME0188,No known drug allergies
+GME0188,Pap smear due
+GME0189,Td due
+GME0189,Allergies – Sulfa Drugs
+GME0189,ATC above target
+GME0189,Pap smear due
+GME0190,Allergies – Sulfa Drugs
+GME0190,Pap smear due
+GME0190,ATC above target
+GME0190,No known drug allergies
+GME0191,Td due
+GME0192,Pap smear due
+GME0192,ATC above target
+GME0192,Td due
+GME0193,Td due
+GME0193,Pap smear due
+GME0193,ATC above target
+GME0193,Allergies – Sulfa Drugs
+GME0194,No known drug allergies
+GME0195,Allergies – Sulfa Drugs
+GME0196,Pap smear due
+GME0196,Allergies – Sulfa Drugs
+GME0196,ATC above target
+GME0197,No known drug allergies
+GME0197,Td due
+GME0197,ATC above target
+GME0197,Pap smear due
+GME0198,ATC above target
+GME0198,Allergies – Sulfa Drugs
+GME0198,Td due
+GME0198,No known drug allergies
+GME0199,Allergies – Sulfa Drugs
+GME0199,Td due
+GME0199,No known drug allergies
+GME0200,Pap smear due
+GME0200,Td due
+GME0201,No known drug allergies
+GME0201,Allergies – Sulfa Drugs
+GME0201,Pap smear due
+GME0201,Td due
+GME0202,Allergies – Sulfa Drugs
+GME0202,Pap smear due
+GME0203,ATC above target
+GME0204,ATC above target
+GME0205,Td due
+GME0206,Allergies – Sulfa Drugs
+GME0206,No known drug allergies
+GME0207,Allergies – Sulfa Drugs
+GME0207,Pap smear due
+GME0208,Td due
+GME0208,No known drug allergies
+GME0208,Allergies – Sulfa Drugs
+GME0208,Pap smear due
+GME0209,Td due
+GME0209,Allergies – Sulfa Drugs
+GME0210,Td due
+GME0211,Td due
+GME0211,Allergies – Sulfa Drugs
+GME0211,Pap smear due
+GME0211,ATC above target
+GME0212,ATC above target
+GME0212,Td due
+GME0212,Allergies – Sulfa Drugs
+GME0212,Pap smear due
+GME0213,Td due
+GME0213,Pap smear due
+GME0214,Allergies – Sulfa Drugs
+GME0214,No known drug allergies
+GME0214,ATC above target
+GME0215,Allergies – Sulfa Drugs
+GME0216,Pap smear due
+GME0217,ATC above target
+GME0218,ATC above target
+GME0218,Pap smear due
+GME0218,Allergies – Sulfa Drugs
+GME0219,No known drug allergies
+GME0220,Pap smear due
+GME0220,Td due
+GME0220,Allergies – Sulfa Drugs
+GME0220,No known drug allergies
+GME0221,Td due
+GME0221,Allergies – Sulfa Drugs
+GME0221,No known drug allergies
+GME0222,Allergies – Sulfa Drugs
+GME0222,No known drug allergies
+GME0222,ATC above target
+GME0223,No known drug allergies
+GME0223,Allergies – Sulfa Drugs
+GME0224,Allergies – Sulfa Drugs
+GME0224,ATC above target
+GME0224,Pap smear due
+GME0224,Td due
+GME0225,Allergies – Sulfa Drugs
+GME0225,ATC above target
+GME0225,No known drug allergies
+GME0226,Pap smear due
+GME0226,Td due
+GME0226,ATC above target
+GME0227,No known drug allergies
+GME0227,Pap smear due
+GME0227,ATC above target
+GME0228,No known drug allergies
+GME0228,ATC above target
+GME0228,Allergies – Sulfa Drugs
+GME0229,Pap smear due
+GME0229,Allergies – Sulfa Drugs
+GME0230,Allergies – Sulfa Drugs
+GME0230,Pap smear due
+GME0230,Td due
+GME0230,ATC above target
+GME0231,Td due
+GME0232,ATC above target
+GME0233,Allergies – Sulfa Drugs
+GME0233,Pap smear due
+GME0233,Td due
+GME0234,ATC above target
+GME0234,No known drug allergies
+GME0235,Pap smear due
+GME0236,Allergies – Sulfa Drugs
+GME0236,No known drug allergies
+GME0236,ATC above target
+GME0237,Td due
+GME0237,ATC above target
+GME0237,No known drug allergies
+GME0237,Allergies – Sulfa Drugs
+GME0238,No known drug allergies
+GME0239,ATC above target
+GME0239,Allergies – Sulfa Drugs
+GME0240,ATC above target
+GME0241,Pap smear due
+GME0241,Td due
+GME0242,Td due
+GME0242,ATC above target
+GME0242,No known drug allergies
+GME0243,Td due
+GME0243,ATC above target
+GME0243,Pap smear due
+GME0244,Allergies – Sulfa Drugs
+GME0244,Pap smear due
+GME0245,No known drug allergies
+GME0245,Allergies – Sulfa Drugs
+GME0246,Allergies – Sulfa Drugs
+GME0246,Pap smear due
+GME0247,ATC above target
+GME0247,Td due
+GME0247,Pap smear due
+GME0247,Allergies – Sulfa Drugs
+GME0248,Pap smear due
+GME0248,ATC above target
+GME0248,No known drug allergies
+GME0249,Td due
+GME0249,Allergies – Sulfa Drugs
+GME0249,ATC above target
+GME0249,No known drug allergies
+GME0250,No known drug allergies
+GME0250,Allergies – Sulfa Drugs
+GME0250,ATC above target
+GME0251,Pap smear due
+GME0251,Allergies – Sulfa Drugs
+GME0251,Td due
+GME0252,Td due
+GME0252,ATC above target
+GME0253,Td due
+GME0254,Pap smear due
+GME0254,Allergies – Sulfa Drugs
+GME0254,No known drug allergies
+GME0255,No known drug allergies
+GME0255,Pap smear due
+GME0255,Allergies – Sulfa Drugs
+GME0255,ATC above target
+GME0256,Pap smear due
+GME0257,Allergies – Sulfa Drugs
+GME0258,Pap smear due
+GME0259,Pap smear due
+GME0259,ATC above target
+GME0260,Allergies – Sulfa Drugs
+GME0260,Td due
+GME0260,No known drug allergies
+GME0261,Allergies – Sulfa Drugs
+GME0262,ATC above target
+GME0262,Pap smear due
+GME0263,Td due
+GME0264,Allergies – Sulfa Drugs
+GME0265,Allergies – Sulfa Drugs
+GME0265,Pap smear due
+GME0265,Td due
+GME0265,ATC above target
+GME0266,ATC above target
+GME0266,Allergies – Sulfa Drugs
+GME0266,Pap smear due
+GME0266,Td due
+GME0267,Td due
+GME0267,Pap smear due
+GME0268,Td due
+GME0268,No known drug allergies
+GME0269,Pap smear due
+GME0269,Allergies – Sulfa Drugs
+GME0269,Td due
+GME0269,ATC above target
+GME0270,ATC above target
+GME0270,No known drug allergies
+GME0270,Td due
+GME0271,Allergies – Sulfa Drugs
+GME0271,No known drug allergies
+GME0271,Pap smear due
+GME0271,Td due
+GME0272,ATC above target
+GME0272,Pap smear due
+GME0273,No known drug allergies
+GME0273,Allergies – Sulfa Drugs
+GME0274,Td due
+GME0274,ATC above target
+GME0274,No known drug allergies
+GME0274,Pap smear due
+GME0275,No known drug allergies
+GME0275,Td due
+GME0275,Pap smear due
+GME0276,Pap smear due
+GME0276,Allergies – Sulfa Drugs
+GME0276,No known drug allergies
+GME0277,Allergies – Sulfa Drugs
+GME0277,Td due
+GME0278,ATC above target
+GME0279,No known drug allergies
+GME0279,Pap smear due
+GME0279,Allergies – Sulfa Drugs
+GME0280,Pap smear due
+GME0281,Td due
+GME0281,Allergies – Sulfa Drugs
+GME0282,No known drug allergies
+GME0282,ATC above target
+GME0283,Pap smear due
+GME0283,No known drug allergies
+GME0283,Allergies – Sulfa Drugs
+GME0284,Td due
+GME0284,Allergies – Sulfa Drugs
+GME0284,No known drug allergies
+GME0285,No known drug allergies
+GME0285,Pap smear due
+GME0285,Td due
+GME0286,ATC above target
+GME0286,Td due
+GME0287,ATC above target
+GME0287,Allergies – Sulfa Drugs
+GME0288,Allergies – Sulfa Drugs
+GME0289,No known drug allergies
+GME0289,Pap smear due
+GME0290,No known drug allergies
+GME0291,Allergies – Sulfa Drugs
+GME0291,Td due
+GME0291,ATC above target
+GME0291,No known drug allergies
+GME0292,Td due
+GME0292,Pap smear due
+GME0293,Allergies – Sulfa Drugs
+GME0293,No known drug allergies
+GME0293,ATC above target
+GME0294,Allergies – Sulfa Drugs
+GME0294,Td due
+GME0295,Td due
+GME0296,No known drug allergies
+GME0296,Allergies – Sulfa Drugs
+GME0296,Pap smear due
+GME0296,Td due
+GME0297,Pap smear due
+GME0297,No known drug allergies
+GME0297,Td due
+GME0298,ATC above target
+GME0298,Td due
+GME0298,Allergies – Sulfa Drugs
+GME0298,Pap smear due
+GME0299,No known drug allergies
+GME0299,Pap smear due
+GME0300,Td due
+GME0300,No known drug allergies
+GME0300,Allergies – Sulfa Drugs
+GME0300,ATC above target
+GME0301,No known drug allergies
+GME0302,No known drug allergies
+GME0302,Allergies – Sulfa Drugs
+GME0302,ATC above target
+GME0302,Pap smear due
+GME0303,No known drug allergies
+GME0303,Allergies – Sulfa Drugs
+GME0304,Pap smear due
+GME0304,Td due
+GME0304,ATC above target
+GME0304,Allergies – Sulfa Drugs
+GME0305,Td due
+GME0305,No known drug allergies
+GME0306,Allergies – Sulfa Drugs
+GME0306,Td due
+GME0307,Allergies – Sulfa Drugs
+GME0307,Td due
+GME0307,No known drug allergies
+GME0307,ATC above target
+GME0308,Td due
+GME0309,Allergies – Sulfa Drugs
+GME0309,No known drug allergies
+GME0309,ATC above target
+GME0310,ATC above target
+GME0310,No known drug allergies
+GME0310,Allergies – Sulfa Drugs
+GME0310,Pap smear due
+GME0311,ATC above target
+GME0311,Td due
+GME0311,No known drug allergies
+GME0311,Pap smear due
+GME0312,ATC above target
+GME0313,Pap smear due
+GME0313,ATC above target
+GME0314,Allergies – Sulfa Drugs
+GME0315,Allergies – Sulfa Drugs
+GME0315,Td due
+GME0315,Pap smear due
+GME0316,Allergies – Sulfa Drugs
+GME0317,Pap smear due
+GME0317,ATC above target
+GME0317,Allergies – Sulfa Drugs
+GME0318,No known drug allergies
+GME0319,Td due
+GME0320,Allergies – Sulfa Drugs
+GME0320,ATC above target
+GME0320,Td due
+GME0320,No known drug allergies
+GME0321,Pap smear due
+GME0321,Allergies – Sulfa Drugs
+GME0321,ATC above target
+GME0321,No known drug allergies
+GME0322,Pap smear due
+GME0322,ATC above target
+GME0323,Td due
+GME0323,No known drug allergies
+GME0323,Allergies – Sulfa Drugs
+GME0324,Allergies – Sulfa Drugs
+GME0325,No known drug allergies
+GME0325,ATC above target
+GME0325,Allergies – Sulfa Drugs
+GME0325,Td due
+GME0326,Allergies – Sulfa Drugs
+GME0326,ATC above target
+GME0326,No known drug allergies
+GME0327,No known drug allergies
+GME0327,ATC above target
+GME0327,Allergies – Sulfa Drugs
+GME0328,Allergies – Sulfa Drugs
+GME0329,Pap smear due
+GME0329,Td due
+GME0330,ATC above target
+GME0331,Td due
+GME0332,ATC above target
+GME0332,No known drug allergies
+GME0332,Td due
+GME0332,Pap smear due
+GME0333,No known drug allergies
+GME0334,Pap smear due
+GME0334,Td due
+GME0334,No known drug allergies
+GME0334,ATC above target
+GME0335,ATC above target
+GME0335,Allergies – Sulfa Drugs
+GME0336,ATC above target
+GME0336,No known drug allergies
+GME0336,Pap smear due
+GME0337,Td due
+GME0337,Allergies – Sulfa Drugs
+GME0338,Allergies – Sulfa Drugs
+GME0338,No known drug allergies
+GME0339,No known drug allergies
+GME0339,ATC above target
+GME0339,Td due
+GME0340,No known drug allergies
+GME0340,Allergies – Sulfa Drugs
+GME0341,No known drug allergies
+GME0341,ATC above target
+GME0341,Td due
+GME0341,Pap smear due
+GME0342,ATC above target
+GME0342,Td due
+GME0343,ATC above target
+GME0344,No known drug allergies
+GME0345,Allergies – Sulfa Drugs
+GME0345,ATC above target
+GME0346,Pap smear due
+GME0346,No known drug allergies
+GME0347,Pap smear due
+GME0347,Allergies – Sulfa Drugs
+GME0348,Allergies – Sulfa Drugs
+GME0348,ATC above target
+GME0348,No known drug allergies
+GME0348,Td due
+GME0349,Td due
+GME0349,Allergies – Sulfa Drugs
+GME0349,ATC above target
+GME0350,No known drug allergies
+GME0350,ATC above target
+GME0350,Td due
+GME0350,Pap smear due
+GME0351,No known drug allergies
+GME0351,ATC above target
+GME0351,Allergies – Sulfa Drugs
+GME0352,Allergies – Sulfa Drugs
+GME0352,ATC above target
+GME0352,No known drug allergies
+GME0352,Td due
+GME0353,Allergies – Sulfa Drugs
+GME0354,Td due
+GME0355,ATC above target
+GME0355,Td due
+GME0355,Pap smear due
+GME0356,No known drug allergies
+GME0356,ATC above target
+GME0356,Allergies – Sulfa Drugs
+GME0356,Td due
+GME0357,ATC above target
+GME0357,Pap smear due
+GME0357,Td due
+GME0358,Allergies – Sulfa Drugs
+GME0358,ATC above target
+GME0358,Pap smear due
+GME0358,No known drug allergies
+GME0359,ATC above target
+GME0360,Td due
+GME0360,Allergies – Sulfa Drugs
+GME0360,Pap smear due
+GME0361,Td due
+GME0361,No known drug allergies
+GME0361,Pap smear due
+GME0362,Pap smear due
+GME0363,Td due
+GME0363,ATC above target
+GME0364,Td due
+GME0364,ATC above target
+GME0364,No known drug allergies
+GME0365,Pap smear due
+GME0366,Pap smear due
+GME0366,ATC above target
+GME0366,Td due
+GME0366,No known drug allergies
+GME0367,Allergies – Sulfa Drugs
+GME0367,Pap smear due
+GME0367,No known drug allergies
+GME0368,No known drug allergies
+GME0368,ATC above target
+GME0368,Allergies – Sulfa Drugs
+GME0369,Pap smear due
+GME0370,Pap smear due
+GME0370,Allergies – Sulfa Drugs
+GME0371,Allergies – Sulfa Drugs
+GME0371,ATC above target
+GME0372,Td due
+GME0373,Td due
+GME0373,No known drug allergies
+GME0374,No known drug allergies
+GME0374,ATC above target
+GME0374,Td due
+GME0374,Allergies – Sulfa Drugs
+GME0375,Pap smear due
+GME0376,ATC above target
+GME0376,No known drug allergies
+GME0376,Allergies – Sulfa Drugs
+GME0377,No known drug allergies
+GME0377,Td due
+GME0377,Pap smear due
+GME0377,Allergies – Sulfa Drugs
+GME0378,Allergies – Sulfa Drugs
+GME0378,Td due
+GME0378,No known drug allergies
+GME0379,Allergies – Sulfa Drugs
+GME0379,Pap smear due
+GME0379,Td due
+GME0379,No known drug allergies
+GME0380,Pap smear due
+GME0380,No known drug allergies
+GME0381,ATC above target
+GME0381,Allergies – Sulfa Drugs
+GME0381,Td due
+GME0382,ATC above target
+GME0383,Pap smear due
+GME0383,Allergies – Sulfa Drugs
+GME0384,Td due
+GME0384,No known drug allergies
+GME0385,ATC above target
+GME0385,No known drug allergies
+GME0385,Pap smear due
+GME0386,Td due
+GME0386,Pap smear due
+GME0386,ATC above target
+GME0386,No known drug allergies
+GME0387,No known drug allergies
+GME0387,Allergies – Sulfa Drugs
+GME0387,ATC above target
+GME0387,Pap smear due
+GME0388,Td due
+GME0388,Allergies – Sulfa Drugs
+GME0388,Pap smear due
+GME0389,Td due
+GME0390,Td due
+GME0390,No known drug allergies
+GME0390,Pap smear due
+GME0391,Pap smear due
+GME0391,No known drug allergies
+GME0391,Td due
+GME0392,Allergies – Sulfa Drugs
+GME0392,ATC above target
+GME0393,Pap smear due
+GME0393,Allergies – Sulfa Drugs
+GME0393,Td due
+GME0394,Td due
+GME0394,No known drug allergies
+GME0394,Pap smear due
+GME0394,ATC above target
+GME0395,Allergies – Sulfa Drugs
+GME0395,Pap smear due
+GME0395,ATC above target
+GME0395,No known drug allergies
+GME0396,Td due
+GME0396,No known drug allergies
+GME0396,Allergies – Sulfa Drugs
+GME0396,ATC above target
+GME0397,Allergies – Sulfa Drugs
+GME0397,ATC above target
+GME0397,No known drug allergies
+GME0398,No known drug allergies
+GME0398,Pap smear due
+GME0398,Td due
+GME0399,Allergies – Sulfa Drugs
+GME0399,Pap smear due
+GME0399,ATC above target
+GME0400,Td due
+GME0400,ATC above target
+GME0401,Td due
+GME0401,No known drug allergies
+GME0401,ATC above target
+GME0402,ATC above target
+GME0402,Allergies – Sulfa Drugs
+GME0402,Pap smear due
+GME0403,No known drug allergies
+GME0404,ATC above target
+GME0405,No known drug allergies
+GME0405,Allergies – Sulfa Drugs
+GME0406,No known drug allergies
+GME0406,Td due
+GME0406,Pap smear due
+GME0406,Allergies – Sulfa Drugs
+GME0407,Pap smear due
+GME0407,No known drug allergies
+GME0408,ATC above target
+GME0408,No known drug allergies
+GME0408,Allergies – Sulfa Drugs
+GME0409,Pap smear due
+GME0409,Allergies – Sulfa Drugs
+GME0409,No known drug allergies
+GME0410,Pap smear due
+GME0410,Td due
+GME0410,ATC above target
+GME0411,Allergies – Sulfa Drugs
+GME0412,Td due
+GME0412,Pap smear due
+GME0412,Allergies – Sulfa Drugs
+GME0412,No known drug allergies
+GME0413,Allergies – Sulfa Drugs
+GME0413,Pap smear due
+GME0413,Td due
+GME0413,ATC above target
+GME0414,ATC above target
+GME0414,No known drug allergies
+GME0414,Pap smear due
+GME0414,Td due
+GME0415,Allergies – Sulfa Drugs
+GME0416,Td due
+GME0416,Allergies – Sulfa Drugs
+GME0417,No known drug allergies
+GME0417,Pap smear due
+GME0417,Allergies – Sulfa Drugs
+GME0418,Pap smear due
+GME0419,Td due
+GME0419,No known drug allergies
+GME0420,Allergies – Sulfa Drugs
+GME0420,ATC above target
+GME0421,Pap smear due
+GME0421,Allergies – Sulfa Drugs
+GME0421,ATC above target
+GME0422,Td due
+GME0422,ATC above target
+GME0422,No known drug allergies
+GME0423,ATC above target
+GME0423,Pap smear due
+GME0423,No known drug allergies
+GME0424,Td due
+GME0424,Pap smear due
+GME0424,Allergies – Sulfa Drugs
+GME0424,ATC above target
+GME0425,Pap smear due
+GME0426,Pap smear due
+GME0426,No known drug allergies
+GME0427,No known drug allergies
+GME0428,Allergies – Sulfa Drugs
+GME0428,Td due
+GME0429,ATC above target
+GME0430,No known drug allergies
+GME0430,Allergies – Sulfa Drugs
+GME0430,Td due
+GME0431,Allergies – Sulfa Drugs
+GME0432,Allergies – Sulfa Drugs
+GME0433,ATC above target
+GME0434,ATC above target
+GME0434,Allergies – Sulfa Drugs
+GME0434,Td due
+GME0434,Pap smear due
+GME0435,Pap smear due
+GME0435,No known drug allergies
+GME0435,Td due
+GME0435,Allergies – Sulfa Drugs
+GME0436,ATC above target
+GME0436,Allergies – Sulfa Drugs
+GME0436,Td due
+GME0437,No known drug allergies
+GME0437,Pap smear due
+GME0437,ATC above target
+GME0438,No known drug allergies
+GME0439,Td due
+GME0440,Allergies – Sulfa Drugs
+GME0441,Pap smear due
+GME0441,No known drug allergies
+GME0441,ATC above target
+GME0441,Allergies – Sulfa Drugs
+GME0442,ATC above target
+GME0442,Td due
+GME0442,Allergies – Sulfa Drugs
+GME0443,No known drug allergies
+GME0444,Pap smear due
+GME0444,ATC above target
+GME0444,No known drug allergies
+GME0444,Allergies – Sulfa Drugs
+GME0445,Allergies – Sulfa Drugs
+GME0446,Allergies – Sulfa Drugs
+GME0447,Pap smear due
+GME0447,Allergies – Sulfa Drugs
+GME0447,Td due
+GME0447,ATC above target
+GME0448,Td due
+GME0449,ATC above target
+GME0449,Td due
+GME0450,ATC above target
+GME0450,Allergies – Sulfa Drugs
+GME0450,No known drug allergies
+GME0451,Allergies – Sulfa Drugs
+GME0451,Td due
+GME0452,Td due
+GME0452,ATC above target
+GME0452,No known drug allergies
+GME0453,Allergies – Sulfa Drugs
+GME0454,Allergies – Sulfa Drugs
+GME0455,Pap smear due
+GME0455,Td due
+GME0456,ATC above target
+GME0456,Td due
+GME0456,No known drug allergies
+GME0457,Td due
+GME0458,Pap smear due
+GME0458,Allergies – Sulfa Drugs
+GME0458,No known drug allergies
+GME0459,ATC above target
+GME0459,Td due
+GME0459,Pap smear due
+GME0459,No known drug allergies
+GME0460,Pap smear due
+GME0460,Allergies – Sulfa Drugs
+GME0460,ATC above target
+GME0460,Td due
+GME0461,Allergies – Sulfa Drugs
+GME0461,ATC above target
+GME0462,No known drug allergies
+GME0462,ATC above target
+GME0462,Allergies – Sulfa Drugs
+GME0462,Pap smear due
+GME0463,No known drug allergies
+GME0463,Allergies – Sulfa Drugs
+GME0463,Td due
+GME0464,ATC above target
+GME0464,No known drug allergies
+GME0465,ATC above target
+GME0466,Allergies – Sulfa Drugs
+GME0466,No known drug allergies
+GME0466,Pap smear due
+GME0466,Td due
+GME0467,No known drug allergies
+GME0468,Td due
+GME0468,Allergies – Sulfa Drugs
+GME0469,Pap smear due
+GME0469,ATC above target
+GME0469,No known drug allergies
+GME0469,Td due
+GME0470,No known drug allergies
+GME0470,Allergies – Sulfa Drugs
+GME0471,Pap smear due
+GME0472,ATC above target
+GME0472,Pap smear due
+GME0472,Allergies – Sulfa Drugs
+GME0472,No known drug allergies
+GME0473,Pap smear due
+GME0473,Td due
+GME0473,No known drug allergies
+GME0474,No known drug allergies
+GME0475,No known drug allergies
+GME0475,ATC above target
+GME0476,Pap smear due
+GME0476,Allergies – Sulfa Drugs
+GME0476,No known drug allergies
+GME0476,Td due
+GME0477,Allergies – Sulfa Drugs
+GME0477,ATC above target
+GME0477,Pap smear due
+GME0477,Td due
+GME0478,ATC above target
+GME0479,Allergies – Sulfa Drugs
+GME0480,ATC above target
+GME0480,Allergies – Sulfa Drugs
+GME0480,Td due
+GME0480,No known drug allergies
+GME0481,No known drug allergies
+GME0482,No known drug allergies
+GME0482,Pap smear due
+GME0482,Td due
+GME0483,Td due
+GME0483,No known drug allergies
+GME0483,Allergies – Sulfa Drugs
+GME0483,ATC above target
+GME0484,Td due
+GME0484,ATC above target
+GME0484,No known drug allergies
+GME0484,Pap smear due
+GME0485,Allergies – Sulfa Drugs
+GME0485,No known drug allergies
+GME0485,Td due
+GME0485,ATC above target
+GME0486,Td due
+GME0487,Td due
+GME0487,No known drug allergies
+GME0487,ATC above target
+GME0488,Allergies – Sulfa Drugs
+GME0489,ATC above target
+GME0489,Pap smear due
+GME0490,Allergies – Sulfa Drugs
+GME0490,Td due
+GME0490,ATC above target
+GME0490,No known drug allergies
+GME0491,Allergies – Sulfa Drugs
+GME0491,ATC above target
+GME0492,ATC above target
+GME0492,Pap smear due
+GME0493,Allergies – Sulfa Drugs
+GME0493,ATC above target
+GME0493,No known drug allergies
+GME0494,ATC above target
+GME0495,No known drug allergies
+GME0495,Pap smear due
+GME0495,ATC above target
+GME0495,Allergies – Sulfa Drugs
+GME0496,No known drug allergies
+GME0497,No known drug allergies
+GME0497,ATC above target
+GME0497,Td due
+GME0497,Allergies – Sulfa Drugs
+GME0498,Pap smear due
+GME0498,Allergies – Sulfa Drugs
+GME0499,No known drug allergies
+GME0499,Td due
+GME0499,ATC above target
+GME0499,Pap smear due
+GME0500,No known drug allergies
+GME0500,Pap smear due
+GME0500,ATC above target
+GME0500,Td due
+GME0501,Td due
+GME0501,ATC above target
+GME0501,Allergies – Sulfa Drugs
+GME0502,ATC above target
+GME0502,Td due
+GME0503,No known drug allergies
+GME0503,Pap smear due
+GME0503,Allergies – Sulfa Drugs
+GME0504,No known drug allergies
+GME0504,Td due
+GME0505,Pap smear due
+GME0505,No known drug allergies
+GME0505,Td due
+GME0506,Allergies – Sulfa Drugs
+GME0506,Td due
+GME0506,ATC above target
+GME0507,No known drug allergies
+GME0507,ATC above target
+GME0507,Td due
+GME0507,Pap smear due
+GME0508,Allergies – Sulfa Drugs
+GME0508,No known drug allergies
+GME0508,ATC above target
+GME0508,Pap smear due
+GME0509,Allergies – Sulfa Drugs
+GME0509,No known drug allergies
+GME0510,Td due
+GME0510,Pap smear due
+GME0511,Td due
+GME0511,Pap smear due
+GME0511,Allergies – Sulfa Drugs
+GME0512,Pap smear due
+GME0512,Allergies – Sulfa Drugs
+GME0512,No known drug allergies
+GME0513,Allergies – Sulfa Drugs
+GME0513,Pap smear due
+GME0513,Td due
+GME0513,ATC above target
+GME0514,No known drug allergies
+GME0514,Td due
+GME0515,ATC above target
+GME0516,ATC above target
+GME0516,Td due
+GME0516,No known drug allergies
+GME0516,Allergies – Sulfa Drugs
+GME0517,Td due
+GME0518,No known drug allergies
+GME0518,ATC above target
+GME0519,Td due
+GME0519,Pap smear due
+GME0520,Td due
+GME0520,ATC above target
+GME0521,Allergies – Sulfa Drugs
+GME0521,Pap smear due
+GME0522,No known drug allergies
+GME0522,Allergies – Sulfa Drugs
+GME0523,Allergies – Sulfa Drugs
+GME0523,ATC above target
+GME0523,Pap smear due
+GME0523,Td due
+GME0524,Pap smear due
+GME0524,Td due
+GME0525,Td due
+GME0526,Pap smear due
+GME0526,Allergies – Sulfa Drugs
+GME0526,ATC above target
+GME0526,No known drug allergies
+GME0527,No known drug allergies
+GME0528,ATC above target
+GME0528,Td due
+GME0528,Allergies – Sulfa Drugs
+GME0529,No known drug allergies
+GME0529,Pap smear due
+GME0529,Allergies – Sulfa Drugs
+GME0530,No known drug allergies
+GME0531,ATC above target
+GME0531,No known drug allergies
+GME0532,Td due
+GME0533,Pap smear due
+GME0533,Td due
+GME0534,Td due
+GME0534,No known drug allergies
+GME0534,Allergies – Sulfa Drugs
+GME0535,No known drug allergies
+GME0535,Allergies – Sulfa Drugs
+GME0535,ATC above target
+GME0535,Pap smear due
+GME0536,Pap smear due
+GME0536,No known drug allergies
+GME0536,Allergies – Sulfa Drugs
+GME0536,ATC above target
+GME0537,Allergies – Sulfa Drugs
+GME0537,ATC above target
+GME0537,Pap smear due
+GME0537,Td due
+GME0538,No known drug allergies
+GME0539,No known drug allergies
+GME0539,ATC above target
+GME0539,Pap smear due
+GME0540,Td due
+GME0541,Td due
+GME0541,Allergies – Sulfa Drugs
+GME0542,Pap smear due
+GME0543,Allergies – Sulfa Drugs
+GME0544,Pap smear due
+GME0544,ATC above target
+GME0545,Pap smear due
+GME0546,Allergies – Sulfa Drugs
+GME0546,Pap smear due
+GME0546,No known drug allergies
+GME0546,ATC above target
+GME0547,Allergies – Sulfa Drugs
+GME0547,No known drug allergies
+GME0547,ATC above target
+GME0548,Pap smear due
+GME0549,No known drug allergies
+GME0549,Allergies – Sulfa Drugs
+GME0549,Td due
+GME0550,Td due
+GME0550,ATC above target
+GME0551,ATC above target
+GME0551,No known drug allergies
+GME0551,Pap smear due
+GME0551,Td due
+GME0552,ATC above target
+GME0553,No known drug allergies
+GME0554,No known drug allergies
+GME0555,No known drug allergies
+GME0556,Allergies – Sulfa Drugs
+GME0557,No known drug allergies
+GME0557,Allergies – Sulfa Drugs
+GME0557,Pap smear due
+GME0558,No known drug allergies
+GME0558,Allergies – Sulfa Drugs
+GME0558,Pap smear due
+GME0559,ATC above target
+GME0559,No known drug allergies
+GME0559,Td due
+GME0559,Allergies – Sulfa Drugs
+GME0560,Pap smear due
+GME0560,No known drug allergies
+GME0560,Allergies – Sulfa Drugs
+GME0560,ATC above target
+GME0561,Pap smear due
+GME0561,Td due
+GME0561,ATC above target
+GME0562,Allergies – Sulfa Drugs
+GME0562,Pap smear due
+GME0562,No known drug allergies
+GME0563,Allergies – Sulfa Drugs
+GME0564,No known drug allergies
+GME0564,Allergies – Sulfa Drugs
+GME0564,Pap smear due
+GME0564,ATC above target
+GME0565,Pap smear due
+GME0565,ATC above target
+GME0565,Td due
+GME0566,Pap smear due
+GME0566,No known drug allergies
+GME0567,No known drug allergies
+GME0567,Td due
+GME0568,Allergies – Sulfa Drugs
+GME0568,Pap smear due
+GME0569,No known drug allergies
+GME0570,No known drug allergies
+GME0570,Allergies – Sulfa Drugs
+GME0570,Pap smear due
+GME0570,ATC above target
+GME0571,Allergies – Sulfa Drugs
+GME0571,Pap smear due
+GME0571,Td due
+GME0572,Td due
+GME0572,No known drug allergies
+GME0572,Allergies – Sulfa Drugs
+GME0572,ATC above target
+GME0573,Td due
+GME0574,Pap smear due
+GME0575,ATC above target
+GME0575,No known drug allergies
+GME0575,Pap smear due
+GME0576,No known drug allergies
+GME0576,Pap smear due
+GME0576,Td due
+GME0577,Td due
+GME0577,ATC above target
+GME0577,Allergies – Sulfa Drugs
+GME0578,Td due
+GME0579,Pap smear due
+GME0579,ATC above target
+GME0580,Td due
+GME0580,Pap smear due
+GME0580,No known drug allergies
+GME0581,ATC above target
+GME0581,No known drug allergies
+GME0581,Pap smear due
+GME0582,Td due
+GME0582,ATC above target
+GME0582,No known drug allergies
+GME0583,Pap smear due
+GME0584,Td due
+GME0585,No known drug allergies
+GME0585,Pap smear due
+GME0586,Allergies – Sulfa Drugs
+GME0586,No known drug allergies
+GME0586,ATC above target
+GME0587,No known drug allergies
+GME0588,No known drug allergies
+GME0588,Pap smear due
+GME0588,Allergies – Sulfa Drugs
+GME0588,ATC above target
+GME0589,Pap smear due
+GME0589,Td due
+GME0589,No known drug allergies
+GME0589,Allergies – Sulfa Drugs
+GME0590,Pap smear due
+GME0590,ATC above target
+GME0590,Td due
+GME0591,ATC above target
+GME0592,No known drug allergies
+GME0592,Allergies – Sulfa Drugs
+GME0592,Td due
+GME0593,No known drug allergies
+GME0593,Pap smear due
+GME0594,ATC above target
+GME0594,Pap smear due
+GME0595,No known drug allergies
+GME0595,Pap smear due
+GME0596,Td due
+GME0596,Allergies – Sulfa Drugs
+GME0596,ATC above target
+GME0596,Pap smear due
+GME0597,Allergies – Sulfa Drugs
+GME0597,Td due
+GME0598,Pap smear due
+GME0598,Allergies – Sulfa Drugs
+GME0598,Td due
+GME0599,No known drug allergies
+GME0599,Td due
+GME0600,ATC above target
+GME0600,No known drug allergies
+GME0600,Allergies – Sulfa Drugs
+GME0600,Td due
+GME0601,Allergies – Sulfa Drugs
+GME0601,Td due
+GME0601,ATC above target
+GME0602,No known drug allergies
+GME0602,Pap smear due
+GME0602,ATC above target
+GME0603,Td due
+GME0603,Allergies – Sulfa Drugs
+GME0603,No known drug allergies
+GME0603,Pap smear due
+GME0604,Pap smear due
+GME0604,ATC above target
+GME0604,No known drug allergies
+GME0604,Td due
+GME0605,ATC above target
+GME0605,Allergies – Sulfa Drugs
+GME0605,Td due
+GME0605,No known drug allergies
+GME0606,Pap smear due
+GME0606,No known drug allergies
+GME0606,Allergies – Sulfa Drugs
+GME0606,ATC above target
+GME0607,Pap smear due
+GME0607,No known drug allergies
+GME0608,Td due
+GME0608,Allergies – Sulfa Drugs
+GME0609,ATC above target
+GME0609,Td due
+GME0610,ATC above target
+GME0611,ATC above target
+GME0611,Pap smear due
+GME0611,Td due
+GME0611,Allergies – Sulfa Drugs
+GME0612,Allergies – Sulfa Drugs
+GME0612,Pap smear due
+GME0612,No known drug allergies
+GME0612,Td due
+GME0613,Pap smear due
+GME0613,Allergies – Sulfa Drugs
+GME0614,Allergies – Sulfa Drugs
+GME0614,Pap smear due
+GME0615,Pap smear due
+GME0615,ATC above target
+GME0615,Td due
+GME0616,Td due
+GME0617,Pap smear due
+GME0618,No known drug allergies
+GME0618,ATC above target
+GME0618,Pap smear due
+GME0618,Allergies – Sulfa Drugs
+GME0619,ATC above target
+GME0619,Pap smear due
+GME0620,No known drug allergies
+GME0620,Td due
+GME0621,Td due
+GME0621,ATC above target
+GME0622,Pap smear due
+GME0623,ATC above target
+GME0623,Pap smear due
+GME0623,Allergies – Sulfa Drugs
+GME0623,Td due
+GME0624,No known drug allergies
+GME0624,ATC above target
+GME0625,No known drug allergies
+GME0625,Allergies – Sulfa Drugs
+GME0626,ATC above target
+GME0626,Allergies – Sulfa Drugs
+GME0627,Allergies – Sulfa Drugs
+GME0628,Pap smear due
+GME0628,Allergies – Sulfa Drugs
+GME0628,Td due
+GME0628,No known drug allergies
+GME0629,Td due
+GME0629,Allergies – Sulfa Drugs
+GME0629,No known drug allergies
+GME0629,Pap smear due
+GME0630,ATC above target
+GME0630,No known drug allergies
+GME0631,No known drug allergies
+GME0631,Allergies – Sulfa Drugs
+GME0631,Pap smear due
+GME0632,Td due
+GME0632,ATC above target
+GME0633,Allergies – Sulfa Drugs
+GME0633,Td due
+GME0634,Td due
+GME0634,Pap smear due
+GME0634,Allergies – Sulfa Drugs
+GME0634,No known drug allergies
+GME0635,No known drug allergies
+GME0636,ATC above target
+GME0637,Td due
+GME0637,ATC above target
+GME0638,Allergies – Sulfa Drugs
+GME0638,Pap smear due
+GME0638,ATC above target
+GME0639,Td due
+GME0639,ATC above target
+GME0639,No known drug allergies
+GME0640,No known drug allergies
+GME0640,Td due
+GME0640,ATC above target
+GME0641,Pap smear due
+GME0641,ATC above target
+GME0641,Td due
+GME0641,No known drug allergies
+GME0642,Td due
+GME0642,ATC above target
+GME0643,Td due
+GME0643,No known drug allergies
+GME0643,ATC above target
+GME0644,Pap smear due
+GME0644,Allergies – Sulfa Drugs
+GME0644,Td due
+GME0644,ATC above target
+GME0645,Pap smear due
+GME0645,Allergies – Sulfa Drugs
+GME0645,ATC above target
+GME0645,No known drug allergies
+GME0646,No known drug allergies
+GME0646,Allergies – Sulfa Drugs
+GME0646,ATC above target
+GME0647,Allergies – Sulfa Drugs
+GME0647,No known drug allergies
+GME0647,ATC above target
+GME0647,Pap smear due
+GME0648,Allergies – Sulfa Drugs
+GME0648,No known drug allergies
+GME0648,Pap smear due
+GME0648,ATC above target
+GME0649,Allergies – Sulfa Drugs
+GME0649,No known drug allergies
+GME0649,Td due
+GME0650,ATC above target
+GME0650,Td due
+GME0650,No known drug allergies
+GME0650,Allergies – Sulfa Drugs
+GME0651,ATC above target
+GME0651,No known drug allergies
+GME0652,Pap smear due
+GME0653,Pap smear due
+GME0653,Allergies – Sulfa Drugs
+GME0653,Td due
+GME0654,No known drug allergies
+GME0654,Pap smear due
+GME0655,Td due
+GME0656,Allergies – Sulfa Drugs
+GME0656,Pap smear due
+GME0657,Td due
+GME0658,Td due
+GME0658,ATC above target
+GME0658,Pap smear due
+GME0658,Allergies – Sulfa Drugs
+GME0659,Allergies – Sulfa Drugs
+GME0660,No known drug allergies
+GME0661,No known drug allergies
+GME0661,Td due
+GME0661,Pap smear due
+GME0662,Pap smear due
+GME0662,No known drug allergies
+GME0662,ATC above target
+GME0663,No known drug allergies
+GME0663,Allergies – Sulfa Drugs
+GME0663,Pap smear due
+GME0663,ATC above target
+GME0664,No known drug allergies
+GME0664,Allergies – Sulfa Drugs
+GME0664,Td due
+GME0664,ATC above target
+GME0665,Td due
+GME0665,Allergies – Sulfa Drugs
+GME0665,No known drug allergies
+GME0666,No known drug allergies
+GME0666,Td due
+GME0666,ATC above target
+GME0667,ATC above target
+GME0667,No known drug allergies
+GME0667,Allergies – Sulfa Drugs
+GME0667,Pap smear due
+GME0668,ATC above target
+GME0668,Allergies – Sulfa Drugs
+GME0668,Pap smear due
+GME0668,No known drug allergies
+GME0669,Allergies – Sulfa Drugs
+GME0669,ATC above target
+GME0669,Td due
+GME0670,Pap smear due
+GME0670,Td due
+GME0671,Td due
+GME0671,Allergies – Sulfa Drugs
+GME0671,No known drug allergies
+GME0671,Pap smear due
+GME0672,Td due
+GME0672,Allergies – Sulfa Drugs
+GME0673,Td due
+GME0673,Allergies – Sulfa Drugs
+GME0673,No known drug allergies
+GME0673,ATC above target
+GME0674,Td due
+GME0674,No known drug allergies
+GME0674,Allergies – Sulfa Drugs
+GME0674,Pap smear due
+GME0675,Pap smear due
+GME0675,ATC above target
+GME0676,Pap smear due
+GME0676,No known drug allergies
+GME0677,Pap smear due
+GME0677,No known drug allergies
+GME0677,Allergies – Sulfa Drugs
+GME0678,No known drug allergies
+GME0678,Td due
+GME0679,Allergies – Sulfa Drugs
+GME0679,No known drug allergies
+GME0680,ATC above target
+GME0681,No known drug allergies
+GME0682,ATC above target
+GME0683,No known drug allergies
+GME0683,Td due
+GME0683,Pap smear due
+GME0684,ATC above target
+GME0684,Pap smear due
+GME0684,Td due
+GME0685,ATC above target
+GME0685,Pap smear due
+GME0685,Td due
+GME0686,Allergies – Sulfa Drugs
+GME0686,ATC above target
+GME0687,No known drug allergies
+GME0687,Allergies – Sulfa Drugs
+GME0687,Td due
+GME0687,Pap smear due
+GME0688,Pap smear due
+GME0688,ATC above target
+GME0688,Allergies – Sulfa Drugs
+GME0688,No known drug allergies
+GME0689,Allergies – Sulfa Drugs
+GME0689,No known drug allergies
+GME0689,Td due
+GME0690,ATC above target
+GME0690,Allergies – Sulfa Drugs
+GME0691,Td due
+GME0691,No known drug allergies
+GME0691,Allergies – Sulfa Drugs
+GME0692,Pap smear due
+GME0692,Td due
+GME0692,No known drug allergies
+GME0693,Td due
+GME0693,Pap smear due
+GME0693,ATC above target
+GME0694,Pap smear due
+GME0694,ATC above target
+GME0694,Td due
+GME0694,No known drug allergies
+GME0695,ATC above target
+GME0695,Td due
+GME0695,Pap smear due
+GME0696,No known drug allergies
+GME0696,Pap smear due
+GME0697,Allergies – Sulfa Drugs
+GME0697,Td due
+GME0698,No known drug allergies
+GME0698,ATC above target
+GME0699,Pap smear due
+GME0699,No known drug allergies
+GME0699,Td due
+GME0699,Allergies – Sulfa Drugs
+GME0700,Allergies – Sulfa Drugs
+GME0700,Pap smear due
+GME0700,ATC above target
+GME0700,Td due
+GME0701,No known drug allergies
+GME0701,Td due
+GME0702,Td due
+GME0702,No known drug allergies
+GME0702,ATC above target
+GME0702,Allergies – Sulfa Drugs
+GME0703,Allergies – Sulfa Drugs
+GME0703,Pap smear due
+GME0703,No known drug allergies
+GME0703,Td due
+GME0704,ATC above target
+GME0704,Allergies – Sulfa Drugs
+GME0704,Pap smear due
+GME0705,Td due
+GME0705,No known drug allergies
+GME0705,Pap smear due
+GME0706,Td due
+GME0706,Allergies – Sulfa Drugs
+GME0706,Pap smear due
+GME0707,Td due
+GME0708,No known drug allergies
+GME0708,Pap smear due
+GME0709,Td due
+GME0709,No known drug allergies
+GME0709,ATC above target
+GME0710,ATC above target
+GME0710,Allergies – Sulfa Drugs
+GME0710,Pap smear due
+GME0710,Td due
+GME0711,Pap smear due
+GME0711,No known drug allergies
+GME0711,Td due
+GME0711,ATC above target
+GME0712,No known drug allergies
+GME0712,ATC above target
+GME0712,Allergies – Sulfa Drugs
+GME0712,Td due
+GME0713,Td due
+GME0713,Pap smear due
+GME0714,Td due
+GME0714,No known drug allergies
+GME0714,ATC above target
+GME0715,No known drug allergies
+GME0715,ATC above target
+GME0715,Pap smear due
+GME0716,Td due
+GME0716,ATC above target
+GME0716,Pap smear due
+GME0716,Allergies – Sulfa Drugs
+GME0717,Allergies – Sulfa Drugs
+GME0717,Pap smear due
+GME0718,Td due
+GME0718,Allergies – Sulfa Drugs
+GME0719,Pap smear due
+GME0719,ATC above target
+GME0720,Allergies – Sulfa Drugs
+GME0721,ATC above target
+GME0722,Allergies – Sulfa Drugs
+GME0723,No known drug allergies
+GME0723,Allergies – Sulfa Drugs
+GME0723,ATC above target
+GME0723,Pap smear due
+GME0724,Allergies – Sulfa Drugs
+GME0724,ATC above target
+GME0725,Pap smear due
+GME0725,No known drug allergies
+GME0725,Td due
+GME0726,ATC above target
+GME0726,Pap smear due
+GME0726,Allergies – Sulfa Drugs
+GME0727,Allergies – Sulfa Drugs
+GME0727,No known drug allergies
+GME0728,Td due
+GME0728,ATC above target
+GME0728,Pap smear due
+GME0729,No known drug allergies
+GME0729,ATC above target
+GME0729,Allergies – Sulfa Drugs
+GME0730,No known drug allergies
+GME0730,ATC above target
+GME0731,No known drug allergies
+GME0731,Td due
+GME0731,Pap smear due
+GME0731,ATC above target
+GME0732,Allergies – Sulfa Drugs
+GME0732,ATC above target
+GME0733,Td due
+GME0733,ATC above target
+GME0733,Pap smear due
+GME0734,Td due
+GME0734,Allergies – Sulfa Drugs
+GME0735,No known drug allergies
+GME0736,Td due
+GME0736,No known drug allergies
+GME0737,No known drug allergies
+GME0737,Allergies – Sulfa Drugs
+GME0737,Td due
+GME0737,Pap smear due
+GME0738,Td due
+GME0738,Allergies – Sulfa Drugs
+GME0738,Pap smear due
+GME0738,No known drug allergies
+GME0739,Allergies – Sulfa Drugs
+GME0739,Td due
+GME0740,ATC above target
+GME0740,No known drug allergies
+GME0741,Pap smear due
+GME0741,No known drug allergies
+GME0741,Td due
+GME0741,ATC above target
+GME0742,Pap smear due
+GME0742,Td due
+GME0742,Allergies – Sulfa Drugs
+GME0742,No known drug allergies
+GME0743,No known drug allergies
+GME0743,Td due
+GME0744,No known drug allergies
+GME0744,Td due
+GME0744,Pap smear due
+GME0745,Allergies – Sulfa Drugs
+GME0745,Pap smear due
+GME0746,Td due
+GME0746,Allergies – Sulfa Drugs
+GME0747,No known drug allergies
+GME0747,ATC above target
+GME0747,Pap smear due
+GME0747,Td due
+GME0748,Td due
+GME0748,Allergies – Sulfa Drugs
+GME0749,Allergies – Sulfa Drugs
+GME0749,No known drug allergies
+GME0750,Allergies – Sulfa Drugs
+GME0750,Td due
+GME0751,Pap smear due
+GME0751,ATC above target
+GME0751,Td due
+GME0752,Pap smear due
+GME0753,Pap smear due
+GME0754,ATC above target
+GME0755,Td due
+GME0755,ATC above target
+GME0756,ATC above target
+GME0756,Td due
+GME0756,Pap smear due
+GME0757,Td due
+GME0758,Pap smear due
+GME0759,Td due
+GME0760,Allergies – Sulfa Drugs
+GME0760,ATC above target
+GME0760,No known drug allergies
+GME0760,Td due
+GME0761,ATC above target
+GME0761,Allergies – Sulfa Drugs
+GME0761,No known drug allergies
+GME0762,ATC above target
+GME0762,No known drug allergies
+GME0763,Allergies – Sulfa Drugs
+GME0763,Pap smear due
+GME0764,Allergies – Sulfa Drugs
+GME0764,Pap smear due
+GME0764,ATC above target
+GME0764,Td due
+GME0765,Td due
+GME0765,Pap smear due
+GME0765,No known drug allergies
+GME0766,No known drug allergies
+GME0767,Td due
+GME0768,Td due
+GME0768,Pap smear due
+GME0768,ATC above target
+GME0768,Allergies – Sulfa Drugs
+GME0769,Allergies – Sulfa Drugs
+GME0769,Pap smear due
+GME0770,Td due
+GME0770,Allergies – Sulfa Drugs
+GME0770,ATC above target
+GME0770,Pap smear due
+GME0771,ATC above target
+GME0772,Allergies – Sulfa Drugs
+GME0772,No known drug allergies
+GME0773,No known drug allergies
+GME0773,Pap smear due
+GME0773,ATC above target
+GME0773,Allergies – Sulfa Drugs
+GME0774,Pap smear due
+GME0774,ATC above target
+GME0775,No known drug allergies
+GME0776,Allergies – Sulfa Drugs
+GME0776,No known drug allergies
+GME0776,Pap smear due
+GME0777,No known drug allergies
+GME0777,Allergies – Sulfa Drugs
+GME0778,ATC above target
+GME0778,Pap smear due
+GME0779,No known drug allergies
+GME0779,Td due
+GME0779,Pap smear due
+GME0780,Allergies – Sulfa Drugs
+GME0780,ATC above target
+GME0781,Pap smear due
+GME0781,Td due
+GME0781,Allergies – Sulfa Drugs
+GME0782,ATC above target
+GME0782,Td due
+GME0782,No known drug allergies
+GME0782,Pap smear due
+GME0783,No known drug allergies
+GME0783,Pap smear due
+GME0784,Td due
+GME0784,ATC above target
+GME0784,Pap smear due
+GME0785,Allergies – Sulfa Drugs
+GME0785,Pap smear due
+GME0786,Td due
+GME0786,No known drug allergies
+GME0786,ATC above target
+GME0786,Pap smear due
+GME0787,Allergies – Sulfa Drugs
+GME0787,ATC above target
+GME0787,Td due
+GME0787,No known drug allergies
+GME0788,No known drug allergies
+GME0789,No known drug allergies
+GME0789,Pap smear due
+GME0789,ATC above target
+GME0790,No known drug allergies
+GME0791,Pap smear due
+GME0791,ATC above target
+GME0791,Td due
+GME0791,Allergies – Sulfa Drugs
+GME0792,Td due
+GME0792,ATC above target
+GME0792,No known drug allergies
+GME0793,Allergies – Sulfa Drugs
+GME0793,No known drug allergies
+GME0793,Td due
+GME0794,Allergies – Sulfa Drugs
+GME0795,Pap smear due
+GME0795,Allergies – Sulfa Drugs
+GME0796,Allergies – Sulfa Drugs
+GME0796,ATC above target
+GME0797,Allergies – Sulfa Drugs
+GME0797,No known drug allergies
+GME0798,ATC above target
+GME0798,Td due
+GME0798,Allergies – Sulfa Drugs
+GME0798,Pap smear due
+GME0799,No known drug allergies
+GME0799,Allergies – Sulfa Drugs
+GME0800,Pap smear due
+GME0801,Allergies – Sulfa Drugs
+GME0801,ATC above target
+GME0801,Td due
+GME0801,No known drug allergies
+GME0802,No known drug allergies
+GME0802,ATC above target
+GME0802,Pap smear due
+GME0803,No known drug allergies
+GME0804,No known drug allergies
+GME0804,Allergies – Sulfa Drugs
+GME0804,Td due
+GME0805,Td due
+GME0806,Pap smear due
+GME0807,Allergies – Sulfa Drugs
+GME0808,No known drug allergies
+GME0808,ATC above target
+GME0809,Pap smear due
+GME0809,No known drug allergies
+GME0810,No known drug allergies
+GME0810,ATC above target
+GME0811,No known drug allergies
+GME0812,ATC above target
+GME0812,No known drug allergies
+GME0812,Allergies – Sulfa Drugs
+GME0813,Pap smear due
+GME0813,ATC above target
+GME0814,Pap smear due
+GME0814,ATC above target
+GME0814,No known drug allergies
+GME0815,No known drug allergies
+GME0815,Td due
+GME0815,Pap smear due
+GME0816,ATC above target
+GME0816,Td due
+GME0816,No known drug allergies
+GME0816,Allergies – Sulfa Drugs
+GME0817,ATC above target
+GME0817,Td due
+GME0818,ATC above target
+GME0818,No known drug allergies
+GME0818,Pap smear due
+GME0819,Allergies – Sulfa Drugs
+GME0820,No known drug allergies
+GME0820,Allergies – Sulfa Drugs
+GME0820,Td due
+GME0821,Td due
+GME0821,Allergies – Sulfa Drugs
+GME0822,Pap smear due
+GME0822,No known drug allergies
+GME0822,ATC above target
+GME0823,Td due
+GME0824,Allergies – Sulfa Drugs
+GME0824,No known drug allergies
+GME0825,Td due
+GME0825,Pap smear due
+GME0825,Allergies – Sulfa Drugs
+GME0825,ATC above target
+GME0826,No known drug allergies
+GME0826,Pap smear due
+GME0826,Allergies – Sulfa Drugs
+GME0827,Td due
+GME0827,Allergies – Sulfa Drugs
+GME0827,No known drug allergies
+GME0828,No known drug allergies
+GME0828,Pap smear due
+GME0828,Td due
+GME0828,Allergies – Sulfa Drugs
+GME0829,ATC above target
+GME0829,Pap smear due
+GME0829,No known drug allergies
+GME0830,No known drug allergies
+GME0831,Allergies – Sulfa Drugs
+GME0831,ATC above target
+GME0831,No known drug allergies
+GME0832,Td due
+GME0833,ATC above target
+GME0833,No known drug allergies
+GME0833,Allergies – Sulfa Drugs
+GME0834,No known drug allergies
+GME0834,Allergies – Sulfa Drugs
+GME0835,Allergies – Sulfa Drugs
+GME0835,Td due
+GME0835,ATC above target
+GME0835,No known drug allergies
+GME0836,No known drug allergies
+GME0836,Pap smear due
+GME0836,ATC above target
+GME0837,Pap smear due
+GME0837,Allergies – Sulfa Drugs
+GME0838,ATC above target
+GME0838,Allergies – Sulfa Drugs
+GME0838,No known drug allergies
+GME0838,Pap smear due
+GME0839,ATC above target
+GME0839,Pap smear due
+GME0839,Allergies – Sulfa Drugs
+GME0840,Allergies – Sulfa Drugs
+GME0840,ATC above target
+GME0840,Td due
+GME0841,No known drug allergies
+GME0842,Td due
+GME0842,Allergies – Sulfa Drugs
+GME0842,Pap smear due
+GME0842,No known drug allergies
+GME0843,Pap smear due
+GME0843,ATC above target
+GME0844,ATC above target
+GME0844,No known drug allergies
+GME0845,No known drug allergies
+GME0845,Pap smear due
+GME0846,Allergies – Sulfa Drugs
+GME0846,Td due
+GME0847,Td due
+GME0847,Allergies – Sulfa Drugs
+GME0847,ATC above target
+GME0847,Pap smear due
+GME0848,Td due
+GME0848,No known drug allergies
+GME0848,Allergies – Sulfa Drugs
+GME0848,Pap smear due
+GME0849,No known drug allergies
+GME0849,Allergies – Sulfa Drugs
+GME0849,Pap smear due
+GME0850,Td due
+GME0850,ATC above target
+GME0851,ATC above target
+GME0851,Allergies – Sulfa Drugs
+GME0852,Pap smear due
+GME0852,Td due
+GME0853,Allergies – Sulfa Drugs
+GME0853,No known drug allergies
+GME0854,Pap smear due
+GME0855,Td due
+GME0855,Allergies – Sulfa Drugs
+GME0856,Allergies – Sulfa Drugs
+GME0856,Td due
+GME0856,Pap smear due
+GME0857,Allergies – Sulfa Drugs
+GME0857,Td due
+GME0857,No known drug allergies
+GME0857,ATC above target
+GME0858,No known drug allergies
+GME0858,Td due
+GME0859,No known drug allergies
+GME0859,Pap smear due
+GME0859,Td due
+GME0859,Allergies – Sulfa Drugs
+GME0860,No known drug allergies
+GME0860,Allergies – Sulfa Drugs
+GME0860,Pap smear due
+GME0860,ATC above target
+GME0861,Td due
+GME0862,No known drug allergies
+GME0862,Td due
+GME0863,ATC above target
+GME0864,Allergies – Sulfa Drugs
+GME0865,Td due
+GME0865,No known drug allergies
+GME0865,Allergies – Sulfa Drugs
+GME0865,ATC above target
+GME0866,ATC above target
+GME0866,Pap smear due
+GME0866,No known drug allergies
+GME0867,Td due
+GME0868,No known drug allergies
+GME0868,Allergies – Sulfa Drugs
+GME0868,ATC above target
+GME0868,Td due
+GME0869,No known drug allergies
+GME0869,Allergies – Sulfa Drugs
+GME0869,ATC above target
+GME0869,Td due
+GME0870,Td due
+GME0870,ATC above target
+GME0870,Pap smear due
+GME0871,Allergies – Sulfa Drugs
+GME0871,Td due
+GME0872,Td due
+GME0872,No known drug allergies
+GME0872,Allergies – Sulfa Drugs
+GME0873,Allergies – Sulfa Drugs
+GME0873,Td due
+GME0873,Pap smear due
+GME0874,No known drug allergies
+GME0875,Pap smear due
+GME0875,No known drug allergies
+GME0875,ATC above target
+GME0876,Pap smear due
+GME0876,Allergies – Sulfa Drugs
+GME0876,Td due
+GME0876,No known drug allergies
+GME0877,ATC above target
+GME0877,Pap smear due
+GME0878,ATC above target
+GME0878,Td due
+GME0879,ATC above target
+GME0879,Pap smear due
+GME0879,Allergies – Sulfa Drugs
+GME0880,No known drug allergies
+GME0880,Pap smear due
+GME0881,Td due
+GME0881,Pap smear due
+GME0882,Pap smear due
+GME0882,No known drug allergies
+GME0882,ATC above target
+GME0882,Allergies – Sulfa Drugs
+GME0883,Pap smear due
+GME0884,Pap smear due
+GME0884,Allergies – Sulfa Drugs
+GME0884,No known drug allergies
+GME0885,ATC above target
+GME0885,Td due
+GME0885,Pap smear due
+GME0885,No known drug allergies
+GME0886,Pap smear due
+GME0886,Allergies – Sulfa Drugs
+GME0887,Pap smear due
+GME0887,Allergies – Sulfa Drugs
+GME0888,No known drug allergies
+GME0888,Pap smear due
+GME0888,Td due
+GME0889,Pap smear due
+GME0889,Allergies – Sulfa Drugs
+GME0890,Allergies – Sulfa Drugs
+GME0890,ATC above target
+GME0890,No known drug allergies
+GME0891,Td due
+GME0891,Pap smear due
+GME0891,ATC above target
+GME0891,No known drug allergies
+GME0892,Pap smear due
+GME0892,No known drug allergies
+GME0892,Allergies – Sulfa Drugs
+GME0892,Td due
+GME0893,ATC above target
+GME0894,Td due
+GME0895,Pap smear due
+GME0895,No known drug allergies
+GME0895,Allergies – Sulfa Drugs
+GME0895,Td due
+GME0896,ATC above target
+GME0896,No known drug allergies
+GME0897,ATC above target
+GME0897,Pap smear due
+GME0897,No known drug allergies
+GME0898,Allergies – Sulfa Drugs
+GME0898,ATC above target
+GME0898,Td due
+GME0898,Pap smear due
+GME0899,No known drug allergies
+GME0899,Allergies – Sulfa Drugs
+GME0899,Td due
+GME0899,ATC above target
+GME0900,ATC above target
+GME0900,Allergies – Sulfa Drugs
+GME0900,No known drug allergies
+GME0900,Pap smear due
+GME0901,No known drug allergies
+GME0902,No known drug allergies
+GME0902,Allergies – Sulfa Drugs
+GME0902,ATC above target
+GME0902,Pap smear due
+GME0903,ATC above target
+GME0903,Td due
+GME0903,Pap smear due
+GME0903,No known drug allergies
+GME0904,ATC above target
+GME0904,Td due
+GME0905,No known drug allergies
+GME0906,ATC above target
+GME0906,No known drug allergies
+GME0907,No known drug allergies
+GME0908,Pap smear due
+GME0909,ATC above target
+GME0909,No known drug allergies
+GME0910,ATC above target
+GME0910,Allergies – Sulfa Drugs
+GME0910,No known drug allergies
+GME0911,No known drug allergies
+GME0911,Pap smear due
+GME0911,ATC above target
+GME0911,Allergies – Sulfa Drugs
+GME0912,Td due
+GME0912,Pap smear due
+GME0912,No known drug allergies
+GME0913,Allergies – Sulfa Drugs
+GME0914,ATC above target
+GME0915,Allergies – Sulfa Drugs
+GME0915,ATC above target
+GME0915,Td due
+GME0916,ATC above target
+GME0916,No known drug allergies
+GME0917,Pap smear due
+GME0918,No known drug allergies
+GME0918,Pap smear due
+GME0918,Allergies – Sulfa Drugs
+GME0919,Pap smear due
+GME0919,Allergies – Sulfa Drugs
+GME0920,Td due
+GME0920,No known drug allergies
+GME0920,ATC above target
+GME0920,Pap smear due
+GME0921,Pap smear due
+GME0921,Allergies – Sulfa Drugs
+GME0921,ATC above target
+GME0922,Allergies – Sulfa Drugs
+GME0922,Td due
+GME0923,ATC above target
+GME0924,ATC above target
+GME0924,Allergies – Sulfa Drugs
+GME0924,Td due
+GME0924,Pap smear due
+GME0925,Pap smear due
+GME0925,ATC above target
+GME0926,ATC above target
+GME0926,No known drug allergies
+GME0926,Allergies – Sulfa Drugs
+GME0926,Td due
+GME0927,No known drug allergies
+GME0927,Td due
+GME0928,Allergies – Sulfa Drugs
+GME0928,Pap smear due
+GME0929,Allergies – Sulfa Drugs
+GME0929,Td due
+GME0930,Pap smear due
+GME0931,No known drug allergies
+GME0932,Td due
+GME0932,Allergies – Sulfa Drugs
+GME0932,ATC above target
+GME0933,ATC above target
+GME0934,Pap smear due
+GME0934,Td due
+GME0935,ATC above target
+GME0935,Td due
+GME0936,Allergies – Sulfa Drugs
+GME0937,Td due
+GME0937,No known drug allergies
+GME0937,Pap smear due
+GME0938,ATC above target
+GME0939,Td due
+GME0940,Pap smear due
+GME0940,Allergies – Sulfa Drugs
+GME0940,Td due
+GME0940,No known drug allergies
+GME0941,No known drug allergies
+GME0941,ATC above target
+GME0941,Td due
+GME0942,Pap smear due
+GME0942,Allergies – Sulfa Drugs
+GME0943,No known drug allergies
+GME0944,ATC above target
+GME0945,ATC above target
+GME0945,Td due
+GME0945,Pap smear due
+GME0946,Pap smear due
+GME0946,ATC above target
+GME0946,Td due
+GME0947,ATC above target
+GME0947,Pap smear due
+GME0947,Td due
+GME0947,Allergies – Sulfa Drugs
+GME0948,Pap smear due
+GME0948,Allergies – Sulfa Drugs
+GME0948,ATC above target
+GME0949,ATC above target
+GME0950,Pap smear due
+GME0951,ATC above target
+GME0951,Allergies – Sulfa Drugs
+GME0951,Pap smear due
+GME0951,Td due
+GME0952,Allergies – Sulfa Drugs
+GME0952,Pap smear due
+GME0953,Td due
+GME0953,Allergies – Sulfa Drugs
+GME0953,Pap smear due
+GME0954,No known drug allergies
+GME0954,Td due
+GME0954,Allergies – Sulfa Drugs
+GME0955,Td due
+GME0956,ATC above target
+GME0956,Allergies – Sulfa Drugs
+GME0956,No known drug allergies
+GME0957,Td due
+GME0957,No known drug allergies
+GME0958,ATC above target
+GME0958,Allergies – Sulfa Drugs
+GME0958,Td due
+GME0958,No known drug allergies
+GME0959,Pap smear due
+GME0959,ATC above target
+GME0959,Td due
+GME0959,No known drug allergies
+GME0960,ATC above target
+GME0960,Allergies – Sulfa Drugs
+GME0960,Td due
+GME0960,Pap smear due
+GME0961,No known drug allergies
+GME0961,Allergies – Sulfa Drugs
+GME0961,ATC above target
+GME0962,Td due
+GME0962,Allergies – Sulfa Drugs
+GME0962,ATC above target
+GME0963,Allergies – Sulfa Drugs
+GME0963,Td due
+GME0963,Pap smear due
+GME0964,No known drug allergies
+GME0964,ATC above target
+GME0965,No known drug allergies
+GME0965,Allergies – Sulfa Drugs
+GME0966,Td due
+GME0966,Allergies – Sulfa Drugs
+GME0966,Pap smear due
+GME0967,Allergies – Sulfa Drugs
+GME0967,ATC above target
+GME0967,No known drug allergies
+GME0967,Pap smear due
+GME0968,Td due
+GME0968,Pap smear due
+GME0968,No known drug allergies
+GME0968,ATC above target
+GME0969,Allergies – Sulfa Drugs
+GME0969,Td due
+GME0970,Pap smear due
+GME0971,ATC above target
+GME0972,ATC above target
+GME0973,Pap smear due
+GME0973,Td due
+GME0974,No known drug allergies
+GME0974,Td due
+GME0974,Pap smear due
+GME0974,Allergies – Sulfa Drugs
+GME0975,No known drug allergies
+GME0976,Pap smear due
+GME0976,Allergies – Sulfa Drugs
+GME0977,ATC above target
+GME0977,Allergies – Sulfa Drugs
+GME0977,No known drug allergies
+GME0977,Pap smear due
+GME0978,No known drug allergies
+GME0979,Td due
+GME0980,Allergies – Sulfa Drugs
+GME0980,No known drug allergies
+GME0980,Td due
+GME0980,Pap smear due
+GME0981,No known drug allergies
+GME0982,Pap smear due
+GME0982,Td due
+GME0982,Allergies – Sulfa Drugs
+GME0983,Td due
+GME0983,No known drug allergies
+GME0984,ATC above target
+GME0984,Allergies – Sulfa Drugs
+GME0984,Pap smear due
+GME0985,Pap smear due
+GME0985,Td due
+GME0986,Allergies – Sulfa Drugs
+GME0987,Pap smear due
+GME0988,No known drug allergies
+GME0988,Td due
+GME0988,Pap smear due
+GME0989,Td due
+GME0989,Pap smear due
+GME0990,Allergies – Sulfa Drugs
+GME0990,Td due
+GME0991,No known drug allergies
+GME0991,ATC above target
+GME0991,Allergies – Sulfa Drugs
+GME0992,Allergies – Sulfa Drugs
+GME0992,ATC above target
+GME0993,Allergies – Sulfa Drugs
+GME0994,Allergies – Sulfa Drugs
+GME0994,No known drug allergies
+GME0994,Pap smear due
+GME0994,Td due
+GME0995,No known drug allergies
+GME0995,ATC above target
+GME0996,Td due
+GME0996,No known drug allergies
+GME0996,Allergies – Sulfa Drugs
+GME0997,ATC above target
+GME0998,Allergies – Sulfa Drugs
+GME0998,ATC above target
+GME0999,ATC above target

@@ -1,0 +1,2947 @@
+PatientID,Diagnosis,State,Status
+GME0000,Asthma,11/2017,Ongoing
+GME0000,Osteoporosis,09/2021,Ongoing
+GME0000,Exertive stress test,09/2002,Resolved
+GME0001,Cesarian section,10/2001,Resolved
+GME0001,Coronary Artery Disease,01/2023,Resolved
+GME0001,Cholecystectomy,03/2023,Resolved
+GME0002,Diabetes,10/2006,Resolved
+GME0003,Cholecystectomy,06/2005,Resolved
+GME0004,Coronary Artery Disease,03/2018,Ongoing
+GME0004,Coronary angiogram/repair,12/2000,Ongoing
+GME0004,Cholecystectomy,05/2000,Resolved
+GME0004,COPD,04/2010,Ongoing
+GME0005,COPD,06/2009,Resolved
+GME0005,Diabetes,04/2011,Resolved
+GME0005,Coronary angiogram/repair,07/2019,Resolved
+GME0006,Osteoporosis,12/2009,Ongoing
+GME0006,Exertive stress test,07/2018,Resolved
+GME0007,Diabetes,06/2015,Resolved
+GME0007,Cholecystectomy,02/2010,Resolved
+GME0007,Exertive stress test,07/1999,Resolved
+GME0007,Cesarian section,08/2009,Ongoing
+GME0008,Diabetes,05/1998,Ongoing
+GME0008,Asthma,03/2020,Resolved
+GME0009,COPD,02/1997,Ongoing
+GME0009,Diabetes,03/2020,Resolved
+GME0009,Asthma,06/2019,Resolved
+GME0010,Osteoporosis,05/2000,Ongoing
+GME0011,Cesarian section,01/1999,Ongoing
+GME0011,Cholecystectomy,06/2014,Ongoing
+GME0011,Asthma,12/1997,Ongoing
+GME0011,COPD,06/2025,Ongoing
+GME0011,Osteoporosis,05/2008,Ongoing
+GME0012,Coronary Artery Disease,06/1997,Resolved
+GME0012,Asthma,08/2012,Resolved
+GME0013,Osteoporosis,08/2022,Resolved
+GME0013,Asthma,11/2003,Resolved
+GME0013,Exertive stress test,10/2000,Resolved
+GME0013,Diabetes,11/2006,Resolved
+GME0013,Cholecystectomy,07/2000,Resolved
+GME0014,Osteoporosis,05/2017,Ongoing
+GME0015,COPD,03/2008,Ongoing
+GME0015,Cesarian section,06/2019,Resolved
+GME0015,Coronary Artery Disease,01/2011,Ongoing
+GME0015,Osteoporosis,07/2018,Ongoing
+GME0015,Asthma,04/2020,Resolved
+GME0016,Coronary angiogram/repair,06/2016,Ongoing
+GME0017,Cesarian section,04/2024,Resolved
+GME0017,Osteoporosis,03/2003,Resolved
+GME0018,Cesarian section,07/2000,Ongoing
+GME0018,Osteoporosis,01/1998,Resolved
+GME0018,Exertive stress test,03/2023,Ongoing
+GME0018,Cholecystectomy,01/2011,Ongoing
+GME0019,Cesarian section,10/2013,Ongoing
+GME0019,Cholecystectomy,01/2024,Ongoing
+GME0019,Osteoporosis,09/2000,Ongoing
+GME0019,Diabetes,05/2014,Ongoing
+GME0019,Coronary Artery Disease,07/2021,Ongoing
+GME0020,Asthma,04/1999,Ongoing
+GME0020,Cesarian section,06/2025,Ongoing
+GME0021,Cesarian section,05/2020,Resolved
+GME0021,Asthma,05/1999,Ongoing
+GME0022,COPD,03/2021,Resolved
+GME0022,Cesarian section,09/2010,Ongoing
+GME0022,Asthma,10/1999,Ongoing
+GME0022,Exertive stress test,01/2003,Resolved
+GME0023,Hypertension,09/2013,Resolved
+GME0023,Asthma,11/2022,Resolved
+GME0023,Exertive stress test,12/1999,Resolved
+GME0023,Cholecystectomy,01/2024,Ongoing
+GME0023,Coronary angiogram/repair,07/2011,Ongoing
+GME0024,Asthma,02/2019,Ongoing
+GME0024,Cholecystectomy,05/2007,Ongoing
+GME0024,Diabetes,02/2025,Resolved
+GME0024,Coronary angiogram/repair,07/2015,Resolved
+GME0024,Exertive stress test,06/2021,Ongoing
+GME0025,Osteoporosis,08/1997,Ongoing
+GME0025,Diabetes,02/2004,Resolved
+GME0025,Exertive stress test,09/2009,Ongoing
+GME0025,Asthma,03/2005,Resolved
+GME0025,Cholecystectomy,09/1999,Ongoing
+GME0026,Asthma,01/2010,Resolved
+GME0026,COPD,07/2009,Resolved
+GME0026,Osteoporosis,07/1995,Resolved
+GME0026,Coronary angiogram/repair,11/2005,Resolved
+GME0027,Coronary Artery Disease,03/1997,Resolved
+GME0027,Hypertension,07/1999,Ongoing
+GME0027,Coronary angiogram/repair,11/1999,Resolved
+GME0028,Coronary Artery Disease,05/2024,Ongoing
+GME0028,Hypertension,03/2018,Resolved
+GME0028,Coronary angiogram/repair,10/2013,Resolved
+GME0028,Cesarian section,01/2013,Ongoing
+GME0028,Cholecystectomy,05/2005,Ongoing
+GME0029,Diabetes,03/2007,Resolved
+GME0029,Coronary angiogram/repair,06/2014,Resolved
+GME0029,COPD,01/2004,Resolved
+GME0029,Osteoporosis,07/1999,Ongoing
+GME0029,Asthma,10/1997,Ongoing
+GME0030,Coronary Artery Disease,03/1996,Resolved
+GME0030,Osteoporosis,09/2006,Ongoing
+GME0030,Asthma,01/2018,Resolved
+GME0030,COPD,04/2000,Ongoing
+GME0030,Diabetes,10/2023,Ongoing
+GME0031,Diabetes,08/1998,Resolved
+GME0031,Coronary Artery Disease,12/2002,Resolved
+GME0031,COPD,10/2001,Resolved
+GME0032,Asthma,02/2012,Ongoing
+GME0032,Coronary Artery Disease,07/1998,Resolved
+GME0033,Coronary angiogram/repair,06/2014,Ongoing
+GME0034,Coronary Artery Disease,11/2005,Resolved
+GME0035,Asthma,09/1996,Ongoing
+GME0035,Coronary angiogram/repair,02/2007,Resolved
+GME0035,Osteoporosis,12/2010,Resolved
+GME0035,Cholecystectomy,05/2025,Resolved
+GME0036,Coronary Artery Disease,12/1996,Ongoing
+GME0036,COPD,02/2019,Resolved
+GME0036,Cesarian section,07/1999,Resolved
+GME0037,Cholecystectomy,02/2020,Resolved
+GME0037,COPD,10/2018,Resolved
+GME0037,Hypertension,06/2015,Resolved
+GME0037,Asthma,09/2017,Resolved
+GME0038,Coronary angiogram/repair,07/2016,Resolved
+GME0038,Diabetes,07/2024,Resolved
+GME0038,Osteoporosis,07/2016,Ongoing
+GME0039,Exertive stress test,05/2022,Ongoing
+GME0039,COPD,02/2001,Resolved
+GME0039,Cholecystectomy,01/2005,Ongoing
+GME0039,Asthma,08/2000,Ongoing
+GME0039,Cesarian section,06/2002,Ongoing
+GME0040,Cesarian section,09/2020,Ongoing
+GME0041,Diabetes,02/1999,Resolved
+GME0041,Asthma,11/2003,Resolved
+GME0041,Cholecystectomy,09/2007,Ongoing
+GME0041,Osteoporosis,12/2015,Ongoing
+GME0041,COPD,09/2021,Ongoing
+GME0042,Diabetes,01/2000,Ongoing
+GME0042,Hypertension,05/2003,Ongoing
+GME0042,Exertive stress test,11/2006,Ongoing
+GME0042,Coronary angiogram/repair,05/1997,Ongoing
+GME0042,Cholecystectomy,07/2013,Resolved
+GME0043,Coronary Artery Disease,07/2019,Resolved
+GME0043,Diabetes,12/2021,Ongoing
+GME0043,Osteoporosis,07/2004,Resolved
+GME0043,Asthma,08/2005,Resolved
+GME0043,Cesarian section,10/2001,Resolved
+GME0044,Coronary angiogram/repair,07/2005,Resolved
+GME0044,Coronary Artery Disease,12/2011,Ongoing
+GME0044,Diabetes,01/2016,Resolved
+GME0045,Cholecystectomy,09/2015,Resolved
+GME0045,Hypertension,01/2023,Ongoing
+GME0045,Coronary angiogram/repair,02/2016,Resolved
+GME0045,Cesarian section,12/2020,Ongoing
+GME0046,Exertive stress test,08/2004,Resolved
+GME0046,Cesarian section,09/1995,Ongoing
+GME0046,Coronary Artery Disease,08/2001,Ongoing
+GME0046,Cholecystectomy,08/2008,Resolved
+GME0047,Osteoporosis,04/2021,Resolved
+GME0047,Diabetes,08/2012,Resolved
+GME0048,Hypertension,10/2022,Ongoing
+GME0049,Osteoporosis,04/2014,Resolved
+GME0050,Hypertension,09/2016,Ongoing
+GME0050,Asthma,12/2008,Ongoing
+GME0050,Coronary Artery Disease,06/1996,Resolved
+GME0050,Cholecystectomy,01/2011,Resolved
+GME0051,Cholecystectomy,12/2015,Ongoing
+GME0051,Cesarian section,09/2002,Resolved
+GME0052,Cesarian section,06/2000,Ongoing
+GME0052,Osteoporosis,12/2016,Ongoing
+GME0052,Diabetes,08/2015,Resolved
+GME0052,Coronary angiogram/repair,09/1996,Resolved
+GME0053,Osteoporosis,08/2014,Resolved
+GME0054,Coronary angiogram/repair,07/1999,Ongoing
+GME0054,Cesarian section,09/1997,Resolved
+GME0054,Hypertension,05/2019,Resolved
+GME0055,Asthma,09/2012,Resolved
+GME0056,Coronary Artery Disease,02/2005,Ongoing
+GME0056,COPD,10/1999,Resolved
+GME0057,Coronary angiogram/repair,03/2023,Ongoing
+GME0057,Cesarian section,01/2016,Resolved
+GME0058,Diabetes,09/2017,Ongoing
+GME0058,Asthma,02/2023,Ongoing
+GME0058,Exertive stress test,02/2004,Ongoing
+GME0058,Osteoporosis,04/2021,Ongoing
+GME0059,Cesarian section,08/2017,Resolved
+GME0059,Diabetes,07/2022,Ongoing
+GME0059,Coronary angiogram/repair,09/1996,Ongoing
+GME0059,Exertive stress test,11/2003,Resolved
+GME0060,Cholecystectomy,11/2016,Ongoing
+GME0061,Diabetes,09/2009,Ongoing
+GME0061,Exertive stress test,04/2014,Ongoing
+GME0061,Asthma,04/2019,Ongoing
+GME0061,Cholecystectomy,03/2007,Ongoing
+GME0062,Asthma,12/2015,Resolved
+GME0062,Hypertension,04/1996,Ongoing
+GME0063,Coronary Artery Disease,05/1999,Ongoing
+GME0063,Hypertension,10/1995,Ongoing
+GME0064,Diabetes,01/2011,Ongoing
+GME0064,Asthma,05/2007,Ongoing
+GME0064,Coronary Artery Disease,04/2021,Ongoing
+GME0065,Osteoporosis,07/2017,Ongoing
+GME0065,Exertive stress test,03/2003,Resolved
+GME0065,Diabetes,05/2004,Resolved
+GME0065,Cesarian section,05/2003,Resolved
+GME0066,Diabetes,02/1996,Resolved
+GME0066,COPD,05/2007,Ongoing
+GME0066,Coronary Artery Disease,04/2003,Ongoing
+GME0067,Coronary Artery Disease,07/2013,Ongoing
+GME0067,Cholecystectomy,09/1999,Resolved
+GME0067,Diabetes,11/2012,Ongoing
+GME0067,Hypertension,09/2005,Resolved
+GME0067,Osteoporosis,04/2021,Ongoing
+GME0068,Exertive stress test,04/2022,Resolved
+GME0068,Hypertension,02/2009,Ongoing
+GME0068,Coronary Artery Disease,10/2009,Ongoing
+GME0068,COPD,11/2009,Resolved
+GME0069,Hypertension,07/2020,Ongoing
+GME0070,Diabetes,07/2006,Resolved
+GME0070,Coronary angiogram/repair,11/2018,Resolved
+GME0071,Exertive stress test,12/1997,Resolved
+GME0071,Coronary Artery Disease,05/2006,Resolved
+GME0072,Exertive stress test,06/1998,Ongoing
+GME0072,Coronary Artery Disease,01/2015,Resolved
+GME0072,Hypertension,07/2016,Ongoing
+GME0072,Coronary angiogram/repair,05/2013,Resolved
+GME0073,Cesarian section,12/2012,Ongoing
+GME0073,Hypertension,06/2017,Ongoing
+GME0073,Exertive stress test,04/2022,Ongoing
+GME0074,Cholecystectomy,06/2017,Ongoing
+GME0074,COPD,08/2019,Resolved
+GME0074,Exertive stress test,09/1995,Ongoing
+GME0074,Asthma,03/2018,Ongoing
+GME0074,Osteoporosis,09/1995,Ongoing
+GME0075,Asthma,12/2007,Ongoing
+GME0075,Osteoporosis,09/2018,Ongoing
+GME0076,Hypertension,04/2006,Resolved
+GME0077,Exertive stress test,09/2001,Resolved
+GME0077,Cesarian section,09/2015,Resolved
+GME0077,Coronary angiogram/repair,03/2012,Ongoing
+GME0078,Hypertension,07/1999,Ongoing
+GME0079,Hypertension,12/2002,Ongoing
+GME0079,Asthma,08/2023,Ongoing
+GME0080,Asthma,06/2016,Resolved
+GME0080,Cholecystectomy,06/2002,Ongoing
+GME0081,Exertive stress test,11/2015,Ongoing
+GME0081,Diabetes,10/1997,Ongoing
+GME0081,Cholecystectomy,04/2007,Ongoing
+GME0082,Exertive stress test,07/2005,Resolved
+GME0082,Cesarian section,06/2013,Resolved
+GME0082,Osteoporosis,05/2019,Ongoing
+GME0082,Hypertension,10/2004,Resolved
+GME0083,Exertive stress test,01/1998,Ongoing
+GME0083,Asthma,05/2015,Resolved
+GME0084,Coronary Artery Disease,09/2009,Resolved
+GME0084,Asthma,07/2005,Resolved
+GME0084,Exertive stress test,12/2016,Ongoing
+GME0085,Coronary Artery Disease,12/2022,Resolved
+GME0085,Hypertension,12/2010,Ongoing
+GME0085,COPD,05/2013,Ongoing
+GME0086,Asthma,03/2012,Resolved
+GME0086,Cesarian section,01/2015,Ongoing
+GME0086,Coronary Artery Disease,01/2002,Resolved
+GME0086,COPD,10/1997,Ongoing
+GME0087,Coronary Artery Disease,04/2017,Resolved
+GME0087,COPD,03/2012,Ongoing
+GME0087,Exertive stress test,05/2018,Resolved
+GME0087,Hypertension,08/2024,Resolved
+GME0087,Asthma,09/2017,Resolved
+GME0088,Cesarian section,09/1997,Ongoing
+GME0089,Cholecystectomy,06/2013,Ongoing
+GME0089,Cesarian section,08/1995,Ongoing
+GME0090,Hypertension,02/2001,Ongoing
+GME0090,Cesarian section,12/2013,Resolved
+GME0090,Osteoporosis,01/2006,Resolved
+GME0090,Asthma,03/2016,Resolved
+GME0090,Exertive stress test,03/2019,Ongoing
+GME0091,Asthma,09/2001,Ongoing
+GME0091,Exertive stress test,11/2012,Resolved
+GME0091,Diabetes,07/2005,Ongoing
+GME0091,Coronary angiogram/repair,01/2008,Ongoing
+GME0092,Coronary angiogram/repair,02/2012,Ongoing
+GME0092,Exertive stress test,08/2008,Resolved
+GME0092,Diabetes,06/2001,Resolved
+GME0093,Asthma,10/1998,Resolved
+GME0093,Hypertension,03/2008,Resolved
+GME0094,Cesarian section,04/2019,Resolved
+GME0094,Coronary Artery Disease,12/2013,Resolved
+GME0095,Diabetes,01/2011,Resolved
+GME0096,COPD,09/2008,Resolved
+GME0096,Hypertension,10/1997,Resolved
+GME0096,Coronary angiogram/repair,12/2009,Ongoing
+GME0097,Osteoporosis,08/2017,Resolved
+GME0098,COPD,08/2005,Resolved
+GME0099,Diabetes,07/2006,Resolved
+GME0100,Asthma,07/2017,Resolved
+GME0100,Hypertension,01/2009,Ongoing
+GME0100,Cholecystectomy,05/2017,Ongoing
+GME0101,Exertive stress test,12/2019,Ongoing
+GME0101,Coronary Artery Disease,09/2013,Resolved
+GME0101,Cholecystectomy,05/1998,Ongoing
+GME0101,Diabetes,08/2009,Ongoing
+GME0101,Coronary angiogram/repair,12/1995,Resolved
+GME0102,Coronary angiogram/repair,09/2018,Resolved
+GME0102,COPD,07/2007,Ongoing
+GME0102,Cesarian section,01/2000,Ongoing
+GME0103,Cholecystectomy,11/2021,Ongoing
+GME0103,Asthma,05/2016,Resolved
+GME0103,COPD,07/1997,Resolved
+GME0104,Osteoporosis,01/2000,Resolved
+GME0104,Cholecystectomy,09/2005,Ongoing
+GME0104,Diabetes,07/2018,Ongoing
+GME0104,Asthma,08/2022,Resolved
+GME0105,Coronary angiogram/repair,10/2005,Ongoing
+GME0105,Diabetes,12/2024,Ongoing
+GME0106,Diabetes,01/2015,Ongoing
+GME0106,Coronary Artery Disease,06/2000,Ongoing
+GME0106,Asthma,12/2013,Ongoing
+GME0107,Cesarian section,01/2002,Resolved
+GME0107,COPD,08/2007,Resolved
+GME0107,Coronary Artery Disease,09/2012,Resolved
+GME0108,Hypertension,07/2004,Ongoing
+GME0108,Coronary angiogram/repair,07/2019,Ongoing
+GME0108,Exertive stress test,08/2020,Resolved
+GME0108,Osteoporosis,08/2019,Resolved
+GME0109,Cholecystectomy,09/2016,Resolved
+GME0109,Osteoporosis,12/2014,Resolved
+GME0109,Asthma,12/2001,Resolved
+GME0109,Coronary angiogram/repair,07/2021,Ongoing
+GME0109,COPD,12/2012,Resolved
+GME0110,Coronary angiogram/repair,05/2003,Resolved
+GME0110,Exertive stress test,07/1997,Resolved
+GME0111,Hypertension,02/2000,Resolved
+GME0111,Coronary Artery Disease,05/2011,Resolved
+GME0111,Cholecystectomy,11/1996,Ongoing
+GME0112,Coronary Artery Disease,04/2006,Ongoing
+GME0112,COPD,04/2004,Ongoing
+GME0112,Coronary angiogram/repair,01/1999,Ongoing
+GME0112,Diabetes,02/2001,Ongoing
+GME0112,Cesarian section,09/2024,Ongoing
+GME0113,Osteoporosis,03/1996,Resolved
+GME0113,Coronary Artery Disease,06/2023,Resolved
+GME0113,Asthma,08/2011,Ongoing
+GME0114,COPD,05/2004,Resolved
+GME0114,Hypertension,03/2006,Resolved
+GME0115,Cholecystectomy,06/2004,Ongoing
+GME0115,Asthma,01/2014,Resolved
+GME0116,Hypertension,03/1997,Resolved
+GME0117,Coronary Artery Disease,03/2006,Ongoing
+GME0117,Asthma,03/2013,Resolved
+GME0117,Cholecystectomy,05/2015,Resolved
+GME0117,Diabetes,06/2006,Resolved
+GME0118,Osteoporosis,09/2010,Resolved
+GME0118,Coronary Artery Disease,07/2017,Ongoing
+GME0118,Asthma,09/2011,Resolved
+GME0119,Coronary Artery Disease,05/2000,Ongoing
+GME0120,Hypertension,08/2004,Resolved
+GME0120,Cesarian section,11/2004,Resolved
+GME0120,Exertive stress test,05/2011,Ongoing
+GME0121,Hypertension,07/2005,Resolved
+GME0121,Exertive stress test,09/2016,Ongoing
+GME0121,COPD,04/2018,Ongoing
+GME0122,COPD,06/2000,Resolved
+GME0123,COPD,09/2000,Resolved
+GME0124,Asthma,06/2019,Ongoing
+GME0124,Cholecystectomy,01/2016,Resolved
+GME0125,Coronary Artery Disease,06/2020,Resolved
+GME0125,Cesarian section,10/2009,Ongoing
+GME0125,Cholecystectomy,12/2023,Resolved
+GME0125,Exertive stress test,08/2009,Resolved
+GME0126,Coronary angiogram/repair,12/2007,Ongoing
+GME0126,Asthma,12/2017,Resolved
+GME0126,Diabetes,11/2006,Resolved
+GME0127,Coronary angiogram/repair,07/2001,Resolved
+GME0127,Coronary Artery Disease,03/1996,Ongoing
+GME0127,Cesarian section,01/2015,Ongoing
+GME0127,Cholecystectomy,06/2014,Ongoing
+GME0128,Coronary angiogram/repair,03/2012,Resolved
+GME0128,Asthma,04/2007,Ongoing
+GME0129,Cesarian section,04/2000,Resolved
+GME0129,Diabetes,03/2008,Resolved
+GME0129,Hypertension,08/2020,Ongoing
+GME0129,Exertive stress test,05/2019,Resolved
+GME0129,Cholecystectomy,07/1996,Ongoing
+GME0130,Coronary Artery Disease,01/2016,Resolved
+GME0130,Cesarian section,07/2007,Resolved
+GME0131,Coronary angiogram/repair,09/2014,Resolved
+GME0132,COPD,06/2006,Ongoing
+GME0132,Asthma,09/2013,Ongoing
+GME0132,Exertive stress test,04/1997,Resolved
+GME0132,Hypertension,01/2001,Resolved
+GME0133,Diabetes,10/2022,Resolved
+GME0133,Coronary angiogram/repair,03/2007,Ongoing
+GME0133,Cesarian section,06/2024,Ongoing
+GME0133,Osteoporosis,01/2006,Ongoing
+GME0134,Asthma,01/2008,Resolved
+GME0134,Diabetes,05/1996,Resolved
+GME0134,Cholecystectomy,01/2017,Resolved
+GME0135,Diabetes,11/1997,Resolved
+GME0135,Cholecystectomy,09/1998,Ongoing
+GME0135,Hypertension,08/1997,Ongoing
+GME0135,Cesarian section,08/2008,Ongoing
+GME0136,Asthma,02/2022,Ongoing
+GME0136,Coronary Artery Disease,09/2014,Ongoing
+GME0136,Cholecystectomy,10/2013,Resolved
+GME0137,Cesarian section,12/2009,Resolved
+GME0137,Cholecystectomy,12/2011,Resolved
+GME0137,Hypertension,08/1995,Ongoing
+GME0138,Exertive stress test,04/2010,Resolved
+GME0138,Coronary Artery Disease,04/2020,Resolved
+GME0138,Diabetes,06/2024,Resolved
+GME0138,Coronary angiogram/repair,07/1997,Resolved
+GME0138,Asthma,11/2021,Resolved
+GME0139,COPD,07/2000,Resolved
+GME0140,Hypertension,09/2000,Resolved
+GME0140,Coronary Artery Disease,06/2000,Resolved
+GME0141,Cesarian section,02/2009,Ongoing
+GME0141,Cholecystectomy,06/2020,Ongoing
+GME0141,Coronary Artery Disease,10/2008,Ongoing
+GME0141,Hypertension,03/2010,Ongoing
+GME0142,Osteoporosis,03/2010,Ongoing
+GME0142,COPD,07/2023,Ongoing
+GME0142,Diabetes,06/2000,Ongoing
+GME0142,Exertive stress test,06/2008,Ongoing
+GME0142,Cesarian section,01/2003,Resolved
+GME0143,Coronary angiogram/repair,07/2022,Resolved
+GME0143,Cholecystectomy,12/2024,Resolved
+GME0143,Coronary Artery Disease,11/2024,Ongoing
+GME0144,Hypertension,02/2004,Ongoing
+GME0144,Diabetes,09/2006,Ongoing
+GME0144,Exertive stress test,11/2015,Ongoing
+GME0145,Coronary Artery Disease,02/2005,Ongoing
+GME0145,Exertive stress test,01/2009,Resolved
+GME0145,Osteoporosis,04/2018,Ongoing
+GME0146,Hypertension,03/2010,Resolved
+GME0147,Hypertension,01/2025,Ongoing
+GME0147,Exertive stress test,02/2007,Resolved
+GME0147,Diabetes,08/2007,Ongoing
+GME0147,Osteoporosis,06/1997,Resolved
+GME0148,Diabetes,08/2017,Resolved
+GME0149,Diabetes,09/2002,Ongoing
+GME0150,Exertive stress test,04/2018,Ongoing
+GME0150,Osteoporosis,01/2012,Ongoing
+GME0150,Coronary Artery Disease,01/2022,Ongoing
+GME0150,Cholecystectomy,09/2010,Resolved
+GME0150,Asthma,08/2019,Resolved
+GME0151,Coronary Artery Disease,03/2005,Ongoing
+GME0151,COPD,06/2006,Ongoing
+GME0151,Exertive stress test,09/2010,Ongoing
+GME0152,Exertive stress test,03/2022,Ongoing
+GME0152,Osteoporosis,10/2005,Ongoing
+GME0152,Coronary angiogram/repair,04/2016,Ongoing
+GME0152,Diabetes,03/2021,Resolved
+GME0152,Asthma,01/2009,Resolved
+GME0153,Coronary Artery Disease,10/2005,Resolved
+GME0153,Asthma,08/2010,Resolved
+GME0153,Diabetes,10/2002,Ongoing
+GME0153,COPD,07/2017,Ongoing
+GME0153,Osteoporosis,05/2008,Resolved
+GME0154,Cholecystectomy,12/2022,Ongoing
+GME0155,Diabetes,10/2008,Resolved
+GME0155,COPD,08/2017,Resolved
+GME0155,Coronary Artery Disease,12/2020,Ongoing
+GME0155,Exertive stress test,04/2021,Ongoing
+GME0156,Asthma,10/2010,Resolved
+GME0156,Diabetes,08/2022,Resolved
+GME0156,Cesarian section,08/2013,Resolved
+GME0157,Exertive stress test,12/2004,Resolved
+GME0157,COPD,06/2015,Ongoing
+GME0157,Cesarian section,12/1995,Ongoing
+GME0157,Coronary Artery Disease,10/2021,Resolved
+GME0158,Coronary Artery Disease,08/2012,Ongoing
+GME0158,Hypertension,05/2009,Resolved
+GME0158,Asthma,07/2021,Resolved
+GME0159,Diabetes,11/2008,Ongoing
+GME0159,Osteoporosis,10/2002,Ongoing
+GME0159,Coronary Artery Disease,12/2009,Ongoing
+GME0159,Exertive stress test,12/2019,Resolved
+GME0159,Cesarian section,05/1999,Ongoing
+GME0160,Exertive stress test,01/1999,Ongoing
+GME0160,Cesarian section,09/2019,Resolved
+GME0160,Diabetes,12/2022,Resolved
+GME0161,Osteoporosis,10/2020,Resolved
+GME0161,Coronary angiogram/repair,11/2022,Resolved
+GME0161,Cesarian section,05/2019,Resolved
+GME0162,COPD,04/2022,Resolved
+GME0162,Coronary angiogram/repair,12/2014,Ongoing
+GME0162,Coronary Artery Disease,11/2013,Ongoing
+GME0162,Cesarian section,07/2002,Resolved
+GME0163,Asthma,10/2009,Ongoing
+GME0163,Exertive stress test,08/2008,Ongoing
+GME0163,Coronary Artery Disease,12/2017,Ongoing
+GME0163,Hypertension,05/2024,Resolved
+GME0164,Coronary Artery Disease,08/2006,Resolved
+GME0165,Cholecystectomy,06/2004,Ongoing
+GME0165,Coronary Artery Disease,06/2022,Ongoing
+GME0165,Coronary angiogram/repair,06/2024,Resolved
+GME0165,Asthma,05/2015,Resolved
+GME0165,Cesarian section,05/2022,Ongoing
+GME0166,Asthma,02/2017,Resolved
+GME0166,Osteoporosis,09/1998,Ongoing
+GME0166,Coronary angiogram/repair,07/2009,Ongoing
+GME0167,Diabetes,03/1996,Resolved
+GME0167,Cesarian section,08/2019,Resolved
+GME0167,Asthma,04/2004,Resolved
+GME0167,Coronary Artery Disease,01/2007,Ongoing
+GME0168,Coronary Artery Disease,03/2005,Resolved
+GME0169,Asthma,03/2003,Ongoing
+GME0169,Cesarian section,02/2023,Resolved
+GME0170,Asthma,04/2007,Resolved
+GME0170,Diabetes,07/1996,Resolved
+GME0170,Osteoporosis,12/2001,Ongoing
+GME0170,Cholecystectomy,07/1999,Ongoing
+GME0171,Coronary angiogram/repair,03/1998,Resolved
+GME0171,Asthma,06/2009,Resolved
+GME0171,Cesarian section,01/2016,Resolved
+GME0171,Osteoporosis,01/2008,Ongoing
+GME0172,Osteoporosis,04/2007,Ongoing
+GME0173,Cholecystectomy,05/2021,Ongoing
+GME0173,Osteoporosis,08/2002,Resolved
+GME0174,Diabetes,05/2023,Resolved
+GME0174,Cesarian section,11/2005,Resolved
+GME0174,Cholecystectomy,11/2023,Ongoing
+GME0174,Coronary Artery Disease,05/2012,Ongoing
+GME0175,Exertive stress test,01/1996,Ongoing
+GME0175,Coronary angiogram/repair,05/2007,Ongoing
+GME0176,Diabetes,06/2015,Ongoing
+GME0176,Cholecystectomy,05/2000,Resolved
+GME0176,Coronary Artery Disease,02/2025,Ongoing
+GME0177,Cesarian section,08/2020,Ongoing
+GME0177,COPD,04/2007,Resolved
+GME0177,Osteoporosis,05/1998,Ongoing
+GME0177,Coronary Artery Disease,12/2013,Resolved
+GME0178,Osteoporosis,11/2019,Ongoing
+GME0178,Cesarian section,11/2023,Resolved
+GME0178,Cholecystectomy,10/2001,Ongoing
+GME0178,Coronary angiogram/repair,10/1999,Ongoing
+GME0179,Asthma,12/2000,Ongoing
+GME0179,COPD,11/1995,Resolved
+GME0179,Cholecystectomy,07/2002,Resolved
+GME0180,Exertive stress test,07/2001,Ongoing
+GME0180,Asthma,07/2013,Resolved
+GME0180,Diabetes,02/2022,Resolved
+GME0180,Cesarian section,10/2019,Ongoing
+GME0181,Osteoporosis,09/1999,Ongoing
+GME0181,Cesarian section,04/1999,Ongoing
+GME0181,Exertive stress test,11/2009,Resolved
+GME0182,Diabetes,01/1998,Resolved
+GME0182,COPD,07/2017,Ongoing
+GME0182,Asthma,03/2021,Resolved
+GME0183,Coronary angiogram/repair,07/2021,Resolved
+GME0184,COPD,09/1998,Resolved
+GME0184,Cholecystectomy,05/1999,Resolved
+GME0184,Exertive stress test,06/2025,Resolved
+GME0184,Asthma,02/2020,Ongoing
+GME0185,COPD,06/2023,Ongoing
+GME0186,Asthma,06/1996,Resolved
+GME0186,Exertive stress test,11/2003,Ongoing
+GME0186,Osteoporosis,11/1999,Ongoing
+GME0186,Coronary Artery Disease,04/2021,Resolved
+GME0186,Cholecystectomy,04/1996,Resolved
+GME0187,Exertive stress test,06/2022,Resolved
+GME0187,Coronary Artery Disease,05/2000,Resolved
+GME0188,Cholecystectomy,02/1996,Resolved
+GME0188,Diabetes,12/2020,Resolved
+GME0188,Exertive stress test,07/2008,Resolved
+GME0188,Cesarian section,04/2024,Ongoing
+GME0189,Osteoporosis,10/2019,Ongoing
+GME0189,Exertive stress test,10/1998,Ongoing
+GME0189,Cesarian section,09/2023,Ongoing
+GME0190,Hypertension,08/2013,Resolved
+GME0190,Exertive stress test,11/2011,Resolved
+GME0191,COPD,06/2009,Ongoing
+GME0191,Cesarian section,10/2009,Ongoing
+GME0191,Osteoporosis,08/2013,Ongoing
+GME0191,Cholecystectomy,12/2024,Resolved
+GME0192,Hypertension,11/2022,Resolved
+GME0192,Coronary angiogram/repair,06/2006,Ongoing
+GME0193,Asthma,01/2007,Ongoing
+GME0194,Diabetes,02/2006,Resolved
+GME0195,Coronary angiogram/repair,09/2019,Ongoing
+GME0195,Diabetes,07/1999,Resolved
+GME0195,Cesarian section,03/2016,Ongoing
+GME0195,Coronary Artery Disease,06/2009,Ongoing
+GME0195,Cholecystectomy,02/2015,Ongoing
+GME0196,COPD,12/2017,Ongoing
+GME0196,Diabetes,05/2014,Ongoing
+GME0196,Coronary angiogram/repair,03/2017,Resolved
+GME0196,Exertive stress test,07/2004,Resolved
+GME0196,Hypertension,03/1996,Resolved
+GME0197,Cesarian section,06/2014,Ongoing
+GME0197,Exertive stress test,11/2013,Ongoing
+GME0198,Exertive stress test,04/2015,Resolved
+GME0198,Coronary angiogram/repair,01/2002,Resolved
+GME0199,Osteoporosis,12/2007,Resolved
+GME0199,Hypertension,09/2006,Ongoing
+GME0199,Asthma,01/2002,Resolved
+GME0200,Cesarian section,02/2019,Resolved
+GME0200,Asthma,04/2001,Resolved
+GME0200,Exertive stress test,11/1997,Resolved
+GME0200,Coronary Artery Disease,07/2021,Resolved
+GME0200,Diabetes,07/2015,Ongoing
+GME0201,Hypertension,05/2024,Resolved
+GME0201,Osteoporosis,02/2006,Resolved
+GME0201,Exertive stress test,12/2011,Resolved
+GME0201,Coronary Artery Disease,11/2004,Ongoing
+GME0201,Coronary angiogram/repair,07/2000,Ongoing
+GME0202,Cesarian section,09/2011,Resolved
+GME0202,Hypertension,07/2022,Ongoing
+GME0202,Osteoporosis,12/2007,Ongoing
+GME0202,Coronary Artery Disease,01/1999,Resolved
+GME0203,Coronary Artery Disease,11/1995,Resolved
+GME0203,Asthma,12/2018,Resolved
+GME0204,Coronary angiogram/repair,04/2010,Ongoing
+GME0205,Asthma,01/2020,Resolved
+GME0205,Cesarian section,11/2002,Ongoing
+GME0205,Cholecystectomy,02/2005,Ongoing
+GME0205,Osteoporosis,06/2005,Resolved
+GME0206,Diabetes,03/2011,Resolved
+GME0206,Cholecystectomy,01/2016,Resolved
+GME0206,Cesarian section,01/1999,Ongoing
+GME0206,Coronary angiogram/repair,10/2013,Ongoing
+GME0206,COPD,08/1995,Ongoing
+GME0207,Coronary Artery Disease,05/1998,Resolved
+GME0207,Hypertension,10/1998,Resolved
+GME0207,Cesarian section,01/1999,Ongoing
+GME0207,Diabetes,02/2019,Ongoing
+GME0208,Exertive stress test,05/2011,Ongoing
+GME0208,COPD,12/2007,Resolved
+GME0209,Asthma,01/2004,Resolved
+GME0209,Osteoporosis,04/2006,Ongoing
+GME0209,Coronary Artery Disease,07/2007,Resolved
+GME0210,Exertive stress test,04/2000,Resolved
+GME0210,Diabetes,05/2005,Ongoing
+GME0210,Cesarian section,02/1999,Resolved
+GME0211,Osteoporosis,04/2001,Ongoing
+GME0211,Exertive stress test,07/2003,Ongoing
+GME0211,Hypertension,10/2019,Resolved
+GME0211,Asthma,06/2004,Ongoing
+GME0212,Coronary Artery Disease,07/2003,Resolved
+GME0212,Hypertension,10/2006,Resolved
+GME0212,Cesarian section,10/2006,Ongoing
+GME0213,Cholecystectomy,06/2014,Ongoing
+GME0214,Diabetes,02/1998,Resolved
+GME0214,Hypertension,07/1996,Ongoing
+GME0214,Cesarian section,11/2010,Ongoing
+GME0214,Asthma,01/2009,Ongoing
+GME0214,Exertive stress test,07/1995,Ongoing
+GME0215,Coronary angiogram/repair,12/2022,Ongoing
+GME0215,Asthma,04/2011,Resolved
+GME0215,Cesarian section,10/1999,Ongoing
+GME0216,Exertive stress test,09/2014,Resolved
+GME0216,Coronary angiogram/repair,05/2005,Ongoing
+GME0216,Osteoporosis,11/2011,Ongoing
+GME0216,Asthma,03/2019,Resolved
+GME0216,Diabetes,04/2009,Resolved
+GME0217,Osteoporosis,06/2025,Ongoing
+GME0217,Asthma,11/2002,Resolved
+GME0218,Asthma,06/2025,Resolved
+GME0218,Diabetes,04/2010,Resolved
+GME0218,Hypertension,10/2020,Ongoing
+GME0218,Exertive stress test,09/2020,Resolved
+GME0218,COPD,08/2000,Resolved
+GME0219,Coronary angiogram/repair,08/2009,Ongoing
+GME0219,Diabetes,10/2018,Resolved
+GME0219,COPD,09/2018,Ongoing
+GME0219,Osteoporosis,06/2014,Resolved
+GME0219,Hypertension,01/2016,Resolved
+GME0220,Osteoporosis,10/2004,Resolved
+GME0220,Hypertension,01/2001,Resolved
+GME0220,COPD,03/1998,Resolved
+GME0220,Coronary Artery Disease,02/2020,Resolved
+GME0220,Coronary angiogram/repair,03/2020,Ongoing
+GME0221,Hypertension,12/1997,Resolved
+GME0221,Coronary Artery Disease,10/2005,Resolved
+GME0221,Coronary angiogram/repair,05/2014,Resolved
+GME0221,Diabetes,08/2003,Ongoing
+GME0221,Asthma,06/2011,Ongoing
+GME0222,COPD,02/2023,Resolved
+GME0222,Cesarian section,08/2005,Ongoing
+GME0222,Coronary Artery Disease,03/2024,Resolved
+GME0223,Coronary Artery Disease,04/2020,Resolved
+GME0224,Cholecystectomy,10/2010,Resolved
+GME0224,Cesarian section,09/2002,Resolved
+GME0224,Coronary angiogram/repair,01/2008,Resolved
+GME0225,Coronary Artery Disease,03/2009,Ongoing
+GME0225,Cholecystectomy,04/2007,Resolved
+GME0225,Asthma,10/2020,Ongoing
+GME0225,Cesarian section,06/2021,Ongoing
+GME0226,Hypertension,06/2008,Ongoing
+GME0226,Exertive stress test,08/2016,Ongoing
+GME0227,Coronary angiogram/repair,08/1998,Ongoing
+GME0227,Coronary Artery Disease,10/2011,Resolved
+GME0227,Asthma,03/2012,Ongoing
+GME0227,Exertive stress test,09/2017,Resolved
+GME0228,COPD,09/2019,Resolved
+GME0228,Asthma,08/2002,Ongoing
+GME0228,Osteoporosis,09/1995,Ongoing
+GME0229,Cholecystectomy,07/2009,Ongoing
+GME0230,Coronary angiogram/repair,03/2021,Ongoing
+GME0230,Coronary Artery Disease,07/2009,Resolved
+GME0231,Osteoporosis,01/2002,Ongoing
+GME0231,Exertive stress test,03/2000,Resolved
+GME0231,Hypertension,02/2019,Ongoing
+GME0231,Coronary angiogram/repair,02/2010,Ongoing
+GME0231,Cesarian section,06/2015,Resolved
+GME0232,Cholecystectomy,07/2006,Ongoing
+GME0233,Diabetes,04/1998,Ongoing
+GME0233,Cesarian section,01/2006,Resolved
+GME0233,Cholecystectomy,05/2011,Ongoing
+GME0234,Diabetes,06/1998,Resolved
+GME0235,Asthma,09/2005,Ongoing
+GME0235,Coronary angiogram/repair,11/1996,Resolved
+GME0235,Hypertension,12/2017,Resolved
+GME0235,Coronary Artery Disease,02/2016,Ongoing
+GME0236,Hypertension,03/1998,Resolved
+GME0236,Coronary angiogram/repair,12/2013,Ongoing
+GME0237,COPD,08/1999,Resolved
+GME0238,Cesarian section,02/2017,Resolved
+GME0239,Exertive stress test,02/2015,Ongoing
+GME0239,Cesarian section,09/2022,Ongoing
+GME0240,Coronary Artery Disease,08/2009,Resolved
+GME0240,Cesarian section,10/2024,Resolved
+GME0241,Diabetes,12/2017,Resolved
+GME0241,Coronary angiogram/repair,07/2018,Resolved
+GME0242,Osteoporosis,08/2019,Ongoing
+GME0242,Coronary Artery Disease,07/2008,Resolved
+GME0242,Cholecystectomy,09/2022,Ongoing
+GME0243,Asthma,11/2018,Resolved
+GME0243,Cesarian section,06/2008,Ongoing
+GME0243,Osteoporosis,04/2021,Resolved
+GME0243,Coronary Artery Disease,04/2019,Resolved
+GME0244,Coronary Artery Disease,07/2010,Resolved
+GME0244,Cesarian section,04/1996,Resolved
+GME0244,COPD,03/2009,Ongoing
+GME0244,Hypertension,06/2024,Ongoing
+GME0244,Asthma,05/2001,Resolved
+GME0245,COPD,08/2006,Ongoing
+GME0245,Diabetes,01/2010,Resolved
+GME0245,Coronary angiogram/repair,12/2002,Resolved
+GME0245,Exertive stress test,01/2013,Ongoing
+GME0245,Cesarian section,07/2002,Ongoing
+GME0246,Exertive stress test,06/2013,Resolved
+GME0246,COPD,05/2015,Ongoing
+GME0246,Cesarian section,11/2003,Ongoing
+GME0247,COPD,08/2023,Ongoing
+GME0248,Cesarian section,09/2016,Resolved
+GME0248,Osteoporosis,07/2017,Resolved
+GME0248,Diabetes,01/2024,Resolved
+GME0248,Exertive stress test,11/2011,Ongoing
+GME0248,Cholecystectomy,06/2007,Ongoing
+GME0249,Asthma,05/2014,Ongoing
+GME0250,Cesarian section,06/2010,Ongoing
+GME0250,Hypertension,05/2012,Resolved
+GME0251,Cholecystectomy,10/2012,Resolved
+GME0251,Asthma,05/2023,Resolved
+GME0251,COPD,04/2009,Ongoing
+GME0252,Coronary Artery Disease,02/2019,Resolved
+GME0252,Diabetes,02/2010,Ongoing
+GME0253,COPD,11/2019,Ongoing
+GME0253,Hypertension,10/2007,Ongoing
+GME0253,Osteoporosis,03/2013,Ongoing
+GME0253,Exertive stress test,10/2000,Resolved
+GME0254,Cesarian section,05/2016,Resolved
+GME0254,Asthma,11/2005,Resolved
+GME0254,Coronary angiogram/repair,07/2017,Resolved
+GME0254,COPD,05/2025,Ongoing
+GME0255,Coronary Artery Disease,07/2000,Ongoing
+GME0255,Hypertension,08/2002,Ongoing
+GME0256,Exertive stress test,05/2025,Ongoing
+GME0257,Asthma,12/2017,Ongoing
+GME0257,Coronary Artery Disease,10/2016,Resolved
+GME0258,Exertive stress test,02/2023,Ongoing
+GME0258,Diabetes,06/1999,Resolved
+GME0258,Coronary angiogram/repair,03/2015,Resolved
+GME0258,Cesarian section,05/2011,Ongoing
+GME0258,Osteoporosis,11/2010,Ongoing
+GME0259,Coronary Artery Disease,03/2015,Resolved
+GME0259,Asthma,03/2022,Resolved
+GME0260,Asthma,03/2014,Ongoing
+GME0261,Coronary angiogram/repair,03/1996,Ongoing
+GME0261,Cesarian section,11/2006,Resolved
+GME0262,Diabetes,02/2002,Resolved
+GME0263,Asthma,10/2024,Resolved
+GME0263,COPD,06/2008,Resolved
+GME0263,Coronary angiogram/repair,06/2001,Resolved
+GME0263,Hypertension,03/2025,Resolved
+GME0264,Hypertension,12/2013,Ongoing
+GME0264,COPD,12/2003,Resolved
+GME0265,Cholecystectomy,08/1997,Resolved
+GME0265,COPD,01/2007,Resolved
+GME0265,Diabetes,12/1996,Ongoing
+GME0265,Coronary Artery Disease,11/2015,Resolved
+GME0265,Osteoporosis,11/2019,Resolved
+GME0266,Cesarian section,07/2024,Ongoing
+GME0266,Hypertension,05/2008,Resolved
+GME0266,Coronary Artery Disease,11/2006,Resolved
+GME0266,Asthma,12/2001,Resolved
+GME0267,COPD,05/2014,Resolved
+GME0267,Exertive stress test,04/2018,Resolved
+GME0268,Coronary angiogram/repair,10/2024,Resolved
+GME0268,Cesarian section,12/1995,Resolved
+GME0269,Coronary Artery Disease,02/1998,Ongoing
+GME0269,Exertive stress test,08/2017,Resolved
+GME0269,Coronary angiogram/repair,07/2003,Ongoing
+GME0269,Cholecystectomy,11/2014,Ongoing
+GME0270,Coronary Artery Disease,11/2018,Ongoing
+GME0270,Asthma,06/2002,Resolved
+GME0271,Coronary angiogram/repair,07/2022,Ongoing
+GME0271,Exertive stress test,07/2007,Ongoing
+GME0271,COPD,07/2024,Resolved
+GME0271,Osteoporosis,12/2004,Resolved
+GME0272,Coronary Artery Disease,10/2009,Ongoing
+GME0272,Osteoporosis,06/2006,Resolved
+GME0272,Hypertension,11/2021,Resolved
+GME0273,Osteoporosis,03/2002,Ongoing
+GME0274,COPD,04/2013,Ongoing
+GME0275,Coronary angiogram/repair,11/2012,Ongoing
+GME0275,Cholecystectomy,10/2013,Resolved
+GME0275,COPD,04/2016,Ongoing
+GME0275,Cesarian section,02/2025,Ongoing
+GME0276,Asthma,03/2017,Resolved
+GME0277,Diabetes,08/2001,Ongoing
+GME0278,Hypertension,12/2018,Ongoing
+GME0278,COPD,08/2010,Ongoing
+GME0278,Diabetes,02/2023,Resolved
+GME0278,Asthma,05/2016,Ongoing
+GME0278,Cholecystectomy,02/2024,Resolved
+GME0279,COPD,08/2001,Resolved
+GME0279,Asthma,09/2007,Resolved
+GME0279,Diabetes,05/2008,Ongoing
+GME0279,Osteoporosis,01/2003,Ongoing
+GME0280,Asthma,12/2014,Ongoing
+GME0280,Cesarian section,03/1997,Ongoing
+GME0281,Cholecystectomy,03/2016,Resolved
+GME0281,Coronary angiogram/repair,01/1996,Resolved
+GME0281,Coronary Artery Disease,07/2000,Resolved
+GME0281,Hypertension,12/2024,Resolved
+GME0282,Coronary Artery Disease,08/2008,Resolved
+GME0282,COPD,04/2015,Ongoing
+GME0283,Cesarian section,08/2011,Resolved
+GME0283,Osteoporosis,01/2025,Resolved
+GME0284,Cholecystectomy,11/2013,Ongoing
+GME0284,Hypertension,10/2014,Ongoing
+GME0284,Asthma,04/2014,Resolved
+GME0284,Diabetes,11/2010,Resolved
+GME0284,COPD,03/2012,Resolved
+GME0285,Cesarian section,10/2004,Resolved
+GME0285,Hypertension,09/1998,Ongoing
+GME0286,Osteoporosis,02/2012,Resolved
+GME0286,Hypertension,02/2022,Resolved
+GME0287,COPD,04/2025,Ongoing
+GME0287,Coronary angiogram/repair,10/2004,Resolved
+GME0287,Cholecystectomy,03/2010,Ongoing
+GME0287,Coronary Artery Disease,10/2023,Resolved
+GME0288,Exertive stress test,04/2004,Resolved
+GME0288,COPD,08/2010,Resolved
+GME0288,Asthma,07/2012,Ongoing
+GME0288,Cholecystectomy,10/2010,Resolved
+GME0289,Hypertension,02/2010,Resolved
+GME0290,Coronary Artery Disease,11/1997,Ongoing
+GME0290,COPD,08/1999,Resolved
+GME0290,Coronary angiogram/repair,06/2002,Resolved
+GME0290,Diabetes,07/2000,Ongoing
+GME0291,Hypertension,11/2024,Resolved
+GME0292,Coronary angiogram/repair,09/2023,Ongoing
+GME0292,Cesarian section,06/1999,Ongoing
+GME0293,Coronary angiogram/repair,09/2020,Ongoing
+GME0293,COPD,06/2010,Ongoing
+GME0293,Cholecystectomy,07/2023,Ongoing
+GME0294,Coronary angiogram/repair,03/2008,Ongoing
+GME0294,Hypertension,11/2013,Ongoing
+GME0294,Asthma,12/1995,Resolved
+GME0294,Coronary Artery Disease,01/2017,Resolved
+GME0295,Osteoporosis,05/2016,Ongoing
+GME0295,Coronary Artery Disease,09/2021,Ongoing
+GME0295,Cesarian section,07/2010,Resolved
+GME0296,Osteoporosis,01/2008,Ongoing
+GME0296,Exertive stress test,06/2004,Resolved
+GME0296,Cholecystectomy,03/2014,Resolved
+GME0296,COPD,02/2020,Ongoing
+GME0296,Hypertension,02/2001,Ongoing
+GME0297,Cesarian section,11/2024,Ongoing
+GME0298,Exertive stress test,10/2018,Resolved
+GME0298,Asthma,12/2003,Resolved
+GME0298,Diabetes,03/1998,Resolved
+GME0298,Coronary Artery Disease,05/2000,Resolved
+GME0299,Asthma,09/2003,Ongoing
+GME0299,Osteoporosis,10/2021,Ongoing
+GME0299,Cesarian section,09/2000,Ongoing
+GME0299,COPD,12/2024,Resolved
+GME0300,Coronary Artery Disease,06/2005,Ongoing
+GME0300,COPD,06/2009,Resolved
+GME0300,Diabetes,05/2009,Resolved
+GME0300,Cholecystectomy,07/2000,Ongoing
+GME0301,COPD,01/2015,Ongoing
+GME0301,Cholecystectomy,12/2015,Resolved
+GME0302,Diabetes,07/2011,Resolved
+GME0303,Coronary angiogram/repair,09/2013,Resolved
+GME0303,Hypertension,03/2023,Resolved
+GME0303,Coronary Artery Disease,02/2019,Resolved
+GME0303,COPD,11/2014,Resolved
+GME0303,Asthma,10/1998,Resolved
+GME0304,Coronary Artery Disease,11/2018,Ongoing
+GME0305,Cesarian section,05/1999,Ongoing
+GME0305,Hypertension,12/2009,Resolved
+GME0305,Coronary angiogram/repair,02/2022,Ongoing
+GME0305,Coronary Artery Disease,01/2010,Ongoing
+GME0305,Diabetes,11/2022,Resolved
+GME0306,Hypertension,11/2001,Resolved
+GME0307,Osteoporosis,07/2023,Resolved
+GME0307,Coronary angiogram/repair,11/2003,Resolved
+GME0307,Asthma,01/1999,Ongoing
+GME0307,Coronary Artery Disease,06/2005,Ongoing
+GME0308,Asthma,03/2014,Resolved
+GME0308,Osteoporosis,12/2019,Ongoing
+GME0308,COPD,07/2001,Resolved
+GME0308,Diabetes,07/2012,Resolved
+GME0308,Cholecystectomy,11/2005,Ongoing
+GME0309,Cholecystectomy,06/2002,Resolved
+GME0309,COPD,06/2006,Resolved
+GME0309,Hypertension,10/2022,Ongoing
+GME0309,Osteoporosis,11/2009,Ongoing
+GME0310,Osteoporosis,07/2006,Resolved
+GME0311,Diabetes,08/2023,Ongoing
+GME0311,COPD,12/2014,Ongoing
+GME0311,Osteoporosis,04/2008,Resolved
+GME0311,Asthma,01/2013,Ongoing
+GME0311,Coronary angiogram/repair,10/2001,Ongoing
+GME0312,Coronary Artery Disease,02/2006,Ongoing
+GME0312,Hypertension,11/2020,Resolved
+GME0312,Coronary angiogram/repair,06/2002,Ongoing
+GME0312,Cesarian section,11/2000,Resolved
+GME0312,Diabetes,07/2024,Resolved
+GME0313,Hypertension,08/1998,Ongoing
+GME0313,Asthma,08/2015,Resolved
+GME0313,Osteoporosis,08/2003,Ongoing
+GME0313,Coronary Artery Disease,11/1997,Resolved
+GME0313,Exertive stress test,01/2023,Resolved
+GME0314,Diabetes,11/2016,Ongoing
+GME0314,Osteoporosis,06/1998,Resolved
+GME0314,COPD,05/2004,Ongoing
+GME0315,Coronary angiogram/repair,11/2024,Ongoing
+GME0315,Diabetes,01/2006,Resolved
+GME0316,Coronary Artery Disease,03/2023,Ongoing
+GME0316,Hypertension,03/2025,Ongoing
+GME0316,Cholecystectomy,07/2023,Resolved
+GME0316,Diabetes,07/2013,Resolved
+GME0317,Cholecystectomy,08/2023,Ongoing
+GME0318,Cholecystectomy,11/2007,Ongoing
+GME0318,Coronary angiogram/repair,06/2023,Ongoing
+GME0318,Cesarian section,04/2023,Ongoing
+GME0318,Asthma,04/2004,Ongoing
+GME0319,Osteoporosis,06/2019,Resolved
+GME0319,Exertive stress test,07/2010,Ongoing
+GME0319,Asthma,09/2011,Resolved
+GME0319,Coronary angiogram/repair,10/2016,Ongoing
+GME0319,Cesarian section,07/2000,Resolved
+GME0320,COPD,12/2017,Ongoing
+GME0320,Cesarian section,02/2001,Resolved
+GME0320,Diabetes,07/2012,Ongoing
+GME0320,Exertive stress test,07/2022,Ongoing
+GME0321,COPD,05/2012,Ongoing
+GME0321,Diabetes,01/2015,Resolved
+GME0321,Exertive stress test,12/2022,Resolved
+GME0322,Diabetes,03/2020,Ongoing
+GME0322,COPD,04/2018,Resolved
+GME0322,Exertive stress test,03/2004,Ongoing
+GME0322,Cesarian section,06/2003,Ongoing
+GME0323,Cesarian section,05/2021,Resolved
+GME0323,COPD,09/2004,Resolved
+GME0323,Asthma,06/2004,Ongoing
+GME0323,Hypertension,10/2019,Ongoing
+GME0323,Osteoporosis,04/2014,Ongoing
+GME0324,Coronary angiogram/repair,02/2010,Ongoing
+GME0324,Osteoporosis,06/1999,Resolved
+GME0324,Cesarian section,10/2005,Ongoing
+GME0324,Coronary Artery Disease,05/2015,Ongoing
+GME0325,Osteoporosis,04/2014,Ongoing
+GME0325,Diabetes,10/1997,Ongoing
+GME0325,Coronary angiogram/repair,03/2010,Resolved
+GME0325,Hypertension,11/2003,Resolved
+GME0325,Exertive stress test,08/2019,Ongoing
+GME0326,COPD,11/1997,Resolved
+GME0326,Cholecystectomy,06/1996,Resolved
+GME0326,Osteoporosis,02/2016,Ongoing
+GME0326,Asthma,05/2016,Resolved
+GME0326,Coronary Artery Disease,02/2018,Resolved
+GME0327,Asthma,08/2016,Ongoing
+GME0327,Cholecystectomy,05/2009,Ongoing
+GME0328,Osteoporosis,02/2016,Resolved
+GME0329,Hypertension,11/1997,Ongoing
+GME0330,COPD,06/2006,Ongoing
+GME0330,Asthma,06/1997,Ongoing
+GME0330,Cesarian section,06/2010,Ongoing
+GME0330,Coronary angiogram/repair,11/2023,Resolved
+GME0331,Cholecystectomy,08/2001,Resolved
+GME0332,Cholecystectomy,01/2014,Ongoing
+GME0332,Cesarian section,11/2024,Ongoing
+GME0332,Coronary Artery Disease,01/2013,Resolved
+GME0332,COPD,02/2015,Resolved
+GME0332,Osteoporosis,02/2024,Ongoing
+GME0333,Hypertension,10/2019,Resolved
+GME0333,Exertive stress test,11/2009,Resolved
+GME0333,Osteoporosis,10/1996,Ongoing
+GME0333,Cesarian section,04/2003,Ongoing
+GME0334,Coronary angiogram/repair,09/2012,Ongoing
+GME0334,Exertive stress test,11/2021,Resolved
+GME0334,COPD,12/2017,Resolved
+GME0334,Asthma,06/1998,Ongoing
+GME0334,Coronary Artery Disease,04/2017,Ongoing
+GME0335,Cesarian section,06/2003,Resolved
+GME0335,Diabetes,03/1996,Resolved
+GME0336,COPD,11/2018,Ongoing
+GME0336,Exertive stress test,04/2003,Ongoing
+GME0337,Coronary Artery Disease,02/2023,Ongoing
+GME0337,Diabetes,12/1997,Resolved
+GME0337,Osteoporosis,07/2017,Ongoing
+GME0337,Asthma,12/1999,Ongoing
+GME0337,Coronary angiogram/repair,03/2001,Resolved
+GME0338,Asthma,10/2014,Ongoing
+GME0338,Hypertension,04/2006,Resolved
+GME0338,Cesarian section,08/2011,Resolved
+GME0338,Cholecystectomy,06/2018,Resolved
+GME0338,Osteoporosis,09/1998,Resolved
+GME0339,COPD,05/2023,Resolved
+GME0340,Cholecystectomy,01/2008,Ongoing
+GME0340,COPD,06/2001,Ongoing
+GME0340,Hypertension,07/1995,Resolved
+GME0340,Osteoporosis,02/2024,Resolved
+GME0341,Asthma,08/2006,Resolved
+GME0341,Cholecystectomy,08/2020,Ongoing
+GME0341,Hypertension,08/2003,Ongoing
+GME0341,Exertive stress test,07/2012,Ongoing
+GME0341,Diabetes,01/2002,Resolved
+GME0342,Exertive stress test,05/2000,Ongoing
+GME0343,Cholecystectomy,06/2012,Ongoing
+GME0343,Coronary angiogram/repair,04/2014,Ongoing
+GME0344,Asthma,03/2013,Resolved
+GME0345,Osteoporosis,06/2019,Resolved
+GME0346,Exertive stress test,08/2013,Ongoing
+GME0346,Diabetes,01/2022,Resolved
+GME0346,Asthma,05/2007,Ongoing
+GME0347,COPD,06/2020,Resolved
+GME0347,Exertive stress test,02/2019,Ongoing
+GME0347,Diabetes,04/2018,Resolved
+GME0348,Diabetes,10/1997,Resolved
+GME0348,Osteoporosis,08/2009,Ongoing
+GME0348,Hypertension,09/1998,Ongoing
+GME0348,Asthma,03/2003,Ongoing
+GME0348,Exertive stress test,11/2015,Resolved
+GME0349,Coronary angiogram/repair,01/2022,Resolved
+GME0350,Diabetes,03/1998,Ongoing
+GME0351,Hypertension,09/2020,Resolved
+GME0351,Coronary angiogram/repair,08/2008,Ongoing
+GME0351,Cesarian section,03/2015,Ongoing
+GME0351,Exertive stress test,06/2006,Resolved
+GME0351,Osteoporosis,09/2005,Resolved
+GME0352,Cesarian section,07/2020,Ongoing
+GME0352,Diabetes,05/2019,Resolved
+GME0352,Cholecystectomy,11/2013,Resolved
+GME0352,Asthma,12/2023,Ongoing
+GME0353,Diabetes,08/2011,Ongoing
+GME0354,Diabetes,04/2012,Resolved
+GME0354,Exertive stress test,08/2015,Resolved
+GME0354,Coronary Artery Disease,01/1996,Resolved
+GME0354,Cholecystectomy,01/2001,Resolved
+GME0354,Coronary angiogram/repair,10/2008,Resolved
+GME0355,Exertive stress test,04/2008,Ongoing
+GME0355,Coronary Artery Disease,12/2010,Ongoing
+GME0356,Coronary angiogram/repair,09/2007,Resolved
+GME0356,Cesarian section,05/2017,Resolved
+GME0357,COPD,12/2009,Resolved
+GME0357,Coronary Artery Disease,07/2012,Resolved
+GME0357,Osteoporosis,03/2021,Resolved
+GME0357,Exertive stress test,10/2024,Ongoing
+GME0357,Asthma,02/2020,Ongoing
+GME0358,Exertive stress test,07/2002,Ongoing
+GME0359,Cholecystectomy,09/2000,Ongoing
+GME0359,Exertive stress test,07/1995,Ongoing
+GME0359,COPD,08/2021,Resolved
+GME0359,Osteoporosis,12/2001,Ongoing
+GME0360,Asthma,10/2024,Resolved
+GME0360,Cholecystectomy,05/2012,Resolved
+GME0360,COPD,06/1999,Resolved
+GME0360,Coronary angiogram/repair,10/1997,Ongoing
+GME0361,Asthma,01/2003,Ongoing
+GME0362,Exertive stress test,11/2013,Ongoing
+GME0362,Hypertension,10/2006,Resolved
+GME0362,Osteoporosis,10/2018,Ongoing
+GME0362,Cholecystectomy,05/2005,Ongoing
+GME0363,Cholecystectomy,04/2014,Ongoing
+GME0363,Cesarian section,04/1997,Ongoing
+GME0363,Exertive stress test,08/2019,Resolved
+GME0363,Asthma,07/2002,Ongoing
+GME0364,Cholecystectomy,03/2013,Ongoing
+GME0365,Diabetes,11/2000,Resolved
+GME0365,Coronary Artery Disease,10/2015,Ongoing
+GME0365,Coronary angiogram/repair,07/2002,Ongoing
+GME0365,Exertive stress test,01/2020,Ongoing
+GME0365,Osteoporosis,06/2020,Ongoing
+GME0366,Coronary Artery Disease,08/2018,Ongoing
+GME0366,Exertive stress test,11/2008,Resolved
+GME0366,Coronary angiogram/repair,04/2018,Ongoing
+GME0367,Exertive stress test,06/2008,Ongoing
+GME0367,Hypertension,08/1996,Resolved
+GME0368,Hypertension,01/1998,Ongoing
+GME0369,Diabetes,02/2006,Resolved
+GME0369,Cholecystectomy,02/2009,Ongoing
+GME0369,Exertive stress test,09/1999,Resolved
+GME0369,Coronary Artery Disease,12/2024,Resolved
+GME0370,COPD,04/1996,Ongoing
+GME0370,Cesarian section,11/2004,Ongoing
+GME0371,Coronary Artery Disease,02/2005,Ongoing
+GME0371,Exertive stress test,01/2024,Resolved
+GME0372,Cholecystectomy,02/2015,Ongoing
+GME0372,Cesarian section,03/2022,Ongoing
+GME0372,Exertive stress test,10/2021,Resolved
+GME0373,Cholecystectomy,12/2005,Ongoing
+GME0373,Exertive stress test,12/2017,Resolved
+GME0374,COPD,03/1996,Ongoing
+GME0374,Asthma,05/1996,Ongoing
+GME0375,Osteoporosis,02/2007,Resolved
+GME0375,Diabetes,06/2014,Resolved
+GME0375,Coronary Artery Disease,10/2021,Resolved
+GME0375,Coronary angiogram/repair,09/1997,Resolved
+GME0376,Cholecystectomy,03/1998,Resolved
+GME0376,Osteoporosis,07/2015,Resolved
+GME0377,Coronary angiogram/repair,01/2019,Ongoing
+GME0377,Cesarian section,12/1996,Ongoing
+GME0377,Hypertension,07/2024,Resolved
+GME0377,Diabetes,11/2015,Ongoing
+GME0378,Exertive stress test,08/2003,Ongoing
+GME0378,Coronary angiogram/repair,12/2015,Resolved
+GME0378,Cesarian section,10/2005,Resolved
+GME0378,Osteoporosis,02/2004,Ongoing
+GME0379,Diabetes,11/2001,Resolved
+GME0379,Coronary angiogram/repair,11/2014,Resolved
+GME0380,Osteoporosis,07/2019,Resolved
+GME0380,Hypertension,02/2020,Resolved
+GME0381,Asthma,08/2015,Resolved
+GME0381,Osteoporosis,12/2015,Resolved
+GME0381,Cesarian section,04/2018,Resolved
+GME0381,Exertive stress test,10/1999,Resolved
+GME0382,Hypertension,09/2009,Resolved
+GME0382,Coronary Artery Disease,10/2004,Ongoing
+GME0382,Asthma,08/2004,Resolved
+GME0382,Diabetes,10/2010,Ongoing
+GME0383,COPD,05/2007,Resolved
+GME0383,Osteoporosis,10/2004,Ongoing
+GME0383,Diabetes,10/2001,Ongoing
+GME0384,Diabetes,12/2006,Resolved
+GME0385,COPD,04/2001,Ongoing
+GME0386,Exertive stress test,06/2006,Resolved
+GME0386,Cholecystectomy,07/2006,Resolved
+GME0386,Coronary angiogram/repair,07/2024,Ongoing
+GME0387,Coronary Artery Disease,11/2013,Resolved
+GME0387,COPD,11/2001,Resolved
+GME0387,Coronary angiogram/repair,01/2013,Resolved
+GME0387,Hypertension,09/2007,Resolved
+GME0387,Osteoporosis,06/2007,Ongoing
+GME0388,COPD,07/2021,Ongoing
+GME0388,Coronary Artery Disease,07/2006,Ongoing
+GME0388,Cesarian section,02/2017,Resolved
+GME0388,Diabetes,05/2015,Ongoing
+GME0389,Osteoporosis,02/2018,Resolved
+GME0389,COPD,09/1995,Ongoing
+GME0389,Asthma,05/2014,Resolved
+GME0389,Cholecystectomy,07/2005,Ongoing
+GME0389,Exertive stress test,11/2019,Resolved
+GME0390,Exertive stress test,11/1995,Ongoing
+GME0390,Asthma,09/2023,Resolved
+GME0390,COPD,08/1995,Ongoing
+GME0390,Cesarian section,12/2005,Ongoing
+GME0391,Hypertension,05/2014,Resolved
+GME0391,Asthma,04/1997,Ongoing
+GME0391,Cholecystectomy,03/2006,Resolved
+GME0392,Cesarian section,04/2004,Ongoing
+GME0392,COPD,06/2004,Ongoing
+GME0392,Coronary angiogram/repair,05/2007,Ongoing
+GME0392,Coronary Artery Disease,05/2000,Ongoing
+GME0393,Osteoporosis,06/2016,Ongoing
+GME0393,Cesarian section,06/2008,Resolved
+GME0393,COPD,09/2004,Ongoing
+GME0394,Cesarian section,04/2016,Resolved
+GME0394,Exertive stress test,09/2018,Resolved
+GME0394,Asthma,08/2000,Ongoing
+GME0394,Hypertension,04/2019,Ongoing
+GME0394,Coronary Artery Disease,04/2011,Ongoing
+GME0395,Coronary Artery Disease,07/1996,Ongoing
+GME0395,Hypertension,10/2002,Ongoing
+GME0395,Asthma,10/2020,Resolved
+GME0395,COPD,04/1998,Resolved
+GME0395,Diabetes,09/2016,Ongoing
+GME0396,Coronary angiogram/repair,03/2024,Ongoing
+GME0396,COPD,06/2018,Resolved
+GME0397,Cholecystectomy,02/2011,Ongoing
+GME0398,Cholecystectomy,04/2016,Resolved
+GME0398,Cesarian section,11/2018,Ongoing
+GME0399,Coronary Artery Disease,11/1998,Resolved
+GME0400,Diabetes,11/2000,Ongoing
+GME0400,Cesarian section,08/2020,Resolved
+GME0400,Exertive stress test,11/2007,Resolved
+GME0400,Osteoporosis,12/2008,Resolved
+GME0401,Osteoporosis,08/2012,Ongoing
+GME0401,Coronary angiogram/repair,12/2024,Resolved
+GME0402,Exertive stress test,04/2010,Resolved
+GME0402,Hypertension,07/2015,Ongoing
+GME0402,Coronary Artery Disease,10/1999,Resolved
+GME0403,Exertive stress test,09/2014,Resolved
+GME0403,COPD,02/2008,Resolved
+GME0403,Cholecystectomy,10/2013,Ongoing
+GME0403,Coronary angiogram/repair,05/2016,Ongoing
+GME0403,Osteoporosis,12/2021,Resolved
+GME0404,Cholecystectomy,05/2010,Ongoing
+GME0404,Coronary angiogram/repair,06/2012,Resolved
+GME0404,Cesarian section,04/2019,Ongoing
+GME0404,COPD,05/2011,Ongoing
+GME0405,Cesarian section,12/2018,Ongoing
+GME0405,Asthma,08/2021,Resolved
+GME0405,Osteoporosis,04/2025,Ongoing
+GME0405,Cholecystectomy,02/2006,Ongoing
+GME0405,Diabetes,10/2021,Ongoing
+GME0406,COPD,01/2006,Ongoing
+GME0406,Coronary angiogram/repair,12/2019,Resolved
+GME0406,Diabetes,01/2010,Resolved
+GME0407,Diabetes,04/1999,Resolved
+GME0407,Cholecystectomy,10/2003,Resolved
+GME0407,Osteoporosis,12/1996,Resolved
+GME0407,Cesarian section,01/2006,Ongoing
+GME0407,Hypertension,07/2000,Resolved
+GME0408,COPD,11/2018,Resolved
+GME0408,Hypertension,03/2021,Ongoing
+GME0409,Asthma,04/2013,Resolved
+GME0410,Cesarian section,04/2023,Ongoing
+GME0410,Exertive stress test,08/1995,Ongoing
+GME0410,Osteoporosis,02/2019,Resolved
+GME0411,Coronary Artery Disease,02/2020,Resolved
+GME0412,Asthma,10/2024,Ongoing
+GME0412,Osteoporosis,02/2001,Resolved
+GME0412,Diabetes,05/2008,Ongoing
+GME0412,Hypertension,08/2007,Resolved
+GME0413,Coronary Artery Disease,08/2013,Ongoing
+GME0413,Osteoporosis,10/2002,Ongoing
+GME0413,Hypertension,04/2008,Resolved
+GME0414,COPD,05/2009,Resolved
+GME0415,Diabetes,11/2011,Resolved
+GME0415,Hypertension,05/2015,Ongoing
+GME0416,Cholecystectomy,01/1999,Ongoing
+GME0416,Coronary Artery Disease,08/2014,Ongoing
+GME0416,Exertive stress test,11/2019,Resolved
+GME0416,Osteoporosis,12/2022,Ongoing
+GME0417,Diabetes,03/2009,Ongoing
+GME0417,Cesarian section,02/2014,Ongoing
+GME0417,Coronary angiogram/repair,08/2000,Resolved
+GME0417,Exertive stress test,09/2014,Ongoing
+GME0417,Hypertension,12/2010,Ongoing
+GME0418,Exertive stress test,11/1998,Ongoing
+GME0418,Osteoporosis,09/2018,Resolved
+GME0418,Diabetes,12/2010,Ongoing
+GME0419,Cholecystectomy,09/2006,Ongoing
+GME0420,Exertive stress test,09/2020,Ongoing
+GME0421,Coronary Artery Disease,05/2019,Resolved
+GME0421,Hypertension,02/2016,Ongoing
+GME0422,Cholecystectomy,05/2005,Ongoing
+GME0422,COPD,05/2002,Resolved
+GME0422,Exertive stress test,11/2015,Resolved
+GME0423,Exertive stress test,06/2008,Ongoing
+GME0424,Cholecystectomy,07/2005,Resolved
+GME0425,Hypertension,11/2013,Resolved
+GME0425,Cesarian section,03/2025,Ongoing
+GME0426,Exertive stress test,09/2014,Resolved
+GME0426,Asthma,04/2001,Resolved
+GME0426,Osteoporosis,12/2020,Ongoing
+GME0426,Hypertension,06/2015,Ongoing
+GME0427,Cesarian section,10/1995,Resolved
+GME0427,Coronary angiogram/repair,08/2004,Ongoing
+GME0428,Osteoporosis,08/2014,Resolved
+GME0428,Coronary Artery Disease,07/2018,Resolved
+GME0428,Coronary angiogram/repair,02/2003,Ongoing
+GME0428,Hypertension,09/2015,Resolved
+GME0428,Asthma,03/2014,Ongoing
+GME0429,Asthma,12/1998,Ongoing
+GME0429,Diabetes,07/2016,Resolved
+GME0429,Cholecystectomy,01/2025,Resolved
+GME0430,Exertive stress test,06/1996,Ongoing
+GME0430,COPD,07/2024,Resolved
+GME0430,Hypertension,07/2002,Ongoing
+GME0430,Diabetes,11/2015,Resolved
+GME0430,Asthma,01/2009,Ongoing
+GME0431,Diabetes,08/2023,Resolved
+GME0431,Hypertension,03/2003,Ongoing
+GME0431,Coronary Artery Disease,06/2024,Ongoing
+GME0431,Asthma,07/2023,Resolved
+GME0431,Exertive stress test,11/2005,Ongoing
+GME0432,Exertive stress test,09/2024,Resolved
+GME0433,Coronary Artery Disease,12/2015,Ongoing
+GME0433,Coronary angiogram/repair,10/2001,Resolved
+GME0433,Cholecystectomy,02/2015,Resolved
+GME0434,Exertive stress test,10/2012,Resolved
+GME0435,Exertive stress test,06/2015,Ongoing
+GME0435,Osteoporosis,11/2000,Ongoing
+GME0435,Hypertension,08/2000,Resolved
+GME0436,Cholecystectomy,05/2000,Ongoing
+GME0436,Coronary Artery Disease,10/2003,Resolved
+GME0436,Asthma,01/1998,Ongoing
+GME0436,Osteoporosis,09/2007,Ongoing
+GME0436,Hypertension,08/2020,Ongoing
+GME0437,Exertive stress test,04/2016,Ongoing
+GME0437,Coronary Artery Disease,10/2019,Ongoing
+GME0438,COPD,06/2003,Resolved
+GME0438,Exertive stress test,01/2023,Resolved
+GME0438,Osteoporosis,03/2016,Resolved
+GME0438,Coronary angiogram/repair,10/2003,Ongoing
+GME0438,Hypertension,07/1998,Ongoing
+GME0439,Cesarian section,11/2020,Ongoing
+GME0439,Coronary Artery Disease,10/2000,Resolved
+GME0440,Osteoporosis,05/1999,Resolved
+GME0440,Asthma,05/2018,Resolved
+GME0440,Exertive stress test,11/2010,Ongoing
+GME0441,Cesarian section,07/2012,Resolved
+GME0441,Osteoporosis,03/2023,Resolved
+GME0441,Coronary Artery Disease,09/2023,Resolved
+GME0442,Osteoporosis,01/2014,Ongoing
+GME0442,Cesarian section,01/2017,Resolved
+GME0442,Coronary Artery Disease,06/2018,Resolved
+GME0442,COPD,06/2019,Ongoing
+GME0442,Exertive stress test,05/1999,Resolved
+GME0443,COPD,04/2017,Resolved
+GME0443,Coronary Artery Disease,04/2018,Resolved
+GME0443,Osteoporosis,09/2021,Resolved
+GME0443,Asthma,05/2013,Resolved
+GME0443,Exertive stress test,05/2003,Resolved
+GME0444,Osteoporosis,06/2010,Resolved
+GME0444,Asthma,07/2012,Ongoing
+GME0444,Diabetes,05/1998,Ongoing
+GME0444,Coronary Artery Disease,12/2008,Ongoing
+GME0444,COPD,02/2022,Ongoing
+GME0445,COPD,03/2019,Resolved
+GME0446,Cesarian section,12/1998,Resolved
+GME0446,Osteoporosis,10/2007,Resolved
+GME0446,COPD,08/2011,Resolved
+GME0446,Cholecystectomy,01/1999,Resolved
+GME0447,Diabetes,10/1999,Ongoing
+GME0447,Cesarian section,04/2011,Ongoing
+GME0447,Hypertension,05/1997,Resolved
+GME0447,Asthma,11/2017,Resolved
+GME0447,Exertive stress test,04/1998,Resolved
+GME0448,Asthma,12/2004,Resolved
+GME0448,Cholecystectomy,07/2009,Ongoing
+GME0448,Hypertension,03/2019,Ongoing
+GME0448,COPD,07/2015,Resolved
+GME0448,Exertive stress test,05/2016,Ongoing
+GME0449,Hypertension,07/1999,Resolved
+GME0449,Coronary Artery Disease,09/2014,Ongoing
+GME0449,Coronary angiogram/repair,02/2013,Resolved
+GME0450,Osteoporosis,03/1997,Ongoing
+GME0450,Coronary Artery Disease,10/1999,Ongoing
+GME0451,Cesarian section,11/2010,Resolved
+GME0452,Diabetes,05/2006,Resolved
+GME0452,COPD,08/2024,Resolved
+GME0452,Exertive stress test,04/2019,Resolved
+GME0452,Asthma,07/2002,Resolved
+GME0452,Osteoporosis,03/2002,Resolved
+GME0453,Diabetes,07/2009,Ongoing
+GME0453,Osteoporosis,04/2009,Resolved
+GME0453,Cholecystectomy,12/2017,Ongoing
+GME0453,Cesarian section,04/2001,Resolved
+GME0454,Hypertension,12/2019,Ongoing
+GME0454,Coronary Artery Disease,01/2010,Ongoing
+GME0454,Asthma,04/2005,Ongoing
+GME0455,COPD,11/1995,Resolved
+GME0455,Cesarian section,04/1999,Ongoing
+GME0455,Coronary angiogram/repair,06/2025,Ongoing
+GME0455,Cholecystectomy,09/2009,Resolved
+GME0456,Coronary Artery Disease,01/2025,Resolved
+GME0456,Exertive stress test,01/2014,Ongoing
+GME0457,Diabetes,11/2008,Ongoing
+GME0457,Asthma,09/2007,Ongoing
+GME0457,Exertive stress test,02/2015,Ongoing
+GME0457,Osteoporosis,12/2001,Resolved
+GME0457,Cesarian section,08/2017,Resolved
+GME0458,Osteoporosis,02/2001,Resolved
+GME0458,Diabetes,01/1997,Ongoing
+GME0458,Coronary Artery Disease,01/2019,Resolved
+GME0458,Hypertension,11/1999,Ongoing
+GME0459,Diabetes,06/2007,Ongoing
+GME0459,Cholecystectomy,05/2023,Resolved
+GME0459,Hypertension,07/2012,Resolved
+GME0460,Hypertension,11/2000,Ongoing
+GME0461,Hypertension,07/2023,Ongoing
+GME0461,Osteoporosis,03/2010,Ongoing
+GME0461,Diabetes,09/2015,Resolved
+GME0462,COPD,11/2000,Resolved
+GME0462,Coronary angiogram/repair,04/2024,Resolved
+GME0462,Asthma,12/2016,Resolved
+GME0462,Exertive stress test,09/2004,Resolved
+GME0462,Coronary Artery Disease,11/2023,Resolved
+GME0463,Cholecystectomy,04/2000,Resolved
+GME0463,Cesarian section,06/2002,Ongoing
+GME0464,Cholecystectomy,01/2002,Resolved
+GME0464,Diabetes,07/2022,Resolved
+GME0464,Hypertension,10/2011,Ongoing
+GME0465,Osteoporosis,04/2017,Ongoing
+GME0466,Coronary angiogram/repair,11/2014,Resolved
+GME0466,Exertive stress test,10/2003,Resolved
+GME0466,Cholecystectomy,03/2018,Ongoing
+GME0466,COPD,05/2001,Ongoing
+GME0466,Osteoporosis,12/2021,Resolved
+GME0467,Cholecystectomy,03/1996,Ongoing
+GME0468,Asthma,01/2006,Resolved
+GME0468,Exertive stress test,11/2002,Ongoing
+GME0468,Osteoporosis,05/2002,Resolved
+GME0469,Asthma,08/2004,Ongoing
+GME0469,Diabetes,06/1997,Ongoing
+GME0469,Cesarian section,09/2020,Ongoing
+GME0469,Coronary Artery Disease,10/2023,Ongoing
+GME0470,Diabetes,05/1996,Resolved
+GME0470,Coronary angiogram/repair,06/2003,Ongoing
+GME0470,Asthma,06/2023,Resolved
+GME0470,Osteoporosis,05/2020,Ongoing
+GME0471,Exertive stress test,12/2003,Ongoing
+GME0471,Coronary Artery Disease,06/1999,Ongoing
+GME0472,Hypertension,11/2021,Resolved
+GME0472,Coronary Artery Disease,05/2017,Ongoing
+GME0472,Cholecystectomy,06/1996,Resolved
+GME0472,Exertive stress test,01/2015,Resolved
+GME0473,Coronary Artery Disease,04/2004,Resolved
+GME0474,Cholecystectomy,08/1997,Ongoing
+GME0475,Osteoporosis,09/1996,Resolved
+GME0475,Diabetes,01/2006,Resolved
+GME0475,Cholecystectomy,02/2023,Ongoing
+GME0475,Exertive stress test,11/2019,Ongoing
+GME0475,Asthma,03/1999,Resolved
+GME0476,Coronary angiogram/repair,10/2023,Ongoing
+GME0477,Diabetes,06/2014,Resolved
+GME0478,Exertive stress test,10/2020,Resolved
+GME0478,Diabetes,05/2014,Ongoing
+GME0478,Cholecystectomy,05/2000,Resolved
+GME0478,COPD,10/2019,Ongoing
+GME0478,Coronary Artery Disease,11/1999,Ongoing
+GME0479,Cesarian section,03/2024,Ongoing
+GME0479,Cholecystectomy,02/2023,Ongoing
+GME0479,COPD,11/1995,Ongoing
+GME0479,Osteoporosis,06/2025,Resolved
+GME0480,COPD,06/2010,Resolved
+GME0481,Coronary Artery Disease,01/2014,Resolved
+GME0481,Coronary angiogram/repair,05/2021,Resolved
+GME0481,Exertive stress test,01/1996,Ongoing
+GME0482,Coronary angiogram/repair,08/2016,Resolved
+GME0482,Coronary Artery Disease,09/2010,Ongoing
+GME0482,Hypertension,04/2011,Resolved
+GME0482,Osteoporosis,09/2018,Resolved
+GME0482,COPD,06/2018,Ongoing
+GME0483,Coronary angiogram/repair,01/2006,Resolved
+GME0483,Cesarian section,03/2022,Ongoing
+GME0483,Hypertension,04/2022,Ongoing
+GME0483,COPD,09/2015,Ongoing
+GME0484,Coronary Artery Disease,12/2024,Resolved
+GME0485,Coronary angiogram/repair,08/2000,Resolved
+GME0485,Coronary Artery Disease,02/2008,Resolved
+GME0485,Hypertension,07/2014,Resolved
+GME0485,Osteoporosis,12/2003,Resolved
+GME0486,Cesarian section,03/2023,Resolved
+GME0486,Osteoporosis,05/2006,Resolved
+GME0486,Diabetes,02/2013,Ongoing
+GME0487,Cesarian section,10/1996,Ongoing
+GME0487,Diabetes,12/2013,Resolved
+GME0487,Coronary Artery Disease,05/2024,Resolved
+GME0487,Asthma,12/2024,Ongoing
+GME0487,Coronary angiogram/repair,03/2023,Ongoing
+GME0488,Asthma,01/2004,Ongoing
+GME0488,Coronary angiogram/repair,11/2003,Ongoing
+GME0488,Coronary Artery Disease,11/2010,Ongoing
+GME0488,Diabetes,10/2017,Resolved
+GME0489,Diabetes,01/2015,Ongoing
+GME0489,Coronary Artery Disease,03/2022,Ongoing
+GME0489,Cesarian section,08/2013,Ongoing
+GME0489,Exertive stress test,08/1997,Resolved
+GME0489,Cholecystectomy,06/1999,Resolved
+GME0490,Hypertension,07/2016,Resolved
+GME0490,Diabetes,05/2023,Resolved
+GME0491,Cesarian section,03/2021,Ongoing
+GME0491,Exertive stress test,04/2022,Ongoing
+GME0492,Cesarian section,04/2012,Resolved
+GME0492,Asthma,02/1998,Ongoing
+GME0493,Diabetes,10/2010,Resolved
+GME0493,Asthma,07/1996,Resolved
+GME0493,Cesarian section,08/1998,Ongoing
+GME0493,Coronary Artery Disease,05/2015,Ongoing
+GME0494,Diabetes,11/2003,Ongoing
+GME0495,COPD,03/1997,Resolved
+GME0495,Exertive stress test,01/1996,Resolved
+GME0495,Hypertension,07/1996,Ongoing
+GME0495,Coronary angiogram/repair,08/2009,Ongoing
+GME0496,Asthma,10/2020,Ongoing
+GME0496,Cesarian section,08/2015,Ongoing
+GME0496,Coronary angiogram/repair,05/2017,Resolved
+GME0496,Osteoporosis,04/2020,Ongoing
+GME0497,Coronary Artery Disease,05/2022,Resolved
+GME0497,Cesarian section,09/2004,Ongoing
+GME0497,Hypertension,06/2001,Ongoing
+GME0497,Exertive stress test,06/2001,Ongoing
+GME0497,Coronary angiogram/repair,04/2008,Ongoing
+GME0498,Osteoporosis,05/2015,Ongoing
+GME0498,Coronary Artery Disease,10/2011,Resolved
+GME0499,Diabetes,01/2004,Ongoing
+GME0499,Hypertension,09/2007,Ongoing
+GME0499,Coronary Artery Disease,09/2004,Ongoing
+GME0500,Coronary angiogram/repair,01/2021,Resolved
+GME0500,Hypertension,02/2009,Resolved
+GME0500,Diabetes,10/2007,Ongoing
+GME0500,COPD,03/1998,Resolved
+GME0500,Osteoporosis,07/2021,Ongoing
+GME0501,Coronary angiogram/repair,07/2018,Resolved
+GME0501,Hypertension,05/1997,Resolved
+GME0502,Osteoporosis,10/2004,Resolved
+GME0502,Asthma,01/2011,Resolved
+GME0503,COPD,05/2013,Ongoing
+GME0503,Osteoporosis,10/2008,Ongoing
+GME0503,Exertive stress test,04/1999,Ongoing
+GME0503,Cholecystectomy,02/2014,Ongoing
+GME0503,Hypertension,09/2003,Ongoing
+GME0504,Exertive stress test,10/2005,Resolved
+GME0504,Coronary Artery Disease,03/2025,Resolved
+GME0504,Osteoporosis,12/2012,Ongoing
+GME0505,Cesarian section,11/2012,Ongoing
+GME0505,Diabetes,05/2021,Resolved
+GME0505,Coronary angiogram/repair,12/2017,Resolved
+GME0505,Coronary Artery Disease,09/2015,Ongoing
+GME0505,Exertive stress test,01/2019,Resolved
+GME0506,Coronary Artery Disease,09/1999,Resolved
+GME0506,COPD,06/2023,Ongoing
+GME0506,Exertive stress test,08/2020,Resolved
+GME0506,Hypertension,01/1999,Ongoing
+GME0507,Coronary Artery Disease,08/2010,Ongoing
+GME0507,Cholecystectomy,10/2017,Ongoing
+GME0507,Cesarian section,08/2014,Ongoing
+GME0507,Exertive stress test,10/2020,Resolved
+GME0508,COPD,11/2000,Ongoing
+GME0509,Cesarian section,11/2012,Resolved
+GME0509,Diabetes,01/2016,Resolved
+GME0509,Cholecystectomy,01/2002,Resolved
+GME0509,Asthma,07/2013,Ongoing
+GME0509,Hypertension,04/2001,Ongoing
+GME0510,Hypertension,09/2004,Ongoing
+GME0510,Diabetes,09/2008,Resolved
+GME0510,Cesarian section,08/2021,Ongoing
+GME0511,Coronary Artery Disease,09/2024,Resolved
+GME0512,Asthma,02/2019,Resolved
+GME0512,Diabetes,03/2016,Resolved
+GME0512,Cholecystectomy,10/1996,Ongoing
+GME0512,Osteoporosis,11/2009,Ongoing
+GME0512,Coronary angiogram/repair,09/2021,Ongoing
+GME0513,Cesarian section,09/2018,Resolved
+GME0513,Coronary Artery Disease,09/2009,Resolved
+GME0513,Cholecystectomy,03/1997,Ongoing
+GME0514,Hypertension,04/2011,Ongoing
+GME0514,COPD,08/2016,Ongoing
+GME0514,Coronary Artery Disease,03/2015,Resolved
+GME0515,Coronary angiogram/repair,06/2004,Resolved
+GME0515,Hypertension,10/2004,Resolved
+GME0515,Cholecystectomy,09/2014,Ongoing
+GME0515,Asthma,11/2012,Resolved
+GME0515,Diabetes,03/2009,Resolved
+GME0516,COPD,11/1997,Ongoing
+GME0516,Coronary angiogram/repair,01/2019,Resolved
+GME0516,Osteoporosis,05/2015,Ongoing
+GME0516,Exertive stress test,07/1996,Resolved
+GME0517,Cholecystectomy,03/2003,Ongoing
+GME0517,Diabetes,07/2023,Ongoing
+GME0517,COPD,03/2025,Ongoing
+GME0517,Hypertension,02/2015,Ongoing
+GME0518,Coronary angiogram/repair,12/2002,Resolved
+GME0519,Cesarian section,02/2018,Ongoing
+GME0520,Asthma,08/2004,Ongoing
+GME0520,COPD,03/2010,Ongoing
+GME0520,Diabetes,06/2018,Ongoing
+GME0520,Exertive stress test,01/2019,Resolved
+GME0521,Cholecystectomy,07/2014,Ongoing
+GME0521,Exertive stress test,06/2004,Ongoing
+GME0521,Hypertension,06/2014,Ongoing
+GME0521,Coronary angiogram/repair,01/2009,Ongoing
+GME0521,COPD,10/2000,Resolved
+GME0522,COPD,09/1997,Ongoing
+GME0522,Cholecystectomy,02/2015,Resolved
+GME0523,Cesarian section,07/2020,Resolved
+GME0523,Coronary Artery Disease,12/2023,Ongoing
+GME0523,Cholecystectomy,04/1998,Ongoing
+GME0523,Hypertension,09/2020,Resolved
+GME0524,Asthma,06/2017,Ongoing
+GME0524,Coronary angiogram/repair,05/1999,Ongoing
+GME0524,COPD,01/1997,Resolved
+GME0525,Coronary angiogram/repair,06/2024,Ongoing
+GME0525,COPD,01/2002,Resolved
+GME0526,Asthma,12/2013,Resolved
+GME0526,Hypertension,08/2023,Resolved
+GME0526,Cholecystectomy,03/2017,Resolved
+GME0526,COPD,02/2002,Resolved
+GME0526,Coronary angiogram/repair,08/2001,Ongoing
+GME0527,Cholecystectomy,11/1999,Ongoing
+GME0528,Cholecystectomy,10/2004,Resolved
+GME0528,Hypertension,04/1999,Ongoing
+GME0528,Diabetes,07/2012,Ongoing
+GME0528,Exertive stress test,10/2003,Ongoing
+GME0529,Diabetes,10/2003,Resolved
+GME0529,Asthma,02/2008,Ongoing
+GME0529,Hypertension,07/1999,Resolved
+GME0529,Osteoporosis,11/2021,Resolved
+GME0530,Coronary angiogram/repair,02/2018,Ongoing
+GME0530,Cholecystectomy,03/2000,Resolved
+GME0530,Cesarian section,12/2016,Ongoing
+GME0531,Asthma,09/2008,Resolved
+GME0531,Coronary Artery Disease,11/2000,Ongoing
+GME0531,COPD,05/2021,Resolved
+GME0531,Osteoporosis,08/2001,Ongoing
+GME0532,Exertive stress test,04/1999,Resolved
+GME0533,Coronary Artery Disease,07/2020,Resolved
+GME0534,Cholecystectomy,11/2016,Ongoing
+GME0534,Hypertension,12/1999,Resolved
+GME0534,Coronary Artery Disease,07/2000,Resolved
+GME0534,Osteoporosis,08/2021,Ongoing
+GME0535,Asthma,07/2009,Ongoing
+GME0535,COPD,02/2006,Resolved
+GME0535,Osteoporosis,12/2002,Resolved
+GME0535,Cesarian section,08/2005,Resolved
+GME0536,Diabetes,10/2019,Ongoing
+GME0536,Osteoporosis,11/1999,Ongoing
+GME0537,Cholecystectomy,09/2015,Ongoing
+GME0537,COPD,03/2010,Ongoing
+GME0538,Cholecystectomy,10/2024,Resolved
+GME0539,Hypertension,03/1998,Resolved
+GME0539,Cesarian section,12/2021,Ongoing
+GME0539,Asthma,06/2015,Resolved
+GME0539,Coronary Artery Disease,01/2011,Ongoing
+GME0539,COPD,02/1997,Ongoing
+GME0540,Coronary Artery Disease,06/2000,Resolved
+GME0540,Exertive stress test,06/2010,Ongoing
+GME0540,Coronary angiogram/repair,11/2005,Resolved
+GME0540,Cesarian section,05/2022,Ongoing
+GME0540,Hypertension,03/2008,Resolved
+GME0541,COPD,12/2013,Ongoing
+GME0542,Osteoporosis,07/2020,Ongoing
+GME0542,Coronary Artery Disease,01/2006,Ongoing
+GME0543,Cesarian section,12/2007,Resolved
+GME0543,Hypertension,05/2023,Ongoing
+GME0544,Cesarian section,08/2007,Ongoing
+GME0544,Hypertension,12/2009,Ongoing
+GME0545,Cesarian section,12/2010,Resolved
+GME0546,Coronary angiogram/repair,06/2012,Resolved
+GME0546,Exertive stress test,06/1997,Ongoing
+GME0546,COPD,01/2011,Resolved
+GME0546,Coronary Artery Disease,08/2020,Ongoing
+GME0546,Asthma,05/2012,Resolved
+GME0547,Coronary angiogram/repair,10/2013,Resolved
+GME0548,Cholecystectomy,02/2010,Resolved
+GME0548,Cesarian section,10/1996,Ongoing
+GME0548,Exertive stress test,01/2022,Ongoing
+GME0549,Hypertension,03/2014,Ongoing
+GME0550,Exertive stress test,06/2014,Resolved
+GME0550,Coronary angiogram/repair,08/2006,Ongoing
+GME0550,Asthma,10/2008,Resolved
+GME0551,Coronary angiogram/repair,01/1996,Resolved
+GME0551,Asthma,10/2001,Resolved
+GME0552,Diabetes,09/2006,Ongoing
+GME0552,Osteoporosis,01/2020,Resolved
+GME0552,Hypertension,03/1997,Resolved
+GME0553,Osteoporosis,06/2023,Ongoing
+GME0553,COPD,07/2018,Resolved
+GME0553,Cholecystectomy,03/1996,Ongoing
+GME0554,Cesarian section,07/2021,Ongoing
+GME0554,Diabetes,07/2018,Ongoing
+GME0554,COPD,10/2012,Ongoing
+GME0554,Asthma,08/2002,Ongoing
+GME0554,Cholecystectomy,10/2024,Resolved
+GME0555,Diabetes,04/2020,Resolved
+GME0556,Asthma,01/2017,Ongoing
+GME0556,Exertive stress test,12/2012,Ongoing
+GME0556,Coronary Artery Disease,03/2011,Ongoing
+GME0557,COPD,03/2015,Resolved
+GME0557,Coronary angiogram/repair,09/2010,Ongoing
+GME0557,Cholecystectomy,09/2008,Resolved
+GME0557,Coronary Artery Disease,07/2013,Ongoing
+GME0558,Cesarian section,09/2004,Resolved
+GME0558,COPD,12/2013,Ongoing
+GME0558,Hypertension,07/2006,Resolved
+GME0558,Diabetes,07/2004,Ongoing
+GME0559,Hypertension,12/2013,Ongoing
+GME0559,Exertive stress test,07/2000,Ongoing
+GME0559,Cesarian section,12/2001,Resolved
+GME0559,COPD,02/2022,Resolved
+GME0559,Cholecystectomy,08/2002,Resolved
+GME0560,Osteoporosis,10/2018,Ongoing
+GME0560,Coronary angiogram/repair,12/1998,Ongoing
+GME0560,Exertive stress test,11/2004,Ongoing
+GME0560,Diabetes,07/1998,Ongoing
+GME0561,Asthma,11/1995,Resolved
+GME0561,COPD,12/2015,Resolved
+GME0561,Coronary angiogram/repair,12/2001,Ongoing
+GME0561,Coronary Artery Disease,11/2019,Ongoing
+GME0561,Diabetes,07/2001,Ongoing
+GME0562,COPD,01/2024,Ongoing
+GME0563,Hypertension,02/2003,Ongoing
+GME0563,Coronary Artery Disease,06/1996,Resolved
+GME0563,Coronary angiogram/repair,09/2002,Ongoing
+GME0564,Exertive stress test,02/2025,Ongoing
+GME0564,COPD,09/2015,Ongoing
+GME0565,Osteoporosis,02/2024,Ongoing
+GME0565,Cholecystectomy,10/2004,Resolved
+GME0565,COPD,05/2014,Ongoing
+GME0566,Osteoporosis,06/2021,Ongoing
+GME0566,Coronary angiogram/repair,10/2003,Resolved
+GME0566,Cholecystectomy,03/2008,Ongoing
+GME0566,Hypertension,11/2017,Resolved
+GME0567,Coronary angiogram/repair,04/1997,Ongoing
+GME0567,Hypertension,09/2011,Resolved
+GME0568,Osteoporosis,04/2014,Resolved
+GME0568,COPD,01/2020,Ongoing
+GME0568,Exertive stress test,06/2016,Resolved
+GME0569,Exertive stress test,06/2016,Resolved
+GME0569,Cesarian section,08/1995,Ongoing
+GME0569,Coronary Artery Disease,07/2019,Resolved
+GME0570,Coronary Artery Disease,05/2021,Resolved
+GME0570,Asthma,06/2006,Ongoing
+GME0570,Diabetes,02/2002,Resolved
+GME0571,Coronary Artery Disease,06/2014,Resolved
+GME0571,Exertive stress test,01/2009,Ongoing
+GME0572,Hypertension,11/2005,Ongoing
+GME0572,Coronary angiogram/repair,12/2012,Resolved
+GME0572,Coronary Artery Disease,05/2006,Ongoing
+GME0573,Coronary Artery Disease,03/1998,Ongoing
+GME0574,Exertive stress test,06/2012,Ongoing
+GME0574,Asthma,12/2014,Ongoing
+GME0574,Cesarian section,10/1995,Ongoing
+GME0574,Hypertension,06/2012,Resolved
+GME0575,Hypertension,10/1998,Ongoing
+GME0575,Diabetes,07/2013,Ongoing
+GME0575,Osteoporosis,05/2008,Ongoing
+GME0575,Cesarian section,10/2019,Ongoing
+GME0576,Coronary Artery Disease,08/2018,Ongoing
+GME0576,Hypertension,08/2017,Resolved
+GME0576,COPD,12/2009,Ongoing
+GME0577,Coronary Artery Disease,02/2005,Resolved
+GME0577,Asthma,08/2005,Ongoing
+GME0578,Cholecystectomy,11/2004,Ongoing
+GME0578,Asthma,12/2010,Ongoing
+GME0578,Coronary Artery Disease,10/2013,Resolved
+GME0579,Diabetes,07/2022,Resolved
+GME0579,Hypertension,11/2007,Ongoing
+GME0579,COPD,01/2006,Resolved
+GME0579,Asthma,04/2004,Ongoing
+GME0579,Coronary angiogram/repair,04/2022,Ongoing
+GME0580,Hypertension,07/2013,Resolved
+GME0580,Exertive stress test,09/2006,Resolved
+GME0581,Cholecystectomy,08/2007,Ongoing
+GME0581,Coronary angiogram/repair,12/1998,Resolved
+GME0582,Asthma,12/1998,Ongoing
+GME0583,Exertive stress test,08/1996,Ongoing
+GME0584,Cholecystectomy,02/2025,Ongoing
+GME0584,Diabetes,09/2022,Resolved
+GME0584,Osteoporosis,08/2008,Ongoing
+GME0585,Osteoporosis,06/2011,Ongoing
+GME0586,Cesarian section,09/1995,Resolved
+GME0586,COPD,01/2003,Ongoing
+GME0587,Coronary Artery Disease,11/2008,Ongoing
+GME0587,Coronary angiogram/repair,10/2021,Resolved
+GME0587,COPD,04/2023,Resolved
+GME0587,Osteoporosis,03/2021,Resolved
+GME0588,Diabetes,07/2008,Ongoing
+GME0588,Hypertension,05/2011,Resolved
+GME0588,Coronary Artery Disease,10/2012,Ongoing
+GME0589,Asthma,11/2007,Resolved
+GME0589,Osteoporosis,05/2018,Resolved
+GME0589,Diabetes,11/1997,Ongoing
+GME0589,Hypertension,06/2009,Ongoing
+GME0590,Coronary Artery Disease,08/2011,Resolved
+GME0590,Osteoporosis,07/2017,Resolved
+GME0590,Cesarian section,03/2022,Resolved
+GME0591,Asthma,01/1998,Ongoing
+GME0591,Cesarian section,02/2020,Resolved
+GME0591,Cholecystectomy,07/2006,Resolved
+GME0591,Diabetes,02/1997,Resolved
+GME0592,COPD,11/2007,Resolved
+GME0592,Asthma,02/2004,Ongoing
+GME0592,Exertive stress test,02/2004,Ongoing
+GME0592,Osteoporosis,12/2019,Ongoing
+GME0592,Hypertension,10/2021,Resolved
+GME0593,Exertive stress test,08/2024,Ongoing
+GME0594,COPD,11/2021,Ongoing
+GME0594,Asthma,06/2013,Ongoing
+GME0594,Coronary Artery Disease,06/2020,Resolved
+GME0595,Coronary Artery Disease,02/2018,Ongoing
+GME0595,Coronary angiogram/repair,09/2010,Resolved
+GME0595,Asthma,01/2020,Ongoing
+GME0596,Exertive stress test,10/2024,Ongoing
+GME0596,Hypertension,12/1996,Ongoing
+GME0597,Cesarian section,12/2024,Resolved
+GME0597,Hypertension,02/2006,Resolved
+GME0598,Diabetes,02/2009,Ongoing
+GME0599,Osteoporosis,08/2024,Resolved
+GME0599,Coronary Artery Disease,03/1999,Ongoing
+GME0599,Hypertension,02/2011,Ongoing
+GME0599,Diabetes,05/2014,Ongoing
+GME0600,Hypertension,08/2016,Resolved
+GME0601,Coronary Artery Disease,08/2018,Ongoing
+GME0601,Asthma,03/2012,Resolved
+GME0602,Cesarian section,01/2000,Ongoing
+GME0602,Cholecystectomy,07/2010,Resolved
+GME0602,Asthma,01/2008,Ongoing
+GME0602,Osteoporosis,01/2017,Ongoing
+GME0603,Hypertension,11/2022,Ongoing
+GME0604,Coronary Artery Disease,12/1995,Resolved
+GME0604,Hypertension,03/2006,Resolved
+GME0604,Cesarian section,04/2000,Resolved
+GME0604,Asthma,06/2005,Ongoing
+GME0604,Exertive stress test,12/2014,Resolved
+GME0605,Coronary angiogram/repair,04/1998,Resolved
+GME0605,Diabetes,04/2003,Ongoing
+GME0606,Cesarian section,05/2006,Ongoing
+GME0606,Hypertension,05/2023,Resolved
+GME0607,COPD,06/2005,Resolved
+GME0607,Diabetes,04/2022,Resolved
+GME0608,Cesarian section,10/2004,Ongoing
+GME0608,Osteoporosis,08/2005,Resolved
+GME0608,Coronary Artery Disease,03/2018,Resolved
+GME0609,Coronary angiogram/repair,07/2013,Ongoing
+GME0609,Diabetes,07/2006,Ongoing
+GME0610,Osteoporosis,09/1996,Ongoing
+GME0610,Cholecystectomy,03/2010,Resolved
+GME0610,Hypertension,05/2006,Ongoing
+GME0611,Diabetes,02/2012,Resolved
+GME0611,Osteoporosis,12/2013,Ongoing
+GME0611,Exertive stress test,09/2020,Ongoing
+GME0611,Coronary angiogram/repair,04/2025,Ongoing
+GME0611,Hypertension,01/2017,Ongoing
+GME0612,Diabetes,10/2003,Ongoing
+GME0612,Hypertension,04/2004,Ongoing
+GME0612,Asthma,08/2021,Resolved
+GME0613,Coronary angiogram/repair,09/2023,Ongoing
+GME0614,Coronary angiogram/repair,03/2023,Resolved
+GME0614,Cesarian section,10/2010,Resolved
+GME0614,Exertive stress test,08/2011,Resolved
+GME0615,Diabetes,05/1997,Resolved
+GME0615,Cholecystectomy,07/2011,Ongoing
+GME0616,Coronary Artery Disease,06/2010,Ongoing
+GME0616,Hypertension,05/2015,Resolved
+GME0616,Cesarian section,01/2007,Ongoing
+GME0616,Exertive stress test,10/2020,Ongoing
+GME0616,Coronary angiogram/repair,04/2023,Resolved
+GME0617,Diabetes,11/2006,Ongoing
+GME0618,Coronary Artery Disease,09/2012,Resolved
+GME0618,Osteoporosis,09/2005,Resolved
+GME0619,Cholecystectomy,05/2001,Resolved
+GME0619,Coronary angiogram/repair,08/2015,Resolved
+GME0620,Cesarian section,03/2000,Ongoing
+GME0621,Osteoporosis,08/2017,Ongoing
+GME0621,Diabetes,04/2023,Resolved
+GME0622,Hypertension,06/2021,Ongoing
+GME0623,COPD,09/1997,Ongoing
+GME0623,Diabetes,03/2010,Resolved
+GME0623,Asthma,09/2013,Resolved
+GME0624,Coronary angiogram/repair,07/1999,Ongoing
+GME0624,Coronary Artery Disease,09/2015,Resolved
+GME0625,Cholecystectomy,05/2006,Resolved
+GME0625,Osteoporosis,07/2012,Resolved
+GME0625,Diabetes,05/2007,Resolved
+GME0625,Hypertension,02/2013,Resolved
+GME0625,Asthma,01/2007,Resolved
+GME0626,Diabetes,02/2007,Ongoing
+GME0626,Asthma,03/2025,Resolved
+GME0627,Cesarian section,03/2022,Resolved
+GME0627,Osteoporosis,07/2021,Resolved
+GME0627,Coronary Artery Disease,12/2013,Resolved
+GME0628,Diabetes,10/2000,Resolved
+GME0628,Cesarian section,02/1997,Ongoing
+GME0628,Asthma,03/2001,Ongoing
+GME0629,COPD,03/1996,Ongoing
+GME0629,Hypertension,05/2025,Ongoing
+GME0630,Cesarian section,03/2017,Ongoing
+GME0630,Coronary Artery Disease,08/1997,Ongoing
+GME0630,Osteoporosis,11/2017,Resolved
+GME0631,Diabetes,05/2007,Resolved
+GME0631,Cholecystectomy,07/1996,Ongoing
+GME0631,Asthma,11/2022,Ongoing
+GME0631,Exertive stress test,05/1998,Ongoing
+GME0632,Cesarian section,06/1996,Resolved
+GME0633,Cesarian section,04/2001,Ongoing
+GME0633,Cholecystectomy,11/2018,Resolved
+GME0634,Osteoporosis,06/2006,Resolved
+GME0634,Asthma,07/2011,Ongoing
+GME0634,Exertive stress test,12/2018,Resolved
+GME0635,Hypertension,07/2003,Ongoing
+GME0635,COPD,08/2011,Ongoing
+GME0635,Coronary Artery Disease,05/2012,Resolved
+GME0635,Exertive stress test,12/2019,Ongoing
+GME0636,Cesarian section,03/1997,Resolved
+GME0636,Hypertension,10/2023,Ongoing
+GME0636,Cholecystectomy,08/2006,Ongoing
+GME0636,Osteoporosis,02/2007,Ongoing
+GME0636,Exertive stress test,01/2021,Ongoing
+GME0637,Coronary angiogram/repair,07/2006,Ongoing
+GME0637,Osteoporosis,08/2013,Ongoing
+GME0637,Coronary Artery Disease,05/2004,Resolved
+GME0637,Hypertension,01/2014,Resolved
+GME0638,Coronary angiogram/repair,10/2023,Resolved
+GME0639,COPD,08/2011,Ongoing
+GME0639,Exertive stress test,03/2020,Ongoing
+GME0639,Coronary angiogram/repair,02/2003,Resolved
+GME0639,Diabetes,03/2004,Resolved
+GME0640,Coronary Artery Disease,02/2022,Resolved
+GME0640,Exertive stress test,01/2012,Resolved
+GME0640,Cholecystectomy,03/2018,Resolved
+GME0641,Coronary Artery Disease,11/2003,Resolved
+GME0641,Cesarian section,11/2002,Ongoing
+GME0641,Cholecystectomy,12/2004,Ongoing
+GME0641,Asthma,08/1995,Ongoing
+GME0641,Coronary angiogram/repair,07/2020,Ongoing
+GME0642,Cholecystectomy,11/2022,Resolved
+GME0642,Hypertension,07/2017,Ongoing
+GME0642,Coronary Artery Disease,08/2016,Resolved
+GME0643,Diabetes,02/2023,Ongoing
+GME0643,Cesarian section,10/2014,Resolved
+GME0643,Coronary angiogram/repair,06/2006,Ongoing
+GME0644,Osteoporosis,01/2011,Ongoing
+GME0644,Diabetes,08/1998,Resolved
+GME0644,Hypertension,07/1998,Ongoing
+GME0644,COPD,09/2023,Resolved
+GME0645,Cholecystectomy,09/2021,Ongoing
+GME0645,Exertive stress test,02/2022,Ongoing
+GME0646,Cholecystectomy,12/1998,Resolved
+GME0646,Hypertension,09/2002,Ongoing
+GME0646,Coronary angiogram/repair,09/2012,Resolved
+GME0647,Cesarian section,03/2025,Resolved
+GME0647,Osteoporosis,06/1999,Resolved
+GME0647,Cholecystectomy,11/2015,Ongoing
+GME0647,Coronary Artery Disease,01/2000,Ongoing
+GME0648,Cesarian section,10/2002,Ongoing
+GME0648,Cholecystectomy,02/1996,Resolved
+GME0648,Coronary Artery Disease,07/2013,Resolved
+GME0648,Coronary angiogram/repair,11/2003,Resolved
+GME0649,Coronary angiogram/repair,03/2005,Ongoing
+GME0649,Diabetes,03/2012,Ongoing
+GME0649,COPD,03/2025,Ongoing
+GME0649,Cesarian section,11/2024,Resolved
+GME0650,Asthma,01/2012,Ongoing
+GME0651,COPD,04/2006,Resolved
+GME0651,Hypertension,11/2018,Ongoing
+GME0651,Coronary angiogram/repair,11/2018,Ongoing
+GME0651,Cesarian section,10/2022,Resolved
+GME0652,Cesarian section,05/2004,Ongoing
+GME0652,Diabetes,10/2011,Resolved
+GME0652,Exertive stress test,09/2006,Resolved
+GME0652,Osteoporosis,07/2000,Resolved
+GME0652,Asthma,11/2023,Resolved
+GME0653,Cholecystectomy,02/2013,Ongoing
+GME0654,Coronary angiogram/repair,08/2002,Ongoing
+GME0654,Osteoporosis,12/2001,Ongoing
+GME0654,COPD,05/1996,Resolved
+GME0654,Coronary Artery Disease,12/2017,Ongoing
+GME0654,Exertive stress test,02/2017,Ongoing
+GME0655,Coronary Artery Disease,08/2014,Resolved
+GME0656,Osteoporosis,07/2011,Resolved
+GME0656,Cholecystectomy,03/2005,Ongoing
+GME0656,COPD,05/2006,Resolved
+GME0656,Diabetes,08/1996,Ongoing
+GME0656,Coronary angiogram/repair,01/2018,Resolved
+GME0657,Osteoporosis,06/2014,Resolved
+GME0658,Cesarian section,09/1999,Resolved
+GME0658,Coronary Artery Disease,10/2019,Resolved
+GME0659,Coronary Artery Disease,07/2019,Ongoing
+GME0659,Cesarian section,08/2005,Ongoing
+GME0659,Exertive stress test,01/2022,Resolved
+GME0659,Hypertension,09/1998,Resolved
+GME0659,Cholecystectomy,10/2011,Ongoing
+GME0660,Exertive stress test,02/2016,Ongoing
+GME0660,Diabetes,01/2010,Resolved
+GME0660,COPD,06/1996,Ongoing
+GME0661,Coronary Artery Disease,09/2016,Ongoing
+GME0661,Hypertension,07/2000,Ongoing
+GME0661,Diabetes,04/2014,Resolved
+GME0661,Coronary angiogram/repair,12/2021,Resolved
+GME0661,Exertive stress test,08/2022,Ongoing
+GME0662,Exertive stress test,08/2010,Ongoing
+GME0662,Coronary angiogram/repair,09/2007,Ongoing
+GME0663,Coronary angiogram/repair,10/1997,Ongoing
+GME0663,Hypertension,11/2014,Ongoing
+GME0663,Osteoporosis,04/2001,Ongoing
+GME0663,COPD,07/2023,Ongoing
+GME0664,Osteoporosis,05/1997,Resolved
+GME0664,Diabetes,05/2020,Resolved
+GME0664,COPD,10/2018,Ongoing
+GME0664,Asthma,08/2008,Ongoing
+GME0665,Asthma,04/2013,Resolved
+GME0666,Cesarian section,08/2022,Resolved
+GME0666,Diabetes,04/2012,Ongoing
+GME0667,Diabetes,05/2011,Resolved
+GME0667,Asthma,11/2017,Resolved
+GME0667,Osteoporosis,09/2001,Resolved
+GME0667,COPD,04/1996,Resolved
+GME0668,Coronary Artery Disease,11/2020,Ongoing
+GME0668,Coronary angiogram/repair,03/2007,Ongoing
+GME0669,Osteoporosis,12/2000,Resolved
+GME0669,Hypertension,07/2016,Ongoing
+GME0669,Diabetes,05/2001,Ongoing
+GME0669,Coronary Artery Disease,01/2020,Resolved
+GME0669,Cesarian section,08/2006,Ongoing
+GME0670,Osteoporosis,01/2025,Ongoing
+GME0670,Hypertension,07/2003,Ongoing
+GME0671,Cholecystectomy,01/2016,Ongoing
+GME0671,Diabetes,10/2017,Ongoing
+GME0672,Coronary Artery Disease,01/2015,Ongoing
+GME0672,Exertive stress test,11/2002,Resolved
+GME0672,Diabetes,04/2009,Resolved
+GME0673,Exertive stress test,12/2003,Resolved
+GME0673,Diabetes,02/2007,Resolved
+GME0673,Cholecystectomy,06/1998,Resolved
+GME0673,Asthma,01/2000,Resolved
+GME0674,Cesarian section,09/2021,Resolved
+GME0674,Exertive stress test,09/2017,Resolved
+GME0674,Coronary angiogram/repair,11/1995,Ongoing
+GME0674,Diabetes,12/2013,Resolved
+GME0674,Osteoporosis,02/2010,Ongoing
+GME0675,Asthma,02/2017,Resolved
+GME0675,Cesarian section,11/2017,Resolved
+GME0676,Coronary angiogram/repair,03/2010,Resolved
+GME0676,Cholecystectomy,07/2004,Ongoing
+GME0676,Diabetes,09/2000,Resolved
+GME0676,Osteoporosis,12/2021,Resolved
+GME0676,Exertive stress test,11/2013,Ongoing
+GME0677,Coronary Artery Disease,02/2016,Resolved
+GME0677,Hypertension,11/1995,Resolved
+GME0677,Coronary angiogram/repair,02/2011,Resolved
+GME0677,Asthma,07/2023,Resolved
+GME0678,Diabetes,03/2012,Ongoing
+GME0679,Cesarian section,11/1997,Ongoing
+GME0679,Coronary Artery Disease,05/2000,Ongoing
+GME0679,Cholecystectomy,01/2016,Ongoing
+GME0680,Cholecystectomy,12/2005,Ongoing
+GME0680,Coronary Artery Disease,08/2000,Ongoing
+GME0680,Osteoporosis,10/2018,Resolved
+GME0681,Cholecystectomy,03/2003,Ongoing
+GME0682,Osteoporosis,12/2010,Ongoing
+GME0682,Cholecystectomy,04/2004,Resolved
+GME0682,Exertive stress test,04/1998,Resolved
+GME0682,Coronary angiogram/repair,09/2016,Ongoing
+GME0683,Exertive stress test,12/2024,Ongoing
+GME0683,Diabetes,05/2025,Resolved
+GME0683,Coronary angiogram/repair,01/2000,Resolved
+GME0683,Cholecystectomy,07/1995,Resolved
+GME0683,Asthma,02/2021,Resolved
+GME0684,Exertive stress test,09/2018,Resolved
+GME0684,Hypertension,03/2021,Resolved
+GME0685,Coronary angiogram/repair,06/2017,Resolved
+GME0686,Diabetes,10/2013,Resolved
+GME0687,Osteoporosis,06/2002,Resolved
+GME0687,Cholecystectomy,05/2023,Ongoing
+GME0688,Hypertension,03/2003,Ongoing
+GME0688,Coronary angiogram/repair,02/2008,Resolved
+GME0688,Osteoporosis,04/2002,Resolved
+GME0688,Cholecystectomy,07/2019,Ongoing
+GME0688,COPD,03/2022,Resolved
+GME0689,COPD,02/1996,Ongoing
+GME0690,Hypertension,04/2000,Ongoing
+GME0690,Diabetes,12/2011,Resolved
+GME0690,Asthma,10/2018,Resolved
+GME0691,Cholecystectomy,11/2006,Ongoing
+GME0691,Osteoporosis,06/2012,Resolved
+GME0691,Cesarian section,09/2023,Resolved
+GME0692,Hypertension,10/2005,Resolved
+GME0692,Cesarian section,07/2020,Ongoing
+GME0692,Coronary angiogram/repair,06/2005,Resolved
+GME0692,Cholecystectomy,04/1996,Ongoing
+GME0692,Exertive stress test,02/2001,Ongoing
+GME0693,Hypertension,12/2022,Ongoing
+GME0693,Osteoporosis,03/2016,Ongoing
+GME0694,Cesarian section,01/2014,Ongoing
+GME0694,Exertive stress test,03/2017,Ongoing
+GME0694,Coronary Artery Disease,04/1998,Resolved
+GME0695,Hypertension,12/1995,Ongoing
+GME0695,Osteoporosis,12/2002,Ongoing
+GME0695,Coronary angiogram/repair,04/2023,Resolved
+GME0695,Cesarian section,07/2000,Ongoing
+GME0695,COPD,10/2011,Resolved
+GME0696,Osteoporosis,06/2015,Ongoing
+GME0696,Cesarian section,11/2011,Ongoing
+GME0696,Coronary angiogram/repair,05/2025,Resolved
+GME0697,Coronary Artery Disease,04/2004,Resolved
+GME0698,Osteoporosis,07/1996,Resolved
+GME0698,Cesarian section,07/1996,Ongoing
+GME0699,COPD,11/2023,Resolved
+GME0699,Exertive stress test,04/2005,Resolved
+GME0699,Asthma,02/1999,Resolved
+GME0699,Cholecystectomy,06/2025,Ongoing
+GME0699,Osteoporosis,12/2023,Ongoing
+GME0700,Coronary angiogram/repair,11/1995,Ongoing
+GME0700,Diabetes,10/2012,Ongoing
+GME0700,Cholecystectomy,08/2009,Ongoing
+GME0701,Asthma,01/2000,Ongoing
+GME0702,Hypertension,09/2021,Resolved
+GME0702,Exertive stress test,11/2001,Resolved
+GME0703,Asthma,06/2022,Resolved
+GME0703,Diabetes,07/2016,Ongoing
+GME0704,COPD,12/2002,Resolved
+GME0704,Osteoporosis,02/2016,Ongoing
+GME0704,Cholecystectomy,07/2001,Ongoing
+GME0704,Cesarian section,05/2015,Ongoing
+GME0704,Coronary Artery Disease,02/2011,Ongoing
+GME0705,Cesarian section,07/2018,Resolved
+GME0705,Asthma,07/2024,Ongoing
+GME0705,Exertive stress test,01/2021,Ongoing
+GME0706,Cesarian section,12/2017,Ongoing
+GME0706,Coronary Artery Disease,01/2020,Ongoing
+GME0706,Coronary angiogram/repair,03/2000,Resolved
+GME0707,Diabetes,02/2012,Ongoing
+GME0708,Asthma,01/2009,Ongoing
+GME0709,Hypertension,10/2015,Resolved
+GME0709,Asthma,06/2025,Resolved
+GME0709,COPD,01/2013,Ongoing
+GME0710,Diabetes,04/2018,Resolved
+GME0710,Cholecystectomy,10/2003,Resolved
+GME0710,Cesarian section,12/2002,Resolved
+GME0710,Osteoporosis,02/2007,Ongoing
+GME0710,Asthma,12/2005,Resolved
+GME0711,Cholecystectomy,10/2018,Resolved
+GME0711,Diabetes,05/2019,Resolved
+GME0711,Hypertension,05/2000,Ongoing
+GME0712,Exertive stress test,11/1999,Resolved
+GME0712,Cesarian section,11/2007,Resolved
+GME0712,Coronary Artery Disease,12/2008,Resolved
+GME0713,Hypertension,08/2020,Ongoing
+GME0714,Exertive stress test,11/2002,Ongoing
+GME0715,Hypertension,08/2009,Resolved
+GME0716,Diabetes,09/1999,Ongoing
+GME0716,COPD,03/2008,Resolved
+GME0717,Osteoporosis,07/2007,Resolved
+GME0717,Cesarian section,07/1996,Resolved
+GME0718,Exertive stress test,07/2016,Resolved
+GME0719,Exertive stress test,11/2016,Resolved
+GME0719,Coronary Artery Disease,11/1996,Resolved
+GME0719,Osteoporosis,07/1997,Ongoing
+GME0719,COPD,10/2007,Ongoing
+GME0720,COPD,03/2004,Resolved
+GME0720,Asthma,05/2016,Ongoing
+GME0721,Cholecystectomy,05/2000,Ongoing
+GME0721,Diabetes,06/2008,Ongoing
+GME0722,Asthma,08/2022,Resolved
+GME0722,Coronary Artery Disease,05/2022,Resolved
+GME0722,Hypertension,09/1997,Resolved
+GME0723,Coronary Artery Disease,02/2016,Resolved
+GME0724,Coronary Artery Disease,05/1999,Ongoing
+GME0725,Cholecystectomy,10/2018,Resolved
+GME0725,Asthma,03/2013,Ongoing
+GME0725,Hypertension,02/2016,Ongoing
+GME0725,Exertive stress test,07/2010,Ongoing
+GME0725,Diabetes,07/2012,Resolved
+GME0726,COPD,03/2004,Ongoing
+GME0726,Osteoporosis,02/2001,Ongoing
+GME0727,Diabetes,01/2015,Resolved
+GME0728,Asthma,01/1996,Resolved
+GME0728,Osteoporosis,03/2015,Resolved
+GME0728,Cholecystectomy,08/1996,Resolved
+GME0729,Asthma,10/2004,Resolved
+GME0729,Hypertension,06/2009,Resolved
+GME0729,Cholecystectomy,11/2010,Resolved
+GME0730,Coronary angiogram/repair,08/2009,Ongoing
+GME0731,Cesarian section,05/2014,Ongoing
+GME0731,Exertive stress test,05/2015,Resolved
+GME0732,Hypertension,08/2000,Ongoing
+GME0732,Exertive stress test,04/2023,Ongoing
+GME0732,Cesarian section,06/2008,Ongoing
+GME0732,Coronary Artery Disease,08/1999,Resolved
+GME0733,Coronary angiogram/repair,07/1999,Resolved
+GME0734,Coronary Artery Disease,03/2014,Resolved
+GME0734,Coronary angiogram/repair,07/2011,Resolved
+GME0734,Cholecystectomy,11/1996,Resolved
+GME0734,Osteoporosis,04/2016,Ongoing
+GME0734,Exertive stress test,05/2002,Ongoing
+GME0735,COPD,09/2013,Resolved
+GME0735,Cholecystectomy,08/2002,Resolved
+GME0735,Diabetes,08/2004,Ongoing
+GME0735,Exertive stress test,09/1999,Ongoing
+GME0735,Cesarian section,01/2010,Resolved
+GME0736,Asthma,12/2001,Resolved
+GME0736,Coronary Artery Disease,03/2016,Ongoing
+GME0737,Asthma,11/1996,Resolved
+GME0737,Coronary angiogram/repair,09/2007,Ongoing
+GME0737,Diabetes,07/2009,Resolved
+GME0738,Exertive stress test,03/2010,Resolved
+GME0739,Diabetes,12/2016,Resolved
+GME0739,Hypertension,10/2007,Resolved
+GME0739,Asthma,09/2009,Ongoing
+GME0739,Coronary Artery Disease,06/2019,Ongoing
+GME0739,COPD,10/2013,Resolved
+GME0740,Cholecystectomy,08/2015,Ongoing
+GME0740,Coronary angiogram/repair,04/2021,Ongoing
+GME0741,Coronary Artery Disease,01/1998,Ongoing
+GME0741,Exertive stress test,07/2017,Resolved
+GME0741,Cesarian section,12/2023,Ongoing
+GME0742,Asthma,03/2009,Resolved
+GME0743,Cesarian section,10/2016,Resolved
+GME0743,Osteoporosis,09/2014,Ongoing
+GME0744,Coronary angiogram/repair,08/2017,Resolved
+GME0744,Osteoporosis,07/2024,Resolved
+GME0744,Coronary Artery Disease,12/2003,Ongoing
+GME0745,Coronary angiogram/repair,11/2005,Resolved
+GME0745,Coronary Artery Disease,04/2000,Ongoing
+GME0746,Coronary angiogram/repair,03/2010,Resolved
+GME0746,Diabetes,05/2008,Ongoing
+GME0746,Osteoporosis,09/1996,Resolved
+GME0747,Diabetes,11/1995,Resolved
+GME0747,Coronary Artery Disease,03/2011,Resolved
+GME0747,Asthma,12/2015,Resolved
+GME0747,Cholecystectomy,06/2021,Resolved
+GME0748,Asthma,09/2020,Ongoing
+GME0748,Cesarian section,05/2004,Ongoing
+GME0748,COPD,08/2018,Resolved
+GME0748,Exertive stress test,05/2005,Ongoing
+GME0749,Osteoporosis,04/2000,Ongoing
+GME0749,Coronary angiogram/repair,11/2002,Resolved
+GME0750,Osteoporosis,01/2025,Resolved
+GME0750,COPD,09/2023,Ongoing
+GME0751,Coronary Artery Disease,12/2006,Resolved
+GME0751,Cesarian section,02/2006,Ongoing
+GME0751,Hypertension,02/2022,Ongoing
+GME0751,Exertive stress test,01/1997,Ongoing
+GME0752,Diabetes,05/2012,Resolved
+GME0752,Cholecystectomy,11/2022,Resolved
+GME0752,Osteoporosis,12/2015,Resolved
+GME0753,Diabetes,12/1995,Ongoing
+GME0754,COPD,08/2012,Resolved
+GME0754,Coronary Artery Disease,08/2001,Ongoing
+GME0755,Coronary Artery Disease,08/2010,Resolved
+GME0755,Coronary angiogram/repair,12/2021,Ongoing
+GME0756,Osteoporosis,02/2001,Ongoing
+GME0756,Exertive stress test,10/2023,Ongoing
+GME0756,Diabetes,04/2001,Ongoing
+GME0756,Hypertension,04/2000,Ongoing
+GME0757,Exertive stress test,01/2007,Resolved
+GME0757,Diabetes,06/2007,Ongoing
+GME0758,Asthma,01/1997,Resolved
+GME0758,Cesarian section,05/2006,Resolved
+GME0758,Hypertension,06/2009,Ongoing
+GME0758,Osteoporosis,11/2002,Ongoing
+GME0758,Coronary Artery Disease,03/2024,Resolved
+GME0759,Asthma,03/2022,Ongoing
+GME0759,Diabetes,03/2025,Ongoing
+GME0759,Cesarian section,10/2004,Ongoing
+GME0759,COPD,07/2015,Ongoing
+GME0759,Cholecystectomy,10/2006,Ongoing
+GME0760,COPD,01/2017,Resolved
+GME0760,Exertive stress test,02/2024,Ongoing
+GME0760,Asthma,05/2018,Resolved
+GME0760,Osteoporosis,04/1997,Resolved
+GME0760,Coronary Artery Disease,10/2009,Resolved
+GME0761,Cesarian section,11/1997,Resolved
+GME0761,Diabetes,03/2019,Ongoing
+GME0761,Asthma,02/2020,Ongoing
+GME0761,Exertive stress test,06/2017,Resolved
+GME0762,Diabetes,11/1998,Resolved
+GME0762,Cesarian section,08/2009,Ongoing
+GME0762,Hypertension,03/2010,Resolved
+GME0762,Coronary angiogram/repair,06/2015,Ongoing
+GME0763,Coronary Artery Disease,11/1998,Resolved
+GME0763,Asthma,01/2021,Ongoing
+GME0763,COPD,06/2013,Ongoing
+GME0764,COPD,01/2005,Resolved
+GME0764,Osteoporosis,09/2004,Resolved
+GME0764,Exertive stress test,12/2021,Ongoing
+GME0765,Coronary Artery Disease,12/2016,Resolved
+GME0765,Cholecystectomy,12/2002,Resolved
+GME0766,Coronary angiogram/repair,01/1999,Resolved
+GME0766,Osteoporosis,10/2016,Ongoing
+GME0767,Cesarian section,02/2005,Resolved
+GME0767,Asthma,09/1996,Ongoing
+GME0767,Coronary Artery Disease,11/2008,Resolved
+GME0767,Coronary angiogram/repair,09/2014,Resolved
+GME0768,Osteoporosis,02/2021,Ongoing
+GME0768,Cesarian section,05/2022,Ongoing
+GME0768,Diabetes,08/2016,Ongoing
+GME0768,Hypertension,08/1999,Ongoing
+GME0768,COPD,12/2014,Resolved
+GME0769,Cholecystectomy,04/1997,Ongoing
+GME0769,Exertive stress test,11/1999,Resolved
+GME0769,COPD,05/2003,Resolved
+GME0769,Hypertension,01/2014,Ongoing
+GME0770,Osteoporosis,10/1998,Resolved
+GME0771,Hypertension,11/2014,Ongoing
+GME0772,Cholecystectomy,11/1996,Ongoing
+GME0772,Hypertension,04/2006,Resolved
+GME0772,Coronary Artery Disease,12/2016,Resolved
+GME0772,Asthma,07/2007,Ongoing
+GME0773,COPD,06/2013,Resolved
+GME0773,Exertive stress test,06/1997,Resolved
+GME0773,Osteoporosis,08/2005,Ongoing
+GME0773,Coronary Artery Disease,06/2024,Ongoing
+GME0773,Asthma,11/2024,Ongoing
+GME0774,COPD,01/2016,Ongoing
+GME0774,Exertive stress test,12/2006,Ongoing
+GME0774,Diabetes,04/2013,Ongoing
+GME0774,Coronary angiogram/repair,11/2018,Ongoing
+GME0775,Hypertension,07/2001,Resolved
+GME0775,Cholecystectomy,05/2016,Ongoing
+GME0776,Coronary Artery Disease,07/2012,Ongoing
+GME0776,COPD,10/2013,Ongoing
+GME0776,Asthma,01/2005,Resolved
+GME0777,Cholecystectomy,06/2011,Resolved
+GME0777,Osteoporosis,04/2014,Resolved
+GME0777,Coronary Artery Disease,04/2025,Resolved
+GME0777,Cesarian section,03/2002,Ongoing
+GME0777,Hypertension,12/2000,Ongoing
+GME0778,COPD,10/1995,Ongoing
+GME0778,Coronary angiogram/repair,12/2011,Ongoing
+GME0779,Exertive stress test,03/2015,Ongoing
+GME0779,Hypertension,03/2007,Resolved
+GME0779,Cholecystectomy,07/2021,Resolved
+GME0779,COPD,03/2000,Resolved
+GME0780,Diabetes,04/1997,Ongoing
+GME0780,Coronary Artery Disease,02/2000,Ongoing
+GME0780,Coronary angiogram/repair,08/2014,Resolved
+GME0781,Osteoporosis,07/2015,Resolved
+GME0781,Hypertension,08/2009,Resolved
+GME0781,Diabetes,10/2000,Ongoing
+GME0781,Coronary angiogram/repair,01/2017,Ongoing
+GME0782,Cesarian section,06/2024,Resolved
+GME0782,Coronary angiogram/repair,09/2007,Ongoing
+GME0782,Exertive stress test,06/2023,Ongoing
+GME0783,COPD,07/2009,Ongoing
+GME0783,Cholecystectomy,06/2008,Ongoing
+GME0784,Diabetes,01/2018,Resolved
+GME0784,Hypertension,09/2001,Ongoing
+GME0784,Cholecystectomy,02/2014,Resolved
+GME0784,COPD,05/2011,Ongoing
+GME0785,Hypertension,04/2021,Resolved
+GME0785,Diabetes,10/1997,Ongoing
+GME0785,Osteoporosis,05/1998,Resolved
+GME0786,Asthma,07/2010,Ongoing
+GME0786,Coronary angiogram/repair,02/2001,Ongoing
+GME0786,Exertive stress test,09/2018,Ongoing
+GME0786,Hypertension,05/2016,Resolved
+GME0787,COPD,06/2021,Resolved
+GME0788,Cesarian section,03/1998,Resolved
+GME0789,Cesarian section,11/2002,Ongoing
+GME0789,Osteoporosis,05/2020,Ongoing
+GME0790,Diabetes,06/2015,Resolved
+GME0790,Cholecystectomy,12/2020,Resolved
+GME0790,COPD,03/1998,Ongoing
+GME0790,Osteoporosis,12/2022,Ongoing
+GME0791,Diabetes,03/2015,Ongoing
+GME0791,Hypertension,06/2025,Resolved
+GME0792,Osteoporosis,07/1999,Ongoing
+GME0792,Hypertension,04/2014,Ongoing
+GME0792,COPD,08/2016,Ongoing
+GME0792,Cesarian section,03/2018,Ongoing
+GME0792,Cholecystectomy,01/2012,Ongoing
+GME0793,Coronary Artery Disease,11/2022,Resolved
+GME0793,Coronary angiogram/repair,03/2025,Ongoing
+GME0793,Hypertension,10/2019,Resolved
+GME0793,Osteoporosis,01/2012,Ongoing
+GME0794,Cesarian section,08/2011,Ongoing
+GME0794,Asthma,02/1999,Resolved
+GME0794,Diabetes,03/2025,Ongoing
+GME0794,Cholecystectomy,04/1998,Resolved
+GME0794,Hypertension,05/1997,Resolved
+GME0795,Asthma,10/2014,Resolved
+GME0795,Coronary angiogram/repair,08/2008,Resolved
+GME0796,COPD,04/2018,Resolved
+GME0796,Coronary angiogram/repair,08/2020,Ongoing
+GME0797,Cholecystectomy,06/2005,Resolved
+GME0798,Asthma,04/1997,Ongoing
+GME0798,Coronary angiogram/repair,12/2014,Resolved
+GME0798,Diabetes,10/2010,Ongoing
+GME0798,Osteoporosis,04/2009,Ongoing
+GME0798,Cesarian section,11/2021,Resolved
+GME0799,Hypertension,05/2009,Resolved
+GME0799,Exertive stress test,01/2004,Resolved
+GME0800,Hypertension,06/2002,Resolved
+GME0801,Coronary angiogram/repair,03/1997,Resolved
+GME0802,Cesarian section,11/2006,Resolved
+GME0802,Coronary angiogram/repair,07/1999,Resolved
+GME0802,Diabetes,09/2017,Ongoing
+GME0802,Hypertension,02/2000,Resolved
+GME0802,Coronary Artery Disease,04/2008,Resolved
+GME0803,Hypertension,02/1999,Ongoing
+GME0803,Exertive stress test,07/2006,Resolved
+GME0803,COPD,01/2011,Ongoing
+GME0803,Asthma,09/2010,Resolved
+GME0804,COPD,05/2003,Resolved
+GME0805,Osteoporosis,04/2022,Resolved
+GME0806,Osteoporosis,08/2018,Resolved
+GME0806,Exertive stress test,01/2000,Resolved
+GME0806,Hypertension,08/2007,Resolved
+GME0807,Diabetes,12/2023,Resolved
+GME0808,COPD,08/2002,Resolved
+GME0808,Asthma,03/1999,Ongoing
+GME0808,Cesarian section,06/2007,Resolved
+GME0809,Exertive stress test,07/2006,Resolved
+GME0809,Coronary Artery Disease,05/2013,Ongoing
+GME0809,Hypertension,04/2010,Ongoing
+GME0809,COPD,04/2006,Resolved
+GME0810,Osteoporosis,05/2020,Resolved
+GME0810,Cesarian section,08/1999,Resolved
+GME0810,Hypertension,09/2021,Resolved
+GME0811,Osteoporosis,04/2005,Resolved
+GME0811,Hypertension,06/2003,Resolved
+GME0811,Diabetes,04/2022,Resolved
+GME0812,Asthma,04/2009,Ongoing
+GME0812,Osteoporosis,04/2000,Resolved
+GME0813,Asthma,11/2007,Ongoing
+GME0814,Asthma,10/2009,Resolved
+GME0814,COPD,07/2022,Ongoing
+GME0814,Exertive stress test,10/2009,Ongoing
+GME0815,Osteoporosis,07/1998,Ongoing
+GME0815,COPD,09/2012,Resolved
+GME0815,Cholecystectomy,12/2020,Ongoing
+GME0816,Coronary angiogram/repair,08/1997,Ongoing
+GME0816,Osteoporosis,04/2017,Ongoing
+GME0816,Asthma,11/2007,Ongoing
+GME0817,Osteoporosis,03/2001,Ongoing
+GME0817,Hypertension,05/1997,Ongoing
+GME0818,Coronary Artery Disease,07/2017,Resolved
+GME0819,Cholecystectomy,03/2016,Resolved
+GME0819,Hypertension,12/2024,Resolved
+GME0819,Exertive stress test,04/2002,Ongoing
+GME0819,COPD,08/2000,Resolved
+GME0819,Osteoporosis,10/2019,Ongoing
+GME0820,Exertive stress test,03/2012,Resolved
+GME0820,Cholecystectomy,09/1995,Ongoing
+GME0820,Diabetes,11/1995,Ongoing
+GME0820,Hypertension,04/2017,Ongoing
+GME0820,Coronary angiogram/repair,05/2003,Ongoing
+GME0821,Osteoporosis,11/2004,Ongoing
+GME0821,Cholecystectomy,02/2003,Resolved
+GME0821,Cesarian section,08/2019,Resolved
+GME0822,Hypertension,03/1996,Resolved
+GME0822,Cholecystectomy,11/2014,Resolved
+GME0823,Cholecystectomy,06/2021,Ongoing
+GME0823,Asthma,04/2005,Ongoing
+GME0823,Coronary angiogram/repair,01/2004,Resolved
+GME0823,COPD,07/2004,Ongoing
+GME0824,Coronary Artery Disease,05/2025,Ongoing
+GME0824,Hypertension,09/2022,Resolved
+GME0824,Diabetes,10/2010,Resolved
+GME0825,Cesarian section,05/2024,Ongoing
+GME0825,Hypertension,06/2020,Resolved
+GME0826,Diabetes,05/2021,Ongoing
+GME0827,COPD,11/2019,Ongoing
+GME0827,Osteoporosis,07/2020,Ongoing
+GME0827,Cesarian section,04/2019,Resolved
+GME0827,Coronary angiogram/repair,12/2010,Resolved
+GME0827,Cholecystectomy,07/2009,Resolved
+GME0828,Exertive stress test,05/2024,Resolved
+GME0828,Coronary angiogram/repair,07/2001,Ongoing
+GME0828,Osteoporosis,04/2023,Resolved
+GME0829,Asthma,04/2014,Ongoing
+GME0829,Cholecystectomy,08/2013,Ongoing
+GME0830,Cesarian section,06/2025,Ongoing
+GME0830,Cholecystectomy,01/1996,Resolved
+GME0830,Diabetes,04/2018,Resolved
+GME0830,Coronary Artery Disease,10/2012,Ongoing
+GME0831,Cesarian section,01/2014,Ongoing
+GME0831,Exertive stress test,11/2002,Resolved
+GME0831,Coronary Artery Disease,04/1996,Ongoing
+GME0831,Coronary angiogram/repair,12/1999,Resolved
+GME0832,Cholecystectomy,07/2009,Ongoing
+GME0832,Osteoporosis,08/2018,Resolved
+GME0832,Diabetes,07/2012,Resolved
+GME0833,Coronary Artery Disease,03/2013,Ongoing
+GME0833,Asthma,11/2021,Ongoing
+GME0833,Exertive stress test,08/1997,Ongoing
+GME0833,Diabetes,11/2022,Resolved
+GME0833,COPD,09/2019,Resolved
+GME0834,Asthma,07/2020,Resolved
+GME0834,Diabetes,04/2019,Ongoing
+GME0834,Coronary Artery Disease,03/2013,Ongoing
+GME0834,Cesarian section,02/2010,Ongoing
+GME0834,Hypertension,08/2004,Ongoing
+GME0835,COPD,09/2018,Resolved
+GME0835,Cesarian section,10/2011,Ongoing
+GME0835,Osteoporosis,09/2004,Resolved
+GME0835,Coronary Artery Disease,12/2008,Ongoing
+GME0835,Diabetes,12/1997,Resolved
+GME0836,Osteoporosis,06/2015,Ongoing
+GME0836,Diabetes,07/2020,Resolved
+GME0836,Hypertension,12/2016,Resolved
+GME0837,Asthma,02/2025,Resolved
+GME0837,Cesarian section,01/2014,Ongoing
+GME0837,Coronary angiogram/repair,09/2014,Ongoing
+GME0837,COPD,11/2023,Ongoing
+GME0838,Hypertension,06/2009,Resolved
+GME0838,Cholecystectomy,09/2012,Resolved
+GME0839,Asthma,10/2016,Ongoing
+GME0839,Coronary Artery Disease,09/2015,Ongoing
+GME0839,Coronary angiogram/repair,01/2015,Resolved
+GME0840,Cholecystectomy,03/2010,Resolved
+GME0840,Hypertension,05/2009,Resolved
+GME0840,Cesarian section,01/2017,Resolved
+GME0840,Coronary Artery Disease,02/2002,Ongoing
+GME0841,Hypertension,04/2002,Resolved
+GME0841,Exertive stress test,01/2022,Resolved
+GME0842,Osteoporosis,04/2013,Ongoing
+GME0842,Cholecystectomy,12/2015,Ongoing
+GME0842,Diabetes,10/1997,Resolved
+GME0842,Coronary Artery Disease,03/2021,Resolved
+GME0842,Cesarian section,05/2000,Resolved
+GME0843,Exertive stress test,08/2015,Ongoing
+GME0843,Coronary Artery Disease,05/2013,Ongoing
+GME0843,Coronary angiogram/repair,12/2023,Resolved
+GME0843,COPD,09/2018,Ongoing
+GME0844,Exertive stress test,12/2023,Ongoing
+GME0845,Osteoporosis,08/2015,Ongoing
+GME0846,COPD,09/1996,Resolved
+GME0846,Exertive stress test,03/2011,Ongoing
+GME0846,Hypertension,09/2018,Resolved
+GME0846,Osteoporosis,04/2000,Resolved
+GME0846,Asthma,08/1997,Resolved
+GME0847,Coronary Artery Disease,09/2009,Ongoing
+GME0847,Asthma,10/2022,Resolved
+GME0847,Coronary angiogram/repair,06/2009,Resolved
+GME0847,Hypertension,06/2016,Resolved
+GME0847,Cholecystectomy,04/2007,Resolved
+GME0848,Coronary Artery Disease,02/2013,Resolved
+GME0849,Cholecystectomy,01/2018,Ongoing
+GME0850,Diabetes,05/2011,Ongoing
+GME0850,Cholecystectomy,01/2007,Resolved
+GME0851,Asthma,12/2007,Resolved
+GME0851,COPD,05/1996,Ongoing
+GME0851,Diabetes,07/1999,Resolved
+GME0852,COPD,12/2024,Resolved
+GME0853,COPD,06/1998,Ongoing
+GME0853,Hypertension,01/1996,Ongoing
+GME0854,Osteoporosis,10/1995,Ongoing
+GME0854,Cesarian section,07/1999,Ongoing
+GME0855,Asthma,10/2008,Ongoing
+GME0855,Coronary Artery Disease,08/2002,Resolved
+GME0855,Osteoporosis,06/2000,Resolved
+GME0856,Exertive stress test,11/2006,Ongoing
+GME0856,Diabetes,04/2004,Ongoing
+GME0857,Diabetes,11/2021,Ongoing
+GME0857,Asthma,05/2024,Ongoing
+GME0857,Exertive stress test,04/2004,Resolved
+GME0857,Cholecystectomy,10/2020,Resolved
+GME0858,Cesarian section,02/2011,Ongoing
+GME0858,Exertive stress test,06/1997,Resolved
+GME0858,Cholecystectomy,04/2025,Ongoing
+GME0858,COPD,05/2000,Resolved
+GME0858,Coronary angiogram/repair,12/2018,Resolved
+GME0859,Cesarian section,09/2007,Ongoing
+GME0859,Cholecystectomy,09/2023,Ongoing
+GME0859,Asthma,07/1995,Ongoing
+GME0859,Coronary Artery Disease,05/2017,Resolved
+GME0860,Asthma,10/2015,Resolved
+GME0860,Cholecystectomy,11/1997,Ongoing
+GME0860,Exertive stress test,02/2022,Ongoing
+GME0860,COPD,07/2003,Resolved
+GME0861,Diabetes,12/1995,Ongoing
+GME0861,Cholecystectomy,06/2024,Resolved
+GME0861,Cesarian section,10/2014,Resolved
+GME0862,Cesarian section,09/2019,Ongoing
+GME0862,Exertive stress test,06/2001,Resolved
+GME0862,Hypertension,09/2010,Ongoing
+GME0862,Coronary Artery Disease,12/2012,Resolved
+GME0862,Osteoporosis,06/2002,Resolved
+GME0863,Cesarian section,04/2022,Resolved
+GME0863,Osteoporosis,09/2000,Resolved
+GME0863,Asthma,08/2021,Resolved
+GME0864,Coronary angiogram/repair,12/2020,Resolved
+GME0865,Cholecystectomy,07/2022,Resolved
+GME0865,Hypertension,01/2011,Resolved
+GME0866,Exertive stress test,11/1998,Ongoing
+GME0866,Coronary Artery Disease,10/2008,Resolved
+GME0866,Osteoporosis,12/2005,Ongoing
+GME0866,Cesarian section,02/2013,Ongoing
+GME0867,Cesarian section,12/2006,Ongoing
+GME0868,Cholecystectomy,09/2010,Ongoing
+GME0868,COPD,09/2015,Ongoing
+GME0868,Diabetes,01/2009,Resolved
+GME0869,Exertive stress test,04/2011,Ongoing
+GME0869,Coronary Artery Disease,07/2022,Resolved
+GME0869,Cesarian section,10/1999,Ongoing
+GME0869,Asthma,05/2006,Resolved
+GME0869,Cholecystectomy,02/2020,Resolved
+GME0870,Exertive stress test,07/1997,Ongoing
+GME0870,COPD,03/1996,Ongoing
+GME0870,Osteoporosis,11/2013,Ongoing
+GME0870,Hypertension,10/2024,Resolved
+GME0871,Hypertension,04/2009,Ongoing
+GME0871,Coronary Artery Disease,06/2020,Ongoing
+GME0871,Coronary angiogram/repair,08/2013,Ongoing
+GME0871,COPD,07/1996,Ongoing
+GME0872,Diabetes,02/2005,Ongoing
+GME0872,Cesarian section,01/2024,Resolved
+GME0872,COPD,12/2007,Ongoing
+GME0873,Diabetes,08/2014,Resolved
+GME0874,Hypertension,03/2016,Ongoing
+GME0875,Osteoporosis,08/2007,Resolved
+GME0876,Osteoporosis,12/2002,Resolved
+GME0876,Coronary angiogram/repair,10/2019,Resolved
+GME0877,Hypertension,02/2010,Ongoing
+GME0877,Coronary angiogram/repair,11/1998,Resolved
+GME0877,COPD,07/1999,Resolved
+GME0877,Exertive stress test,08/2011,Resolved
+GME0877,Diabetes,07/2003,Resolved
+GME0878,Diabetes,01/2014,Resolved
+GME0878,Exertive stress test,10/2012,Resolved
+GME0878,Cesarian section,10/2013,Resolved
+GME0878,Coronary angiogram/repair,12/2011,Ongoing
+GME0879,Hypertension,10/2018,Ongoing
+GME0879,Asthma,05/1998,Resolved
+GME0879,Cesarian section,10/2011,Ongoing
+GME0879,Coronary Artery Disease,03/1999,Ongoing
+GME0880,Exertive stress test,03/2024,Ongoing
+GME0880,Asthma,09/1998,Resolved
+GME0880,Cholecystectomy,04/2014,Resolved
+GME0880,Osteoporosis,09/2017,Ongoing
+GME0881,Diabetes,08/2022,Ongoing
+GME0882,Asthma,06/2005,Ongoing
+GME0882,Exertive stress test,07/1995,Ongoing
+GME0883,Osteoporosis,02/2003,Resolved
+GME0883,Asthma,05/1999,Resolved
+GME0883,Exertive stress test,08/2017,Resolved
+GME0883,Hypertension,10/2022,Resolved
+GME0884,Coronary Artery Disease,08/2007,Resolved
+GME0884,Hypertension,11/2024,Ongoing
+GME0884,Cholecystectomy,12/2000,Resolved
+GME0885,COPD,01/2016,Resolved
+GME0885,Asthma,02/2012,Resolved
+GME0886,Cholecystectomy,06/2012,Resolved
+GME0886,Asthma,11/1995,Ongoing
+GME0887,Cesarian section,04/2012,Ongoing
+GME0888,Coronary Artery Disease,12/2016,Ongoing
+GME0888,Hypertension,08/2013,Ongoing
+GME0888,Osteoporosis,05/2011,Ongoing
+GME0888,Coronary angiogram/repair,07/2020,Resolved
+GME0889,Hypertension,12/2000,Resolved
+GME0890,Coronary Artery Disease,10/2013,Resolved
+GME0890,COPD,09/2006,Resolved
+GME0890,Asthma,09/2017,Ongoing
+GME0890,Diabetes,07/2021,Resolved
+GME0891,Cesarian section,08/2000,Resolved
+GME0892,COPD,03/1996,Ongoing
+GME0892,Cholecystectomy,02/2007,Ongoing
+GME0892,Osteoporosis,03/2014,Resolved
+GME0893,Exertive stress test,09/1995,Ongoing
+GME0893,Cholecystectomy,11/2018,Resolved
+GME0893,Coronary angiogram/repair,05/2019,Ongoing
+GME0893,Osteoporosis,10/2005,Ongoing
+GME0893,Cesarian section,02/2025,Resolved
+GME0894,Cholecystectomy,03/2008,Resolved
+GME0895,Coronary Artery Disease,08/2006,Ongoing
+GME0895,Asthma,08/2020,Ongoing
+GME0896,Exertive stress test,01/2017,Resolved
+GME0896,Osteoporosis,09/1998,Resolved
+GME0896,Diabetes,09/2013,Ongoing
+GME0897,Osteoporosis,12/2022,Resolved
+GME0898,Coronary Artery Disease,09/2011,Ongoing
+GME0898,Diabetes,04/2006,Resolved
+GME0898,Cholecystectomy,05/2004,Ongoing
+GME0898,Asthma,10/2017,Ongoing
+GME0898,Coronary angiogram/repair,03/2024,Resolved
+GME0899,Cesarian section,03/2022,Resolved
+GME0899,Coronary angiogram/repair,06/2022,Resolved
+GME0899,Cholecystectomy,02/2004,Ongoing
+GME0900,Osteoporosis,04/2012,Ongoing
+GME0901,Exertive stress test,08/2012,Resolved
+GME0902,Coronary angiogram/repair,05/2002,Ongoing
+GME0902,Diabetes,01/2024,Resolved
+GME0903,Osteoporosis,09/2023,Ongoing
+GME0903,Coronary angiogram/repair,05/2007,Ongoing
+GME0903,Asthma,03/1997,Ongoing
+GME0904,Exertive stress test,07/2003,Ongoing
+GME0904,Diabetes,08/2001,Ongoing
+GME0905,Asthma,07/2020,Resolved
+GME0905,Hypertension,08/1999,Ongoing
+GME0906,Coronary Artery Disease,04/2016,Resolved
+GME0907,Asthma,02/2002,Ongoing
+GME0907,Cholecystectomy,02/2020,Ongoing
+GME0907,Coronary angiogram/repair,08/2013,Resolved
+GME0907,Osteoporosis,03/2010,Resolved
+GME0908,Asthma,02/2017,Resolved
+GME0908,Cholecystectomy,02/2002,Ongoing
+GME0908,Coronary angiogram/repair,10/2018,Ongoing
+GME0908,Cesarian section,03/2021,Ongoing
+GME0909,Coronary Artery Disease,10/2015,Resolved
+GME0909,Cesarian section,07/2013,Resolved
+GME0909,Asthma,07/2023,Ongoing
+GME0910,Cesarian section,08/2024,Resolved
+GME0910,Cholecystectomy,05/1999,Resolved
+GME0910,Coronary Artery Disease,02/2010,Resolved
+GME0910,Hypertension,03/2010,Ongoing
+GME0910,Asthma,11/1999,Ongoing
+GME0911,Cholecystectomy,03/2013,Resolved
+GME0911,Coronary Artery Disease,05/2018,Resolved
+GME0911,Hypertension,10/2000,Ongoing
+GME0911,Diabetes,07/2001,Ongoing
+GME0912,Coronary angiogram/repair,09/2020,Ongoing
+GME0912,Cholecystectomy,05/2014,Resolved
+GME0912,Diabetes,05/1998,Ongoing
+GME0912,Coronary Artery Disease,03/2013,Resolved
+GME0912,Cesarian section,04/2008,Resolved
+GME0913,Hypertension,05/2013,Ongoing
+GME0913,Coronary angiogram/repair,10/2000,Ongoing
+GME0913,COPD,02/2004,Resolved
+GME0913,Cholecystectomy,08/2016,Resolved
+GME0914,Coronary Artery Disease,04/2018,Resolved
+GME0914,Asthma,09/2007,Ongoing
+GME0914,Diabetes,08/2005,Ongoing
+GME0914,Hypertension,03/2014,Ongoing
+GME0915,Diabetes,06/2017,Ongoing
+GME0915,Cesarian section,07/2010,Ongoing
+GME0916,Hypertension,12/2013,Resolved
+GME0916,Cholecystectomy,07/2008,Ongoing
+GME0916,Diabetes,01/2016,Ongoing
+GME0916,Cesarian section,08/2011,Resolved
+GME0917,Coronary Artery Disease,11/2016,Resolved
+GME0917,Cholecystectomy,10/2024,Resolved
+GME0917,Hypertension,01/2010,Ongoing
+GME0918,Exertive stress test,06/2024,Ongoing
+GME0919,Diabetes,12/2005,Ongoing
+GME0919,Coronary Artery Disease,01/2016,Resolved
+GME0919,Asthma,08/1995,Ongoing
+GME0920,Cesarian section,07/2008,Resolved
+GME0920,Coronary Artery Disease,02/2022,Ongoing
+GME0920,Hypertension,11/2017,Resolved
+GME0920,COPD,01/2005,Resolved
+GME0920,Osteoporosis,02/2015,Ongoing
+GME0921,Asthma,06/2004,Ongoing
+GME0921,Diabetes,01/2009,Ongoing
+GME0921,COPD,01/2004,Resolved
+GME0921,Hypertension,08/1998,Ongoing
+GME0921,Osteoporosis,03/2022,Ongoing
+GME0922,Exertive stress test,05/1999,Resolved
+GME0923,Diabetes,02/2009,Ongoing
+GME0923,Exertive stress test,07/2003,Ongoing
+GME0923,Coronary angiogram/repair,01/2021,Resolved
+GME0923,Cesarian section,09/2000,Ongoing
+GME0924,Coronary angiogram/repair,01/2008,Resolved
+GME0924,Coronary Artery Disease,05/2025,Resolved
+GME0924,Osteoporosis,08/2012,Ongoing
+GME0924,Diabetes,06/2014,Ongoing
+GME0925,Exertive stress test,04/2013,Resolved
+GME0925,Coronary Artery Disease,06/2008,Resolved
+GME0925,Coronary angiogram/repair,09/1997,Resolved
+GME0926,Asthma,08/2002,Resolved
+GME0927,Cholecystectomy,07/2015,Ongoing
+GME0927,Osteoporosis,05/2006,Ongoing
+GME0927,Asthma,12/1997,Resolved
+GME0927,Cesarian section,11/1999,Ongoing
+GME0927,COPD,09/2013,Ongoing
+GME0928,Cholecystectomy,03/1998,Resolved
+GME0928,Coronary angiogram/repair,08/2020,Ongoing
+GME0928,Exertive stress test,10/2006,Ongoing
+GME0928,Coronary Artery Disease,03/2005,Resolved
+GME0929,Asthma,04/2003,Ongoing
+GME0929,Coronary angiogram/repair,08/2006,Ongoing
+GME0930,Coronary Artery Disease,07/2015,Resolved
+GME0930,Asthma,09/2014,Resolved
+GME0930,Osteoporosis,03/2019,Resolved
+GME0930,Exertive stress test,12/1996,Ongoing
+GME0930,Coronary angiogram/repair,07/2000,Resolved
+GME0931,Cholecystectomy,05/2006,Ongoing
+GME0932,Cesarian section,11/2020,Resolved
+GME0932,Asthma,07/2011,Resolved
+GME0933,Coronary Artery Disease,06/1998,Resolved
+GME0934,Coronary Artery Disease,12/1997,Ongoing
+GME0934,Asthma,01/2019,Resolved
+GME0934,Osteoporosis,07/2008,Resolved
+GME0935,Osteoporosis,05/2021,Resolved
+GME0935,Cesarian section,09/2000,Resolved
+GME0935,COPD,07/2019,Resolved
+GME0935,Exertive stress test,04/2020,Resolved
+GME0935,Diabetes,11/2000,Resolved
+GME0936,Hypertension,05/2012,Resolved
+GME0936,Exertive stress test,05/2012,Resolved
+GME0936,Diabetes,08/1995,Resolved
+GME0937,Cesarian section,04/2020,Resolved
+GME0937,Hypertension,01/1997,Ongoing
+GME0937,Coronary Artery Disease,04/2006,Ongoing
+GME0937,Coronary angiogram/repair,08/2018,Ongoing
+GME0937,Diabetes,04/2020,Resolved
+GME0938,Diabetes,11/2020,Resolved
+GME0939,Cholecystectomy,03/2020,Resolved
+GME0939,Asthma,05/1999,Ongoing
+GME0940,Hypertension,08/1999,Resolved
+GME0940,Coronary Artery Disease,08/2001,Resolved
+GME0940,Exertive stress test,03/2017,Ongoing
+GME0940,Diabetes,05/2024,Ongoing
+GME0941,Exertive stress test,08/2011,Ongoing
+GME0941,Cesarian section,09/2024,Ongoing
+GME0942,COPD,01/2010,Ongoing
+GME0942,Cholecystectomy,06/2010,Resolved
+GME0943,Cholecystectomy,07/2020,Resolved
+GME0943,Diabetes,09/2010,Resolved
+GME0944,Asthma,07/1996,Resolved
+GME0944,Cesarian section,10/2007,Ongoing
+GME0945,Cesarian section,07/1996,Ongoing
+GME0946,Coronary Artery Disease,10/2014,Resolved
+GME0946,Cesarian section,11/2023,Resolved
+GME0946,Cholecystectomy,08/2004,Resolved
+GME0947,Diabetes,11/2023,Ongoing
+GME0947,Cholecystectomy,05/2008,Ongoing
+GME0947,Asthma,02/2010,Ongoing
+GME0947,COPD,08/2023,Ongoing
+GME0947,Cesarian section,07/2017,Resolved
+GME0948,Cholecystectomy,08/2006,Resolved
+GME0948,COPD,02/2001,Ongoing
+GME0948,Hypertension,07/2015,Ongoing
+GME0949,Asthma,11/2019,Ongoing
+GME0949,Exertive stress test,11/2021,Ongoing
+GME0950,Cesarian section,08/2005,Resolved
+GME0950,Diabetes,10/2003,Ongoing
+GME0950,Cholecystectomy,05/2020,Resolved
+GME0951,Coronary angiogram/repair,10/2005,Resolved
+GME0951,Osteoporosis,06/2012,Resolved
+GME0952,Coronary angiogram/repair,09/1996,Resolved
+GME0953,Coronary Artery Disease,03/2002,Ongoing
+GME0953,Cesarian section,03/2019,Resolved
+GME0954,Cholecystectomy,04/1999,Ongoing
+GME0955,Hypertension,05/2009,Resolved
+GME0955,Coronary Artery Disease,10/2003,Resolved
+GME0955,Cholecystectomy,03/2012,Ongoing
+GME0955,Diabetes,01/2001,Resolved
+GME0956,Cesarian section,08/2008,Resolved
+GME0956,Hypertension,12/2006,Ongoing
+GME0956,Coronary angiogram/repair,08/1997,Resolved
+GME0956,Exertive stress test,06/1999,Resolved
+GME0957,Cholecystectomy,05/2016,Ongoing
+GME0957,COPD,04/2017,Resolved
+GME0957,Osteoporosis,05/2023,Resolved
+GME0957,Hypertension,03/2020,Ongoing
+GME0958,Hypertension,07/2005,Resolved
+GME0958,Cholecystectomy,08/2019,Ongoing
+GME0959,Osteoporosis,08/2006,Resolved
+GME0959,Asthma,01/2025,Ongoing
+GME0959,Cesarian section,10/2012,Ongoing
+GME0959,Hypertension,10/2013,Resolved
+GME0959,Exertive stress test,12/2009,Resolved
+GME0960,Hypertension,06/2017,Resolved
+GME0960,Cholecystectomy,04/2002,Resolved
+GME0960,Coronary angiogram/repair,02/2011,Resolved
+GME0961,COPD,09/1998,Resolved
+GME0962,Coronary angiogram/repair,05/1997,Resolved
+GME0962,Cholecystectomy,06/2024,Ongoing
+GME0963,Cholecystectomy,09/2000,Ongoing
+GME0963,Coronary angiogram/repair,08/2015,Resolved
+GME0963,Hypertension,09/2014,Ongoing
+GME0963,COPD,11/2006,Resolved
+GME0964,Coronary Artery Disease,12/2000,Ongoing
+GME0964,Diabetes,08/2004,Ongoing
+GME0965,Asthma,07/2022,Resolved
+GME0965,Cesarian section,04/2013,Resolved
+GME0966,Osteoporosis,03/2003,Ongoing
+GME0966,Exertive stress test,02/2005,Resolved
+GME0966,Asthma,02/2004,Resolved
+GME0966,Hypertension,05/2023,Ongoing
+GME0967,Osteoporosis,10/2008,Resolved
+GME0967,Diabetes,08/2022,Ongoing
+GME0968,Coronary angiogram/repair,01/2010,Ongoing
+GME0968,Cesarian section,05/2025,Ongoing
+GME0968,COPD,09/2010,Resolved
+GME0969,Cesarian section,11/2022,Ongoing
+GME0970,Osteoporosis,10/1995,Resolved
+GME0970,Coronary angiogram/repair,12/2004,Ongoing
+GME0971,Cholecystectomy,05/2011,Resolved
+GME0972,Cesarian section,03/2014,Ongoing
+GME0972,Coronary angiogram/repair,07/2002,Resolved
+GME0973,Hypertension,06/2000,Resolved
+GME0973,Cesarian section,06/2010,Ongoing
+GME0973,Coronary Artery Disease,11/2005,Resolved
+GME0973,Cholecystectomy,11/1996,Ongoing
+GME0973,Asthma,06/1996,Ongoing
+GME0974,Coronary Artery Disease,09/2016,Resolved
+GME0974,Coronary angiogram/repair,06/2024,Ongoing
+GME0974,COPD,09/2024,Ongoing
+GME0974,Exertive stress test,10/2001,Ongoing
+GME0975,Cholecystectomy,07/2002,Ongoing
+GME0976,Osteoporosis,01/2017,Resolved
+GME0977,Asthma,06/1998,Resolved
+GME0977,Cesarian section,03/2012,Ongoing
+GME0977,Cholecystectomy,07/2009,Resolved
+GME0977,Coronary angiogram/repair,01/2002,Resolved
+GME0977,Exertive stress test,03/2007,Resolved
+GME0978,Asthma,08/2006,Resolved
+GME0978,Coronary Artery Disease,01/1996,Ongoing
+GME0978,Osteoporosis,10/1998,Ongoing
+GME0979,Coronary angiogram/repair,08/2020,Ongoing
+GME0979,Cesarian section,06/2018,Resolved
+GME0979,Hypertension,06/2018,Resolved
+GME0979,Cholecystectomy,05/2024,Ongoing
+GME0980,COPD,04/2001,Resolved
+GME0980,Cholecystectomy,02/2019,Resolved
+GME0981,Asthma,12/2022,Ongoing
+GME0981,Osteoporosis,06/2006,Ongoing
+GME0981,Hypertension,10/2015,Resolved
+GME0982,Cesarian section,05/1998,Resolved
+GME0982,Osteoporosis,08/2005,Ongoing
+GME0982,Hypertension,12/2019,Resolved
+GME0982,COPD,05/2019,Ongoing
+GME0982,Coronary Artery Disease,05/2012,Resolved
+GME0983,Diabetes,01/2018,Ongoing
+GME0983,Osteoporosis,10/1998,Resolved
+GME0983,Cesarian section,04/2016,Ongoing
+GME0983,COPD,12/2018,Ongoing
+GME0983,Asthma,03/1998,Resolved
+GME0984,Cesarian section,10/2013,Resolved
+GME0984,Cholecystectomy,11/2014,Resolved
+GME0984,Exertive stress test,04/1997,Resolved
+GME0984,Asthma,02/2017,Ongoing
+GME0984,Coronary angiogram/repair,09/2008,Resolved
+GME0985,COPD,03/2011,Resolved
+GME0985,Osteoporosis,07/2000,Resolved
+GME0985,Cesarian section,10/2003,Resolved
+GME0985,Diabetes,10/2010,Resolved
+GME0985,Exertive stress test,04/1998,Ongoing
+GME0986,Cesarian section,03/2005,Ongoing
+GME0986,Coronary angiogram/repair,11/2005,Resolved
+GME0987,Coronary Artery Disease,07/2015,Resolved
+GME0987,Diabetes,04/2021,Resolved
+GME0987,Cesarian section,10/2022,Resolved
+GME0987,Coronary angiogram/repair,07/2008,Ongoing
+GME0988,Osteoporosis,01/2013,Ongoing
+GME0989,Osteoporosis,01/2000,Ongoing
+GME0989,COPD,09/2012,Resolved
+GME0990,Cholecystectomy,01/2021,Ongoing
+GME0991,Osteoporosis,05/2007,Ongoing
+GME0991,Asthma,03/2018,Resolved
+GME0992,Osteoporosis,07/2013,Resolved
+GME0993,COPD,10/2019,Ongoing
+GME0993,Exertive stress test,12/2000,Ongoing
+GME0993,Coronary Artery Disease,05/2024,Resolved
+GME0993,Osteoporosis,01/2020,Ongoing
+GME0993,Asthma,08/2010,Resolved
+GME0994,Coronary angiogram/repair,04/2007,Ongoing
+GME0994,Diabetes,06/1997,Ongoing
+GME0995,Asthma,07/2001,Resolved
+GME0995,Osteoporosis,04/2005,Ongoing
+GME0995,Exertive stress test,10/2000,Ongoing
+GME0995,Cholecystectomy,05/2017,Resolved
+GME0995,Coronary angiogram/repair,01/1996,Ongoing
+GME0996,Cholecystectomy,08/2016,Ongoing
+GME0996,Coronary Artery Disease,12/1999,Ongoing
+GME0996,Exertive stress test,06/1997,Ongoing
+GME0996,Asthma,11/2001,Resolved
+GME0996,Osteoporosis,08/2006,Resolved
+GME0997,Diabetes,03/2002,Ongoing
+GME0997,Cesarian section,05/2018,Ongoing
+GME0997,Coronary angiogram/repair,09/2005,Resolved
+GME0997,Cholecystectomy,07/2004,Resolved
+GME0998,Coronary angiogram/repair,02/2000,Resolved
+GME0999,Cholecystectomy,08/2016,Resolved

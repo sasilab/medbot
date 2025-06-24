@@ -1,0 +1,2440 @@
+PatientID,Date,Facility,Specialty,Clinician,Reason,Type
+GME0000,11/2024,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0001,01/2020,General Hosp,GP,"Smith, K.",Hypertension,Outpatient
+GME0002,02/2024,General Hosp,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0003,04/2021,Cardio Assoc,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0003,10/2023,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0003,07/2018,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0004,02/2019,Home Visit,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0004,12/2021,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0005,11/2022,GP Office,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0005,01/2023,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0006,02/2024,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0006,09/2020,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0006,06/2024,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0007,02/2020,GP Office,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0008,07/2024,GP Office,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0008,03/2019,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0008,05/2020,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0008,02/2021,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0009,06/2018,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0009,03/2022,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0009,03/2019,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0010,12/2024,Home Visit,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0011,07/2021,General Hosp,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0011,05/2022,General Hosp,GP,"Diaz, E.",Diabetes,Outpatient
+GME0011,02/2025,GP Office,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0012,08/2021,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0013,01/2022,Home Visit,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0013,04/2020,General Hosp,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0014,08/2022,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0014,05/2022,Cardio Assoc,GP,"Smith, K.",Cellulitis,Outpatient
+GME0014,07/2020,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0014,02/2024,General Hosp,GP,"Smith, K.",Diabetes,Outpatient
+GME0015,06/2021,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0015,04/2021,General Hosp,GP,"Patel, A.",Diabetes,Outpatient
+GME0016,09/2019,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0016,03/2021,Home Visit,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0016,12/2024,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0017,04/2020,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0017,08/2021,GP Office,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0017,02/2025,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0018,10/2020,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0018,09/2020,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0019,05/2023,Cardio Assoc,GP,"Smith, K.",Hypertension,Outpatient
+GME0020,09/2023,General Hosp,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0021,11/2019,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0022,07/2023,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0022,11/2024,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0022,12/2019,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0023,10/2024,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0023,03/2021,GP Office,GP,"Patel, A.",Cellulitis,Outpatient
+GME0024,01/2022,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0024,04/2021,General Hosp,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0024,07/2022,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0025,06/2024,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0025,01/2020,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0025,01/2024,Home Visit,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0026,09/2021,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0026,04/2022,General Hosp,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0026,01/2024,Cardio Assoc,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0027,10/2024,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0027,04/2019,GP Office,GP,"Diaz, E.",Diabetes,Outpatient
+GME0027,04/2022,General Hosp,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0028,12/2022,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0029,06/2019,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0030,10/2019,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0031,05/2022,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0031,08/2023,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0031,05/2025,GP Office,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0032,03/2023,General Hosp,GP,"Diaz, E.",Hypertension,Outpatient
+GME0032,05/2022,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0032,07/2021,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0032,02/2020,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0033,03/2019,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0033,12/2022,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0033,03/2025,Home Visit,GP,"Patel, A.",Cellulitis,Outpatient
+GME0033,01/2025,Home Visit,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0034,09/2024,General Hosp,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0035,05/2025,GP Office,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0035,12/2019,Cardio Assoc,GP,"Cohen, R.",Hypertension,Outpatient
+GME0035,03/2019,Home Visit,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0035,06/2021,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0036,03/2019,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0036,05/2022,Cardio Assoc,GP,"Patel, A.",Cellulitis,Outpatient
+GME0036,08/2024,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0037,04/2022,General Hosp,GP,"Johnson, H.",Hypertension,Outpatient
+GME0037,03/2024,General Hosp,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0038,11/2019,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0038,04/2019,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0038,07/2019,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0038,07/2018,Home Visit,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0039,07/2019,GP Office,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0039,03/2020,General Hosp,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0039,08/2018,GP Office,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0040,06/2022,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0041,01/2021,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0041,09/2023,Home Visit,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0041,06/2021,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0041,03/2020,General Hosp,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0042,01/2021,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0043,06/2019,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0044,10/2024,GP Office,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0044,12/2019,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0045,03/2022,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0045,12/2021,Cardio Assoc,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0046,08/2023,General Hosp,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0046,09/2024,Cardio Assoc,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0046,04/2019,Home Visit,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0046,05/2025,Cardio Assoc,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0047,07/2018,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0047,05/2022,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0048,07/2018,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0049,04/2019,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0050,07/2022,Home Visit,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0050,09/2023,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0050,05/2024,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0050,03/2019,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0051,09/2021,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0052,04/2020,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0052,02/2019,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0052,05/2021,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0052,11/2021,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0053,06/2022,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0053,01/2021,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0054,04/2020,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0055,01/2022,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0056,05/2024,General Hosp,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0056,05/2025,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0056,03/2019,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0057,01/2021,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0057,04/2024,Home Visit,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0058,12/2021,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0058,04/2025,Home Visit,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0058,01/2024,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0058,06/2019,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0059,12/2023,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0059,09/2019,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0060,05/2019,Cardio Assoc,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0060,03/2022,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0060,07/2018,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0060,04/2019,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0061,05/2019,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0061,05/2020,General Hosp,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0062,07/2021,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0063,04/2020,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0064,03/2019,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0064,08/2024,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0064,04/2022,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0065,10/2018,Home Visit,GP,"Diaz, E.",Hypertension,Outpatient
+GME0065,07/2019,Cardio Assoc,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0065,12/2021,Home Visit,GP,"Diaz, E.",Hypertension,Outpatient
+GME0065,05/2023,Cardio Assoc,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0066,10/2019,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0066,01/2023,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0066,10/2018,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0066,10/2018,Home Visit,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0067,11/2023,Home Visit,GP,"Fournier, J.",Diabetes,Outpatient
+GME0067,12/2024,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0067,05/2023,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0068,03/2025,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0069,05/2022,Cardio Assoc,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0069,10/2024,General Hosp,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0069,01/2020,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0069,08/2023,Cardio Assoc,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0070,10/2024,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0070,01/2020,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0071,10/2024,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0071,01/2024,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0071,03/2021,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0072,12/2023,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0072,03/2024,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0072,12/2023,GP Office,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0072,05/2020,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0073,02/2021,Cardio Assoc,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0073,10/2020,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0074,01/2020,Cardio Assoc,GP,"Johnson, H.",Hypertension,Outpatient
+GME0074,01/2022,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0074,02/2019,General Hosp,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0074,10/2019,Cardio Assoc,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0075,02/2023,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0075,04/2025,Home Visit,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0075,01/2021,GP Office,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0076,11/2023,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0077,01/2024,General Hosp,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0077,01/2020,General Hosp,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0077,05/2022,Home Visit,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0078,05/2024,GP Office,GP,"Diaz, E.",Diabetes,Outpatient
+GME0078,05/2020,GP Office,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0078,01/2025,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0079,09/2022,GP Office,GP,"Patel, A.",Cellulitis,Outpatient
+GME0079,04/2019,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0080,05/2019,GP Office,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0080,12/2020,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0080,01/2024,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0080,08/2018,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0081,08/2018,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0082,05/2020,Cardio Assoc,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0083,01/2023,GP Office,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0083,09/2020,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0084,02/2019,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0084,05/2025,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0084,10/2018,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0084,11/2021,General Hosp,GP,"Patel, A.",Hypertension,Outpatient
+GME0085,08/2021,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0086,05/2022,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0086,10/2023,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0086,12/2018,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0087,12/2019,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0088,07/2024,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0089,01/2022,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0090,02/2024,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0090,06/2024,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0090,11/2024,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0090,06/2019,GP Office,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0091,05/2024,General Hosp,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0092,04/2021,GP Office,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0093,01/2021,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0093,08/2024,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0093,10/2024,GP Office,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0094,09/2023,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0094,02/2022,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0094,03/2019,GP Office,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0095,12/2024,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0095,11/2020,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0096,09/2022,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0096,02/2020,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0097,10/2020,General Hosp,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0098,06/2021,Cardio Assoc,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0099,07/2022,GP Office,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0099,10/2023,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0099,01/2020,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0100,11/2019,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0101,12/2021,Home Visit,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0101,09/2020,Home Visit,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0101,10/2023,Cardio Assoc,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0101,03/2025,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0102,02/2021,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0103,04/2020,Cardio Assoc,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0103,10/2022,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0103,11/2019,Cardio Assoc,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0104,01/2025,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0104,06/2020,GP Office,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0105,02/2019,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0105,03/2024,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0105,05/2020,Home Visit,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0106,08/2023,Cardio Assoc,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0107,07/2023,General Hosp,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0107,04/2024,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0107,11/2024,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0108,10/2023,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0108,09/2023,Home Visit,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0109,11/2020,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0109,01/2023,Home Visit,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0110,06/2023,Cardio Assoc,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0111,08/2018,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0111,08/2022,Home Visit,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0111,03/2024,Cardio Assoc,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0112,06/2022,Cardio Assoc,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0112,01/2024,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0112,08/2024,Home Visit,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0112,12/2023,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0113,09/2023,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0113,12/2019,General Hosp,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0114,01/2019,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0114,01/2021,General Hosp,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0114,08/2021,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0114,11/2022,Home Visit,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0115,11/2024,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0115,01/2023,General Hosp,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0115,08/2018,General Hosp,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0115,09/2023,Cardio Assoc,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0116,03/2024,GP Office,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0116,11/2023,Home Visit,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0116,07/2020,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0116,05/2021,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0117,10/2021,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0117,01/2022,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0117,05/2024,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0117,03/2023,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0118,07/2023,Cardio Assoc,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0118,09/2023,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0118,06/2021,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0118,04/2023,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0119,05/2021,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0119,02/2024,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0119,12/2019,Cardio Assoc,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0119,06/2020,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0120,02/2024,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0120,11/2022,Home Visit,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0121,06/2024,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0121,05/2019,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0122,08/2018,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0122,04/2025,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0122,06/2024,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0122,12/2020,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0123,11/2024,GP Office,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0123,04/2024,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0123,08/2020,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0124,04/2021,Cardio Assoc,GP,"Cohen, R.",Diabetes,Outpatient
+GME0124,01/2019,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0124,07/2018,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0124,11/2019,Home Visit,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0125,08/2020,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0125,08/2018,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0126,04/2019,Home Visit,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0126,04/2025,Cardio Assoc,GP,"Cohen, R.",Diabetes,Outpatient
+GME0127,04/2023,GP Office,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0127,07/2019,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0127,02/2020,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0128,11/2021,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0128,11/2018,General Hosp,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0129,08/2021,General Hosp,GP,"Cohen, R.",Hypertension,Outpatient
+GME0129,01/2021,Home Visit,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0129,04/2021,Home Visit,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0130,02/2021,GP Office,GP,"Patel, A.",Hypertension,Outpatient
+GME0130,08/2019,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0131,09/2023,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0132,11/2018,General Hosp,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0133,10/2018,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0134,05/2020,Cardio Assoc,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0134,01/2025,Cardio Assoc,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0135,01/2024,Cardio Assoc,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0136,12/2019,GP Office,GP,"Smith, K.",Diabetes,Outpatient
+GME0136,11/2021,General Hosp,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0136,07/2024,Cardio Assoc,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0137,03/2023,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0137,04/2024,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0137,12/2018,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0138,12/2022,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0139,06/2018,General Hosp,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0139,11/2022,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0139,06/2024,Home Visit,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0140,06/2021,GP Office,GP,"Johnson, H.",Diabetes,Outpatient
+GME0140,04/2021,Home Visit,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0141,07/2018,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0141,11/2021,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0141,08/2022,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0141,11/2020,GP Office,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0142,06/2023,Cardio Assoc,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0143,04/2023,Cardio Assoc,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0144,07/2019,Home Visit,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0144,06/2018,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0145,10/2024,General Hosp,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0145,04/2024,GP Office,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0145,08/2020,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0145,02/2023,Cardio Assoc,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0146,05/2020,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0146,04/2020,GP Office,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0146,07/2021,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0147,07/2024,General Hosp,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0148,11/2021,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0149,01/2021,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0149,12/2019,General Hosp,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0149,08/2023,General Hosp,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0149,07/2023,GP Office,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0150,02/2020,GP Office,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0150,07/2021,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0150,01/2022,Home Visit,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0151,03/2019,Cardio Assoc,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0151,03/2023,Home Visit,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0152,11/2020,Cardio Assoc,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0153,12/2020,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0153,02/2021,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0153,12/2023,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0154,05/2024,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0154,09/2022,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0154,01/2021,Cardio Assoc,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0154,06/2024,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0155,12/2020,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0155,10/2020,General Hosp,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0155,08/2024,Cardio Assoc,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0155,05/2020,Cardio Assoc,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0156,04/2023,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0156,05/2025,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0156,12/2024,General Hosp,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0156,12/2020,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0157,04/2019,Home Visit,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0157,08/2024,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0157,06/2022,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0157,07/2024,General Hosp,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0158,12/2023,Home Visit,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0159,02/2025,Cardio Assoc,GP,"Diaz, E.",Hypertension,Outpatient
+GME0160,06/2020,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0160,03/2020,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0161,01/2020,GP Office,GP,"Smith, K.",Diabetes,Outpatient
+GME0161,12/2024,Home Visit,GP,"Patel, A.",Hypertension,Outpatient
+GME0161,08/2021,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0161,04/2025,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0162,05/2025,Home Visit,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0162,04/2021,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0162,08/2020,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0163,08/2021,GP Office,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0163,08/2020,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0163,05/2025,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0164,03/2025,Cardio Assoc,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0164,08/2020,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0164,08/2024,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0164,09/2023,Home Visit,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0165,12/2020,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0166,05/2020,Cardio Assoc,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0167,09/2022,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0167,08/2022,GP Office,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0167,05/2025,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0167,04/2023,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0168,05/2024,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0168,07/2022,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0168,07/2024,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0168,12/2020,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0169,05/2022,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0169,10/2022,GP Office,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0170,08/2022,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0170,01/2019,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0170,11/2020,GP Office,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0171,05/2023,Cardio Assoc,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0171,03/2019,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0171,05/2023,Cardio Assoc,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0172,07/2019,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0172,12/2022,General Hosp,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0172,11/2022,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0173,12/2021,GP Office,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0173,05/2024,Cardio Assoc,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0174,05/2025,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0175,10/2018,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0176,03/2024,Home Visit,GP,"Fournier, J.",Diabetes,Outpatient
+GME0176,04/2024,Home Visit,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0176,08/2019,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0176,01/2021,GP Office,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0177,08/2022,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0177,11/2018,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0177,08/2023,GP Office,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0177,04/2019,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0178,10/2024,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0179,01/2019,GP Office,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0179,05/2019,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0180,12/2020,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0180,02/2022,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0180,11/2023,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0180,10/2019,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0181,04/2021,Cardio Assoc,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0181,06/2022,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0182,09/2023,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0182,07/2024,Home Visit,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0182,03/2024,General Hosp,GP,"Smith, K.",Hypertension,Outpatient
+GME0182,08/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0183,01/2024,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0183,06/2020,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0183,06/2023,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0184,06/2025,GP Office,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0184,09/2021,Cardio Assoc,GP,"Patel, A.",Cellulitis,Outpatient
+GME0184,09/2018,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0185,07/2024,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0185,02/2023,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0185,09/2023,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0185,02/2021,Cardio Assoc,GP,"Cohen, R.",Diabetes,Outpatient
+GME0186,08/2020,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0186,11/2020,Cardio Assoc,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0187,11/2019,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0187,05/2025,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0188,08/2019,Cardio Assoc,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0188,09/2019,Cardio Assoc,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0188,06/2023,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0189,08/2022,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0189,06/2019,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0189,06/2019,Home Visit,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0190,08/2021,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0190,11/2019,General Hosp,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0190,12/2021,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0191,09/2023,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0192,01/2025,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0193,07/2018,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0193,02/2020,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0194,11/2019,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0194,03/2023,Home Visit,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0195,08/2019,Cardio Assoc,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0196,10/2019,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0197,06/2019,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0198,08/2024,Cardio Assoc,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0198,03/2020,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0199,01/2024,GP Office,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0200,12/2018,Cardio Assoc,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0200,06/2021,GP Office,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0200,05/2020,GP Office,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0201,05/2020,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0201,10/2020,Home Visit,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0201,12/2023,GP Office,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0201,02/2022,GP Office,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0202,05/2021,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0202,04/2019,Cardio Assoc,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0202,02/2024,Cardio Assoc,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0202,11/2020,Home Visit,GP,"Diaz, E.",Diabetes,Outpatient
+GME0203,04/2023,General Hosp,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0204,08/2019,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0204,04/2021,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0204,02/2024,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0205,02/2022,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0205,03/2020,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0205,01/2021,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0206,12/2021,General Hosp,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0206,02/2020,GP Office,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0206,11/2021,Home Visit,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0206,11/2022,Home Visit,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0207,11/2021,Home Visit,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0207,06/2021,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0208,12/2018,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0208,09/2020,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0208,08/2018,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0208,07/2019,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0209,01/2019,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0209,07/2020,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0209,03/2021,Cardio Assoc,GP,"Fournier, J.",Diabetes,Outpatient
+GME0209,02/2021,Home Visit,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0210,01/2022,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0210,02/2022,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0211,08/2021,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0211,04/2023,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0211,06/2020,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0211,09/2023,Home Visit,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0212,08/2021,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0212,03/2020,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0213,08/2024,GP Office,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0213,12/2020,GP Office,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0214,07/2019,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0214,01/2021,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0215,09/2021,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0215,03/2021,Home Visit,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0215,07/2020,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0216,11/2024,Cardio Assoc,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0217,11/2024,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0217,12/2019,Home Visit,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0218,11/2022,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0218,05/2022,Cardio Assoc,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0218,07/2020,Cardio Assoc,GP,"Smith, K.",Diabetes,Outpatient
+GME0218,05/2022,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0219,06/2018,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0219,02/2021,General Hosp,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0219,10/2019,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0219,04/2021,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0220,06/2024,Cardio Assoc,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0220,03/2023,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0220,11/2024,Home Visit,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0221,03/2023,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0221,01/2021,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0221,03/2019,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0222,09/2019,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0222,11/2019,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0222,01/2022,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0222,02/2020,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0223,07/2018,Cardio Assoc,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0224,11/2024,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0225,08/2020,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0225,03/2022,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0225,01/2021,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0225,01/2024,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0226,11/2023,Cardio Assoc,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0226,05/2021,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0226,07/2023,GP Office,GP,"Cohen, R.",Hypertension,Outpatient
+GME0226,12/2018,General Hosp,GP,"Cohen, R.",Diabetes,Outpatient
+GME0227,11/2018,General Hosp,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0227,05/2021,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0228,10/2022,General Hosp,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0229,11/2022,GP Office,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0230,03/2024,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0230,04/2019,GP Office,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0230,07/2020,Home Visit,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0231,02/2019,Cardio Assoc,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0232,02/2020,General Hosp,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0232,10/2024,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0232,02/2022,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0233,02/2019,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0234,03/2020,Cardio Assoc,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0235,06/2021,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0235,04/2019,GP Office,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0235,07/2018,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0235,09/2022,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0236,07/2020,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0236,02/2025,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0237,09/2021,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0237,05/2020,GP Office,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0237,02/2020,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0237,08/2019,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0238,11/2023,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0239,08/2018,Cardio Assoc,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0239,10/2022,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0240,09/2021,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0240,03/2019,Cardio Assoc,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0240,07/2019,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0241,06/2020,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0241,01/2023,Cardio Assoc,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0241,11/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0241,10/2020,General Hosp,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0242,10/2018,Cardio Assoc,GP,"Cohen, R.",Hypertension,Outpatient
+GME0242,08/2020,General Hosp,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0243,01/2025,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0243,11/2022,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0243,04/2025,Cardio Assoc,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0244,12/2020,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0244,08/2021,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0244,02/2025,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0244,01/2020,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0245,01/2023,Home Visit,GP,"Fournier, J.",Hypertension,Outpatient
+GME0245,01/2022,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0245,09/2018,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0245,10/2020,General Hosp,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0246,09/2018,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0247,03/2020,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0248,04/2021,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0249,04/2022,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0250,04/2020,General Hosp,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0250,10/2024,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0250,02/2025,General Hosp,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0251,11/2020,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0251,06/2021,Home Visit,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0252,08/2018,Home Visit,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0252,08/2021,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0252,05/2021,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0253,06/2023,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0253,12/2020,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0253,03/2021,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0254,09/2022,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0254,12/2019,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0255,11/2024,Cardio Assoc,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0255,06/2019,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0255,04/2023,Home Visit,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0256,05/2020,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0257,12/2024,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0257,08/2018,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0257,05/2022,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0257,01/2022,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0258,06/2021,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0259,03/2025,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0260,11/2019,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0260,12/2021,GP Office,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0260,05/2023,GP Office,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0260,06/2021,General Hosp,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0261,08/2021,General Hosp,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0261,09/2018,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0262,07/2019,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0262,02/2022,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0262,11/2022,GP Office,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0263,06/2024,Home Visit,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0263,01/2024,Cardio Assoc,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0263,04/2021,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0263,02/2024,Home Visit,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0264,02/2024,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0264,02/2022,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0264,09/2022,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0264,03/2022,Cardio Assoc,GP,"Patel, A.",Hypertension,Outpatient
+GME0265,09/2024,Cardio Assoc,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0265,07/2019,Home Visit,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0266,05/2024,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0266,04/2025,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0267,09/2020,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0268,08/2023,Home Visit,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0268,08/2022,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0269,07/2021,Cardio Assoc,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0269,11/2021,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0269,06/2023,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0269,09/2021,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0270,08/2020,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0271,04/2023,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0271,06/2024,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0271,03/2021,Cardio Assoc,GP,"Patel, A.",Cellulitis,Outpatient
+GME0272,03/2019,General Hosp,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0272,06/2018,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0272,02/2020,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0273,10/2019,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0274,12/2019,Home Visit,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0275,02/2024,Cardio Assoc,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0275,03/2019,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0276,10/2020,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0276,05/2019,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0276,03/2024,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0276,01/2025,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0277,03/2024,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0277,03/2022,Cardio Assoc,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0277,11/2020,GP Office,GP,"Patel, A.",Cellulitis,Outpatient
+GME0277,01/2020,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0278,10/2023,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0278,11/2019,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0278,07/2021,Cardio Assoc,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0279,07/2020,Cardio Assoc,GP,"Diaz, E.",Diabetes,Outpatient
+GME0279,04/2021,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0279,12/2024,Home Visit,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0279,10/2018,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0280,10/2022,Cardio Assoc,GP,"Smith, K.",Diabetes,Outpatient
+GME0280,01/2024,Home Visit,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0280,06/2024,General Hosp,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0280,12/2021,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0281,02/2020,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0281,05/2019,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0282,04/2025,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0282,02/2022,Cardio Assoc,GP,"Patel, A.",Hypertension,Outpatient
+GME0282,08/2023,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0283,09/2023,General Hosp,GP,"Diaz, E.",Hypertension,Outpatient
+GME0283,03/2024,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0284,01/2019,Cardio Assoc,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0284,01/2024,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0285,04/2024,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0285,11/2020,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0285,05/2024,Home Visit,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0285,07/2024,General Hosp,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0286,05/2021,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0287,01/2024,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0287,09/2023,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0287,12/2020,Home Visit,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0288,10/2022,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0288,07/2019,Home Visit,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0288,11/2022,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0288,08/2022,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0289,04/2019,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0289,04/2025,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0289,07/2024,Home Visit,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0289,04/2019,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0290,04/2023,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0290,10/2022,Home Visit,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0290,10/2018,GP Office,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0290,06/2023,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0291,10/2024,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0291,01/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0292,11/2021,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0292,02/2019,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0292,09/2022,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0293,03/2021,Cardio Assoc,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0293,02/2024,GP Office,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0294,01/2022,GP Office,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0295,07/2022,Cardio Assoc,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0295,03/2021,General Hosp,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0295,04/2022,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0295,05/2022,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0296,01/2024,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0296,07/2020,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0297,09/2021,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0298,05/2023,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0298,03/2025,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0298,08/2024,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0298,08/2024,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0299,04/2022,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0299,11/2019,General Hosp,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0299,02/2023,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0299,11/2018,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0300,12/2021,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0301,10/2020,General Hosp,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0301,07/2022,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0301,03/2025,Cardio Assoc,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0302,12/2020,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0303,07/2019,Cardio Assoc,GP,"Smith, K.",Cellulitis,Outpatient
+GME0304,06/2023,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0304,09/2018,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0304,08/2019,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0304,11/2022,Home Visit,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0305,04/2020,Cardio Assoc,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0305,06/2019,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0306,09/2019,General Hosp,GP,"Smith, K.",Cellulitis,Outpatient
+GME0306,09/2022,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0306,09/2019,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0306,05/2022,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0307,12/2024,Home Visit,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0307,01/2022,GP Office,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0307,07/2022,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0307,09/2021,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0308,10/2024,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0309,02/2021,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0309,10/2021,Home Visit,GP,"Cohen, R.",Diabetes,Outpatient
+GME0309,06/2023,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0309,02/2025,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0310,11/2022,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0311,11/2020,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0312,08/2023,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0312,01/2022,General Hosp,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0312,06/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0312,08/2019,Cardio Assoc,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0313,12/2023,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0314,05/2021,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0315,01/2020,General Hosp,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0316,06/2025,Cardio Assoc,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0316,09/2019,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0316,05/2022,GP Office,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0316,07/2020,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0317,08/2020,GP Office,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0317,01/2021,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0317,03/2020,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0317,04/2022,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0318,06/2022,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0319,12/2021,GP Office,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0320,01/2024,Cardio Assoc,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0320,12/2024,Cardio Assoc,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0321,05/2021,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0321,12/2024,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0322,04/2019,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0323,07/2024,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0323,10/2021,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0323,04/2025,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0323,12/2020,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0324,02/2024,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0324,09/2024,General Hosp,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0325,09/2020,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0325,07/2020,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0325,06/2025,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0325,02/2024,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0326,07/2018,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0326,02/2025,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0326,12/2020,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0327,11/2019,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0327,06/2023,GP Office,GP,"Smith, K.",Cellulitis,Outpatient
+GME0327,04/2024,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0327,12/2022,Cardio Assoc,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0328,01/2020,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0328,09/2018,General Hosp,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0328,04/2022,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0329,02/2025,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0329,12/2022,Cardio Assoc,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0329,02/2019,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0329,09/2023,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0330,10/2018,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0330,07/2024,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0330,07/2020,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0330,07/2024,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0331,02/2023,General Hosp,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0331,06/2020,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0331,08/2020,General Hosp,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0332,10/2023,Cardio Assoc,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0332,07/2024,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0332,05/2020,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0333,03/2022,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0333,03/2021,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0333,03/2021,Home Visit,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0333,03/2021,GP Office,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0334,01/2021,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0335,06/2020,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0336,03/2020,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0337,01/2024,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0337,11/2022,General Hosp,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0337,10/2020,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0338,03/2022,Home Visit,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0338,02/2021,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0339,11/2024,GP Office,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0339,07/2018,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0339,09/2020,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0340,10/2023,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0340,12/2023,GP Office,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0340,07/2020,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0340,11/2019,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0341,05/2019,GP Office,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0341,05/2024,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0341,07/2020,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0342,12/2023,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0342,07/2023,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0342,03/2020,General Hosp,GP,"Smith, K.",Diabetes,Outpatient
+GME0342,03/2023,Cardio Assoc,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0343,10/2020,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0343,08/2019,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0343,01/2024,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0343,03/2020,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0344,09/2019,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0344,06/2018,Cardio Assoc,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0344,07/2019,Home Visit,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0345,08/2020,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0346,07/2022,Cardio Assoc,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0347,10/2023,General Hosp,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0347,02/2024,Home Visit,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0348,09/2022,GP Office,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0348,03/2021,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0349,02/2020,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0349,08/2020,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0349,03/2022,GP Office,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0350,02/2024,Home Visit,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0350,11/2018,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0350,09/2018,General Hosp,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0350,12/2018,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0351,10/2020,GP Office,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0351,10/2023,GP Office,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0352,07/2022,Cardio Assoc,GP,"Fournier, J.",Diabetes,Outpatient
+GME0352,06/2020,GP Office,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0352,07/2022,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0352,12/2022,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0353,12/2021,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0354,12/2018,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0355,08/2019,Home Visit,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0355,04/2024,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0355,08/2018,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0356,07/2022,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0356,06/2019,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0357,10/2024,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0358,07/2018,Home Visit,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0358,07/2022,GP Office,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0359,10/2024,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0359,02/2025,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0359,12/2023,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0360,04/2023,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0360,06/2023,Home Visit,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0360,06/2022,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0361,08/2020,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0361,06/2023,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0361,02/2019,GP Office,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0362,01/2020,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0363,01/2025,General Hosp,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0363,06/2023,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0364,03/2019,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0364,04/2025,Cardio Assoc,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0364,11/2020,General Hosp,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0365,09/2019,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0365,10/2023,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0365,06/2021,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0366,06/2024,Home Visit,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0366,11/2021,Cardio Assoc,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0366,02/2023,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0367,09/2019,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0367,02/2023,General Hosp,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0367,09/2021,Cardio Assoc,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0367,10/2021,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0368,04/2025,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0368,01/2024,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0368,08/2020,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0369,05/2024,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0370,06/2019,Home Visit,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0370,05/2021,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0371,05/2021,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0371,02/2025,Home Visit,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0371,05/2024,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0372,06/2025,Home Visit,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0372,12/2022,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0373,09/2018,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0374,12/2020,Cardio Assoc,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0374,10/2023,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0375,04/2023,Cardio Assoc,GP,"Cohen, R.",Hypertension,Outpatient
+GME0375,01/2023,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0375,12/2019,Home Visit,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0375,04/2021,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0376,07/2021,GP Office,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0376,05/2021,Cardio Assoc,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0377,10/2019,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0377,03/2021,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0378,05/2021,GP Office,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0378,01/2020,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0379,02/2024,Home Visit,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0379,08/2024,GP Office,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0380,04/2025,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0380,05/2025,Cardio Assoc,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0380,06/2024,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0380,08/2021,General Hosp,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0381,11/2021,Home Visit,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0382,02/2021,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0382,10/2022,General Hosp,GP,"Patel, A.",Hypertension,Outpatient
+GME0382,06/2020,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0383,08/2018,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0383,04/2023,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0383,04/2022,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0384,06/2024,GP Office,GP,"Cohen, R.",Hypertension,Outpatient
+GME0385,06/2022,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0385,08/2024,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0386,12/2020,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0387,10/2018,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0387,10/2022,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0387,07/2021,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0388,05/2023,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0388,05/2020,Home Visit,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0388,06/2023,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0389,03/2025,General Hosp,GP,"Diaz, E.",Hypertension,Outpatient
+GME0390,01/2021,Cardio Assoc,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0390,03/2022,Home Visit,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0390,11/2020,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0391,03/2023,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0392,01/2021,General Hosp,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0392,07/2022,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0393,08/2020,Cardio Assoc,GP,"Cohen, R.",Hypertension,Outpatient
+GME0393,05/2019,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0393,07/2023,GP Office,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0394,11/2023,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0395,02/2021,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0396,05/2025,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0397,07/2020,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0397,02/2023,GP Office,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0397,06/2022,Cardio Assoc,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0397,11/2023,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0398,06/2023,Home Visit,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0398,05/2019,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0399,06/2024,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0399,11/2024,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0400,09/2024,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0401,12/2022,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0401,11/2021,General Hosp,GP,"Diaz, E.",Diabetes,Outpatient
+GME0402,11/2018,General Hosp,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0403,09/2024,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0403,09/2021,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0403,06/2025,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0403,07/2020,General Hosp,GP,"Diaz, E.",Diabetes,Outpatient
+GME0404,01/2023,General Hosp,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0404,01/2024,Home Visit,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0404,08/2020,General Hosp,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0405,08/2023,Cardio Assoc,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0405,07/2018,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0405,07/2018,General Hosp,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0406,03/2022,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0406,12/2023,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0406,07/2018,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0407,11/2020,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0407,11/2018,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0407,10/2021,GP Office,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0407,07/2022,GP Office,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0408,03/2024,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0408,09/2024,Home Visit,GP,"Diaz, E.",Hypertension,Outpatient
+GME0408,11/2020,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0408,03/2025,GP Office,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0409,03/2019,Cardio Assoc,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0409,07/2021,Cardio Assoc,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0410,08/2020,General Hosp,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0411,09/2020,Cardio Assoc,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0411,11/2020,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0412,01/2025,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0412,02/2022,Cardio Assoc,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0412,07/2022,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0413,11/2022,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0414,07/2021,Cardio Assoc,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0415,10/2020,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0415,11/2020,General Hosp,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0416,07/2019,GP Office,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0416,09/2022,General Hosp,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0417,10/2023,Cardio Assoc,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0417,06/2023,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0417,04/2025,GP Office,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0417,03/2020,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0418,12/2019,Cardio Assoc,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0418,05/2024,General Hosp,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0418,05/2023,Home Visit,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0419,12/2019,Cardio Assoc,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0420,05/2020,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0420,09/2022,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0421,07/2020,GP Office,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0421,11/2024,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0421,02/2021,GP Office,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0421,03/2019,General Hosp,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0422,12/2024,GP Office,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0422,07/2024,GP Office,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0422,02/2025,GP Office,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0423,10/2019,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0423,09/2024,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0423,01/2025,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0423,05/2023,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0424,12/2023,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0424,04/2022,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0424,05/2024,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0424,02/2019,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0425,10/2019,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0426,03/2023,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0426,03/2020,Home Visit,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0427,02/2021,General Hosp,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0428,09/2019,Cardio Assoc,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0428,11/2021,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0428,06/2022,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0429,08/2018,General Hosp,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0429,09/2018,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0429,03/2025,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0430,07/2022,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0431,01/2020,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0431,10/2023,General Hosp,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0431,02/2022,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0431,05/2024,General Hosp,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0432,06/2020,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0432,12/2024,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0433,12/2024,GP Office,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0433,09/2022,Home Visit,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0433,05/2019,GP Office,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0434,04/2022,General Hosp,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0434,11/2019,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0434,12/2023,Home Visit,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0434,12/2019,GP Office,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0435,05/2025,Home Visit,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0435,07/2021,Home Visit,GP,"Cohen, R.",Diabetes,Outpatient
+GME0436,12/2020,General Hosp,GP,"Johnson, H.",Hypertension,Outpatient
+GME0436,01/2025,Cardio Assoc,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0437,02/2023,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0437,09/2019,GP Office,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0437,07/2021,GP Office,GP,"Smith, K.",Diabetes,Outpatient
+GME0438,02/2021,Cardio Assoc,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0438,02/2024,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0439,12/2022,GP Office,GP,"Patel, A.",Hypertension,Outpatient
+GME0440,01/2024,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0440,03/2022,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0441,04/2023,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0441,05/2025,General Hosp,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0441,05/2024,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0442,01/2020,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0442,10/2020,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0442,06/2019,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0443,12/2019,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0443,09/2019,Cardio Assoc,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0443,03/2025,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0443,11/2020,GP Office,GP,"Patel, A.",Cellulitis,Outpatient
+GME0444,06/2022,Home Visit,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0444,12/2024,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0444,10/2019,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0444,07/2018,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0445,10/2020,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0445,03/2019,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0445,12/2024,GP Office,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0446,12/2022,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0446,12/2021,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0446,12/2019,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0446,07/2018,GP Office,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0447,01/2020,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0448,07/2024,General Hosp,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0448,04/2020,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0448,01/2025,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0449,06/2020,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0450,01/2019,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0450,07/2021,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0451,03/2021,Home Visit,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0451,06/2022,General Hosp,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0451,08/2024,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0451,08/2023,GP Office,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0452,04/2019,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0452,07/2022,GP Office,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0453,02/2021,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0453,10/2023,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0453,03/2019,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0453,09/2021,General Hosp,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0454,07/2020,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0454,02/2023,Home Visit,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0454,11/2018,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0454,01/2025,Cardio Assoc,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0455,05/2019,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0455,12/2024,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0455,03/2020,Home Visit,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0456,07/2021,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0456,05/2024,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0456,03/2025,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0457,02/2021,General Hosp,GP,"Smith, K.",Cellulitis,Outpatient
+GME0457,12/2018,Cardio Assoc,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0458,05/2019,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0458,02/2023,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0459,10/2019,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0460,09/2023,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0460,03/2022,Home Visit,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0460,07/2020,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0460,12/2022,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0461,06/2024,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0461,05/2025,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0462,11/2022,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0462,03/2024,Home Visit,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0463,05/2019,Home Visit,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0464,09/2018,Home Visit,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0464,10/2021,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0465,07/2024,General Hosp,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0466,11/2023,Cardio Assoc,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0466,03/2020,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0466,10/2024,Cardio Assoc,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0467,11/2018,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0467,06/2024,General Hosp,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0468,09/2018,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0469,07/2023,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0470,11/2021,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0470,07/2022,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0470,12/2019,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0471,09/2023,GP Office,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0471,10/2022,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0471,01/2020,GP Office,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0472,12/2022,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0472,07/2023,General Hosp,GP,"Patel, A.",Diabetes,Outpatient
+GME0473,04/2019,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0473,02/2020,Cardio Assoc,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0473,08/2023,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0474,09/2024,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0474,06/2018,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0475,06/2022,Home Visit,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0476,09/2018,GP Office,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0477,01/2020,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0478,11/2024,GP Office,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0478,01/2020,Home Visit,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0478,06/2021,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0478,12/2019,Home Visit,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0479,08/2021,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0479,09/2024,Home Visit,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0480,04/2019,General Hosp,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0481,01/2022,General Hosp,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0481,05/2023,Home Visit,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0481,11/2018,General Hosp,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0482,04/2024,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0482,12/2018,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0483,08/2018,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0483,02/2024,General Hosp,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0483,05/2023,Home Visit,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0483,12/2018,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0484,08/2023,Cardio Assoc,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0484,06/2023,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0485,12/2020,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0485,10/2022,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0486,12/2018,General Hosp,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0486,03/2023,GP Office,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0486,12/2018,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0487,05/2022,Cardio Assoc,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0487,08/2022,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0487,12/2024,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0487,12/2020,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0488,04/2024,Cardio Assoc,GP,"Smith, K.",Hypertension,Outpatient
+GME0488,11/2020,GP Office,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0488,03/2022,GP Office,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0488,06/2019,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0489,06/2024,Cardio Assoc,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0489,08/2021,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0489,08/2021,Home Visit,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0489,02/2025,Home Visit,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0490,10/2023,General Hosp,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0490,04/2024,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0490,06/2022,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0490,04/2025,General Hosp,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0491,08/2024,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0491,04/2023,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0491,02/2021,Cardio Assoc,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0492,10/2019,General Hosp,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0493,09/2020,GP Office,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0493,03/2021,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0493,06/2023,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0493,05/2020,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0494,01/2023,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0495,08/2024,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0495,11/2021,Cardio Assoc,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0495,03/2023,Cardio Assoc,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0495,08/2022,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0496,02/2021,Cardio Assoc,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0496,05/2020,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0496,06/2024,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0497,12/2023,Home Visit,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0497,04/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0497,01/2019,Cardio Assoc,GP,"Johnson, H.",Hypertension,Outpatient
+GME0498,12/2020,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0498,04/2024,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0498,06/2024,General Hosp,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0498,03/2019,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0499,01/2021,GP Office,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0500,01/2020,GP Office,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0500,10/2021,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0500,10/2024,GP Office,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0500,07/2023,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0501,05/2022,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0501,02/2021,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0502,03/2021,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0502,12/2022,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0503,06/2020,GP Office,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0503,07/2020,GP Office,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0504,05/2020,Cardio Assoc,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0504,07/2019,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0505,10/2022,GP Office,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0505,02/2022,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0506,08/2020,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0507,09/2020,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0508,03/2023,General Hosp,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0509,05/2024,GP Office,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0509,09/2022,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0509,09/2018,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0509,02/2024,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0510,09/2023,General Hosp,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0510,08/2019,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0510,11/2024,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0510,02/2022,GP Office,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0511,02/2024,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0511,12/2021,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0511,12/2020,Cardio Assoc,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0511,06/2023,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0512,02/2024,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0512,06/2021,Cardio Assoc,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0513,09/2023,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0513,06/2019,Home Visit,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0513,11/2024,General Hosp,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0513,03/2021,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0514,04/2020,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0514,08/2024,General Hosp,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0515,06/2023,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0515,11/2020,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0516,08/2022,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0516,04/2020,GP Office,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0517,10/2022,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0518,12/2021,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0518,09/2024,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0519,02/2025,GP Office,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0519,03/2023,Home Visit,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0519,11/2018,GP Office,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0519,05/2019,Cardio Assoc,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0520,09/2018,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0520,06/2024,GP Office,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0521,03/2024,Cardio Assoc,GP,"Diaz, E.",Hypertension,Outpatient
+GME0521,10/2024,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0522,03/2021,Home Visit,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0523,09/2022,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0523,08/2023,General Hosp,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0524,03/2019,Cardio Assoc,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0524,05/2021,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0525,11/2022,GP Office,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0526,11/2023,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0527,12/2020,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0527,05/2024,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0527,03/2019,General Hosp,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0527,06/2021,Home Visit,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0528,07/2023,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0528,09/2020,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0528,04/2023,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0529,09/2018,General Hosp,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0529,05/2021,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0529,03/2025,Home Visit,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0530,01/2023,Cardio Assoc,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0530,02/2020,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0530,06/2019,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0531,01/2021,General Hosp,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0531,11/2021,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0531,08/2022,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0531,03/2023,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0532,10/2021,General Hosp,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0532,03/2020,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0533,05/2020,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0533,05/2021,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0533,03/2021,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0534,07/2024,General Hosp,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0534,12/2023,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0535,07/2023,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0535,06/2025,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0535,01/2020,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0535,08/2024,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0536,09/2018,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0536,10/2018,Cardio Assoc,GP,"Fournier, J.",Diabetes,Outpatient
+GME0537,09/2022,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0537,05/2024,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0537,07/2018,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0538,02/2022,Cardio Assoc,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0539,04/2024,General Hosp,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0540,09/2021,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0540,08/2020,Home Visit,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0541,12/2020,GP Office,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0542,05/2022,General Hosp,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0542,01/2024,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0543,06/2019,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0544,04/2025,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0545,12/2019,Cardio Assoc,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0545,11/2019,Home Visit,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0545,11/2022,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0546,01/2020,Home Visit,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0546,07/2021,Cardio Assoc,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0547,06/2022,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0547,12/2018,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0547,10/2023,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0547,03/2022,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0548,07/2019,GP Office,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0549,03/2022,Home Visit,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0550,03/2024,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0550,05/2024,GP Office,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0550,01/2023,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0551,03/2022,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0551,07/2020,General Hosp,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0551,09/2018,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0551,03/2023,GP Office,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0552,03/2019,Cardio Assoc,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0553,07/2018,General Hosp,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0553,08/2022,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0553,12/2024,General Hosp,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0553,06/2023,General Hosp,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0554,01/2023,GP Office,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0554,05/2020,General Hosp,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0555,05/2022,Cardio Assoc,GP,"Smith, K.",Diabetes,Outpatient
+GME0555,02/2020,General Hosp,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0555,10/2022,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0556,12/2021,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0556,07/2022,General Hosp,GP,"Cohen, R.",Diabetes,Outpatient
+GME0557,04/2023,Home Visit,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0558,02/2020,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0559,03/2024,Home Visit,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0560,05/2025,GP Office,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0561,12/2022,Cardio Assoc,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0561,07/2022,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0562,04/2019,Home Visit,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0562,11/2022,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0562,10/2019,General Hosp,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0563,01/2021,Home Visit,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0563,03/2024,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0563,03/2020,GP Office,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0563,02/2019,GP Office,GP,"Johnson, H.",Hypertension,Outpatient
+GME0564,03/2022,Home Visit,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0564,04/2024,GP Office,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0565,10/2020,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0565,01/2020,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0565,10/2018,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0566,04/2024,General Hosp,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0566,01/2023,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0567,12/2020,Cardio Assoc,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0567,12/2021,GP Office,GP,"Diaz, E.",Diabetes,Outpatient
+GME0568,11/2023,Home Visit,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0568,11/2024,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0569,10/2024,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0569,12/2021,General Hosp,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0569,08/2023,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0570,05/2020,General Hosp,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0570,07/2019,Cardio Assoc,GP,"Patel, A.",Cellulitis,Outpatient
+GME0571,11/2020,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0572,08/2021,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0572,11/2018,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0573,09/2022,Home Visit,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0573,03/2020,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0573,11/2022,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0574,12/2020,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0575,01/2023,Cardio Assoc,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0575,07/2024,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0575,01/2022,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0575,08/2024,General Hosp,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0576,03/2019,General Hosp,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0577,06/2023,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0577,08/2020,Home Visit,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0577,11/2018,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0578,04/2019,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0578,01/2022,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0578,01/2022,Cardio Assoc,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0578,12/2023,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0579,01/2021,GP Office,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0579,07/2022,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0580,06/2022,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0580,03/2025,Cardio Assoc,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0580,12/2023,GP Office,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0580,02/2021,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0581,12/2023,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0581,03/2020,GP Office,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0582,09/2020,Cardio Assoc,GP,"Fournier, J.",Diabetes,Outpatient
+GME0582,01/2023,General Hosp,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0582,05/2024,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0583,01/2022,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0583,06/2023,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0583,11/2020,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0584,08/2019,Cardio Assoc,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0584,11/2018,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0584,12/2021,Cardio Assoc,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0584,03/2023,GP Office,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0585,07/2023,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0585,04/2021,Home Visit,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0586,11/2019,GP Office,GP,"Fournier, J.",Hypertension,Outpatient
+GME0586,05/2025,Home Visit,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0586,01/2020,GP Office,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0587,07/2021,General Hosp,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0587,09/2019,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0588,05/2019,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0589,02/2022,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0589,01/2025,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0589,04/2023,Home Visit,GP,"Fournier, J.",Diabetes,Outpatient
+GME0589,06/2024,Cardio Assoc,GP,"Cohen, R.",Hypertension,Outpatient
+GME0590,01/2024,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0591,11/2020,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0591,12/2023,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0591,08/2021,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0592,07/2019,GP Office,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0592,03/2022,General Hosp,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0593,10/2020,GP Office,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0593,04/2020,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0593,10/2024,GP Office,GP,"Smith, K.",Diabetes,Outpatient
+GME0593,03/2023,GP Office,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0594,02/2019,GP Office,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0595,08/2023,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0595,03/2019,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0595,04/2025,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0595,10/2020,Cardio Assoc,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0596,01/2024,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0596,01/2019,GP Office,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0596,03/2024,General Hosp,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0597,01/2022,Cardio Assoc,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0597,08/2021,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0597,04/2023,General Hosp,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0598,10/2022,General Hosp,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0598,03/2023,General Hosp,GP,"Smith, K.",Diabetes,Outpatient
+GME0599,07/2018,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0599,02/2025,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0599,09/2022,Cardio Assoc,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0600,10/2020,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0600,02/2020,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0600,12/2019,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0600,01/2023,General Hosp,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0601,01/2022,GP Office,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0601,03/2025,General Hosp,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0602,09/2024,General Hosp,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0602,08/2024,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0602,02/2021,GP Office,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0602,02/2022,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0603,05/2024,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0603,08/2023,GP Office,GP,"Johnson, H.",Diabetes,Outpatient
+GME0603,04/2019,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0604,03/2020,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0605,05/2019,General Hosp,GP,"Patel, A.",Diabetes,Outpatient
+GME0605,08/2022,General Hosp,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0606,02/2022,General Hosp,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0606,11/2023,Cardio Assoc,GP,"Cohen, R.",Diabetes,Outpatient
+GME0607,11/2023,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0607,01/2020,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0608,07/2023,General Hosp,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0608,10/2022,General Hosp,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0608,03/2023,Cardio Assoc,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0609,05/2021,General Hosp,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0610,05/2020,GP Office,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0611,06/2019,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0611,11/2019,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0611,06/2021,General Hosp,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0612,09/2024,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0613,05/2022,Cardio Assoc,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0613,04/2021,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0613,03/2020,GP Office,GP,"Patel, A.",Diabetes,Outpatient
+GME0614,07/2022,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0614,01/2024,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0614,11/2022,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0615,12/2023,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0615,02/2025,General Hosp,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0615,11/2022,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0615,03/2024,GP Office,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0616,02/2021,GP Office,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0616,03/2020,General Hosp,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0617,02/2021,Home Visit,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0617,05/2023,General Hosp,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0617,06/2022,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0617,04/2025,Cardio Assoc,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0618,10/2023,Home Visit,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0618,09/2018,Home Visit,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0618,09/2021,General Hosp,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0618,08/2018,Cardio Assoc,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0619,12/2021,General Hosp,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0619,11/2023,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0619,02/2024,General Hosp,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0620,09/2024,General Hosp,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0620,08/2021,Cardio Assoc,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0620,08/2023,General Hosp,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0621,11/2022,Home Visit,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0622,01/2020,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0622,07/2020,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0622,06/2019,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0623,10/2021,Cardio Assoc,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0623,11/2021,Home Visit,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0623,01/2025,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0623,06/2021,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0624,10/2024,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0625,06/2025,GP Office,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0626,12/2024,GP Office,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0627,01/2020,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0627,12/2023,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0627,11/2023,General Hosp,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0628,04/2025,Home Visit,GP,"Patel, A.",Hypertension,Outpatient
+GME0629,09/2020,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0629,08/2019,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0629,10/2020,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0629,09/2024,General Hosp,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0630,04/2025,General Hosp,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0631,05/2022,Home Visit,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0631,07/2021,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0632,06/2022,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0632,02/2021,Cardio Assoc,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0632,08/2023,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0632,02/2025,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0633,06/2020,Home Visit,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0633,01/2022,GP Office,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0633,07/2021,General Hosp,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0633,01/2021,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0634,06/2022,Cardio Assoc,GP,"Patel, A.",Hypertension,Outpatient
+GME0634,05/2024,GP Office,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0634,08/2023,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0635,03/2019,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0635,11/2023,General Hosp,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0636,04/2021,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0636,12/2021,Cardio Assoc,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0636,01/2019,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0636,10/2024,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0637,01/2025,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0637,04/2024,Home Visit,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0638,02/2022,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0639,08/2021,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0639,08/2021,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0639,04/2022,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0639,05/2025,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0640,08/2020,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0640,11/2022,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0641,08/2024,Home Visit,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0641,06/2021,General Hosp,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0641,09/2022,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0641,10/2022,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0642,03/2022,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0642,10/2021,Home Visit,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0642,09/2023,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0643,02/2023,Home Visit,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0644,08/2018,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0645,05/2024,GP Office,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0645,06/2023,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0645,01/2025,GP Office,GP,"Patel, A.",Hypertension,Outpatient
+GME0646,03/2021,GP Office,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0646,01/2019,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0646,02/2025,General Hosp,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0647,12/2022,Home Visit,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0647,01/2020,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0647,05/2019,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0648,07/2021,General Hosp,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0649,01/2020,GP Office,GP,"Patel, A.",Diabetes,Outpatient
+GME0650,01/2022,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0650,04/2022,Home Visit,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0650,07/2018,GP Office,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0651,11/2018,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0651,05/2019,General Hosp,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0651,01/2023,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0651,12/2021,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0652,08/2018,Home Visit,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0652,12/2023,GP Office,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0652,09/2019,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0652,11/2022,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0653,04/2020,General Hosp,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0654,04/2020,GP Office,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0654,12/2018,Home Visit,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0655,02/2025,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0655,05/2019,Home Visit,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0655,09/2024,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0656,08/2022,GP Office,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0656,10/2024,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0657,08/2018,Cardio Assoc,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0657,02/2022,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0658,01/2020,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0658,03/2025,General Hosp,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0658,10/2022,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0659,07/2023,Cardio Assoc,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0659,08/2019,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0659,11/2020,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0659,08/2018,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0660,05/2024,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0660,06/2024,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0661,11/2024,GP Office,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0661,11/2020,General Hosp,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0661,06/2025,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0662,07/2023,General Hosp,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0663,12/2021,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0663,10/2018,Home Visit,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0663,08/2021,Cardio Assoc,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0663,08/2021,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0664,04/2020,GP Office,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0665,09/2024,General Hosp,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0666,01/2022,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0666,01/2020,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0667,03/2021,GP Office,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0668,04/2023,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0668,02/2020,GP Office,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0668,04/2023,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0669,08/2020,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0669,07/2022,GP Office,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0669,12/2018,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0670,08/2024,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0671,09/2020,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0672,12/2023,General Hosp,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0672,06/2019,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0672,11/2021,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0673,03/2025,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0673,08/2022,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0674,11/2023,General Hosp,GP,"Smith, K.",Hypertension,Outpatient
+GME0674,08/2021,GP Office,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0674,03/2024,Home Visit,GP,"Diaz, E.",Hypertension,Outpatient
+GME0674,09/2018,Cardio Assoc,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0675,03/2024,GP Office,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0675,05/2022,Home Visit,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0676,02/2022,General Hosp,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0676,09/2020,Home Visit,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0676,05/2020,Cardio Assoc,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0676,12/2023,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0677,08/2018,Cardio Assoc,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0677,01/2025,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0678,11/2021,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0678,11/2020,General Hosp,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0679,01/2023,General Hosp,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0679,08/2023,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0680,02/2023,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0681,12/2020,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0681,04/2024,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0681,10/2019,General Hosp,GP,"Johnson, H.",Diabetes,Outpatient
+GME0682,03/2020,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0682,01/2024,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0682,02/2021,General Hosp,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0683,06/2022,General Hosp,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0684,11/2022,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0684,01/2020,Cardio Assoc,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0684,10/2018,General Hosp,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0685,05/2024,Home Visit,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0685,05/2025,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0686,04/2019,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0686,09/2024,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0687,09/2022,GP Office,GP,"Patel, A.",Diabetes,Outpatient
+GME0688,05/2021,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0688,03/2025,General Hosp,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0688,04/2019,GP Office,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0688,04/2024,Cardio Assoc,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0689,07/2019,Cardio Assoc,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0689,07/2020,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0689,04/2021,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0690,02/2024,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0691,04/2021,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0691,02/2021,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0692,09/2021,Cardio Assoc,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0692,03/2022,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0692,06/2018,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0693,02/2024,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0693,03/2024,Cardio Assoc,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0694,12/2024,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0695,12/2020,Cardio Assoc,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0695,07/2020,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0695,04/2022,Home Visit,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0696,08/2023,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0697,10/2018,Home Visit,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0697,05/2024,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0698,07/2019,Cardio Assoc,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0699,01/2020,Home Visit,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0700,07/2022,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0700,02/2023,General Hosp,GP,"Patel, A.",Hypertension,Outpatient
+GME0701,07/2023,Home Visit,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0701,07/2022,General Hosp,GP,"Patel, A.",Hypertension,Outpatient
+GME0701,02/2023,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0702,07/2022,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0702,04/2023,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0703,09/2018,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0703,11/2020,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0703,02/2025,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0704,08/2019,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0704,07/2021,GP Office,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0705,12/2020,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0705,11/2023,Cardio Assoc,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0705,10/2022,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0705,06/2024,Home Visit,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0706,01/2021,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0706,02/2019,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0706,10/2021,Cardio Assoc,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0707,12/2022,General Hosp,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0708,02/2024,Home Visit,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0708,12/2022,GP Office,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0708,04/2023,General Hosp,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0709,09/2024,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0709,12/2023,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0710,04/2022,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0710,01/2021,Cardio Assoc,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0711,03/2023,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0712,01/2023,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0712,01/2020,General Hosp,GP,"Johnson, H.",Hypertension,Outpatient
+GME0712,09/2021,General Hosp,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0713,03/2022,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0713,08/2021,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0714,10/2022,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0714,01/2025,General Hosp,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0714,08/2020,General Hosp,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0714,12/2018,GP Office,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0715,03/2023,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0716,04/2023,GP Office,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0717,02/2019,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0717,12/2021,General Hosp,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0717,04/2025,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0718,02/2019,General Hosp,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0718,08/2020,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0718,01/2023,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0718,01/2019,General Hosp,GP,"Cohen, R.",Hypertension,Outpatient
+GME0719,06/2022,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0719,12/2018,General Hosp,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0719,10/2020,Cardio Assoc,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0720,05/2021,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0720,02/2023,Cardio Assoc,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0720,03/2025,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0720,06/2021,Cardio Assoc,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0721,02/2020,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0721,10/2024,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0722,07/2019,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0722,03/2024,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0722,01/2022,General Hosp,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0723,12/2023,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0723,10/2018,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0723,04/2020,General Hosp,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0724,04/2022,GP Office,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0724,12/2024,General Hosp,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0724,10/2023,General Hosp,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0725,07/2024,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0725,02/2025,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0725,09/2019,General Hosp,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0726,09/2024,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0727,12/2019,GP Office,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0727,10/2021,Cardio Assoc,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0727,04/2024,Home Visit,GP,"Fournier, J.",Hypertension,Outpatient
+GME0728,10/2023,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0728,03/2025,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0728,10/2023,Home Visit,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0728,07/2024,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0729,11/2020,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0730,04/2022,GP Office,GP,"Cohen, R.",Hypertension,Outpatient
+GME0730,02/2021,Cardio Assoc,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0730,04/2024,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0730,07/2019,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0731,12/2022,Home Visit,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0732,03/2021,Home Visit,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0733,10/2018,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0733,03/2022,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0734,10/2020,Home Visit,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0734,09/2019,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0735,11/2018,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0735,07/2021,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0736,11/2022,Cardio Assoc,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0736,12/2020,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0736,06/2024,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0736,11/2022,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0737,02/2024,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0738,08/2024,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0738,10/2021,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0738,02/2019,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0739,09/2019,Cardio Assoc,GP,"Patel, A.",Hypertension,Outpatient
+GME0740,06/2020,Cardio Assoc,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0740,02/2025,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0740,12/2024,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0740,04/2024,Cardio Assoc,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0741,04/2023,Cardio Assoc,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0742,06/2022,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0743,06/2020,Cardio Assoc,GP,"Fournier, J.",Diabetes,Outpatient
+GME0743,01/2025,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0744,05/2022,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0745,02/2022,Home Visit,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0745,11/2021,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0745,02/2019,Cardio Assoc,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0746,01/2024,General Hosp,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0746,10/2024,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0746,11/2024,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0747,11/2020,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0748,11/2022,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0749,12/2023,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0749,02/2019,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0749,11/2021,Cardio Assoc,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0750,06/2023,Cardio Assoc,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0750,03/2024,GP Office,GP,"Diaz, E.",Diabetes,Outpatient
+GME0751,05/2022,Cardio Assoc,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0751,12/2021,Cardio Assoc,GP,"Smith, K.",Cellulitis,Outpatient
+GME0751,06/2023,Home Visit,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0751,10/2018,GP Office,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0752,07/2020,GP Office,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0752,04/2025,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0752,11/2020,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0752,07/2023,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0753,08/2020,GP Office,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0753,07/2018,Home Visit,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0754,04/2021,Home Visit,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0755,02/2021,Home Visit,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0755,04/2025,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0756,08/2024,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0756,08/2022,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0756,07/2024,Cardio Assoc,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0756,12/2018,GP Office,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0757,06/2020,General Hosp,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0757,08/2022,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0758,06/2020,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0759,12/2019,Home Visit,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0759,04/2022,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0760,01/2019,GP Office,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0760,02/2025,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0761,08/2021,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0762,01/2023,Home Visit,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0763,06/2019,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0764,02/2019,General Hosp,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0764,11/2022,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0765,07/2018,Cardio Assoc,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0765,09/2024,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0765,07/2022,Cardio Assoc,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0765,10/2020,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0766,07/2018,Cardio Assoc,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0767,02/2020,General Hosp,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0767,12/2022,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0767,07/2024,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0768,09/2018,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0769,03/2024,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0769,03/2020,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0769,12/2022,Home Visit,GP,"Fournier, J.",Hypertension,Outpatient
+GME0770,11/2023,General Hosp,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0770,08/2020,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0770,09/2021,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0770,03/2023,Home Visit,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0771,08/2020,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0771,05/2020,Cardio Assoc,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0771,08/2020,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0771,12/2022,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0772,12/2019,General Hosp,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0772,04/2024,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0773,02/2024,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0774,11/2021,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0775,09/2020,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0776,12/2022,General Hosp,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0776,04/2019,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0776,09/2019,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0777,08/2019,GP Office,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0778,05/2020,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0778,04/2025,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0778,08/2019,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0778,10/2019,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0779,06/2025,General Hosp,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0779,07/2022,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0779,03/2025,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0780,04/2023,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0780,01/2022,Cardio Assoc,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0780,07/2019,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0780,08/2021,Home Visit,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0781,03/2020,Home Visit,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0781,08/2024,Home Visit,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0782,08/2024,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0782,01/2019,Cardio Assoc,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0782,11/2023,Home Visit,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0782,04/2019,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0783,07/2018,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0783,05/2023,GP Office,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0784,05/2023,General Hosp,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0784,10/2020,Home Visit,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0785,05/2023,Cardio Assoc,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0785,10/2022,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0785,11/2018,Home Visit,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0786,07/2023,GP Office,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0786,07/2022,Cardio Assoc,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0786,11/2023,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0787,08/2021,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0787,08/2018,GP Office,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0787,11/2023,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0788,12/2020,General Hosp,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0788,01/2020,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0788,07/2024,General Hosp,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0789,01/2020,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0790,01/2023,Home Visit,GP,"Patel, A.",Diabetes,Outpatient
+GME0790,12/2021,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0790,05/2020,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0790,02/2024,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0791,12/2024,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0791,08/2024,Cardio Assoc,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0791,12/2018,Home Visit,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0792,08/2021,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0792,08/2021,General Hosp,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0793,06/2018,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0794,10/2023,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0795,10/2018,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0795,09/2020,General Hosp,GP,"Patel, A.",Hypertension,Outpatient
+GME0796,09/2021,Home Visit,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0796,09/2024,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0797,03/2025,GP Office,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0798,06/2023,General Hosp,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0798,08/2023,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0798,01/2024,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0799,01/2019,Home Visit,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0799,03/2019,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0800,09/2018,General Hosp,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0800,01/2022,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0800,07/2024,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0800,01/2021,Cardio Assoc,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0801,04/2019,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0801,08/2023,Cardio Assoc,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0801,10/2018,Home Visit,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0802,07/2021,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0802,06/2020,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0802,04/2023,General Hosp,GP,"Smith, K.",Cellulitis,Outpatient
+GME0803,11/2023,GP Office,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0804,01/2023,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0804,09/2023,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0804,08/2023,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0804,11/2020,Cardio Assoc,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0805,08/2022,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0805,08/2024,Cardio Assoc,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0806,11/2024,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0806,08/2022,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0807,10/2019,Home Visit,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0807,11/2024,Cardio Assoc,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0808,01/2023,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0808,06/2025,General Hosp,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0808,11/2020,Home Visit,Cardiology,"Cohen, R.",Diabetes,Outpatient
+GME0808,10/2023,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0809,08/2018,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0809,11/2024,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0810,07/2019,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0810,10/2024,Cardio Assoc,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0810,01/2025,General Hosp,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0810,11/2021,Cardio Assoc,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0811,01/2023,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0812,07/2022,GP Office,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0812,09/2018,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0813,03/2025,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0814,04/2024,GP Office,GP,"Patel, A.",Hypertension,Outpatient
+GME0814,05/2021,General Hosp,GP,"Smith, K.",Hypertension,Outpatient
+GME0814,10/2018,Home Visit,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0814,06/2019,Home Visit,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0815,08/2024,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0815,07/2020,Cardio Assoc,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0816,09/2020,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0816,11/2021,Cardio Assoc,GP,"Smith, K.",Hypertension,Outpatient
+GME0817,02/2020,GP Office,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0817,09/2021,Cardio Assoc,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0817,04/2023,GP Office,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0818,02/2022,General Hosp,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0818,10/2022,General Hosp,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0818,09/2020,GP Office,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0818,02/2020,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0819,03/2024,Home Visit,Dietician,"Johnson, H.",Diabetes,Outpatient
+GME0819,11/2020,Cardio Assoc,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0819,02/2019,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0820,05/2021,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0820,07/2018,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0820,10/2018,Home Visit,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0821,08/2023,GP Office,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0822,03/2024,GP Office,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0823,02/2024,Home Visit,GP,"Patel, A.",Diabetes teaching,Outpatient
+GME0823,06/2023,General Hosp,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0823,07/2018,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0823,07/2019,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0824,01/2022,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0824,02/2019,Home Visit,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0824,05/2019,Home Visit,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0825,10/2018,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0825,09/2019,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0826,05/2019,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0826,07/2020,Home Visit,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0827,04/2023,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0827,11/2024,GP Office,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0828,09/2022,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0828,09/2018,Cardio Assoc,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0828,06/2023,Cardio Assoc,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0829,01/2025,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0829,12/2018,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0829,07/2024,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0830,08/2021,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0830,05/2023,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0830,05/2021,GP Office,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0830,09/2020,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0831,09/2021,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0832,08/2018,Home Visit,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0832,10/2023,Cardio Assoc,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0832,12/2024,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0833,08/2020,Home Visit,GP,"Smith, K.",Hypertension,Outpatient
+GME0834,09/2022,General Hosp,GP,"Fournier, J.",Diabetes,Outpatient
+GME0834,07/2024,General Hosp,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0835,04/2022,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0835,10/2022,General Hosp,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0835,07/2024,Home Visit,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0835,11/2019,Cardio Assoc,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0836,11/2018,Home Visit,GP,"Patel, A.",Cellulitis,Outpatient
+GME0837,03/2021,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0837,01/2021,Cardio Assoc,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0838,12/2018,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0839,08/2024,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0840,07/2020,General Hosp,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0840,01/2019,Home Visit,GP,"Fournier, J.",Diabetes,Outpatient
+GME0840,08/2021,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0840,02/2021,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0841,02/2021,General Hosp,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0842,09/2023,Cardio Assoc,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0843,10/2022,Cardio Assoc,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0844,02/2025,Home Visit,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0845,08/2022,Home Visit,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0846,07/2023,GP Office,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0846,10/2020,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0846,02/2019,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0847,05/2019,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0847,08/2019,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0848,05/2023,Cardio Assoc,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0848,01/2021,GP Office,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0848,07/2022,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0848,12/2020,Home Visit,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0849,01/2020,GP Office,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0849,01/2021,Home Visit,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0850,06/2021,General Hosp,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0850,08/2020,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0850,04/2024,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0851,03/2021,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0851,12/2018,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0851,08/2021,Home Visit,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0851,09/2020,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0852,11/2024,Home Visit,Cardiology,"Fournier, J.",Diabetes,Outpatient
+GME0852,09/2024,GP Office,GP,"Patel, A.",Cellulitis,Outpatient
+GME0852,01/2022,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0853,05/2020,General Hosp,Dietician,"Cohen, R.",Diabetes teaching,Outpatient
+GME0853,09/2021,Cardio Assoc,Cardiology,"Cohen, R.",Cellulitis,Outpatient
+GME0854,02/2019,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0854,10/2024,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0854,03/2022,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0854,02/2019,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0855,07/2023,Cardio Assoc,GP,"Diaz, E.",Diabetes,Outpatient
+GME0855,12/2020,General Hosp,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0855,11/2023,General Hosp,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0855,07/2024,GP Office,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0856,02/2024,GP Office,Cardiology,"Smith, K.",Cellulitis,Outpatient
+GME0857,04/2024,Home Visit,Cardiology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0857,03/2022,Home Visit,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0857,10/2019,GP Office,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0857,08/2023,Cardio Assoc,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0858,11/2019,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0858,11/2020,GP Office,Dietician,"Johnson, H.",Diabetes teaching,Outpatient
+GME0859,04/2019,General Hosp,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0859,10/2023,General Hosp,GP,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0860,11/2022,General Hosp,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0860,08/2019,Cardio Assoc,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0860,04/2019,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0860,02/2025,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0861,11/2020,Home Visit,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0861,09/2022,GP Office,GP,"Johnson, H.",Diabetes,Outpatient
+GME0862,02/2019,GP Office,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0862,11/2019,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0863,05/2024,GP Office,Cardiology,"Fournier, J.",Hypertension,Outpatient
+GME0863,06/2020,General Hosp,GP,"Fournier, J.",Hypertension,Outpatient
+GME0863,06/2021,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0863,08/2023,Home Visit,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0864,08/2024,Cardio Assoc,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0865,03/2020,General Hosp,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0865,06/2021,GP Office,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0865,04/2024,GP Office,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0865,04/2024,Home Visit,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0866,12/2020,General Hosp,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0866,03/2020,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0866,08/2023,Cardio Assoc,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0867,09/2022,Cardio Assoc,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0867,08/2020,Cardio Assoc,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0867,04/2020,General Hosp,GP,"Johnson, H.",Hypertension,Outpatient
+GME0867,05/2024,GP Office,GP,"Patel, A.",Diabetes,Outpatient
+GME0868,09/2023,Home Visit,GP,"Fournier, J.",Hypertension,Outpatient
+GME0868,09/2022,Cardio Assoc,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0868,04/2021,GP Office,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0868,09/2021,GP Office,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0869,07/2019,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0869,11/2018,Cardio Assoc,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0870,10/2023,Cardio Assoc,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0870,05/2025,Cardio Assoc,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0870,10/2024,GP Office,Cardiology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0870,03/2019,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0871,01/2025,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0871,09/2024,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0871,03/2021,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0872,09/2018,GP Office,Dietician,"Cohen, R.",Hypertension,Outpatient
+GME0872,05/2023,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0872,12/2018,GP Office,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0872,10/2024,Home Visit,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0873,09/2020,GP Office,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0873,10/2024,General Hosp,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0874,11/2024,Home Visit,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0874,08/2024,General Hosp,GP,"Cohen, R.",Diabetes teaching,Outpatient
+GME0875,12/2018,Cardio Assoc,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0876,06/2023,Home Visit,GP,"Smith, K.",Diabetes,Outpatient
+GME0876,07/2022,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0876,08/2024,Home Visit,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0877,09/2022,General Hosp,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0877,05/2022,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0877,07/2018,Home Visit,Dietician,"Johnson, H.",Hypertension,Outpatient
+GME0877,02/2022,GP Office,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0878,05/2020,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0878,07/2023,Home Visit,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0879,07/2019,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0880,04/2022,Home Visit,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0881,04/2019,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0881,08/2024,Home Visit,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0881,08/2024,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0882,07/2018,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0882,09/2020,GP Office,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0882,05/2023,GP Office,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0882,08/2018,Cardio Assoc,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0883,07/2023,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0883,10/2019,GP Office,GP,"Diaz, E.",Cellulitis,Outpatient
+GME0883,12/2021,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0884,06/2019,GP Office,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0884,03/2025,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0884,07/2021,General Hosp,Dermatology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0885,04/2023,Cardio Assoc,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0885,10/2022,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0886,06/2022,Cardio Assoc,Cardiology,"Smith, K.",Hypertension,Outpatient
+GME0886,03/2022,Home Visit,GP,"Johnson, H.",Diabetes,Outpatient
+GME0886,04/2023,General Hosp,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0887,04/2021,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0887,02/2021,General Hosp,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0887,06/2020,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0888,01/2024,GP Office,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0888,10/2020,General Hosp,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0889,06/2025,Home Visit,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0889,11/2023,General Hosp,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0889,06/2025,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0890,10/2018,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0890,04/2022,Cardio Assoc,Dietician,"Smith, K.",Diabetes,Outpatient
+GME0890,06/2019,GP Office,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0890,01/2019,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0891,03/2021,General Hosp,GP,"Cohen, R.",Diabetes,Outpatient
+GME0891,02/2023,General Hosp,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0891,12/2022,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0892,09/2019,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0892,04/2022,Cardio Assoc,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0892,02/2024,General Hosp,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0893,01/2020,GP Office,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0893,08/2021,General Hosp,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0893,02/2020,Cardio Assoc,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0893,07/2024,Home Visit,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0894,05/2021,Home Visit,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0894,06/2022,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0894,02/2025,Cardio Assoc,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0894,03/2020,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0895,08/2018,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0896,03/2024,Home Visit,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0897,09/2023,GP Office,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0897,08/2023,GP Office,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0897,02/2021,Cardio Assoc,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0898,08/2022,GP Office,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0898,01/2024,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0898,06/2022,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0898,11/2018,Home Visit,Dermatology,"Patel, A.",Diabetes,Outpatient
+GME0899,04/2023,General Hosp,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0899,04/2024,GP Office,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0899,04/2023,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0899,10/2023,Cardio Assoc,GP,"Smith, K.",Cellulitis,Outpatient
+GME0900,03/2024,GP Office,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0900,08/2022,Cardio Assoc,GP,"Johnson, H.",Diabetes,Outpatient
+GME0900,10/2024,Home Visit,Dietician,"Diaz, E.",Cellulitis,Outpatient
+GME0901,12/2023,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0901,06/2025,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0902,11/2019,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0902,06/2020,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0902,09/2019,General Hosp,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0903,02/2020,Home Visit,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0903,06/2025,Cardio Assoc,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0903,12/2023,General Hosp,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0903,02/2022,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0904,01/2023,General Hosp,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0904,06/2024,Home Visit,GP,"Diaz, E.",Hypertension,Outpatient
+GME0904,07/2022,General Hosp,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0905,04/2019,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0905,01/2020,GP Office,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0905,01/2019,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0905,07/2021,General Hosp,GP,"Patel, A.",Cellulitis,Outpatient
+GME0906,01/2019,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0906,06/2020,Cardio Assoc,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0907,03/2020,GP Office,Dietician,"Cohen, R.",Diabetes,Outpatient
+GME0907,02/2025,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0908,02/2023,Home Visit,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0908,06/2020,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0909,05/2021,GP Office,GP,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0909,05/2023,General Hosp,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0909,09/2018,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0910,07/2020,General Hosp,Dermatology,"Smith, K.",Diabetes teaching,Outpatient
+GME0910,02/2023,General Hosp,GP,"Smith, K.",Diabetes,Outpatient
+GME0911,03/2024,Home Visit,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0911,08/2020,GP Office,GP,"Cohen, R.",Diabetes,Outpatient
+GME0911,01/2025,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0912,07/2018,Cardio Assoc,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0912,02/2020,Home Visit,GP,"Diaz, E.",Diabetes,Outpatient
+GME0912,10/2019,General Hosp,Dietician,"Patel, A.",Diabetes,Outpatient
+GME0912,04/2019,Cardio Assoc,Cardiology,"Diaz, E.",Hypertension,Outpatient
+GME0913,04/2019,General Hosp,Dermatology,"Johnson, H.",Hypertension,Outpatient
+GME0914,10/2022,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0914,05/2025,Cardio Assoc,Dermatology,"Johnson, H.",Diabetes,Outpatient
+GME0915,01/2021,GP Office,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0916,10/2019,GP Office,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0916,05/2023,Cardio Assoc,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0917,04/2023,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0917,08/2019,Cardio Assoc,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0917,04/2023,Home Visit,GP,"Smith, K.",Diabetes teaching,Outpatient
+GME0918,04/2019,Home Visit,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0918,09/2024,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0919,11/2019,Cardio Assoc,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0919,12/2024,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0919,11/2020,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0919,10/2018,GP Office,GP,"Smith, K.",Hypertension,Outpatient
+GME0920,08/2018,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0920,06/2019,Cardio Assoc,Cardiology,"Patel, A.",Hypertension,Outpatient
+GME0920,10/2021,GP Office,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0921,05/2025,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0921,05/2023,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0921,07/2018,Cardio Assoc,GP,"Patel, A.",Diabetes,Outpatient
+GME0921,10/2019,General Hosp,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0922,03/2021,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0922,01/2024,GP Office,Dermatology,"Smith, K.",Diabetes,Outpatient
+GME0923,08/2018,GP Office,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0924,09/2021,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0924,10/2022,Home Visit,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0925,08/2022,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0926,06/2022,General Hosp,Dietician,"Diaz, E.",Hypertension,Outpatient
+GME0926,11/2024,Home Visit,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0926,01/2020,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0927,03/2025,General Hosp,Dietician,"Smith, K.",Hypertension,Outpatient
+GME0927,01/2019,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0927,04/2023,Home Visit,Dermatology,"Fournier, J.",Diabetes,Outpatient
+GME0928,03/2020,Cardio Assoc,GP,"Smith, K.",Diabetes,Outpatient
+GME0928,03/2020,General Hosp,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0928,06/2018,GP Office,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0928,11/2023,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0929,11/2023,General Hosp,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0930,09/2019,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0930,03/2019,Cardio Assoc,GP,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0930,05/2020,Cardio Assoc,Dermatology,"Patel, A.",Cellulitis,Outpatient
+GME0931,09/2019,Cardio Assoc,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0931,04/2025,General Hosp,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0931,01/2021,General Hosp,Cardiology,"Smith, K.",Diabetes teaching,Outpatient
+GME0932,08/2023,GP Office,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0933,04/2023,General Hosp,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0933,01/2019,Cardio Assoc,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0934,05/2022,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0934,08/2018,Home Visit,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0935,10/2018,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0936,05/2022,Home Visit,GP,"Smith, K.",Cellulitis,Outpatient
+GME0937,11/2018,General Hosp,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0938,11/2021,General Hosp,Dietician,"Patel, A.",Diabetes teaching,Outpatient
+GME0938,11/2024,General Hosp,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0939,07/2018,Home Visit,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0939,03/2021,Home Visit,GP,"Diaz, E.",Diabetes,Outpatient
+GME0939,08/2021,Home Visit,Cardiology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0940,11/2022,Home Visit,Dermatology,"Johnson, H.",Cellulitis,Outpatient
+GME0940,01/2022,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0940,08/2023,GP Office,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0941,10/2023,Home Visit,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0941,02/2023,Cardio Assoc,Cardiology,"Diaz, E.",Diabetes,Outpatient
+GME0941,12/2019,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0942,05/2025,GP Office,GP,"Smith, K.",Diabetes,Outpatient
+GME0942,08/2023,General Hosp,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0942,07/2018,Cardio Assoc,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0942,10/2018,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0943,04/2021,Home Visit,Cardiology,"Cohen, R.",Hypertension,Outpatient
+GME0943,12/2022,General Hosp,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0944,07/2018,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0944,10/2023,General Hosp,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0945,03/2020,Cardio Assoc,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0945,12/2023,GP Office,GP,"Patel, A.",Hypertension,Outpatient
+GME0945,02/2024,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0946,02/2020,General Hosp,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0946,11/2020,General Hosp,Dietician,"Fournier, J.",Hypertension,Outpatient
+GME0946,08/2018,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0947,03/2025,Home Visit,Cardiology,"Cohen, R.",Diabetes teaching,Outpatient
+GME0947,11/2022,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0948,12/2024,GP Office,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0948,03/2023,Cardio Assoc,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0948,04/2019,Cardio Assoc,Dietician,"Patel, A.",Atopic dermatitis,Outpatient
+GME0949,03/2021,Home Visit,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0950,09/2019,Home Visit,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0950,10/2023,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0950,10/2019,GP Office,Dermatology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0951,03/2025,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0951,05/2020,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0951,07/2021,GP Office,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0952,07/2021,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0953,02/2021,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0954,08/2021,Cardio Assoc,Cardiology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0954,09/2021,General Hosp,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0955,02/2021,Home Visit,Dietician,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0955,11/2022,General Hosp,GP,"Patel, A.",Diabetes,Outpatient
+GME0956,07/2022,GP Office,Cardiology,"Patel, A.",Cellulitis,Outpatient
+GME0956,07/2023,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0957,11/2021,General Hosp,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0957,06/2019,Home Visit,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0958,06/2019,Cardio Assoc,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0959,07/2022,Home Visit,Dermatology,"Diaz, E.",Diabetes teaching,Outpatient
+GME0959,10/2021,Home Visit,Dietician,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0959,01/2020,Cardio Assoc,Dietician,"Fournier, J.",Diabetes teaching,Outpatient
+GME0960,04/2022,Home Visit,GP,"Johnson, H.",Hypertension,Outpatient
+GME0960,01/2019,GP Office,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0960,05/2025,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0961,12/2021,General Hosp,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0961,07/2023,Home Visit,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0961,02/2025,GP Office,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0962,03/2023,Cardio Assoc,Dermatology,"Patel, A.",Hypertension,Outpatient
+GME0963,02/2020,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0963,10/2023,GP Office,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0963,06/2022,Cardio Assoc,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0963,05/2021,General Hosp,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0964,06/2019,Cardio Assoc,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0964,02/2019,General Hosp,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0964,12/2021,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0965,05/2021,General Hosp,Dermatology,"Diaz, E.",Cellulitis,Outpatient
+GME0965,07/2018,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0966,10/2018,Cardio Assoc,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0966,07/2020,Home Visit,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0966,08/2022,GP Office,Dietician,"Patel, A.",Cellulitis,Outpatient
+GME0967,09/2018,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0968,07/2019,Home Visit,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0968,10/2019,GP Office,Cardiology,"Patel, A.",Diabetes,Outpatient
+GME0968,04/2019,Cardio Assoc,GP,"Smith, K.",Cellulitis,Outpatient
+GME0968,05/2019,General Hosp,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0969,11/2019,GP Office,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0969,06/2022,Home Visit,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0969,01/2019,General Hosp,GP,"Johnson, H.",Hypertension,Outpatient
+GME0969,01/2020,GP Office,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0970,09/2020,General Hosp,GP,"Cohen, R.",Cellulitis,Outpatient
+GME0970,04/2020,Home Visit,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0970,08/2023,Cardio Assoc,GP,"Smith, K.",Diabetes,Outpatient
+GME0971,11/2022,Cardio Assoc,GP,"Patel, A.",Atopic dermatitis,Outpatient
+GME0971,01/2020,Cardio Assoc,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0972,10/2022,GP Office,GP,"Fournier, J.",Diabetes,Outpatient
+GME0972,12/2019,GP Office,Dermatology,"Diaz, E.",Diabetes,Outpatient
+GME0973,02/2023,Home Visit,GP,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0973,11/2022,Cardio Assoc,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0974,09/2020,Home Visit,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0974,11/2021,GP Office,Dietician,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0974,05/2020,General Hosp,Dermatology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0974,09/2022,Home Visit,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0975,07/2023,Home Visit,Cardiology,"Johnson, H.",Diabetes,Outpatient
+GME0976,04/2019,GP Office,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0977,11/2018,General Hosp,Dietician,"Cohen, R.",Cellulitis,Outpatient
+GME0978,04/2020,General Hosp,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0978,06/2021,Home Visit,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0978,09/2023,Home Visit,GP,"Patel, A.",Cellulitis,Outpatient
+GME0979,01/2025,Home Visit,Cardiology,"Patel, A.",Diabetes teaching,Outpatient
+GME0979,04/2025,General Hosp,Cardiology,"Fournier, J.",Cellulitis,Outpatient
+GME0979,01/2025,Cardio Assoc,Dermatology,"Smith, K.",Cellulitis,Outpatient
+GME0980,01/2019,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0980,11/2023,General Hosp,GP,"Cohen, R.",Hypertension,Outpatient
+GME0980,11/2021,General Hosp,Dermatology,"Fournier, J.",Cellulitis,Outpatient
+GME0981,09/2024,Home Visit,GP,"Cohen, R.",Hypertension,Outpatient
+GME0981,06/2024,Cardio Assoc,Dermatology,"Johnson, H.",Atopic dermatitis,Outpatient
+GME0981,08/2024,General Hosp,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0981,05/2019,GP Office,Cardiology,"Smith, K.",Diabetes,Outpatient
+GME0982,12/2018,GP Office,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0982,12/2024,Home Visit,GP,"Diaz, E.",Diabetes teaching,Outpatient
+GME0982,06/2024,Cardio Assoc,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0982,11/2020,Home Visit,GP,"Fournier, J.",Cellulitis,Outpatient
+GME0983,07/2018,GP Office,Cardiology,"Diaz, E.",Cellulitis,Outpatient
+GME0983,03/2019,Home Visit,Dietician,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0983,01/2022,General Hosp,GP,"Johnson, H.",Cellulitis,Outpatient
+GME0983,11/2018,Cardio Assoc,GP,"Johnson, H.",Diabetes teaching,Outpatient
+GME0984,06/2022,General Hosp,Cardiology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0984,01/2021,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0985,08/2021,General Hosp,GP,"Smith, K.",Cellulitis,Outpatient
+GME0986,05/2024,GP Office,Dermatology,"Diaz, E.",Atopic dermatitis,Outpatient
+GME0987,03/2020,Home Visit,GP,"Fournier, J.",Diabetes,Outpatient
+GME0987,10/2023,GP Office,Dermatology,"Cohen, R.",Hypertension,Outpatient
+GME0987,05/2023,GP Office,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0987,08/2022,General Hosp,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0988,08/2020,Home Visit,Dermatology,"Cohen, R.",Diabetes,Outpatient
+GME0988,09/2022,General Hosp,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0988,11/2018,General Hosp,GP,"Diaz, E.",Hypertension,Outpatient
+GME0989,08/2020,GP Office,Dermatology,"Diaz, E.",Hypertension,Outpatient
+GME0990,12/2018,General Hosp,GP,"Patel, A.",Diabetes,Outpatient
+GME0990,12/2022,GP Office,Dietician,"Diaz, E.",Diabetes,Outpatient
+GME0990,08/2018,General Hosp,Dietician,"Smith, K.",Cellulitis,Outpatient
+GME0990,08/2019,Cardio Assoc,Cardiology,"Patel, A.",Atopic dermatitis,Outpatient
+GME0991,08/2023,GP Office,GP,"Diaz, E.",Diabetes,Outpatient
+GME0991,01/2024,Home Visit,Dietician,"Smith, K.",Atopic dermatitis,Outpatient
+GME0992,01/2025,General Hosp,Dermatology,"Patel, A.",Diabetes teaching,Outpatient
+GME0992,09/2019,Cardio Assoc,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0992,01/2025,Home Visit,Dietician,"Fournier, J.",Diabetes,Outpatient
+GME0992,12/2021,General Hosp,Cardiology,"Cohen, R.",Atopic dermatitis,Outpatient
+GME0993,03/2019,Cardio Assoc,GP,"Fournier, J.",Hypertension,Outpatient
+GME0993,01/2022,Home Visit,Dietician,"Diaz, E.",Diabetes teaching,Outpatient
+GME0993,08/2019,Cardio Assoc,Dermatology,"Fournier, J.",Hypertension,Outpatient
+GME0994,01/2021,GP Office,Cardiology,"Johnson, H.",Cellulitis,Outpatient
+GME0994,02/2023,Cardio Assoc,Dermatology,"Cohen, R.",Cellulitis,Outpatient
+GME0994,05/2025,Home Visit,Dermatology,"Smith, K.",Hypertension,Outpatient
+GME0995,10/2018,GP Office,Dietician,"Fournier, J.",Cellulitis,Outpatient
+GME0995,09/2020,GP Office,Dermatology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0995,08/2018,GP Office,Dietician,"Smith, K.",Diabetes teaching,Outpatient
+GME0995,03/2023,Home Visit,GP,"Fournier, J.",Diabetes teaching,Outpatient
+GME0996,03/2020,GP Office,Cardiology,"Fournier, J.",Atopic dermatitis,Outpatient
+GME0997,10/2024,Cardio Assoc,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0997,03/2019,General Hosp,Dermatology,"Fournier, J.",Diabetes teaching,Outpatient
+GME0997,10/2018,General Hosp,GP,"Smith, K.",Atopic dermatitis,Outpatient
+GME0997,12/2018,Home Visit,Cardiology,"Johnson, H.",Diabetes teaching,Outpatient
+GME0998,11/2024,Cardio Assoc,Dietician,"Johnson, H.",Cellulitis,Outpatient
+GME0998,01/2025,GP Office,GP,"Diaz, E.",Hypertension,Outpatient
+GME0998,12/2022,GP Office,Dietician,"Patel, A.",Hypertension,Outpatient
+GME0999,06/2022,Home Visit,Dermatology,"Smith, K.",Atopic dermatitis,Outpatient
+GME0999,09/2024,General Hosp,Cardiology,"Johnson, H.",Hypertension,Outpatient
+GME0999,03/2019,Cardio Assoc,Dietician,"Smith, K.",Cellulitis,Outpatient
