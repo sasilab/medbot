@@ -1,7 +1,8 @@
 .venv
 .env
 
-
+.github/
 
 # Python
 __pycache__/
+.pytest_cache/
