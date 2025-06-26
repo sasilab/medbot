@@ -24,15 +24,23 @@ from src.medbot.hospital_agents import (
 
 from langchain_core.messages import HumanMessage
 import getpass
+import sys
 
 def main():
     # Step 1: Load users and ask for login
     users = load_users(r"I:\Code Space\LLM Model Project\RAG\medbot\Data\user_credentials.csv")
     print("=== Hospital System Login ===")
     while True:
-        username = input("Username: ").strip()
-        password = getpass.getpass("Password: ").strip()
+        if len(sys.argv) >= 3:
+            username = sys.argv[1]
+            password = sys.argv[2]
+        else:
+            
+            username = input("Username: ").strip()
+            password = getpass.getpass("Password: ").strip()
+
         role = authenticate(users, username, password)
+
         if role:
             print(f"Login successful. Role: {role}")
             break

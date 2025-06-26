@@ -1,0 +1,6 @@
+Show me the diagnosis for patient GME0000
+List all patients with diabetes
+What medications were given to GME0807?
+Show encounter history of GME0002
+Which patients have allergy alerts?
+Give me prescriptions for GME0001
